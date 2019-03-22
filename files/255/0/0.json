@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 255,
+    "commands": [
+        {
+            "command": "NOW JOHN. RESPOND TO YOUR FRIEND UNIT. ",
+            "link": "/story/256"
+        }
+    ],
+    "media": [
+        {
+            "file": "00255.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You go back up to your bedroom, tiptoeing around this weird petroleum-based sludge.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1379,
+    "commands": [
+        {
+            "command": "Jade: Draw a pumpkin. ",
+            "link": "/story/1380"
+        }
+    ],
+    "media": [
+        {
+            "file": "01379_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01379_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Since you do not actually have a DUTTON PHOTO lying around, the pad captchalogues a DUTTON PHOTO GHOST IMAGE. It is not a tangible item, and can never be used ever. It seems to be more of an imprint on the card itself, like a watermark.\r<br/> <br/>However, the back of the card does seem to contain a viable CAPTCHA CODE for a real DUTTON PHOTO, for whatever it's worth.\r<br/> <br/>Which is very little.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

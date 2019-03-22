@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 157,
+    "commands": [
+        {
+            "command": "John: Get PDA. ",
+            "link": "/story/158"
+        }
+    ],
+    "media": [
+        {
+            "file": "00157.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">EB: why is the floor shaking?</p>\n<p style=\"color: #0715cd\">EB: are you dropping more stuff in my house?</p>\n<p style=\"color: #b536da\">TT: Yes. Two more large gizmos.</p>\n<p style=\"color: #0715cd\">EB: sweet!</p>\n<p style=\"color: #0715cd\">EB: what is with all these big contraptions?</p>\n<p style=\"color: #b536da\">TT: If I had to guess, they appear to facilitate a sort of system involving punch card-based alchemy.</p>\n<p style=\"color: #0715cd\">EB: huh.</p>\n<p style=\"color: #0715cd\">EB: to what end?</p>\n<p style=\"color: #0715cd\">EB: i mean what are we supposed to be doing in this game?</p>\n<p style=\"color: #b536da\">TT: That remains to be seen.</p>\n<p style=\"color: #b536da\">TT: Maybe you should go investigate?</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

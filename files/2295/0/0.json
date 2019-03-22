@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2295,
+    "commands": [
+        {
+            "command": "Karkat: Recruit Vriska. ",
+            "link": "/story/2296"
+        }
+    ],
+    "media": [
+        {
+            "file": "02295.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You consult your SHIPPING WALL. Clearly some changes are in order. You must admit you didn't see this one coming, even with your remarkable matchmaking acumen.\r<br/> <br/>You should probably recolor all the Aradia panels so she looks like a robot too. It is a major commitment keeping up with all your ships, but it is worth it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

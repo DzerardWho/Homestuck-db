@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 5926,
+    "commands": [
+        {
+            "command": "ACT 6 INTERMISSION 5 ",
+            "link": "/story/5927"
+        }
+    ],
+    "media": [
+        {
+            "file": "05923_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "05923_2.png",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

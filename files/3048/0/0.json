@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3048,
+    "commands": [
+        {
+            "command": "Jade: Answer fairy god troll. ",
+            "link": "/story/3049"
+        }
+    ],
+    "media": [
+        {
+            "file": "03046.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

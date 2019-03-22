@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2358,
+    "commands": [
+        {
+            "command": "Vriska: Take them. ",
+            "link": "/story/2359"
+        }
+    ],
+    "media": [
+        {
+            "file": "02358.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make your way down to one of your innumerable LOOT STRONGHOLDS where you stash riches and gold and jewels and prizes plundered during your campaigns.\r<br/> <br/>There they are. Your ROCKET BOOTS. You must confess you will find favor with just about any kind of footwear as long as it is bright red. You would wear these striking boots even if they were broken pieces of junk! \r<br/> <br/>But as it happens they work just fine and they are awesome.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 717,
+    "commands": [
+        {
+            "command": "WV: Type => REBOOT. ",
+            "link": "/story/718"
+        }
+    ],
+    "media": [
+        {
+            "file": "00717.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">All four screens activate. Together they display a countdown, starting at four hours and thirteen minutes.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

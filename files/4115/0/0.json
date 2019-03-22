@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4115,
+    "commands": [
+        {
+            "command": "Enter name. ",
+            "link": "/story/4116"
+        }
+    ],
+    "media": [
+        {
+            "file": "04112.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">A young lady stands in her bedroom. It just so happens that today, the 11th of November, 2011, is the date scheduled for the launch of a highly exclusive playtesting experience for a much anticipated game. The young lady is expecting to find this game in her mailbox today. She is expecting the game to be enclosed in a pair of envelopes, and printed on these envelopes, she is expecting to find her name!\r<br/> <br/>What do you suppose the name on the envelopes will be?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4936,
+    "commands": [
+        {
+            "command": "DD: Mount Dronegorg and ride into battle. ",
+            "link": "/story/4937"
+        }
+    ],
+    "media": [
+        {
+            "file": "04933.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">In response, the dame gave you clearance to employ the service of DRONEGORG, the flagship battlemech of the imperial fleet she keeps stationed on some other damn planet. You're not sure where it is or what it's called. Hell if that's any of your business.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 331,
+    "commands": [
+        {
+            "command": "Dave: Save your place, read it later. ",
+            "link": "/story/332"
+        }
+    ],
+    "media": [
+        {
+            "file": "00331.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "00331retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You don't remember where you last left off, so you jump way ahead. You always forget to save your place in the story.\r<br/> <br/>It looks like tempers have become short in this pressure cooker already. You speculate that the tipping point may have been an ill-advised motion for a game of 52 PICKUP.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

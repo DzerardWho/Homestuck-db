@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4916,
+    "commands": [
+        {
+            "command": "Jack: Close it up. ",
+            "link": "/story/4917"
+        }
+    ],
+    "media": [
+        {
+            "file": "04913.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You don't care what anyone says. You say this pumpkin was MADE for this fucker's melon. Fits like a damn glove.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5099,
+    "commands": [
+        {
+            "command": "Calliope: Examine artwork. ",
+            "link": "/story/5100"
+        }
+    ],
+    "media": [
+        {
+            "file": "05096.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You remove the last accessory to your prized COSPLAY ENSEMBLE, and put it neatly with the rest of the stuff. The place is messy enough already without tossing horns about carelessly.\r<br/> <br/>You have many fond memories of solo-cosplay in your room. It's a lot of fun and alarmingly comfortable to just lounge around your room in-character. You really hope you'll get the chance to put it on again after your nap... \r<br/> <br/>Well, maybe not the face paint. You don't wear that so much anymore. He gets especially furious when you do.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

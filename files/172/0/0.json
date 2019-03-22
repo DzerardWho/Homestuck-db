@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 172,
+    "commands": [
+        {
+            "command": "TT: Put bathtub in driveway. ",
+            "link": "/story/173"
+        }
+    ],
+    "media": [
+        {
+            "file": "00172.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">When you turn the wheel, something seems to be pushing up from underneath the lid.\r<br/> <br/>But you aren't strong enough to make the lid come off!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

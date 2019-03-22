@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2437,
+    "commands": [
+        {
+            "command": "Eridan: Examine block. ",
+            "link": "/story/2438"
+        }
+    ],
+    "media": [
+        {
+            "file": "02436.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">That should keep her happy for a while.\r<br/> <br/>And make a freshly orphaned troll somewhere pretty sad.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

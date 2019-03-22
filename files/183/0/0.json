@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 183,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/184"
+        }
+    ],
+    "media": [
+        {
+            "file": "00183_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00183_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You take TWO (2) FANCIFUL HARLEQUINS.\r<br/> <br/>The additional useless freight pushes your PDA to the last card. You then switch to the QUEUE MODUS so you can access the PDA.\r<br/> <br/>More glass shrapnel flies from the deck.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

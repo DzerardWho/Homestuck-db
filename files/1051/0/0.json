@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1051,
+    "commands": [
+        {
+            "command": "John: Alchemize in a 1980's time-lapse montage. ",
+            "link": "/story/1052"
+        }
+    ],
+    "media": [
+        {
+            "file": "01051.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your MOON is getting very close to SKAIA. You had better go inside soon. It is never a very good idea to be outside during the ECLIPSE.\r<br/> <br/>Maybe you can take the opportunity to log onto your computer and ask John about his present. You just know he will think it is awesome, and it will be a great way to thank him for the wonderful present he got you!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 576,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/577"
+        }
+    ],
+    "media": [
+        {
+            "file": "00576.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You grab the <span style=\"color: blue\">SH</span><span style=\"color: red\">U</span><span style=\"color: blue\">R</span><span style=\"color: red\">I</span><span style=\"color: blue\">K</span><span style=\"color: red\">E</span><span style=\"color: blue\">NS</span> (5) and...\r<br/> <br/>Hey! Careful where you're putting stuff, especially if you're looking to turn your sylladex into a powder-keg full of sharp things.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

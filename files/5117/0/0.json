@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5117,
+    "commands": [
+        {
+            "command": "Calliope: Examine other chain. ",
+            "link": "/story/5118"
+        }
+    ],
+    "media": [
+        {
+            "file": "05114.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You neatly put the weapon where it belongs. No need to wear it, since you'll be preparing for your nap soon.\r<br/> <br/>You kind of wish straightening up your room didn't feel so much like getting your affairs in order.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

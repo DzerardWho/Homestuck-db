@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 807,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/808"
+        }
+    ],
+    "media": [
+        {
+            "file": "00807.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Before you go out to feed BEC, you will need to prepare a meal for him.\r<br/> <br/>You clear some space on your work table so you can set up your REFRIGERATOR and COOKALIZER. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

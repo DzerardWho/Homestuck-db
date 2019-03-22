@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2150,
+    "commands": [
+        {
+            "command": "Sollux: Wake up. ",
+            "link": "/story/2151"
+        }
+    ],
+    "media": [
+        {
+            "file": "02150.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">When you would finally wake up, you'd discover all of your teammates had connected to each other and entered the Medium. You would be the last to enter. Your long nap would facilitate a series of important dreams that would prove essential in support of your teammates. \r<br/> <br/>But here and now, the destruction of your hive would be imminent unless you could quickly establish a connection to the first player of the group and complete the chain.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

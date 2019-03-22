@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5085,
+    "commands": [
+        {
+            "command": "Roxy: Return home. ",
+            "link": "/story/5086"
+        }
+    ],
+    "media": [
+        {
+            "file": "05082.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You press onward, feeling refreshed and invigorated by all the free will you were just dealt. The story was your oyster for a while there. Or more specifically, it was one of four slightly different oysters you could choose from, in any order, as long as you ultimately selected and consumed all four oysters when all was said and done. This must be what it feels like to be a god, you think to yourself. Or at the very least, the patron of a seafood restaurant.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

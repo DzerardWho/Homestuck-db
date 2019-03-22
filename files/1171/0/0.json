@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1171,
+    "commands": [
+        {
+            "command": "[I] SS: Examine heist map. ",
+            "link": "/story/1172"
+        }
+    ],
+    "media": [
+        {
+            "file": "01171.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's right here.\r<br/> <br/>But you aren't gonna kill <span style=\"color: #2ed73a\">SN</span>O<span style=\"color: #2ed73a\">WMAN</span> (8). \r<br/> <br/>It's out of the question.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

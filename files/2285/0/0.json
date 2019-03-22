@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2285,
+    "commands": [
+        {
+            "command": "Aradiasprite: Enter soulbot. ",
+            "link": "/story/2286"
+        }
+    ],
+    "media": [
+        {
+            "file": "02285.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #a10000\">ARADIASPRITE: it l00ks nice</p>\n<p style=\"color: #000056\">EQUIUS: D --&gt; Yes</p>\n<p style=\"color: #000056\">EQUIUS: D --&gt; It is perfect in every way</p>\n<p style=\"color: #a10000\">ARADIASPRITE: ribbit</p>\n<p style=\"color: #000056\">EQUIUS: D --&gt; Do you</p>\n<p style=\"color: #000056\">EQUIUS: D --&gt; Have a clean towel anywhere</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 367,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/368"
+        }
+    ],
+    "media": [
+        {
+            "file": "00367.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Using the colorful MAGNET LETTERS, you recently left a succinct message, which may or may not have been directed toward anyone in particular. But you couldn't find the letter W, so you just stuck two V's together.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

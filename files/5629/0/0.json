@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5629,
+    "commands": [
+        {
+            "command": "Roxy: Examine door. ",
+            "link": "/story/5630"
+        }
+    ],
+    "media": [
+        {
+            "file": "05626.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The thing she wants you to do is stupid and impossible. She must be messing with your head.\r<br/> <br/>You discard the folder like the shitty juvenile scrapbooking project it is. Like you would help that hag even if you could. Get real, Condy.\r<br/> <br/>What was that? You think you heard a noise just outside the door to your cell.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

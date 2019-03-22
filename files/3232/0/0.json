@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3232,
+    "commands": [
+        {
+            "command": "AH: Go check out Cal. ",
+            "link": "/story/3233"
+        }
+    ],
+    "media": [
+        {
+            "file": "03229.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ms. Paint, you are doing a wonderful job. Thank you.\r<br/> <br/>It was also very thoughtful of you to switch the layer mode of your coat of paint to the overlay setting, so it would not obscure the details of Mr. Carnegie's lavish room.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

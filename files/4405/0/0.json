@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4405,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4406"
+        }
+    ],
+    "media": [
+        {
+            "file": "04402.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's not easy feeding a sleeping boy some peanuts, he says. He says he had to work extra hard to put them in his mouth and then use his hands to make his mouth chew up the nuts.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

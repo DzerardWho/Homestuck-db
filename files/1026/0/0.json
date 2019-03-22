@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1026,
+    "commands": [
+        {
+            "command": "Jade: Change wardrobifier to cycle thru STAR HEART HORSESHOE ",
+            "link": "/story/1027"
+        }
+    ],
+    "media": [
+        {
+            "file": "01026.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

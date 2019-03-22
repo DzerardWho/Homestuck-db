@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2200,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2201"
+        }
+    ],
+    "media": [
+        {
+            "file": "02200.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Time to get this show on the road. There are SO MANY people to meddle with tonight. \r<br/> <br/>After you ditch an unwelcome solicitor first, that is. Doesn't she realize how rude it is to meddle??\r<br/> <br/>You'll fuss with her meddling later.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3405,
+    "commands": [
+        {
+            "command": "John: Clean up this mess. ",
+            "link": "/story/3406"
+        }
+    ],
+    "media": [
+        {
+            "file": "03402.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Hooray, a computer! You have been dying for a way to talk to your friends again.\r<br/> <br/>He bought this laptop at the DADLY DEPOT, an incredibly boring store established to furnish dignified gentlemen everywhere with dull fatherly goods. It was always so boring when he dragged you there. You have no idea who this douche bag is. \"Who's this douche bag?\" is what you ask every time you see his smug face. Maybe you're being unfair to the man, though.\r<br/> <br/>Some guy named Crosby, you guess? Who cares. He's so boring.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

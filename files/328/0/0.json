@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 328,
+    "commands": [
+        {
+            "command": "Use Occam's Razor on plans and schemes. ",
+            "link": "/story/329"
+        }
+    ],
+    "media": [
+        {
+            "file": "00328.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">\"You are members of a sinister gang called the Midnight Crew. Your nefarious plots are serpentine in complexity. Your schemes, convoluted. You are planning a heist in your underground hideout.\r<br/> <br/>What will you do?\"</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 54,
+    "commands": [
+        {
+            "command": "John: Examine oversized gift. ",
+            "link": "/story/55"
+        }
+    ],
+    "media": [
+        {
+            "file": "00054.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You think now would be a good time to beef up your CLEVER DISGUISE.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

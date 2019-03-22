@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 967,
+    "commands": [
+        {
+            "command": "John: Read instructions for control deck. ",
+            "link": "/story/968"
+        }
+    ],
+    "media": [
+        {
+            "file": "00967.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The ARRAY MODUS allows you to store and retrieve any item from any card at any time. It seems exceptionally serviceable, albeit difficult to weaponize.\r<br/> <br/>BOOOOOOOORING.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

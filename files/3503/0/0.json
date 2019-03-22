@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3503,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3504"
+        }
+    ],
+    "media": [
+        {
+            "file": "03500.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The man and the woman are at ease. They have everything because they have each other. They know that together they can make it through anything, whether trouble brings a bit of spilled wine on a chic lab coat, or reduces the very castle beneath their feet to ruins.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

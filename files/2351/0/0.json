@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2351,
+    "commands": [
+        {
+            "command": "Tavros: Summon Rufio. ",
+            "link": "/story/2352"
+        }
+    ],
+    "media": [
+        {
+            "file": "02351.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #005682\">AG: Apologize, Pupa!</p>\n<p style=\"color: #005682\">AG: Apologiiiiiiiize!!!!!!!!</p>\n<p style=\"color: #005682\">AG: Say you're sorry for being a cripple! Wheeeeeeee!</p>\n<p style=\"color: #005682\">AG: Aaaaaaaahahahahahahahaha!</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

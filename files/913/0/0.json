@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 913,
+    "commands": [
+        {
+            "command": "Jade: Examine those chaps on the sofa. ",
+            "link": "/story/914"
+        }
+    ],
+    "media": [
+        {
+            "file": "00913.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">GRANDPA will surely have stern words for you if he catches you without your trusty RIFLE at the ready. That's just what you need, another one of his blustering mustachioed diatribes. You are rolling your eyes in advance, getting them warmed up.\r<br/> <br/>But ideally you can evade him altogether. All you have to do is get past the FIREPLACE and out the front door, and you will be scot-free.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

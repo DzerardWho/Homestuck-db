@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1877,
+    "commands": [
+        {
+            "command": "John: Zoom in. ",
+            "link": "/story/1878"
+        }
+    ],
+    "media": [
+        {
+            "file": "01877.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You switch to a view of an unseasonably warm city in the central United States, on December 4th, 1995. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

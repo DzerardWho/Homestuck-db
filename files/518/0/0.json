@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 518,
+    "commands": [
+        {
+            "command": "i shall take my leave now john. until next time ",
+            "link": "/story/519"
+        }
+    ],
+    "media": [
+        {
+            "file": "00518.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

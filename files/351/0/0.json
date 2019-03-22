@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 351,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/352"
+        }
+    ],
+    "media": [
+        {
+            "file": "00351.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The crisis is easily averted. You can't imagine it will ever resurface later in any way, shape, or form. That beta is as good as yours, forever.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

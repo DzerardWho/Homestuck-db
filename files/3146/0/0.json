@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 3146,
+    "commands": [
+        {
+            "command": "Jade: Combine earmuffs and lunchtop. ",
+            "link": "/story/3147"
+        }
+    ],
+    "media": [
+        {
+            "file": "03143_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03143_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03143_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You simply draw a pair of earmuffs, and make them. Yay!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

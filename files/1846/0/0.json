@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 1846,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1847"
+        }
+    ],
+    "media": [
+        {
+            "file": "01846_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01846_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01846_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Looks like it automatically prints out a SBaHJ comic in some way related to whatever you take a picture of.\r<br/> <br/>This should save you a lot of time. Specifically the five minutes it takes you to draw a comic. You're a busy guy.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

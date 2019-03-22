@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1705,
+    "commands": [
+        {
+            "command": "John: Look at a book. ",
+            "link": "/story/1706"
+        }
+    ],
+    "media": [
+        {
+            "file": "01705.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You eye your birthday package again curiously. It's awfully tempting to peek inside, but you feel guilty about it for some reason, even though it's yours anyway.\r<br/> <br/>You suppose a perusal of her bookshelf would be harmless enough. Just a bunch of books. The knowledge within is meant for everybody.\r<br/> <br/>Dave pesters you with the message, \"<span style=\"color: red\">TG: afdsjjjjjjjjvfffffffffffffffffffffffffffffffff</span>\" which you decide not to bother dignifying with a whole pesterlog ordeal because it's probably just him being a truculent jackass again so screw him.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

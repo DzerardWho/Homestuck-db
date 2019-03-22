@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4538,
+    "commands": [
+        {
+            "command": "Dirk: Examine sleazy Dersite rag. ",
+            "link": "/story/4539"
+        }
+    ],
+    "media": [
+        {
+            "file": "04535_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04535_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Among the many ways you tend to multitask is by maintaining an ever-alert dream self. There's a lot to keep an eye on when it comes to the cloak and dagger politics of Derse, especially these days. Can't let your guard down for a second.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 102,
+    "commands": [
+        {
+            "command": "John: Combine the cakes to make a double decker cake. ",
+            "link": "/story/103"
+        }
+    ],
+    "media": [
+        {
+            "file": "00102.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You captchalogue the CAKE on the couch, expelling the PIE TIN from the bottom card.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

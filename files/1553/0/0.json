@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1553,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1554"
+        }
+    ],
+    "media": [
+        {
+            "file": "01553.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">But perhaps an UNDERSTANDING can be reached.\r<br/> <br/>He gives you a HIT LIST.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

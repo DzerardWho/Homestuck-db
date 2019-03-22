@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1407,
+    "commands": [
+        {
+            "command": "AR: Cautiously drink TAB. ",
+            "link": "/story/1408"
+        }
+    ],
+    "media": [
+        {
+            "file": "01407.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

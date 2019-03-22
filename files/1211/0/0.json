@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 1211,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1212"
+        }
+    ],
+    "media": [
+        {
+            "file": "01211_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01211_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01211_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><span style=\"color: #2ed73a\">Itchy</span> always cheats. But he's always cheated for the last time.\r<br/> <br/>You're gonna jump to a timeline where he's dead.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

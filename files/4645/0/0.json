@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4645,
+    "commands": [
+        {
+            "command": "Dirk: Answer. ",
+            "link": "/story/4646"
+        }
+    ],
+    "media": [
+        {
+            "file": "04642.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">She doesn't respond. Must be busy with something. Probably just goofing off and drinking up a storm as usual.\r<br/> <br/>Looks like it'll have to wait anyway. Someone's messaging you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

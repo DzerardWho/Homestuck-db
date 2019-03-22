@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4122,
+    "commands": [
+        {
+            "command": "Jane: Examine fetch modus. ",
+            "link": "/story/4123"
+        }
+    ],
+    "media": [
+        {
+            "file": "04119.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are suddenly Jane again. What was it you were up to? Oh right, this game. You're excited about that!\r<br/> <br/>Earlier this morning you thought you heard the mail truck, even though the mail never comes in the morning. But just to be sure, you rushed downstairs to check, even though due to recent events, you are FORBIDDEN FROM LEAVING THE HOUSE. Alas, it was not there, and you sort of spaced out at the sky with a goofy grin on your face for no great reason, and then you were caught red handed by your guardian. Then you got in trouble.\r<br/> <br/>You think you might be grounded now? Whatever, <span style=\"font-style: italic\">DAD!</span></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

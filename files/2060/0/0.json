@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2060,
+    "commands": [
+        {
+            "command": "Karkat: Deal with Terezi. ",
+            "link": "/story/2061"
+        }
+    ],
+    "media": [
+        {
+            "file": "02060.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You quickly crafted a new weapon, HOMES SMELL YA LATER. Plus some other cool stuff.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

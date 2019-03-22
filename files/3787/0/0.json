@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3787,
+    "commands": [
+        {
+            "command": "[o] Moving on. ",
+            "link": "/story/3788"
+        }
+    ],
+    "media": [
+        {
+            "file": "03784.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">I told her about stares.\r<br/> <br/>[<span style=\"color: #0e4603\">8^y</span>]</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

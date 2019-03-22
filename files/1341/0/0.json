@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1341,
+    "commands": [
+        {
+            "command": "[I] SS: Get on with it. ",
+            "link": "/story/1342"
+        }
+    ],
+    "media": [
+        {
+            "file": "01341.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This was never a problem because there is clearly a barcode printed on your RULES CARD FOR BLACKJACK.\r<br/> <br/>As well as your arm. But there's nothing wrong with a little redundancy you guess.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

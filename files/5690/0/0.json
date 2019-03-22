@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5690,
+    "commands": [
+        {
+            "command": "Jane: Answer. ",
+            "link": "/story/5691"
+        }
+    ],
+    "media": [
+        {
+            "file": "05687.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Aaaand, wouldn't you know it. Just the guy you wanted to hear from. This ought to be good.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

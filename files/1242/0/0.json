@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1242,
+    "commands": [
+        {
+            "command": "[I] CD: Implement nefarious scheme. ",
+            "link": "/story/1243"
+        }
+    ],
+    "media": [
+        {
+            "file": "01242_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01242_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Spades Slick cannot return to being Hearts Boxcars because obviously Diamonds Droog is too busy being Clubs Deuce.\r<br/> <br/>You just watched <span style=\"color: #2ed73a\">Trace</span> throw a punch into thin air for some reason. That guy's awfully silly!\r<br/> <br/>He then skulks off somewhere. \r<br/> <br/>You don't realize he's following Droog's PAST TRAIL through the mansion until he gets to the point where it intersects with your trail, at which point he'll start following you.\r<br/> <br/>But we all realized it. Because it's obvious and couldn't possibly be more clear.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

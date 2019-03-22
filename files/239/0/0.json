@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 239,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/240"
+        }
+    ],
+    "media": [
+        {
+            "file": "00239.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">There are several signals being broadcasted from the LABORATORY, each of relatively decent strength.\r<br/> <br/>One of them is mysteriously and quite conveniently UNSECURED, requiring no password.\r<br/> <br/>You select the signal, and reconnect to the game with John.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

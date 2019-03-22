@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3834,
+    "commands": [
+        {
+            "command": "[o] Tick. ",
+            "link": "/story/3835"
+        }
+    ],
+    "media": [
+        {
+            "file": "03831_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03831_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">A true Seer would know where luck is a given, where it is absent, and most importantly, where it doesn't matter at all.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1390,
+    "commands": [
+        {
+            "command": "John: Pester Rose. ",
+            "link": "/story/1391"
+        }
+    ],
+    "media": [
+        {
+            "file": "01390.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">In the meantime you decide to touch base with your pals.\r<br/> <br/>Ugh, no, not those pals. The TROLLSLUM can just sit tight for now.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

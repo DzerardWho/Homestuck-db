@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 70,
+    "commands": [
+        {
+            "command": "John: Go in the study. ",
+            "link": "/story/71"
+        }
+    ],
+    "media": [
+        {
+            "file": "00070.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The door on the left leads to the KITCHEN, from which the smell of baking wafts -- a powerful aroma which could lift an especially portly hobo off his feet.\r<br/> <br/>The door on the right leads to the STUDY, where your DAD spends a lot of time. \r<br/> <br/>He could be in either room. Where will you go?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

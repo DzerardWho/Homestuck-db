@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1679,
+    "commands": [
+        {
+            "command": "AH: Can you show us what's going on with John again? ",
+            "link": "/story/1680"
+        }
+    ],
+    "media": [
+        {
+            "file": "01679_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01679_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Alright. It won't be that exciting to watch though.\r<br/> <br/>I'll pull up Photoshop again. Here's the file I was using for the fourth wall.\r<br/> <br/>What do you want me to draw?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

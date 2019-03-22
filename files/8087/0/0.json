@@ -1,0 +1,23 @@
+{
+    "version": 0,
+    "page": 8087,
+    "commands": [
+        {
+            "command": "END OF ACT 6 ",
+            "link": "/story/8088"
+        }
+    ],
+    "media": [
+        {
+            "file": "",
+            "folder": "",
+            "link": "https://www.youtube.com/watch?v=Y5wYN6rB_Rg"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

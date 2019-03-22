@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3369,
+    "commands": [
+        {
+            "command": "Terezi: Draw outline. ",
+            "link": "/story/3370"
+        }
+    ],
+    "media": [
+        {
+            "file": "03366.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">But first you must complete your investigation.\r<br/> <br/>Professor Pucefoot, Inspector Berrybreath, and Doctor Honeytongue reporting.\r<br/> <br/>Your team of forensic scientists is the best there is. There is no bit of evidence which will escape their eager and busy snouts.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

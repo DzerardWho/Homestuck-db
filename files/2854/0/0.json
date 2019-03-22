@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2854,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/2855"
+        }
+    ],
+    "media": [
+        {
+            "file": "02853_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02853_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You ditch the strings. All but one. \r<br/> <br/>You don't remember what it was for, but it reminds you of something nonetheless. Something you can't believe you forgot about...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

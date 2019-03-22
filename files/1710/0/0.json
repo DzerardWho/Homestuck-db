@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1710,
+    "commands": [
+        {
+            "command": "John: Put the bunny back in the box. ",
+            "link": "/story/1711"
+        }
+    ],
+    "media": [
+        {
+            "file": "01710.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><span style=\"color: #b536da\">John,\r<br/> <br/>I never got to thank you properly for your gift. Yes, the words were there. Language comprising the familiar veneer of gratitude rubbing off with each tired favor traded for. A God bless to a sneeze or a few pennies cradled in a receipt. Perhaps it's the deplorable romantic in me, but I thought your present, and your friendship, demanded reciprocation surpassing by some degree the utterly meaningless.\r<br/> <br/>The proper thanks I thought would be a demonstration that your offering was not in vain. Yes, maybe some would take your suggested alternative to my gloomy preoccupations as a passive-aggressive jab. But I know you didn't mean it that way. In fact, I'm sure reading about it now is the first time the notion has occurred to you. John, please stop rolling your eyes. The letter is down here.\r<br/> <br/>The gift in this box is a resurrection. I used your present to thread life anew into a tattered heirloom. As long as I can remember, its black, greasy appendages have been tethered limply to its ratty, porous carriage. Too delicate to wash, too dear to discard. I used to love this rabbit. Now he's yours.\r<br/> <br/>I trust you'll find this to be adequately sentimental. Happy birthday.\r<br/> <br/>Rose</span></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

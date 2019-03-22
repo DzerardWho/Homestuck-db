@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 556,
+    "commands": [
+        {
+            "command": "Bathtub: Level up for slaying the imp. ",
+            "link": "/story/557"
+        }
+    ],
+    "media": [
+        {
+            "file": "00556.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The Colonel soars to new heights on his ECHELADDER, reaching the rung: ONE MAN JULEP VACUUM, and pockets 9550 BOONDOLLARS.\r<br/> <br/>Chump change for the genteel, aristocratic southern colonel. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

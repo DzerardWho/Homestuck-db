@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 337,
+    "commands": [
+        {
+            "command": "[S] ==> ",
+            "link": "/story/338"
+        }
+    ],
+    "media": [
+        {
+            "file": "00337.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You've had enough of the computer for a while. You feel like you've been messing around on it all week. It's time to get your jam on.\r<br/> <br/>You pull up to your trusty AKAI MPC-1000 SAMPLER and prepare to get sicknasty.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

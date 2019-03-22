@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 14,
+    "commands": [
+        {
+            "command": "John: Take nails. ",
+            "link": "/story/15"
+        }
+    ],
+    "media": [
+        {
+            "file": "00014.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You first place the HAMMER into your SYLLADEX.\r<br/> <br/>But now all of your CAPTCHALOGUE CARDS are full. You wonder what will happen if you try to take the NAILS? \r<br/> <br/>You guess it doesn't hurt to try.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

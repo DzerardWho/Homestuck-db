@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1750,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1751"
+        }
+    ],
+    "media": [
+        {
+            "file": "01750.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Rose obviously isn't waking up any time soon. Might as well take some time to explore, and maybe stop by again later.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

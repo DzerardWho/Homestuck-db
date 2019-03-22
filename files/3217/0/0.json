@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3217,
+    "commands": [
+        {
+            "command": "Elsewhere... ",
+            "link": "/story/3218"
+        }
+    ],
+    "media": [
+        {
+            "file": "03214.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #1f9400\">JADESPRITE:</p>\n<img border=\"0\" src=\"/images/storyfiles/hs2/scraps/whatdidyoudo.gif\"/></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

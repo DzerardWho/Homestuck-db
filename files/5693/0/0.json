@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5693,
+    "commands": [
+        {
+            "command": "Jane: ... Answer, you guess. ",
+            "link": "/story/5694"
+        }
+    ],
+    "media": [
+        {
+            "file": "05690.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh no.\r<br/> <br/>Oh no this conversation is going to make you even sadder isn't it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

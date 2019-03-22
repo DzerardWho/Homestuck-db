@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 75,
+    "commands": [
+        {
+            "command": "John: Captchalogue captchalogue card. ",
+            "link": "/story/76"
+        }
+    ],
+    "media": [
+        {
+            "file": "00075.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Yes!!! This will be perfect for expanding the space in your SYLLA...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

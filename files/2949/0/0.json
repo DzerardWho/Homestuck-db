@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2949,
+    "commands": [
+        {
+            "command": "WV?: Defend treasure. ",
+            "link": "/story/2950"
+        }
+    ],
+    "media": [
+        {
+            "file": "02948.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

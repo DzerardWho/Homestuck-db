@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2889,
+    "commands": [
+        {
+            "command": "Jade: Go upstairs. ",
+            "link": "/story/2890"
+        }
+    ],
+    "media": [
+        {
+            "file": "02888.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">EB: augh!!!!!!!!!!!</p>\n<p style=\"color: #0715cd\">EB: i am making such a fucking mess in here.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

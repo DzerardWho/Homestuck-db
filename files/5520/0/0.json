@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5520,
+    "commands": [
+        {
+            "command": "Jane: Answer. ",
+            "link": "/story/5521"
+        }
+    ],
+    "media": [
+        {
+            "file": "05517.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

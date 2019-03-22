@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 116,
+    "commands": [
+        {
+            "command": "John: Get free Fetch Modus. ",
+            "link": "/story/117"
+        }
+    ],
+    "media": [
+        {
+            "file": "00116.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You're not sure you really want to dig into this huge tome. It looks really boring. And kind of ornery.\r<br/> <br/>Maybe you'll just check out that free modus instead.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

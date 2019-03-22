@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2406,
+    "commands": [
+        {
+            "command": "Attempt 2x transition combo. ",
+            "link": "/story/2407"
+        }
+    ],
+    "media": [
+        {
+            "file": "02405.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">MADE FOR EACH OTHER.\r<br/> <br/>Wow, another great transition. You wonder if it will stick this time. You have no choice but to take a stab at the rare and extremely dangerous 2x TRANSITION COMBO.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

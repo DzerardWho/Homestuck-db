@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 709,
+    "commands": [
+        {
+            "command": "WV: Consume several cans. ",
+            "link": "/story/710"
+        }
+    ],
+    "media": [
+        {
+            "file": "00709_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00709_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

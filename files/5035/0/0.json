@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 5035,
+    "commands": [
+        {
+            "command": "Jane: Examine door. ",
+            "link": "/story/5036"
+        }
+    ],
+    "media": [
+        {
+            "file": "05032_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "05032_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your nimble friend returned with the duplicated obelisk, allowing you into the crypt to pursue your father. Ahead appears to be a locked door, that was punched clean through. You are on the right track. You are sure of it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

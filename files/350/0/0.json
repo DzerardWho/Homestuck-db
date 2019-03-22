@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 350,
+    "commands": [
+        {
+            "command": "Dave: Turn off the fan. ",
+            "link": "/story/351"
+        }
+    ],
+    "media": [
+        {
+            "file": "00350_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00350_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">In the breeze of the FAN, the betas jostle near the OPEN WINDOW.\r<br/> <br/>This arrangement is a little disconcerting. If they fell out, it sure would be a stupid way to lose them.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

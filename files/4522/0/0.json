@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4522,
+    "commands": [
+        {
+            "command": "Dirk: Greet robotic friend. ",
+            "link": "/story/4523"
+        }
+    ],
+    "media": [
+        {
+            "file": "04519_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04519_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Look at this pompous little asshole. What a godawful piece of shit this thing is.\r<br/> <br/>You aren't even sure why you keep these things around. The miasma of tackiness that surrounds them is almost enough to outstrip their irony value.\r<br/> <br/>Almost.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 878,
+    "commands": [
+        {
+            "command": "[S] Rose: Ascend. ",
+            "link": "/story/879"
+        }
+    ],
+    "media": [
+        {
+            "file": "00878.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">No sign of John here. You wonder why the house is shaking.\r<br/> <br/>Last time you saw him he was on one of the roof platforms. You will have to navigate via the Sburb interface to find him.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

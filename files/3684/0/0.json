@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3684,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3685"
+        }
+    ],
+    "media": [
+        {
+            "file": "03681_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03681_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You then in your most leaderly way ask Liv to pilot that enormous battleship! She will now be known as Captain Tyler.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

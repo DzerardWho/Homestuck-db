@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 274,
+    "commands": [
+        {
+            "command": "Rose: Prototype sprite with Betty Crocker box. ",
+            "link": "/story/275"
+        }
+    ],
+    "media": [
+        {
+            "file": "00274_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00274_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your LAPTOP BATTERY is alright for now, but it won't be for long.\r<br/> <br/>If the power in the house doesn't come back on, you can think of one last resort: the small BACKUP GENERATOR stored behind the MAUSOLEUM.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

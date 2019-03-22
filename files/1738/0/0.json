@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1738,
+    "commands": [
+        {
+            "command": "John: Shrink it down. ",
+            "link": "/story/1739"
+        }
+    ],
+    "media": [
+        {
+            "file": "01738.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The thing is huge, and costs a fortune. Half a million pieces of BUILD GRIST, GARNETS, DIAMONDS, and GOLD, and a single piece of QUARTZ.\r<br/> <br/>There's no way you can make that, let alone wield it, even with your ghost gloves.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

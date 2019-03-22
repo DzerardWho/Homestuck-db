@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 940,
+    "commands": [
+        {
+            "command": "Rose: Stop fooling around and transportalize out of there! ",
+            "link": "/story/941"
+        }
+    ],
+    "media": [
+        {
+            "file": "00940_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00940_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Good thing you finally got all this sorted out. You only have 10 seconds to spare.\r<br/> <br/>Time to stash the dead cat and amscray.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

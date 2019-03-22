@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 791,
+    "commands": [
+        {
+            "command": "Jade: Quickly retrieve firearms from wall. ",
+            "link": "/story/792"
+        }
+    ],
+    "media": [
+        {
+            "file": "00791.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And today will likely be no exception. Among the errands you have planned is to venture out to find your pet and best friend named BECQUEREL. This animal must be fed and he will not be happy if he is not. And if he is not happy then you will not be happy.\r<br/> <br/>But first you really should dig out your COMPUTER and say hi to John!\r<br/> <br/>NOW...\r<br/> <br/>What will you do?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

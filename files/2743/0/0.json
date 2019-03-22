@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 2743,
+    "commands": [
+        {
+            "command": "Terezi: Sniff Skaiaward. ",
+            "link": "/story/2744"
+        }
+    ],
+    "media": [
+        {
+            "file": "02742_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02742_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02742_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are suddenly the troll girl.\r<br/> <br/>In a different game session. \r<br/> <br/>In the past.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1501,
+    "commands": [
+        {
+            "command": "WV: Fondly regard desert night. ",
+            "link": "/story/1502"
+        }
+    ],
+    "media": [
+        {
+            "file": "01501.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He thinks it is dumb because any town without a proper militia is as good as conquered.\r<br/> <br/>As such he prepares one begrudgingly. It's a dirty job, but someone must be charged with the defense of the innocent.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

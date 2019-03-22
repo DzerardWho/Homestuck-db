@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1916,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1917"
+        }
+    ],
+    "media": [
+        {
+            "file": "01916.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">There is an explosion in the colonel's back yard. \r<br/> <br/>Land sakes alive, we are cooking with petrol now!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

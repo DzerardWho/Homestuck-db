@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4300,
+    "commands": [
+        {
+            "command": "[A6I1] ==> ",
+            "link": "/story/4301"
+        }
+    ],
+    "media": [
+        {
+            "file": "04297.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #4ac925\">JADE: :|</p>\n<p style=\"color: #4ac925\">JADE: i have no idea</p>\n<p style=\"color: #4ac925\">JADE: extra dimensional shenanigan based phenomena perhaps?????</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

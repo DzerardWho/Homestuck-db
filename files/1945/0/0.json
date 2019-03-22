@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1945,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1946"
+        }
+    ],
+    "media": [
+        {
+            "file": "01945_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01945_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">A RAG OF SOULS drifts from the heavens. Its owner, a mystery.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

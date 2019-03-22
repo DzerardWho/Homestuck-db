@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 225,
+    "commands": [
+        {
+            "command": "Rose: Get laptop. ",
+            "link": "/story/226"
+        }
+    ],
+    "media": [
+        {
+            "file": "00225_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00225_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your panoramic window offers a view of your yard below, and the mausoleum housing your dead cat, JASPERS, who died when you were young. Your MOM had the structure erected with a spirit of scornful IRONY in response to your youthfully innocent request to hold a funeral for the animal. At least, that is how you have come to interpret the gesture in retrospect.\r<br/> <br/>You can also make out a silhouette of the LABORATORY next door, a facility which likely broadcasts a strong WIRELESS INTERNET SIGNAL. You may be able to connect to the signal from a different part of the house. Perhaps if you seek higher ground?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

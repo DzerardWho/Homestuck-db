@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1194,
+    "commands": [
+        {
+            "command": "[I] CD: Pick up all of the cards and throw them at Doze. ",
+            "link": "/story/1195"
+        }
+    ],
+    "media": [
+        {
+            "file": "01194.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You pick up two LICORICE GUMMY BEARS.\r<br/> <br/>These need to be stored for safe-keeping as soon as possible. Finding your BACKUP HAT has never been more urgent.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

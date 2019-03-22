@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4897,
+    "commands": [
+        {
+            "command": "Jack: Throw a knife down there to get that guy's attention. ",
+            "link": "/story/4898"
+        }
+    ],
+    "media": [
+        {
+            "file": "04894_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04894_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">None shall be the wiser. It is the perfect crime.\r<br/> <br/>When you bust out of prison, you should be locked right back up again because of how perfect this crime is.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

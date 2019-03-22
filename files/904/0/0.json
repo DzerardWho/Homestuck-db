@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 904,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/905"
+        }
+    ],
+    "media": [
+        {
+            "file": "00904.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You successfully disregard the TEA SET because it's stupid and shouldn't be in a place like this. You probe further into the lab.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

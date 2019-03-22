@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1685,
+    "commands": [
+        {
+            "command": "John: Proceed to the second gate. ",
+            "link": "/story/1686"
+        }
+    ],
+    "media": [
+        {
+            "file": "01685.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

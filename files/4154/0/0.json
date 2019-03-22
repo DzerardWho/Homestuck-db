@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 4154,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4155"
+        }
+    ],
+    "media": [
+        {
+            "file": "04151.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "04151retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Still no sign of the mail. Might as well keep the tiaratop on while you look, even if it means suffering through all these bullshit popup ads. That way you can keep an eye out for Lalonde while you're at it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

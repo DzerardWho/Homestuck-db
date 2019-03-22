@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 21,
+    "commands": [
+        {
+            "command": "John: Examine calendar. ",
+            "link": "/story/22"
+        }
+    ],
+    "media": [
+        {
+            "file": "00021.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Morgan Freeman's genteel, homespun mannerisms were perfect qualities for a president residing over a crisis. \r<br/> <br/>OCEANS RISE. CITIES FALL. HOPE SURVIVES.\r<br/> <br/>WOW.\r<br/> <br/>Films about impending apocalypse fascinate you. Plus, a black president??? Now you've seen everything!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

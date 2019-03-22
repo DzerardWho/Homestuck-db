@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2856,
+    "commands": [
+        {
+            "command": "Jade: Head home. ",
+            "link": "/story/2857"
+        }
+    ],
+    "media": [
+        {
+            "file": "02855.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You look up at your house. Your cool satellite tower bedroom is gone.\r<br/> <br/>What's that thing floating there?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

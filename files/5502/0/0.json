@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5502,
+    "commands": [
+        {
+            "command": "[A6I4] ==> ",
+            "link": "/story/5503"
+        }
+    ],
+    "media": [
+        {
+            "file": "05499.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #2ed73a\">HOW DO I KNOW WHICH KEY GOES IN WHICH HOLE.</p>\n<p style=\"color: #000000\">You don't.</p>\n<p style=\"color: #2ed73a\">WHAT. THERE ARE NO LABELS. OR NUMBERS. OR ANYTHING?</p>\n<p style=\"color: #000000\">Nope.</p>\n<p style=\"color: #000000\">You just have to try them on every keyhole until one fits.</p>\n<p style=\"color: #2ed73a\">THAT'S SO TERRIBLE.</p>\n<p style=\"color: #2ed73a\">I LITERALLY CANNOT. EVEN THINK OF A SINGLE THING MORE TERRIBLE THAN THAT.</p>\n<p style=\"color: #000000\">Welcome to your quest.</p>\n<p style=\"color: #2ed73a\">OK. I GUESS I FOUND ONE THAT FITS.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

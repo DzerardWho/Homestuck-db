@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2207,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2208"
+        }
+    ],
+    "media": [
+        {
+            "file": "02207_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02207_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">See, look at this. She's fine. Fine and huge and hungry as ever.\r<br/> <br/>You... guess you're relieved? Yes, of course. Whew! Why wouldn't you be. It would be devastating if anything happened to your dear sweet custodian.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 13,
+    "commands": [
+        {
+            "command": "John: Acquire hammer and nails. They will come in handy. ",
+            "link": "/story/14"
+        }
+    ],
+    "media": [
+        {
+            "file": "00013.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Another BIRTHDAY ARTIFACT. You wonder what is printed on the poster.\r<br/> <br/>You'll need some way to hang it on your wall.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

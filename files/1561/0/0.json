@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1561,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1562"
+        }
+    ],
+    "media": [
+        {
+            "file": "01561_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01561_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your inscrutable thought process leads you to draw the PUNCH DESIGNIX on your SCRIBBLEPAD.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

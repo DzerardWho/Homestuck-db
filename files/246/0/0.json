@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 246,
+    "commands": [
+        {
+            "command": "END OF ACT 1 ",
+            "link": "/story/247"
+        }
+    ],
+    "media": [
+        {
+            "file": "00246.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

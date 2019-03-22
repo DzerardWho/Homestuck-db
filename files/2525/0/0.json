@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2525,
+    "commands": [
+        {
+            "command": "Terezi: Retrieve chalk. ",
+            "link": "/story/2526"
+        }
+    ],
+    "media": [
+        {
+            "file": "02524.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's the voice again.\r<br/> <br/>You were wondering when she'd come back. This time you are ready for her.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

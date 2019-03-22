@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1804,
+    "commands": [
+        {
+            "command": "Rose: Combine salamander and eldritch plush. ",
+            "link": "/story/1805"
+        }
+    ],
+    "media": [
+        {
+            "file": "01804_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01804_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make the BRONZED VACUUMBRELLA.\r<br/> <br/>Useless.\r<br/> <br/>But you're still getting warmed up.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

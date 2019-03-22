@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 106,
+    "commands": [
+        {
+            "command": "John: Retrieve your items. ",
+            "link": "/story/107"
+        }
+    ],
+    "media": [
+        {
+            "file": "00106_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00106_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00106_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You take the RAZOR and use it to perform surgery on the CAKE.\r<br/> <br/>You take the TOWEL and clean off the extracted goods.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 866,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/867"
+        }
+    ],
+    "media": [
+        {
+            "file": "00866.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">As long as you're going to plug in your computer, you might as well find that hub.\r<br/> <br/>Here it is. HUB SN_LAB0413. It is unlocked, and thus removable from the grid.\r<br/> <br/>You suspect this was the same beacon transmitting the unsecured signal you were using earlier.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

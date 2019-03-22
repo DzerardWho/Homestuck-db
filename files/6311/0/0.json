@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6311,
+    "commands": [
+        {
+            "command": "[A6A6I1] ====> ",
+            "link": "/story/6312"
+        }
+    ],
+    "media": [
+        {
+            "file": "06309.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #e00707\">DAVE: haha!</p>\n<p style=\"color: #e00707\">DAVE: hahahahahaha!</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

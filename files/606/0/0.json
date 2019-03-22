@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 606,
+    "commands": [
+        {
+            "command": "Dave: Yank cord. ",
+            "link": "/story/607"
+        }
+    ],
+    "media": [
+        {
+            "file": "00606.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's a pretty sweet fort you just made and you're pretty sure your brother would agree. Under different circumstances, you might be high-fiving over it right now.\r<br/> <br/>But rather than get inside and take her for a spin, you really just need to use it to get up to that hatch.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

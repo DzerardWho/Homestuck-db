@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3017,
+    "commands": [
+        {
+            "command": "PM: Appoint royal advisor. ",
+            "link": "/story/3018"
+        }
+    ],
+    "media": [
+        {
+            "file": "03016.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">She should understand that a queen is the sum of her decisions, not her fashion accessories. And no queen makes decisions alone. All wise rulers surround themselves with trusted advisors.\r<br/> <br/>The new queen should understand she has friends to help her.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

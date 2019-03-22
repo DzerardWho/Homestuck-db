@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 613,
+    "commands": [
+        {
+            "command": "Dave: Be the other guy. ",
+            "link": "/story/614"
+        }
+    ],
+    "media": [
+        {
+            "file": "00613_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00613_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

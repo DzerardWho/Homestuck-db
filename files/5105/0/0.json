@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5105,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/5106"
+        }
+    ],
+    "media": [
+        {
+            "file": "05102.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Given the frustrating nature of your modus, your sylladex tends to serve as more of a mutual garbage dump than an inventory.\r<br/> <br/>You're almost afraid to look at what he's left for you in here...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1853,
+    "commands": [
+        {
+            "command": "Dave: Go get a bookmark. ",
+            "link": "/story/1854"
+        }
+    ],
+    "media": [
+        {
+            "file": "01853.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This wizard story seems really involved and kind of confusing. You'll have to save your place and dig into it later, and then maybe ask Rose what the hell the deal with it is.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 917,
+    "commands": [
+        {
+            "command": "[S] Strife!!! ",
+            "link": "/story/918"
+        }
+    ],
+    "media": [
+        {
+            "file": "00917.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">WHOOPS.\r<br/> <br/>You guess an encounter with him is almost certain now.\r<br/> <br/>But most likely not for a while. Time to see what someone else is up to.\r<br/> <br/>Oh, let's say... Dave.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

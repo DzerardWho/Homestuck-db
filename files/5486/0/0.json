@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5486,
+    "commands": [
+        {
+            "command": "[A6I4] ==> ",
+            "link": "/story/5487"
+        }
+    ],
+    "media": [
+        {
+            "file": "05483.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #323232\">ALRIGHT.</p>\n<p style=\"color: #323232\">NOW WHAT.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 567,
+    "commands": [
+        {
+            "command": "Dave: Transfer katana to strife specibus. ",
+            "link": "/story/568"
+        }
+    ],
+    "media": [
+        {
+            "file": "00567.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">No sign of BRO in here either.\r<br/> <br/>Well, aside from the absurd quantity of awesome dangerous stuff he leaves lying around.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

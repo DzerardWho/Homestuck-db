@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1205,
+    "commands": [
+        {
+            "command": "[I] DD: Follow trail of blood up the stairs. ",
+            "link": "/story/1206"
+        }
+    ],
+    "media": [
+        {
+            "file": "01205.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You don't know if the wounded guy went up the stairs, or came down. Or who wounded him, and when. Might have even been you, for all you know.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

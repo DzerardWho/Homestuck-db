@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4018,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/4002"
+        }
+    ],
+    "media": [
+        {
+            "file": "04015.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #626262\">PCG: SORRY.</span></p>",
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

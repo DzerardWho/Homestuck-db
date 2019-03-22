@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2980,
+    "commands": [
+        {
+            "command": "DO THE WINDY THING DO THE WINDY THING DO THE WINDY THING ",
+            "link": "/story/2981"
+        }
+    ],
+    "media": [
+        {
+            "file": "02979.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He really has no idea.\r<br/> <br/>Better hurry! He's in big trouble here.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

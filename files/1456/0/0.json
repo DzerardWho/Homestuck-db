@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1456,
+    "commands": [
+        {
+            "command": "AR?: Surround the scene with caution tape. ",
+            "link": "/story/1457"
+        }
+    ],
+    "media": [
+        {
+            "file": "01456.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What have we here? An illegally parked vehicle. \r<br/> <br/>You sure hope this guy's got a swollen porkhollow. He just landed himself in citation city. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

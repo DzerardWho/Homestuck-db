@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 120,
+    "commands": [
+        {
+            "command": "John: Pick up two items. ",
+            "link": "/story/121"
+        }
+    ],
+    "media": [
+        {
+            "file": "00120.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Put it...\r<br/> <br/>Down?\r<br/> <br/>...\r<br/> <br/>You're not quite sure you understand.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

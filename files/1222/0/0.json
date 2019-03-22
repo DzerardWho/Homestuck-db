@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1222,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1223"
+        }
+    ],
+    "media": [
+        {
+            "file": "01222.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You radio Deuce on the 10-4 cards. Let him know you you need a powdermonkey on the double.\r<br/> <br/>You hear ticking. And it's not coming from the big VAULT CLOCK above. \r<br/> <br/>You hope it's not what you think it is...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

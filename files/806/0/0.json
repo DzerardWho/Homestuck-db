@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 806,
+    "commands": [
+        {
+            "command": "Jade: Feed your friend. ",
+            "link": "/story/807"
+        }
+    ],
+    "media": [
+        {
+            "file": "00806_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00806_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You take the REFRIGERATOR.\r<br/> <br/>You might as well grab the COOKALIZER too. No portable kitchen is complete without it.\r<br/> <br/>You take your LUNCHTOP too, because obviously you're going to be using that pretty soon.\r<br/> <br/>Whoops, there goes your FLUTE. But who cares.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

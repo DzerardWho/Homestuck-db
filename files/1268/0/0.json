@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1268,
+    "commands": [
+        {
+            "command": "[I] SS: Remove knife from eye. ",
+            "link": "/story/1269"
+        }
+    ],
+    "media": [
+        {
+            "file": "01268.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Everyone always ceases gunplay when <span style=\"color: #2ed73a\">Sn</span><span style=\"color: black\">o</span><span style=\"color: #2ed73a\">wman</span>'s around.\r<br/> <br/>If you kill her you destroy the universe.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

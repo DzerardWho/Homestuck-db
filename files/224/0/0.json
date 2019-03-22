@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 224,
+    "commands": [
+        {
+            "command": "Rose: Look out window. ",
+            "link": "/story/225"
+        }
+    ],
+    "media": [
+        {
+            "file": "00224.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You get the KNITTING BAG. It occupies the LEFT LEAF CARD under the VIOLIN, per the TREE MODUS'S alphabetical sorting method.\r<br/> <br/>K &lt; V.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

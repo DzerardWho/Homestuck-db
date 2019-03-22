@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 544,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/545"
+        }
+    ],
+    "media": [
+        {
+            "file": "00544_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00544_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You take a look at the other book. You're sure DAD thought this was a scintillating read, but it looks pretty boring to you. Maybe you'll crack into it some day when you're old enough to shave.\r<br/> <br/>Everything in this safe was obviously very important to your father. You wonder why he kept it locked away from you?\r<br/> <br/>Some things about him you will never understand.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

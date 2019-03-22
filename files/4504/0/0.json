@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4504,
+    "commands": [
+        {
+            "command": "Roxy: Break bottle. ",
+            "link": "/story/4505"
+        }
+    ],
+    "media": [
+        {
+            "file": "04501.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You swap the bottle with one dead cat in it for another. You often use this little guy to break in the planes, like an intrepid test pilot.\r<br/> <br/>Not while it's in the bottle though. That would be ridiculous, since the bottles are sort of just inventory abstractions. You have to break the bottle first, before you can get serious about breaking some glass.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

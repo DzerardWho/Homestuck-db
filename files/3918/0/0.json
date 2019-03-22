@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3918,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/3919"
+        }
+    ],
+    "media": [
+        {
+            "file": "03915.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">GT: this is my dad's room.</p>\n<p style=\"color: #0715cd\">GT: but...</p>\n<p style=\"color: #0715cd\">GT: i have never been inside of it.</p>\n<p style=\"color: #0715cd\">GT: so why do i recognize it?</p>\n<p style=\"color: #005682\">AG: Shrug!!!!!!!!</p>\n<p style=\"color: #0715cd\">GT: i think...</p>\n<p style=\"color: #0715cd\">GT: there were some birthday presents for me in here.</p>\n<p style=\"color: #0715cd\">GT: but i can't recall which birthday that was.</p>\n<p style=\"color: #005682\">AG: It was your 13th.</p>\n<p style=\"color: #0715cd\">GT: but i'm 12!</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

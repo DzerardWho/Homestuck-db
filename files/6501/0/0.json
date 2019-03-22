@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6501,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/6502"
+        }
+    ],
+    "media": [
+        {
+            "file": "06498.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

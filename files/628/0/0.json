@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 628,
+    "commands": [
+        {
+            "command": "John: Read book. Be the wise guy. ",
+            "link": "/story/629"
+        }
+    ],
+    "media": [
+        {
+            "file": "00628.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You flip your FETCH MODI but find no such option.\r<br/> <br/>This is idiotic.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

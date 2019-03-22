@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 306,
+    "commands": [
+        {
+            "command": "[S] ==> ",
+            "link": "/story/307"
+        }
+    ],
+    "media": [
+        {
+            "file": "00306.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You re-captchalogue everything the way you want it to appear in the tree, and head downstairs.\r<br/> <br/>You figure that's enough dilly-dallying. Time to get a move on!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

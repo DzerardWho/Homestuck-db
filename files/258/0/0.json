@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 258,
+    "commands": [
+        {
+            "command": "WAIT. TAKE THAT. THE BLUE WOBBLY THING. ",
+            "link": "/story/259"
+        }
+    ],
+    "media": [
+        {
+            "file": "00258.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">John makes his way to the balcony per your awkwardly-worded request.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

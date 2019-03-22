@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1416,
+    "commands": [
+        {
+            "command": "I am told your name is John. Is that correct? ",
+            "link": "/story/1417"
+        }
+    ],
+    "media": [
+        {
+            "file": "01416.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You stop and examine the kind mayor's device. It is quite similar to the one in your station, before the unfortunate accident. The one with the familiar looking girl on it. Perhaps this one is best left alone.\r<br/> <br/>Still, there is something familiar about the boy on this monitor too.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

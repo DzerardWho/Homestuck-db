@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 506,
+    "commands": [
+        {
+            "command": "john might i bother you for a can opener? ",
+            "link": "/story/507"
+        }
+    ],
+    "media": [
+        {
+            "file": "00506.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 158,
+    "commands": [
+        {
+            "command": "John: Install Pesterchum. ",
+            "link": "/story/159"
+        }
+    ],
+    "media": [
+        {
+            "file": "00158_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00158_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You grab the PDA, switching back to STACK MODUS so it is readily accessible.\r<br/> <br/>The interface is oddly sterile. No hilarious clown wallpapers or anything like that. (Oops, you mean harlequin wallpapers.)\r<br/> <br/>The SERIOUS BUSINESS application is open. It seems your DAD uses it to keep tabs on various acquaintances... his fellow street performers, maybe?\r<br/> <br/>You guess the performing arts must be pretty serious business after all.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

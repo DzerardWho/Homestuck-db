@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2710,
+    "commands": [
+        {
+            "command": "Kanaya: Troll Rose human again. ",
+            "link": "/story/2711"
+        }
+    ],
+    "media": [
+        {
+            "file": "02709.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ok, you will have to admit that is a nice outfit. Humans get points for fashion too.\r<br/> <br/>You begrudgingly concede a single SNARKTICK to the stylish human and her loyal snowlusus.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

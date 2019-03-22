@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 853,
+    "commands": [
+        {
+            "command": "Jade: Don't stop. ",
+            "link": "/story/854"
+        }
+    ],
+    "media": [
+        {
+            "file": "00853_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00853_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh yeah. How could you forget about his stash of DECREPIT MUMMIES.\r<br/> <br/>God you hate these things.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

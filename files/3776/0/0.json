@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3776,
+    "commands": [
+        {
+            "command": "[o] So ends a tale of rivalry. ",
+            "link": "/story/3777"
+        }
+    ],
+    "media": [
+        {
+            "file": "03773.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">She was right.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

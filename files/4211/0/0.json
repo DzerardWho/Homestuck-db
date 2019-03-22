@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 4211,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4212"
+        }
+    ],
+    "media": [
+        {
+            "file": "04208_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04208_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "04208_2_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #00d5f2\">GG: More and more Prospitians were filing out of the buildings every moment.</p>\n<p style=\"color: #00d5f2\">GG: They all began to form a single, major procession.</p>\n<p style=\"color: #00d5f2\">GG: When I got closer, I could see that some were in tears.</p>\n<p style=\"color: #00d5f2\">GG: I realized this was a funeral.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

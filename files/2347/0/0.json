@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2347,
+    "commands": [
+        {
+            "command": "Tavros: Enter. ",
+            "link": "/story/2348"
+        }
+    ],
+    "media": [
+        {
+            "file": "02347.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have little doubt their victory was because of their leader, a great heroine, the TENTACLETHERAPIST. From what she recorded, it seems the group had very little knowledge of what they were getting into. And yet they appear to have been the only of their kind to have risen to the challenge in a session stacked heavily against them. You are convinced her leadership was the difference.\r<br/> <br/>It would be nice to have the chance to talk to her. Alas, she's likely been dead for millennia. Only the incomplete record of a long forgotten quest remains.\r<br/> <br/>On the other hand, if you were to discover her quest ended in failure, it might be somewhat disillusioning.\r<br/> <br/>But that thought never crossed your mind.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 692,
+    "commands": [
+        {
+            "command": "WV: Examine contents of yellow container. ",
+            "link": "/story/693"
+        }
+    ],
+    "media": [
+        {
+            "file": "00692.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's locked!\r<br/> <br/>There must be some sort of release mechanism for this thing.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

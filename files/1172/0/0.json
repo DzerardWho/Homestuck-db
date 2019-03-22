@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1172,
+    "commands": [
+        {
+            "command": "[I] SS: Use radio device to check on unscrupulous cohorts. ",
+            "link": "/story/1173"
+        }
+    ],
+    "media": [
+        {
+            "file": "01172.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">On review, your schemes seem a bit convoluted. But you wouldn't have it any other way.\r<br/> <br/>Deuce and Droog split up to neutralize as many Felt as they can find. Your heavy muscle and expert safecracker, Boxcars, is headed straight down to the vault.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

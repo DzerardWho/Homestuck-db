@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 964,
+    "commands": [
+        {
+            "command": "John: Obtain SW33TL00T. ",
+            "link": "/story/965"
+        }
+    ],
+    "media": [
+        {
+            "file": "00964.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The one on the right seems promising. \r<br/> <br/>You open it to see what is inside and oh god yes.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

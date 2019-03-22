@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2386,
+    "commands": [
+        {
+            "command": "Kanaya: Return to serving client. ",
+            "link": "/story/2387"
+        }
+    ],
+    "media": [
+        {
+            "file": "02386.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Whew, crisis resolved. It was no doubt harrowing and suspenseful.\r<br/> <br/>But in the meantime, you have left your client player in the lurch. Ideally she has not gotten herself into too much trouble.\r<br/> <br/>And ideally the dramatic irony has not gotten so thick you could draw a dotted line on it with a tube of lipstick and cut it in half with a chainsaw.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

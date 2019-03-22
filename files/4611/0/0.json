@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4611,
+    "commands": [
+        {
+            "command": "Roxy: Get to that transmaterializer. ",
+            "link": "/story/4612"
+        }
+    ],
+    "media": [
+        {
+            "file": "04608.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You can't be the rider because in this universe the pony is too small for some reason. Not that being the rider ever really made much sense in the first place. Anyway, the scarf looks great, and you made a great decision.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 1704,
+    "commands": [
+        {
+            "command": "John: Check Rose's bookshelf. ",
+            "link": "/story/1705"
+        }
+    ],
+    "media": [
+        {
+            "file": "01704_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01704_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "01704_2_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1223,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1224"
+        }
+    ],
+    "media": [
+        {
+            "file": "01223.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh no. Oh God.\r<br/> <br/>It's <span style=\"color: #2ed73a\">Biscuits</span>. His OVEN TIMER is ticking. This is no good.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

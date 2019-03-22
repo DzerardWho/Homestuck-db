@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1082,
+    "commands": [
+        {
+            "command": "Dave: Go get a god damn new sword. ",
+            "link": "/story/1083"
+        }
+    ],
+    "media": [
+        {
+            "file": "01082_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01082_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">See you little dude. \r<br/> <br/>If you had any more APPLE JUICE you would pour some out for your homie.\r<br/> <br/>You'll have to remember to double-check your closet for more juice. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

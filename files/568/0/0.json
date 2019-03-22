@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 568,
+    "commands": [
+        {
+            "command": "Dave: Set Blender to \"Mix\". ",
+            "link": "/story/569"
+        }
+    ],
+    "media": [
+        {
+            "file": "00568.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">With an escalating sense of threat, you think it's time you <span style=\"color: blue\">SH</span><span style=\"color: red\">I</span><span style=\"color: blue\">FT</span> (9) your <span style=\"color: blue\">K</span><span style=\"color: red\">A</span><span style=\"color: blue\">T</span><span style=\"color: red\">A</span><span style=\"color: blue\">N</span><span style=\"color: red\">A</span> (9) to your specibus.\r<br/> <br/>You figure it's better to free up the card anyway, since you might need to grab some of this stuff.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

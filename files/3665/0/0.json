@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3665,
+    "commands": [
+        {
+            "command": "John: Return to surface. ",
+            "link": "/story/3666"
+        }
+    ],
+    "media": [
+        {
+            "file": "03662.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

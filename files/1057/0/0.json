@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1057,
+    "commands": [
+        {
+            "command": "John: Combine gushers and blue ectoplasm. ",
+            "link": "/story/1058"
+        }
+    ],
+    "media": [
+        {
+            "file": "01057_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01057_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make the TELESCOPIC SASSACRUSHER, at pretty considerable expense. This thing could probably pound an ogre into crudeburger.\r<br/> <br/>Of course you have no hope of lifting it whatsoever.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

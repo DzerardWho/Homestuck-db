@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1869,
+    "commands": [
+        {
+            "command": "John: Press blue button. ",
+            "link": "/story/1870"
+        }
+    ],
+    "media": [
+        {
+            "file": "01869.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">They witness the destruction of the facility. Collateral damage to a corporation owned by a renowned billionaire explorer. \r<br/> <br/>A mystery begins.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

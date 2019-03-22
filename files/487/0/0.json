@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 487,
+    "commands": [
+        {
+            "command": "John: Bring 2 cans of shaving cream. ",
+            "link": "/story/488"
+        }
+    ],
+    "media": [
+        {
+            "file": "00487.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">No imps in here. Just a lot of SHAVING CREAM.\r<br/> <br/>Dads love shaving. It's basically all they do. (When they're not baking, that is.)</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1954,
+    "commands": [
+        {
+            "command": "John! ",
+            "link": "/story/1955"
+        }
+    ],
+    "media": [
+        {
+            "file": "01954.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The package is opened. Letters, read.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

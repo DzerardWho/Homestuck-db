@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 1069,
+    "commands": [
+        {
+            "command": "[S] Dave: Strife! ",
+            "link": "/story/1070"
+        }
+    ],
+    "media": [
+        {
+            "file": "01069.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "01069retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">So much sweet loot. You'd almost think it was simultaneously your birthday, AND Christmas or something.\r<br/> <br/>Of course you know that is ridiculous and could never conceivably happen.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

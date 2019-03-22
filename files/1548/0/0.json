@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1548,
+    "commands": [
+        {
+            "command": "PM?: Grab the box and run! ",
+            "link": "/story/1549"
+        }
+    ],
+    "media": [
+        {
+            "file": "01548.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You find the agent's office. But he is nowhere to be found.\r<br/> <br/>You eye something on the desk there.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

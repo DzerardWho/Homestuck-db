@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 3377,
+    "commands": [
+        {
+            "command": "Terezi: Prepare to revive. ",
+            "link": "/story/3378"
+        }
+    ],
+    "media": [
+        {
+            "file": "03374.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "03374_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">No, Honeytongue! Are you quite mad???\r<br/> <br/>The corpse must not be dismembered just yet! There could still be hope for the victim's resurrection! And according to the legislacerator's handbook, the victim's well being is among the highest of investigative priorities. \r<br/> <br/>The odds that his dream self survived are quite slim, you admit. But you must at least try for the sake of your friend, even if it means braving the awful stench.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1845,
+    "commands": [
+        {
+            "command": "Dave: Try it out. ",
+            "link": "/story/1846"
+        }
+    ],
+    "media": [
+        {
+            "file": "01845_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01845_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make the SBAHJIFIER. \r<br/> <br/>Finally, something useful.\r<br/> <br/>It cost you -1000 units of ARTIFACT GRIST.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2998,
+    "commands": [
+        {
+            "command": "Jade: Climb. ",
+            "link": "/story/2999"
+        }
+    ],
+    "media": [
+        {
+            "file": "02997.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You would like to report to John, but it seems you have misplaced your laptop!\r<br/> <br/>That's right. It was in the atrium when you got slapped with that stupid blindfold and all hell broke loose.\r<br/> <br/>You hope it's ok! It was your favorite computer, AND your favorite lunchbox.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

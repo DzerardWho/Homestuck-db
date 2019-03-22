@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 330,
+    "commands": [
+        {
+            "command": "Dave: Skip ahead a hundred pages or so. ",
+            "link": "/story/331"
+        }
+    ],
+    "media": [
+        {
+            "file": "00330_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00330_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00330_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">\"You push against the MANHOLE COVER, but it seems some unbelievable jackass has parked your GETAWAY VAN on top of it.\r<br/> <br/>A familiar feeling stirs. That feeling is overwhelming, soul-blackening rage.\r<br/> <br/>It's the sort of rage that'll make a man feel totally justified in sporting an unnecessarily elaborate assortment of fancy blades.\"</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

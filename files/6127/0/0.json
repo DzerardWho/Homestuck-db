@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6127,
+    "commands": [
+        {
+            "command": "[A6I5] Crowbar: Lead gang back to hideout. ",
+            "link": "/story/6128"
+        }
+    ],
+    "media": [
+        {
+            "file": "06124.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You say hey you. Wise guy in the maroon hat. What was his name again? Some weapon shaped like a seven. <span style=\"color: #2ed73a\">Boomerang</span>? No that wasn't it. Your memory's failing you. Might of taken one blow to the head too many when that universe exploded. Hey, why did that universe explode again? Can't recall for the life of you. <span style=\"color: #2ed73a\">Crowbar</span>. What? <span style=\"color: #2ed73a\">Crowbar</span>'s his name, the guy says. Oh yeah, that's right. Now you remember, you used his crowbar a while ago to smash a priceless clock to pieces. You have his crowbar he asks?? No, you lost track of it. Any idea where it is? No clue you say. Damn he says.\r<br/> <br/>You ask him how they can get out of here. Go somewhere to regroup and make some plans. Hatch some schemes. Maybe draw a map or two. Preferably in a hideout. He says he can lead you back to one of the gang's old haunts. You say after you then. He says hey. Yeah? What happened to the old boss he wonders. Is he dead or something? You say none of your damn business. Now get moving.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

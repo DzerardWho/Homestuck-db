@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 733,
+    "commands": [
+        {
+            "command": "WV: Attach your trusty knife to the meter stick. ",
+            "link": "/story/734"
+        }
+    ],
+    "media": [
+        {
+            "file": "00733.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Against the opposite wall is some sort of CONTROL PANEL which catches your eye.\r<br/> <br/>It has two large screens, but only one appears to be active. There are fields for numbers which appear to be modifiable with the dials to the right. Some numbers are already supplied by default, perhaps entered by the previous user. There are a few buttons below, the largest one bearing the symbol marking this room.\r<br/> <br/>Also it looks like there is a METER STICK propped up there for some reason.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

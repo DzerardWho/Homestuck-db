@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1876,
+    "commands": [
+        {
+            "command": "John: => SWITCH 3 ",
+            "link": "/story/1877"
+        }
+    ],
+    "media": [
+        {
+            "file": "01876_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01876_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You create a PARADOX GHOST IMPRINT of the man you spotted in the woods with your book. The ghost sludge is collected.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

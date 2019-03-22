@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1879,
+    "commands": [
+        {
+            "command": "John: Press blue button. ",
+            "link": "/story/1880"
+        }
+    ],
+    "media": [
+        {
+            "file": "01879.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He is prepared for the occasion with a small pair of outrageously awesome shades.\r<br/> <br/>A meteor overhead races unnoticed, headed to a lake near a laboratory on the east coast of the United States. No aquatic life would survive.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

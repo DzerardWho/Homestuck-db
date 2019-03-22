@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 34,
+    "commands": [
+        {
+            "command": "John: Answer chum. ",
+            "link": "/story/35"
+        }
+    ],
+    "media": [
+        {
+            "file": "00034.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You don't think the situation is quite dire enough to go all the way to \"RANCOROUS\", but you still feel the PESTERCHUM client should reflect your mood change in some way.\r<br/> <br/>\"BULLY\" will have to do. You guess.\r<br/> <br/>This unsurprisingly does nothing whatsoever.\r<br/> <br/>Oh, right, you forgot your chum is still pestering you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

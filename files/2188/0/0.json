@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 2188,
+    "commands": [
+        {
+            "command": "Aradia: Enter. ",
+            "link": "/story/2189"
+        }
+    ],
+    "media": [
+        {
+            "file": "02188_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02188_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02188_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">She really just had no idea what the hell was going on.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

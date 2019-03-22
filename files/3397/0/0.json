@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3397,
+    "commands": [
+        {
+            "command": "John: Check contents of wallet. ",
+            "link": "/story/3398"
+        }
+    ],
+    "media": [
+        {
+            "file": "03394.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are suddenly extremely overwhelmed. How can one boy handle such awesome power and responsibility?\r<br/> <br/>You also wonder why your dad dropped his wallet. It's as if he knew you would find it here. Perhaps he has been cloud gazing too?\r<br/> <br/>Anyway, you wonder what else he's got in here? </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

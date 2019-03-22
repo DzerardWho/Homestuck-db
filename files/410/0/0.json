@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 410,
+    "commands": [
+        {
+            "command": "FINE. NOW WHAT ",
+            "link": "/story/411"
+        }
+    ],
+    "media": [
+        {
+            "file": "00410.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You merge the SLEDGEHAMMER HEAD with its HANDLE, and return it to your STRIFE DECK, repairing the HAMMERKIND ABSTRATUS in the process. \r<br/> <br/>The smaller HAMMER HANDLE is ejected from the deck, since of course handles of any sort no longer belong in there. Obviously.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

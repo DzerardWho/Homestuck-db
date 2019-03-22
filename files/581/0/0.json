@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 581,
+    "commands": [
+        {
+            "command": "Dave: Captchalogue nunchucks. ",
+            "link": "/story/582"
+        }
+    ],
+    "media": [
+        {
+            "file": "00581.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You grab each <span style=\"color: blue\">SH</span><span style=\"color: red\">U</span><span style=\"color: blue\">R</span><span style=\"color: red\">I</span><span style=\"color: blue\">K</span><span style=\"color: red\">E</span><span style=\"color: blue\">N</span> (3) one at a time, knocking out those NUNCHAKU.\r<br/> <br/>But no worries. You've got a plan.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

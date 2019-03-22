@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 4010,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/4011"
+        }
+    ],
+    "media": [
+        {
+            "file": "04007.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "04007retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #626262\">PCG: BUT BECAUSE I WAS IN TOO MUCH OF A HURRY TO DO THE JOB RIGHT</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

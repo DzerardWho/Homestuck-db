@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5626,
+    "commands": [
+        {
+            "command": "Roxy: Examine folder. ",
+            "link": "/story/5627"
+        }
+    ],
+    "media": [
+        {
+            "file": "05623.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You wake up from your almost-family reunion. It was almost a reunion, just as almost as it was an actual family member. You now find yourself in a Derse jail cell. Ow your head.\r<br/> <br/>What's that? Looks like a folder prepared for your perusal. Maybe a briefing of some sort. That sure is a gaudy looking classified file. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

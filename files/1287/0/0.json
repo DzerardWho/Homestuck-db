@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1287,
+    "commands": [
+        {
+            "command": "[I] PSS: Remove Crowbar's pin. ",
+            "link": "/story/1288"
+        }
+    ],
+    "media": [
+        {
+            "file": "01287.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are now Past Spades Slick... again. \r<br/> <br/>You were just about to pull <span style=\"color: #2ed73a\">Crowbar</span>'s pin. You guess all that stuff with your future self and <span style=\"color: #2ed73a\">Sawbuck</span> originally happened in this room while we were all off watching someone else, like Diamonds Droog or something. That makes sense.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

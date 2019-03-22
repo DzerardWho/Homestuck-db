@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 235,
+    "commands": [
+        {
+            "command": "Rose: Try to connect! ",
+            "link": "/story/236"
+        }
+    ],
+    "media": [
+        {
+            "file": "00235.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

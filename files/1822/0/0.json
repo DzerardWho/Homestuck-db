@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1822,
+    "commands": [
+        {
+            "command": "Dave: Combine puppet tux + smuppet. ",
+            "link": "/story/1823"
+        }
+    ],
+    "media": [
+        {
+            "file": "01822_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01822_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make the TURNTOP.\r<br/> <br/>Convenient computing on the go. Sort of like you have with your iSHADES, but with all your important files and apps on there. Not to mention Sburb.\r<br/> <br/>Plus MAYBE it has some weird time powers??? You have no idea. You'll mess with it later.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

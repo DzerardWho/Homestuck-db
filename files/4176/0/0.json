@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4176,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4177"
+        }
+    ],
+    "media": [
+        {
+            "file": "04173_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04173_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You stash Terry in your PUZZLE MODUS. It's quite a handy modus, allowing you to captchalogue objects of any size, as long as you can fit them all in a finite space by maneuvering the cards around like a big game of Tetris. You like it because it keeps you sharp for solving any puzzles you might find when you go out raiding hallowed tombs, which is never.\r<br/> <br/>The bunny fits in ok, but it's a tight squeeze! </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

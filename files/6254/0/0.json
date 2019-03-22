@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6254,
+    "commands": [
+        {
+            "command": "MALE: GO OVER THERE. ",
+            "link": "/story/6255"
+        }
+    ],
+    "media": [
+        {
+            "file": "06252.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">BEEP BEEP BEEP.\r<br/> <br/>ALL ABOARD THE IDIOT WAGON!\r<br/> <br/>THIS IS THE KIND OF THING THAT HAPPENS ALMOST EVERY SCREEN. AS OPPOSED TO ACCOMPLISHING THINGS THAT ARE IMPORTANT, OR MAKE SENSE. LET'S TAKE NOTE OF THE FACT THAT I AM SLAMMING THIS TENDENCY. AND MOVE ON.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

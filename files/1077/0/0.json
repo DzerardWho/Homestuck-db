@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1077,
+    "commands": [
+        {
+            "command": "Jade: Use harpoon to zip-line into the great outdoors. ",
+            "link": "/story/1078"
+        }
+    ],
+    "media": [
+        {
+            "file": "01077.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh yes, of course! One of your REMINDERS reminds you that you still have a package to deliver too. This way you can kill two birds with one harpoon gun.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

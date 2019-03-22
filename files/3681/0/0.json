@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3681,
+    "commands": [
+        {
+            "command": "John: Wear the hood. Be the leader. ",
+            "link": "/story/3682"
+        }
+    ],
+    "media": [
+        {
+            "file": "03678.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Wait, what happened to her green eye? And why is she feverishly gesticulating toward the fellow in the ghost sheets? This is so ridiculous, you cannot turn your back on these people to admire a beautiful hammer for even one moment.\r<br/> <br/>You think that is enough fooling around. It is time to get down to business again. The serious business of being an important and heroic leader.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

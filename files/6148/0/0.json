@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6148,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/6149"
+        }
+    ],
+    "media": [
+        {
+            "file": "06145.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You don't need a fancy robotic eye to tell you what that is.\r<br/> <br/>You know EXACTLY what that is.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

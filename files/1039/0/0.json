@@ -1,0 +1,42 @@
+{
+    "version": 0,
+    "page": 1039,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1040"
+        }
+    ],
+    "media": [
+        {
+            "file": "01039_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01039_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01039_3.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01039_4.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01039_5.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01039_6.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

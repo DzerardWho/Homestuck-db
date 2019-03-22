@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 5106,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/5107"
+        }
+    ],
+    "media": [
+        {
+            "file": "05103_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "05103_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It seems he has left a series of UNPLEASANT NOTES to taunt you. \r<br/> <br/>Recently he's taken an interest in \"learning to draw,\" which you think is an extremely generous way of putting it. He has always shown such contempt for art in general. Maybe he's finally trying to expand his horizons?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 693,
+    "commands": [
+        {
+            "command": "WV: Rescue that poor lightning bug. ",
+            "link": "/story/694"
+        }
+    ],
+    "media": [
+        {
+            "file": "00693.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The container is full of MOTOR OIL. This does not seem useful to you right now.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

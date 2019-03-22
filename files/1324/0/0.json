@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1324,
+    "commands": [
+        {
+            "command": "[I] DD: Ask Clover for the ultimate riddle. ",
+            "link": "/story/1325"
+        }
+    ],
+    "media": [
+        {
+            "file": "01324.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He refuses outright and starts doing a really frisky jig!\r<br/> <br/>DOO DEE DOO DEE DOO DOO\r<br/> <br/>DOO DEE DOO DEE DOO DOO\r<br/> <br/>He begins spinning a fanciful series of riddles illuminating the true path to opening the vault. Mysterious music fills your ears as your mind assumes the shape of a pretzel. \r<br/> <br/>DOO DEE DOO DEE DOO DOO\r<br/> <br/>DOO DEE DOO DEE DOO DOO\r<br/> <br/>DOO DOO DOO DEE DOO DOO DOO\r<br/> <br/>DOO DEE DOO DEE DOO DOO\r<br/> <br/>This is how the music would sound if we were listening to it right now.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

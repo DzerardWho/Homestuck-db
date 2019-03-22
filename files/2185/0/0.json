@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2185,
+    "commands": [
+        {
+            "command": "Aradia: Connect to server player. ",
+            "link": "/story/2186"
+        }
+    ],
+    "media": [
+        {
+            "file": "02185_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02185_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have an arrangement to begin the session as co-leader with one of the blue bloods. You understand this player intends to make a power grab, and take sole possession of the leadership role. Such subterfuge is typical of their caste. But you're perfectly ok with this. It's one of the many things you're ok with. \r<br/> <br/>You allow your co-player to take the lead and enter the Medium first. You understand that the leadership role is essentially meaningless, aside from offering the distinction of being the first player to enter. You also understand that entering the game second was always your intention. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

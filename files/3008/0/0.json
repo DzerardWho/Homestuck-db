@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3008,
+    "commands": [
+        {
+            "command": "Greetings. ",
+            "link": "/story/3009"
+        }
+    ],
+    "media": [
+        {
+            "file": "03007.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You think you will try to keep conversations with Becsprite to a minimum from now on.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

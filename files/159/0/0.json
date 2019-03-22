@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 159,
+    "commands": [
+        {
+            "command": "John: Go out to balcony. ",
+            "link": "/story/160"
+        }
+    ],
+    "media": [
+        {
+            "file": "00159.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This should be useful. Now you can keep tabs on your chums while you wander around the house.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

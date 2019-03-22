@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4288,
+    "commands": [
+        {
+            "command": "No, not quite. ",
+            "link": "/story/4289"
+        }
+    ],
+    "media": [
+        {
+            "file": "04285.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Huh? Who?\r<br/> <br/>Oh, yeah. <span style=\"font-style: italic\">Those</span> people.\r<br/> <br/>Aren't they all dead?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

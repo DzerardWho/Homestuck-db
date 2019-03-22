@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 594,
+    "commands": [
+        {
+            "command": "Dave: Open refrigerator. ",
+            "link": "/story/595"
+        }
+    ],
+    "media": [
+        {
+            "file": "00594.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh, it was just Lil' Cal again. You can never stay mad at him.\r<br/> <br/>Anyway, you've got to get this way rude hunger under control. You figure you oughta scope the fridge for some grub. This hunger is so ill-mannered it would make a room full of snooty dowagers commit mass suicide.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

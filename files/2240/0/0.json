@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2240,
+    "commands": [
+        {
+            "command": "Aradia: Make her pay. ",
+            "link": "/story/2241"
+        }
+    ],
+    "media": [
+        {
+            "file": "02240.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's probably best you listen to the advice of your friend. \r<br/> <br/>And yet, the voices are as lucid as ever. They urge you to make her pay.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

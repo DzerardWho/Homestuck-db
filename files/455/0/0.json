@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 455,
+    "commands": [
+        {
+            "command": "Dave: Look at your brother's computer. ",
+            "link": "/story/456"
+        }
+    ],
+    "media": [
+        {
+            "file": "00455_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00455_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your BRO has so much sweet gear it's hard to keep up with it all sometimes. Here's his computer setup. He's usually got a lot of stuff cooking on here at any given moment.\r<br/> <br/>Since he's not around you might as well sneak a peep.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

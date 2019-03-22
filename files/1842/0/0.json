@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1842,
+    "commands": [
+        {
+            "command": "Dave: Combine fetus in a jar and self portrait photo. ",
+            "link": "/story/1843"
+        }
+    ],
+    "media": [
+        {
+            "file": "01842_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01842_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You take one of your patented ironic cool guy self portraits.\r<br/> <br/>Man. So cool.\r<br/> <br/><span style=\"color: red\">thats really all there is to say on the matter</span></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

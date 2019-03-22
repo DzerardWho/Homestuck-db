@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3816,
+    "commands": [
+        {
+            "command": "[o] Tock. ",
+            "link": "/story/3817"
+        }
+    ],
+    "media": [
+        {
+            "file": "03813_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03813_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">I have always believed that a good storyteller should keep a comprehensive record of past events on hand. A scrapbook of personal significance, for instance, from which he may piece together current moments from past ones of a similar, if not identical nature. It's more efficient.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

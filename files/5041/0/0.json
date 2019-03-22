@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5041,
+    "commands": [
+        {
+            "command": "Jane: Deploy. ",
+            "link": "/story/5042"
+        }
+    ],
+    "media": [
+        {
+            "file": "05038.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #00d5f2\">GG: WHOOPS!</p>\n<p style=\"color: #00d5f2\">GG: Dag nabbit. This trackpad is AWFUL!</p>\n<p style=\"color: #00d5f2\">GG: Lousy dad computer.</p>\n<p style=\"color: #00d5f2\">GG: Why does he have to buy his computers at the Dadly Depot?</p>\n<p style=\"color: #00d5f2\">GG: Why does he have to buy EVERYTHING at the Dadly Depot?</p>\n<p style=\"color: #00d5f2\">GG: I really need to keep looking for him soon. Thinking about our expeditions to the Dadly Depot is making me miss him.</p>\n<p style=\"color: #e00707\">TT: You really need to hurry up and deploy that junk instead of that.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

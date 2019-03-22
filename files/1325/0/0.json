@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1325,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1326"
+        }
+    ],
+    "media": [
+        {
+            "file": "01325.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You ask <span style=\"color: #2ed73a\">Clover</span> to open the safe.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

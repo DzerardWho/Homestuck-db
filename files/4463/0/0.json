@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4463,
+    "commands": [
+        {
+            "command": "Examine room. ",
+            "link": "/story/4464"
+        }
+    ],
+    "media": [
+        {
+            "file": "04460.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Thank you, cat who is probably Jaspers.\r<br/> <br/>The final two chromosomic symbols have been released from their fluffy, twitching prison.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

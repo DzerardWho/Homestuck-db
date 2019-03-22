@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2135,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2136"
+        }
+    ],
+    "media": [
+        {
+            "file": "02135_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02135_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's not up to you to decide what you retrieve from your sylladex. It's up to the spirits.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

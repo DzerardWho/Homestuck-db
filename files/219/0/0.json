@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 219,
+    "commands": [
+        {
+            "command": "Rose: Stroke writing journal and mutter, 'My precious...' ",
+            "link": "/story/220"
+        }
+    ],
+    "media": [
+        {
+            "file": "00219.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ugh, what a terrible idea! The thought alone makes you sick to your stomach.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

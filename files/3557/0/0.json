@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3557,
+    "commands": [
+        {
+            "command": "Jack: Contact DD?. ",
+            "link": "/story/3558"
+        }
+    ],
+    "media": [
+        {
+            "file": "03554.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You could not do it. \r<br/> <br/>You could not kill the girl.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

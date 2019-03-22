@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1881,
+    "commands": [
+        {
+            "command": "John: Zoom in. ",
+            "link": "/story/1882"
+        }
+    ],
+    "media": [
+        {
+            "file": "01881_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01881_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You switch again to a view of your neighborhood, on April 13th, 1996. It is the day of your birth. \r<br/> <br/>There is more real estate you do not recognize near the recently devastated baked goods facility. It is a shopping mall you have never seen before.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

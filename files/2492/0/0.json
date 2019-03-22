@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2492,
+    "commands": [
+        {
+            "command": "Uh... Wolf? ",
+            "link": "/story/2493"
+        }
+    ],
+    "media": [
+        {
+            "file": "02491.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Excuse me? \r<br/> <br/>Oh, I'm sorry. Am I not going fast enough for you?\r<br/> <br/>Well <span style=\"font-style: italic\">QUITE FRANKLY</span>, your majesty, I don't think you realize what kind of hell I've been through.\r<br/> <br/>Do you have any idea how long I've been trapped in this attic??\r<br/> <br/>Do you have any idea how FUCKING SCARY it is in here???\r<br/> <br/>Do you have even the SLIGHTEST CLUE how many times that wolf head over there has SCARED THE SHIT OUT OF ME?????</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

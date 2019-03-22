@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 700,
+    "commands": [
+        {
+            "command": "WV: Survey surroundings in search of more terrain for city. ",
+            "link": "/story/701"
+        }
+    ],
+    "media": [
+        {
+            "file": "00700.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

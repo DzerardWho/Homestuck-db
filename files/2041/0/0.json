@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2041,
+    "commands": [
+        {
+            "command": "Terezi: Sentence the criminal. ",
+            "link": "/story/2042"
+        }
+    ],
+    "media": [
+        {
+            "file": "02041_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02041_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The prosecution begs your pardon, dear senator, but you appear to have dropped something. A personal satchel, perhaps? <span style=\"font-style: italic\">CHOCK FULL OF ILLICIT, EMBEZZLED BEETLES, WITH WHICH YOU HAVE THE UNMITIGATED CHEEK TO WALTZ BEFORE HIS TYRANNY, CONCEALED BENEATH YOUR ILL-GOTTEN FINERY??????</span> <br/> <br/>The prosecution requests a short recess from His Honorable Tyranny so that all law abiding and Mother Grub fearing citizens may go outside and <span style=\"font-style: italic\">puke</span>.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

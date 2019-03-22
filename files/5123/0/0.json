@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5123,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/5124"
+        }
+    ],
+    "media": [
+        {
+            "file": "05120.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It comes in great supply from your planet's star, a MASSIVE RED SUPERGIANT. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

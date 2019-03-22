@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4906,
+    "commands": [
+        {
+            "command": "Jack: Convince second guard to pick up keys for you. ",
+            "link": "/story/4907"
+        }
+    ],
+    "media": [
+        {
+            "file": "04903.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He looks none too pleased by your misbehavior. This will surely result in reduced rations. You can expect to find a slightly smaller pumpkin in your cell come Skaia rise, mister.\r<br/> <br/>You keep beckoning him. Just a little closer. A little closer...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

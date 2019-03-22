@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1065,
+    "commands": [
+        {
+            "command": "John: Combine Dad's hat and Problem Sleuth game. ",
+            "link": "/story/1066"
+        }
+    ],
+    "media": [
+        {
+            "file": "01065_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01065_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make the COSBYTOP COMPUTER.\r<br/> <br/>This thing is probably a useless piece of shit, but making it has caused you to feel an alarming sense of satisfaction.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

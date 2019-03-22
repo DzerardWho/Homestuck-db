@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2145,
+    "commands": [
+        {
+            "command": "Sollux: Get back to Aradia. ",
+            "link": "/story/2146"
+        }
+    ],
+    "media": [
+        {
+            "file": "02145.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You try to be the mysterious spider girl and fail. \r<br/> <br/>She's way too mysterious for you to be her yet! Seriously, what's up with those glasses? What's up with that robo-arm? What's her deal!\r<br/> <br/>She guesses it's flattering that you want to be her though. She guesses she doesn't mind. It's cool.\r<br/> <br/>We'll learn all about her a little later.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

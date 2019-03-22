@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4404,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4405"
+        }
+    ],
+    "media": [
+        {
+            "file": "04401.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He says he ate most of them because they were delicious, and as far as he knows, aren't poisonous to most everybody else. But he did save a few to get the job done, because he is a professional who always carries out his orders.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

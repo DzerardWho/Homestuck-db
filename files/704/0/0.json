@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 704,
+    "commands": [
+        {
+            "command": "WV: Check that rampaging boy on the screen. ",
+            "link": "/story/705"
+        }
+    ],
+    "media": [
+        {
+            "file": "00704.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And on the southern wall, beyond an impenetrable veil of darkness, occupying the furthest orbit yet, there is an OMINOUS PLANET. A MOON circles this one too.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

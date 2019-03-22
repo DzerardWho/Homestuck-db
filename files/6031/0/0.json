@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6031,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/6032"
+        }
+    ],
+    "media": [
+        {
+            "file": "06028.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #005682\">VRISKA: Are you coming or what!</p>\n<p style=\"color: #005682\">ARANEA: Yes, please come! I was a8out to 8egin one final story 8efore we reach the treasure!</p>\n<p style=\"color: #0715cd\">JOHN: oh holy shit another story? i'm there!!!</p>\n<p style=\"color: #0715cd\">JOHN: sorry aradia, i'd love to keep chatting, but you heard the lady. it's story time again.</p>\n<p style=\"color: #a1a100\">SOLLUX: w0w aradia, y0u actually sent the guy running t0 hear a serket st0ry.</p>\n<p style=\"color: #a1a100\">SOLLUX: that was a REALLY impressive creep 0ut j0b, nice.</p>\n<p style=\"color: #a10000\">ARADIA: :(</p>",
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

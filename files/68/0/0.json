@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 68,
+    "commands": [
+        {
+            "command": "John: Read Colonel Sassacre's text. ",
+            "link": "/story/69"
+        }
+    ],
+    "media": [
+        {
+            "file": "00068.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You can carry hefty items, but that thing is just way too big. Get real!\r<br/> <br/>Besides, you don't even want it. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

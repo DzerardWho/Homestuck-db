@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1996,
+    "commands": [
+        {
+            "command": "Karkat: Examine movie posters. ",
+            "link": "/story/1997"
+        }
+    ],
+    "media": [
+        {
+            "file": "01996.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ok, this sure is cozy and all, but you can't be napping all day like a chump. Dammit, you're a busy guy. You are sort of a big deal.\r<br/> <br/>Goddamn slime. Now you have to change your clothes too. What were you thinking?\r<br/> <br/>Luckily all your clothes are the same. Trolls think fashion is stupid.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

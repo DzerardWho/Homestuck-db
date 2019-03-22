@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 985,
+    "commands": [
+        {
+            "command": "Rose: Watch the meteor impact. ",
+            "link": "/story/986"
+        }
+    ],
+    "media": [
+        {
+            "file": "00985.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh, you're back home. The well-stocked bar and the vantage from the window tells you this is your MOM'S room. Or at least what you thought was her room.\r<br/> <br/>You decide not to be especially melodramatic about this revelation.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1518,
+    "commands": [
+        {
+            "command": "Dave: Install software. ",
+            "link": "/story/1519"
+        }
+    ],
+    "media": [
+        {
+            "file": "01518_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01518_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 325,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/326"
+        }
+    ],
+    "media": [
+        {
+            "file": "00325.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You open the HEPHAESTUS web browser and direct it to your ironically maintained blog where you post monthly satirical reviews of GAMEBRO MAGAZINE. Your latest post is a review of the <a class=\"postlink\" href=\"/images/scraps/gamebro_march.jpg\" target=\"_blank\">MARCH ISSUE</a>.\r<br/> <br/>You've been meaning to write a review for the latest issue too, but you've been sort of dogging it. Something about the game they're reviewing just doesn't strike you as ripe for satirical purposes.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

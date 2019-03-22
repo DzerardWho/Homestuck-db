@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 815,
+    "commands": [
+        {
+            "command": "Jade: Press the steak button. ",
+            "link": "/story/816"
+        }
+    ],
+    "media": [
+        {
+            "file": "00815.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You take a look at the REFRIGERATOR'S rotary interface. You wonder what he is in the mood for today?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

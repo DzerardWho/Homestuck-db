@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4480,
+    "commands": [
+        {
+            "command": "Roxy: Sip martini thoughtfully. ",
+            "link": "/story/4481"
+        }
+    ],
+    "media": [
+        {
+            "file": "04477.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">That isn't a command!\r<br/> <br/>Excuse me, but you beg to differ.\r<br/> <br/>You poured that beautiful martini a little while ago, and you've been letting it gather cobwebs while you horse around with random shit in your room. What a crime.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

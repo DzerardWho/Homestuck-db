@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3196,
+    "commands": [
+        {
+            "command": "Jade: View John. ",
+            "link": "/story/3197"
+        }
+    ],
+    "media": [
+        {
+            "file": "03193.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">These things cost a fortune to make. They better do something awesome.\r<br/> <br/>AND IT TURNS OUT THEY DO!\r<br/> <br/>The sophisticated computing technology merged with the crystal ball provides a simple way to see anything going on right now in the incipisphere! How amazing is that?\r<br/> <br/>As the Witch of Space, you figure it's about time you got better acquainted with the full breadth of your domain, which is to say, all physical locations.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

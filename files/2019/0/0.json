@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2019,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2020"
+        }
+    ],
+    "media": [
+        {
+            "file": "02019_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02019_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You leave your hive and head out to the beach. There is no sign of your custodian. \r<br/> <br/>You should not stay out here very long. The SEA DWELLERS are quite hostile.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

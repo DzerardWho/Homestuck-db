@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3120,
+    "commands": [
+        {
+            "command": "Steal his will. ",
+            "link": "/story/3121"
+        }
+    ],
+    "media": [
+        {
+            "file": "03117.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 1059,
+    "commands": [
+        {
+            "command": "John: Combine ghost gauntlet and bathroom mirror. ",
+            "link": "/story/1060"
+        }
+    ],
+    "media": [
+        {
+            "file": "01059_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01059_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01059_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make the REMOTE GHOST GAUNTLET. \r<br/> <br/>It looks like when you put on the special computer-glove it lets you control the big slimy ghost hand.\r<br/> <br/>The GHOST GAUNTLET appears to have a considerably higher lift capacity than your own puny arms.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

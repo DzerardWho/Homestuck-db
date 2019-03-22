@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2526,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2527"
+        }
+    ],
+    "media": [
+        {
+            "file": "02525_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02525_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You search for the appropriate card through your SCRATCH AND SNIFF modus.\r<br/> <br/>The card will be unmistakable. It is the one that smells like a fruity rainbow that makes you sneeze.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

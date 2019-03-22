@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 8,
+    "commands": [
+        {
+            "command": "John: Captchalogue smoke pellets. ",
+            "link": "/story/9"
+        }
+    ],
+    "media": [
+        {
+            "file": "00008.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">In here you keep an array of humorous and mystical ARTIFACTS, each one a devastating weapon in the hands of a SKILLED MAGICIAN or a CUNNING PRANKSTER.\r<br/> <br/>You are neither of these things.\r<br/> <br/>Among the ARTIFACTS are: TWO (2) FAKE ARMS [CURRENTLY CAPTCHALOGUED IN YOUR SYLLADEX], ONE (1) PAIR OF TRICK HANDCUFFS, ONE (1) STUNT SWORD, ONE (1) MAGICIAN'S HAT, ONE (1) PAIR OF BEAGLE PUSS GLASSES, SEVERAL (~) SMOKE PELLETS, SEVERAL (~) BLOOD CAPSULES, and ONE (1) COPY OF COLONEL SASSACRE'S DAUNTING TEXT OF MAGICAL FRIVOLITY AND PRACTICAL JAPERY, and ONE (1) COPY OF HARRY ANDERSON'S \"WISE GUY\", BY MIKE CAVENEY.\r<br/> <br/>Some of this stuff may come in handy at some point. For now, you decide to just take the SMOKE PELLETS.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

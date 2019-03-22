@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4841,
+    "commands": [
+        {
+            "command": "Jake: Regain consciousness. ",
+            "link": "/story/4842"
+        }
+    ],
+    "media": [
+        {
+            "file": "04838.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You cannot proceed to the TIME CAPSULE because you are lying on the floor unconscious.\r<br/> <br/>While descending deep into the ruins, a sudden earthquake jammed the elevator on its way down, causing you to take a nasty spill to the floor below. Luckily you were wearing your trusty SKULLTOP, preventing a more serious concussion. You nevertheless lost consciousness, and attempt with all your might to regain it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

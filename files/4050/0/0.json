@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4050,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/4051"
+        }
+    ],
+    "media": [
+        {
+            "file": "04047.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">I think now would be a good time for another round of reeducation regarding her purpose. A little refresher on the prestigious employment opportunity for which she is being groomed. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

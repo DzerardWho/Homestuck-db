@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1746,
+    "commands": [
+        {
+            "command": "Rose: Examine laptop. ",
+            "link": "/story/1747"
+        }
+    ],
+    "media": [
+        {
+            "file": "01746.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

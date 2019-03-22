@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 234,
+    "commands": [
+        {
+            "command": "Rose: Hurry up to that observatory. ",
+            "link": "/story/235"
+        }
+    ],
+    "media": [
+        {
+            "file": "00234.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "00234retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The door opens to an exterior walkway, leading to the observatory entrance. \r<br/> <br/>You've seen less inclement weather before. Oh the things you'll do to help out a friend.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 486,
+    "commands": [
+        {
+            "command": "John: Check cabinets for imps or useful items. ",
+            "link": "/story/487"
+        }
+    ],
+    "media": [
+        {
+            "file": "00486.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ok, you obviously don't have enough grist yet for something that ambitious. But you can get started with something of a foundation for upward construction, at least.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

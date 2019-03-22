@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3014,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3015"
+        }
+    ],
+    "media": [
+        {
+            "file": "03013.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have no idea how to rule. What orders could there possibly be to give anyway?\r<br/> <br/>All you want to do is deliver mail. You do not want to be the stupid queen. And you do not want to wear this stupid mailbox crown.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 1841,
+    "commands": [
+        {
+            "command": "Dave: Take photo of self. ",
+            "link": "/story/1842"
+        }
+    ],
+    "media": [
+        {
+            "file": "01841_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01841_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01841_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make the CAPTCHAROID CAMERA.\r<br/> <br/>You can use it to snap a ghost image of any object without captchaloguing it. Spits it out on a brand new captchalogue card every time. Could be a useful way to take a large inventory of anything you encounter without cluttering up your sylladex. Also for grabbing codes for stuff you can't ordinarily pick up.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

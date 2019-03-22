@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3790,
+    "commands": [
+        {
+            "command": "[o] And what sort of spectator would you be... ",
+            "link": "/story/3791"
+        }
+    ],
+    "media": [
+        {
+            "file": "03787.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And for that matter, what sort of story would this be, with our human Hero of Breath made to stay a cadaver? Definitely not one the alpha timeline would allow.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

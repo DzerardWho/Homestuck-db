@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6900,
+    "commands": [
+        {
+            "command": "[S] GAME OVER. ",
+            "link": "/story/6901"
+        }
+    ],
+    "media": [
+        {
+            "file": "06897.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

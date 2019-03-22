@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1775,
+    "commands": [
+        {
+            "command": "John: Examine nearby station. ",
+            "link": "/story/1776"
+        }
+    ],
+    "media": [
+        {
+            "file": "01775.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You equip the JUNIOR ECTOBIOLOGIST'S LAB SUIT.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2127,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2128"
+        }
+    ],
+    "media": [
+        {
+            "file": "02127_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02127_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">While she slept in her egg, she would communicate with you in your sleep. \r<br/> <br/>After your accident, she would use your dreams to teach you to detect the world around you without vision.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

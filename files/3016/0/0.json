@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3016,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3017"
+        }
+    ],
+    "media": [
+        {
+            "file": "03015.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your new ruler seems upset. You understand it is not easy being in a position of authority.\r<br/> <br/>You politely inform her that as the queen she is under no obligation to wear a crown. It is her decision.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

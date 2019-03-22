@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3430,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3431"
+        }
+    ],
+    "media": [
+        {
+            "file": "03427.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You were hoping it wouldn't have to come to this. But you're running out of options. You need backup.\r<br/> <br/>STRONG backup.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

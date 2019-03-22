@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1279,
+    "commands": [
+        {
+            "command": "[I] SS: Stick Crowbar's pin back in again. ",
+            "link": "/story/1280"
+        }
+    ],
+    "media": [
+        {
+            "file": "01279_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01279_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You dump them in the WRATHTUB, then stick the tub in your own DECK OF CARDS. \r<br/> <br/>But you give Boxcars back his sordid literature, which he'd carelessly left in plain sight. No one will ever catch you leaving your smut around. And even if you did, that copy of TERRIER FANCY MAGAZINE could belong to ANYBODY. No one could prove nothin'.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

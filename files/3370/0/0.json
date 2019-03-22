@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 3370,
+    "commands": [
+        {
+            "command": "[???????] ",
+            "link": "/story/7288"
+        },
+        {
+            "command": "Terezi: Dust for prints. ",
+            "link": "/story/3371"
+        }
+    ],
+    "media": [
+        {
+            "file": "03367_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03367_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Professor Pucefoot immediately begins drawing a pointless chalk outline around the body, as is standard protocol.\r<br/> <br/>Which is to say, you hold up a piece of chalk to his snout and draw it yourself. Yuck, the chalk is getting blood on it! You will have to discard that color.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

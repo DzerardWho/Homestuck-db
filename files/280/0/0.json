@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 280,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/281"
+        }
+    ],
+    "media": [
+        {
+            "file": "00280.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The pesky SPRITE eludes you again! Not even the great Colonel himself can outfox it!!!\r<br/> <br/>In narrowly missing with your attempt to create the COLONELSPRITE, you drop the massive tome. The entire house rattles under the astonishing girth of the book.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

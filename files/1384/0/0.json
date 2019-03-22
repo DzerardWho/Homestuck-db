@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1384,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1385"
+        }
+    ],
+    "media": [
+        {
+            "file": "01384_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01384_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's not up to you to say what card it goes on! The modus decides! All you get to do is draw.\r<br/> <br/>Anyway you try sketching your ECLECTIC BASS. It's kind of hard to draw accurately.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

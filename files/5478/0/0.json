@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5478,
+    "commands": [
+        {
+            "command": "[A6I4] ==> ",
+            "link": "/story/5479"
+        }
+    ],
+    "media": [
+        {
+            "file": "05475.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #323232\">HEY.</p>\n<p style=\"color: #323232\">VOICE IN MY HEAD.</p>\n<p style=\"color: #000000\">Yes?</p>\n<p style=\"color: #323232\">SHUT UP.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

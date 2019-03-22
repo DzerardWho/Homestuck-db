@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2477,
+    "commands": [
+        {
+            "command": "And later still... ",
+            "link": "/story/2478"
+        }
+    ],
+    "media": [
+        {
+            "file": "02476.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What. \r<br/> <br/>It's just soda. Not great, but not that bad either. What's the big deal?\r<br/> <br/>We all need to settle down here.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

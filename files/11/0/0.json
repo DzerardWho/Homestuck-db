@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 11,
+    "commands": [
+        {
+            "command": "John: Read note on drawer. ",
+            "link": "/story/12"
+        }
+    ],
+    "media": [
+        {
+            "file": "00011.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Is it even possible to get any more hard boiled than that? You really doubt it. <a class=\"postlink\" href=\"http://www.topatoco.com/merchant.mvc?Screen=CTGY&amp;Store_Code=TO&amp;Category_Code=MSPA-ART\" target=\"_blank\">This poster was one of your wisest purchases.</a> <br/> <br/>There is a nice spot on the wall next to it. You've been meaning to hang another poster there soon.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

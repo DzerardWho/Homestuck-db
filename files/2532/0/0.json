@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2532,
+    "commands": [
+        {
+            "command": "Nepeta: Aggress. ",
+            "link": "/story/2533"
+        }
+    ],
+    "media": [
+        {
+            "file": "02531_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02531_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Why yes, as a matter of fact. It does appear that the ROGUE OF HEART has been keeping herself quite busy.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

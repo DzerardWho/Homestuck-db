@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 857,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/858"
+        }
+    ],
+    "media": [
+        {
+            "file": "00857.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "00857_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You reach the ground level. This is the stupid thing blocking the transportalizer. It is unspeakably hideous.\r<br/> <br/>Down the southeast hall is the GRAND FOYER. You'll have to cross through it to leave the house.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

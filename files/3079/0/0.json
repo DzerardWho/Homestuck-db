@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3079,
+    "commands": [
+        {
+            "command": "John: Proceed to Quest Bed. ",
+            "link": "/story/3080"
+        }
+    ],
+    "media": [
+        {
+            "file": "03077.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

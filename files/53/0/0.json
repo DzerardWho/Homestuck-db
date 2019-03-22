@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 53,
+    "commands": [
+        {
+            "command": "John: Combine father's pipe with clever disguise. ",
+            "link": "/story/54"
+        }
+    ],
+    "media": [
+        {
+            "file": "00053.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You clumsily mishandle the SACRED URN. Ash is everywhere.\r<br/> <br/>In retrospect, upon mulling cinematic tropes regarding ash-filled urns, this outcome was a virtual certainty.\r<br/> <br/>You'd probably better clean it up before DAD finds it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

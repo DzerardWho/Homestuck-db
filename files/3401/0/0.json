@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3401,
+    "commands": [
+        {
+            "command": "John: Empty wallet. ",
+            "link": "/story/3402"
+        }
+    ],
+    "media": [
+        {
+            "file": "03398.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You gulp down decadent foamy dollops of the BEARD BUSTER, and quickly respond with the BLUH callback as depicted jostling in the lower right hand corner of the image, because it is not nearly as tasty as you'd hoped.\r<br/> <br/>But then you keep eating it anyway.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2769,
+    "commands": [
+        {
+            "command": "Sollux: Enter name. ",
+            "link": "/story/2770"
+        }
+    ],
+    "media": [
+        {
+            "file": "02768.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

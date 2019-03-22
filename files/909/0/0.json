@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 909,
+    "commands": [
+        {
+            "command": "John: Jump down. ",
+            "link": "/story/910"
+        }
+    ],
+    "media": [
+        {
+            "file": "00909.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are suddenly feeling apprehensive about entering your father's room. With all the scamperin' around it almost slipped your mind how much you hate his hideous clowns.\r<br/> <br/>No use putting it off any longer. There is only one thing left to do.\r<br/> <br/>Give me a 'D'. \r<br/> <br/>Give me an 'E'.\r<br/> <br/>Give me an 'S'.\r<br/> <br/>Give me a 'C'...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 468,
+    "commands": [
+        {
+            "command": "Dave: Pester Rose. ",
+            "link": "/story/469"
+        }
+    ],
+    "media": [
+        {
+            "file": "00468.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Looks like Rose is finally logged in again.\r<br/> <br/>Didn't John say her house was burning down? You wonder if she's on fire yet or what.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

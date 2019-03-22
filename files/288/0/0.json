@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 288,
+    "commands": [
+        {
+            "command": "THE PURPLE TEXT IS LESS IRRATIONAL THAN THE RED TEXT. ",
+            "link": "/story/289"
+        }
+    ],
+    "media": [
+        {
+            "file": "00288.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You head out to the balcony to find out what Rose has in mind. She is messaging you again.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

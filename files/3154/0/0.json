@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3154,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3155"
+        }
+    ],
+    "media": [
+        {
+            "file": "03151.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You lost your MAGIC CUE BALL in the explosion, so you will have to draw it and hope your modus knows what you're getting at.\r<br/> <br/>You have been dying to see its predictions, and you think you are on to something here!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

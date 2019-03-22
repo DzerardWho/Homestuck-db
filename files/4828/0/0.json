@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4828,
+    "commands": [
+        {
+            "command": "Gamzee: Retrieve contraband from chest of whimsy. ",
+            "link": "/story/4829"
+        }
+    ],
+    "media": [
+        {
+            "file": "04825.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ok, what the FUCK are you going to do with all these stupid potions? Talk about buyer's remorse. You have had enough of this vulgar clown and his pushy potion peddling. \r<br/> <br/>You do not want him to be your guide and you politely ask him to leave your property.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

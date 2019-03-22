@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 803,
+    "commands": [
+        {
+            "command": "Jade: Examine magic 8-ball and magic cue ball. ",
+            "link": "/story/804"
+        }
+    ],
+    "media": [
+        {
+            "file": "00803_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00803_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Among the FORTUNE TELLING KNICKKNACKS are these items: a CRYSTAL BALL plus compulsory VELVET PILLOW, a TAROT DECK, a MAGIC 8 BALL, a MAGIC CUE BALL, and one of your favorite books of all time, PROBLEM SOOTH.\r<br/> <br/>Among the USEFUL GIZMOS are of course your COMPUTER, which you keep inside a FUN LUNCHBOX for easy transport, and a couple of gizmos you keep handy so you don't always have to make the long trip to the kitchen. There is a COOKALIZER for preparing delicious meals, and a REFRIGERATOR, a name which clearly is a wacky variation on the much more common household item, the REFRIGIFYIFICATOR.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

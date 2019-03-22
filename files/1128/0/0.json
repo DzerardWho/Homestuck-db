@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1128,
+    "commands": [
+        {
+            "command": "Years in the past... ",
+            "link": "/story/1129"
+        }
+    ],
+    "media": [
+        {
+            "file": "01128_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01128_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><img border=\"0\" src=\"/images/storyfiles/hs2/scraps/mail.gif\"/></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

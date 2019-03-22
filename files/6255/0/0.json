@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6255,
+    "commands": [
+        {
+            "command": "MALE: DO A DANCE ON THE SHAPE. ",
+            "link": "/story/6256"
+        }
+    ],
+    "media": [
+        {
+            "file": "06253.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">OK, YOU GO OVER THERE. YOU STAND THERE AND NOTHING HAPPENS.\r<br/> <br/>GOD DAMN I AM GOOD AT THIS.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

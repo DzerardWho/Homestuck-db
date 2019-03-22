@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3000,
+    "commands": [
+        {
+            "command": "[S] Jade: STRIFE!!!!!!!!!!!! ",
+            "link": "/story/3001"
+        }
+    ],
+    "media": [
+        {
+            "file": "02999.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You don't see anything.\r<br/> <br/>Someone out there is messing with you. Good thing grandpa taught you never to leave home without your rifle, even by accident.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

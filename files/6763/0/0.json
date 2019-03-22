@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 6763,
+    "commands": [
+        {
+            "command": "[A6A6I2] ====> ",
+            "link": "/story/6764"
+        }
+    ],
+    "media": [
+        {
+            "file": "06760_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "06760_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #008282\">TEREZI: WHY WONT YOU <span style=\"font-style: italic\">D13???!!!!</span></span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

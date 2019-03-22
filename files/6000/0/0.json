@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6000,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/6001"
+        }
+    ],
+    "media": [
+        {
+            "file": "05997.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #005682\">ARANEA: The resulting explosion is known as the First 8r8k.</p>\n<p style=\"color: #005682\">ARANEA: From the primordial 8last would emerge fifteen planets for the player to conquer.</p>\n<p style=\"color: #005682\">ARANEA: They would scatter and ricochet at high velocity 8efore settling into or8it in the medium.</p>\n<p style=\"color: #005682\">ARANEA: The 8r8k is a very violent phenomenon though. Not all planets will necessarily clear the 8last 8efore the Skaian de8ris settles into its final st8.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

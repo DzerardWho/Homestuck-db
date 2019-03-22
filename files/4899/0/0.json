@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4899,
+    "commands": [
+        {
+            "command": "Jack: Examine exit. ",
+            "link": "/story/4900"
+        }
+    ],
+    "media": [
+        {
+            "file": "04896.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Unfortunately it only keeps his attention until he dies, which is almost instantly.\r<br/> <br/>You need to come up with a better plan. While you would argue that random stabbings are their own reward, they aren't getting you any closer to escape.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

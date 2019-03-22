@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1491,
+    "commands": [
+        {
+            "command": "Your deceased pet. ",
+            "link": "/story/1492"
+        }
+    ],
+    "media": [
+        {
+            "file": "01491.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

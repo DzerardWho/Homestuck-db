@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5938,
+    "commands": [
+        {
+            "command": "ACT 6 INTERMISSION 5 INTERMISSION 1 ",
+            "link": "/story/5939"
+        }
+    ],
+    "media": [
+        {
+            "file": "05935.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #626262\">KARKAT: WAKE UP SLEEPY HEAD!</p>\n<p style=\"color: #626262\">KARKAT: HONK HONK HONK, YEAH THAT'S RIGHT! IT'S TIME TO FACE THE FUCKING MUSIC.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

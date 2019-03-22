@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 31,
+    "commands": [
+        {
+            "command": "John: Read COLONEL SASSACRE'S DAUNTING TEXT. ",
+            "link": "/story/32"
+        }
+    ],
+    "media": [
+        {
+            "file": "00031.swf",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You've put countless manhours into this assortment of quality titles.</p>",
+    "pesterlog": null,
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

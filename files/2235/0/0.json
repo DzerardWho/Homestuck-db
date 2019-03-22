@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 2235,
+    "commands": [
+        {
+            "command": "Moments earlier... ",
+            "link": "/story/2236"
+        }
+    ],
+    "media": [
+        {
+            "file": "02235.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "02235_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">AURTHOOOOOOOOOOOUUUUUUUUUUR!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

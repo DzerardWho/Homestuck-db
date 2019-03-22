@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2198,
+    "commands": [
+        {
+            "command": "Vriska: Take dice. ",
+            "link": "/story/2199"
+        }
+    ],
+    "media": [
+        {
+            "file": "02198.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">As you were saying. So many irons in the fire. Such a tangled web. It is a web full of flaming irons and mixed metaphors. \r<br/> <br/>Tonight is a big night. You have a lot of meddling to catch up on tonight. Bugging and fussing and meddling. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 604,
+    "commands": [
+        {
+            "command": "Dave: Look up. ",
+            "link": "/story/605"
+        }
+    ],
+    "media": [
+        {
+            "file": "00604.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">While you're at it, you dump the contents of the BLENDER, oops I mean WHIRLING BLADE PITCHER, into the disposal. But you suffer an unfortunate GARBAGE DISPOSAL HEAD JAM.\r<br/> <br/>You notice something in the reflection. Something above you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

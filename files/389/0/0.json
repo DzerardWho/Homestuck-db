@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 389,
+    "commands": [
+        {
+            "command": "Rose: First, be the pony. Second, trample Mom. ",
+            "link": "/story/390"
+        }
+    ],
+    "media": [
+        {
+            "file": "00389.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It looks like MOM has satisfied her [S] STRIFE! quota for the day. She simply returns to her housework. \r<br/> <br/>No point in going out the front door anymore. Might as well head out the back, like you originally planned.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

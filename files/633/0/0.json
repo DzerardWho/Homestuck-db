@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 633,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/634"
+        }
+    ],
+    "media": [
+        {
+            "file": "00633.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh man, looks like Rose made like a million hammers for some reason.\r<br/> <br/>Get all this shit out of the way, you're about to make something sweet!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

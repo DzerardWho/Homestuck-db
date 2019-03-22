@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4421,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4422"
+        }
+    ],
+    "media": [
+        {
+            "file": "04418.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What the heck just happened?\r<br/> <br/>Now you remember. The mailbox was boobytrapped. But you survived somehow, and got knocked out.\r<br/> <br/>How did you get all the way over here?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

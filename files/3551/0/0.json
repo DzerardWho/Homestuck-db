@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3551,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3552"
+        }
+    ],
+    "media": [
+        {
+            "file": "03548_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03548_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ok. \r<br/> <br/>You will keep one trophy.\r<br/> <br/>BUT ONLY ONE.\r<br/> <br/>You can never stay mad at Cal. He is a true friend. The only you have ever known.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

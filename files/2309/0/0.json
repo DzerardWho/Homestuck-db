@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2309,
+    "commands": [
+        {
+            "command": "Red team: Execute Operation Regisurp. ",
+            "link": "/story/2310"
+        }
+    ],
+    "media": [
+        {
+            "file": "02309_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02309_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">She removed the ring and concealed it in the ROYAL VAULT while she was quite sure no one was looking. She then retired to her private chamber from which she would dispatch orders, no one the wiser of her disadvantage.\r<br/> <br/>Or so she thought.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5668,
+    "commands": [
+        {
+            "command": "Jake: Ok, answer this guy instead. ",
+            "link": "/story/5669"
+        }
+    ],
+    "media": [
+        {
+            "file": "05665.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Hold the phone. Looks like someone else has decided to jeer you now. You wonder who it could be? The possibilities are endless, really.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

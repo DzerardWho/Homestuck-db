@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5119,
+    "commands": [
+        {
+            "command": "Calliope: Remove cover. ",
+            "link": "/story/5120"
+        }
+    ],
+    "media": [
+        {
+            "file": "05116.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Like you said, you don't have a bed. \r<br/> <br/>You have a SARSWAPAGUS.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

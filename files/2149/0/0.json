@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2149,
+    "commands": [
+        {
+            "command": "Much later... ",
+            "link": "/story/2150"
+        }
+    ],
+    "media": [
+        {
+            "file": "02149.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Nap time.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

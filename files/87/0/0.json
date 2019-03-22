@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 87,
+    "commands": [
+        {
+            "command": "[S] John: Enter. ",
+            "link": "/story/88"
+        }
+    ],
+    "media": [
+        {
+            "file": "00087.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have no other choice. You are going in. \r<br/> <br/>CLEVER DISGUISE, it's time to work your magic.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

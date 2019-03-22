@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 45,
+    "commands": [
+        {
+            "command": "John: Wear disguise to fool dad. ",
+            "link": "/story/46"
+        }
+    ],
+    "media": [
+        {
+            "file": "00045.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You don't have a free card in your SYLLADEX!\r<br/> <br/>However, you are able to MERGE the BEAGLE PUSS with the MAGICIAN'S HAT to create a <a class=\"postlink\" href=\"http://images.google.com/images?hl=en&amp;q=beagle+puss&amp;btnG=Search+Images&amp;gbv=2&amp;aq=f&amp;oq=\" target=\"_blank\">CLEVER DISGUISE</a>.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

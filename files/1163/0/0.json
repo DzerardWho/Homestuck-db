@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1163,
+    "commands": [
+        {
+            "command": "[I] SS: Scavenge war chest for fancy headwear. ",
+            "link": "/story/1164"
+        }
+    ],
+    "media": [
+        {
+            "file": "01163.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You rummage around. It's no unusual assortment of belongings, and nothing any mobster worth his salt would be caught plotting and scheming without. Certainly nothing eyebrow raising.\r<br/> <br/>Bunch of blades, some playing cards, and a variety of other miscellaneous stuff.\r<br/> <br/>Also your VENDETTA ITINERARY and your HEIST MAP.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

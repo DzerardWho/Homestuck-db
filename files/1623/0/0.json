@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1623,
+    "commands": [
+        {
+            "command": "Rose: Consult with Jaspersprite. ",
+            "link": "/story/1624"
+        }
+    ],
+    "media": [
+        {
+            "file": "01623.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

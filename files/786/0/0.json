@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 786,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/787"
+        }
+    ],
+    "media": [
+        {
+            "file": "00786.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You almost never use the stairs.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

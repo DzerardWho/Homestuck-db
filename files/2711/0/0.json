@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2711,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/2712"
+        }
+    ],
+    "media": [
+        {
+            "file": "02710_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02710_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">In a little while, she is back in her hive.\r<br/> <br/>You prepare an ambush. This time, the fashionable, hand-crafted gloves are coming OFF.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

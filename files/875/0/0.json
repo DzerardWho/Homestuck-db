@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 875,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/876"
+        }
+    ],
+    "media": [
+        {
+            "file": "00875.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You use the panel to center on your present location and zoom in. Surrounding the lab are of course the hundreds of smaller meteors that have been raining down steadily throughout the evening. Most of these meteor(ite)s have either landed already, or will shortly. \r<br/> <br/>Centered over the lab is a significantly larger imminent collision. You can't say precisely how imminent, but you could certainly take an educated stab at it.\r<br/> <br/>Just southwest of the lab, centered suspiciously near the location of your house, is an even larger looming collision. Though this one appears slightly less imminent.\r<br/> <br/>The terminal looks like it can monitor any meteor or session around the world. Search filters can be applied as well, restricting results based on size, time of impact, location, and so on.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

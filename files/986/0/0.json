@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 986,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/987"
+        }
+    ],
+    "media": [
+        {
+            "file": "00986.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Huh, that's funny. Shouldn't that place be unestablished by now?\r<br/> <br/>The downpour of smaller meteors has stopped...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

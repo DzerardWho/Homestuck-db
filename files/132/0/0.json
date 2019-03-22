@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 132,
+    "commands": [
+        {
+            "command": "John: Check status of Sburb beta. ",
+            "link": "/story/133"
+        }
+    ],
+    "media": [
+        {
+            "file": "00132.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It is a STUFFED BUNNY. Much like the one <a class=\"postlink\" href=\"/images/scraps/dontmoveorthebunnygetsit.jpg\" target=\"_blank\">held hostage</a> briefly by Malkovich's Cyrus \"The Virus\" while taunting hard-luck protagonist Cameron Poe. And strikingly similar to the one scooped up from the soot of a burning Vegas strip by Cage's Poe and offered to his daughter, a gesture symbolic of a tattered exterior surrounding a heart of gold. Poe wasn't much to look at. But he was a good man.\r<br/> <br/>But no, it is not merely LIKE that bunny. According to this NOTE OF AUTHENTICITY, it is the VERY SAME BUNNY.\r<br/> <br/>This is so awesome.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

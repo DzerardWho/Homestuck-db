@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 8111,
+    "commands": [
+        {
+            "command": "====> ",
+            "link": "/story/8112"
+        }
+    ],
+    "media": [
+        {
+            "file": "08104rings.png",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

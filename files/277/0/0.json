@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 277,
+    "commands": [
+        {
+            "command": "Rose: Prototype sprite with Sassacre text. ",
+            "link": "/story/278"
+        }
+    ],
+    "media": [
+        {
+            "file": "00277.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Pipe down, you. This is Rose's decision, not yours!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

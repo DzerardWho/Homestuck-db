@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 23,
+    "commands": [
+        {
+            "command": "John: Examine incoming message. ",
+            "link": "/story/24"
+        }
+    ],
+    "media": [
+        {
+            "file": "00023.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are sick to death of cake!!! You've been eating it all day. And you have no intention of clogging your SYLLADEX with it either. The CAKE stays put for now.\r<br/> <br/>You hear a notice from your COMPUTER. Someone is messaging you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

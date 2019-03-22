@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 353,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/354"
+        }
+    ],
+    "media": [
+        {
+            "file": "00353.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Suddenly a RAMBUNCTIOUS CROW flies in the open window and snatches the beta, possibly to make a nest with, or maybe just for the sake of being a brainless feathery asshole. \r<br/> <br/>You yell at the bird.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

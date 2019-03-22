@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 549,
+    "commands": [
+        {
+            "command": "John: Enter code on back of card into designix. ",
+            "link": "/story/550"
+        }
+    ],
+    "media": [
+        {
+            "file": "00549.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3716,
+    "commands": [
+        {
+            "command": "[S] Terezi: Proceed. ",
+            "link": "/story/3717"
+        }
+    ],
+    "media": [
+        {
+            "file": "03713.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have no idea what the hell this thing is, or why you would need another disc. \r<br/> <br/>You just captchalogue it and proceed. There is justice to be done, and you are running out of time.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

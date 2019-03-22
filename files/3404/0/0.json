@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3404,
+    "commands": [
+        {
+            "command": "John: Examine laptop. ",
+            "link": "/story/3405"
+        }
+    ],
+    "media": [
+        {
+            "file": "03401_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03401_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The wallet unsurprisingly contained a series of sentimental photographs of you when you were young. Some of these photos appear to have jokes written on the back. Others, cake recipes.\r<br/> <br/>He also kept a series of portraits of some of his favorite comedians. Some are understandable. Harry Anderson goes without saying. Bill Cosby? LIVING FATHERLY LEGEND. But his interest in Mr. Foxworthy always struck you as a little lame. Those redneck jokes were so corny and stupid. You secretly suspected your father was mostly arrested by the man's mustache. Maybe he fantasized about shaving the man's egregious furry lip? This seems like a reasonable theory to you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

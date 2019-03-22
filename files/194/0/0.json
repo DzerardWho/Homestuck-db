@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 194,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/195"
+        }
+    ],
+    "media": [
+        {
+            "file": "00194.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You switch back to STACK MODUS and get a closer look with your TELESCOPE.\r<br/> <br/>Whatever it is, the KERNELSPRITE seems particularly agitated about it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

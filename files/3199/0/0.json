@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3199,
+    "commands": [
+        {
+            "command": "Jade: View Dave. ",
+            "link": "/story/3200"
+        }
+    ],
+    "media": [
+        {
+            "file": "03196.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">There she is! What is she doing on the lava planet?\r<br/> <br/>She seemed awfully preoccupied when you spoke with her moments ago and she gave you the code for the crystal ball. You wonder who she could be talking to?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

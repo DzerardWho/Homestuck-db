@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3403,
+    "commands": [
+        {
+            "command": "John: Examine photographs. ",
+            "link": "/story/3404"
+        }
+    ],
+    "media": [
+        {
+            "file": "03400.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Look at all this fatherly loot!\r<br/> <br/>An inviting PILE OF PIPES, a somewhat less inviting PILE OF RAZOR BLADES, a SPARE CAR, an assortment of SHOES, HATS, and TIES, several issues of THE SERIOUS JESTER, TICKET STUBS TO CIRQUE DU SOLEIL (you would prefer to forget what happened that day, he was just so embarrassing), a BRIEFCASE FULL OF FATHERLY DOCUMENTS, a VARIETY OF PHOTOGRAPHS, a LAPTOP COMPUTER, TEN TONS OF PIPE TOBACCO, and a LIGHTER.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 360,
+    "commands": [
+        {
+            "command": "Rose: Go downstairs to the kitchen back door. ",
+            "link": "/story/361"
+        }
+    ],
+    "media": [
+        {
+            "file": "00360.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">There is nothing to psychoanalyze. Your mother clearly has no real affinity for these damnable things. She only collects them to spite you.\r<br/> <br/>If anything, she finds them even more repellent than you do. She's just a committed woman.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

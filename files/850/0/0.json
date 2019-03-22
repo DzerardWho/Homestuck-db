@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 850,
+    "commands": [
+        {
+            "command": "Jade: Transportalize as far down as you can go. ",
+            "link": "/story/851"
+        }
+    ],
+    "media": [
+        {
+            "file": "00850.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It looks like the kiosk monitors the lab's enormous HUBGRID.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

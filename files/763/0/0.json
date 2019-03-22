@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 763,
+    "commands": [
+        {
+            "command": "Drop pumpkin on Farmstink. ",
+            "link": "/story/764"
+        }
+    ],
+    "media": [
+        {
+            "file": "00763.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">THEY'RE RIGHT THERE.\r<br/> <br/>IN PLAIN SIGHT.\r<br/> <br/>LOOK, THEY ARE FLASHING RED.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 525,
+    "commands": [
+        {
+            "command": "John: Insert card. ",
+            "link": "/story/526"
+        }
+    ],
+    "media": [
+        {
+            "file": "00525.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You enter the code \"DQMmJLeK\" into the KEYBOARD. At least you think that's what the code is.\r<br/> <br/>The red light switches off. A green light begins blinking.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

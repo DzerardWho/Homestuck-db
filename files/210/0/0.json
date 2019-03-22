@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 210,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/211"
+        }
+    ],
+    "media": [
+        {
+            "file": "00210_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00210_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The lathe carves ONE (1) TOTEM. \r<br/> <br/>You take the TOTEM.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

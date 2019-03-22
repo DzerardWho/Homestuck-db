@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3732,
+    "commands": [
+        {
+            "command": "Terezi: Examine chests. ",
+            "link": "/story/3733"
+        }
+    ],
+    "media": [
+        {
+            "file": "03729.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It should be perfectly safe from any similar kinds of damage while secured in your SCRATCH AND SNIFF modus.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1821,
+    "commands": [
+        {
+            "command": "Dave: Combine timetables and computer. ",
+            "link": "/story/1822"
+        }
+    ],
+    "media": [
+        {
+            "file": "01821_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01821_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make a pair of iSHADES.\r<br/> <br/>This one was really obvious cause future Dave had a pair, but he took them with him when he prototyped himself. But now you have a pair too so that's cool.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

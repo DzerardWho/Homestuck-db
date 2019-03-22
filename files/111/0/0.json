@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 111,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/112"
+        }
+    ],
+    "media": [
+        {
+            "file": "00111.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You decide to space out on the computer for a while before doing anything important.\r<br/> <br/>You open the TYPHEUS web browser and direct it to what is indisputably the most amazing website ever created.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

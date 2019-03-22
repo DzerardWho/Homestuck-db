@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1992,
+    "commands": [
+        {
+            "command": "Enter name. ",
+            "link": "/story/1993"
+        }
+    ],
+    "media": [
+        {
+            "file": "01992.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This young troll stands in his respiteblock. It just so happens that today, the 12th bilunar perigee of the 6th dark season's equinox, is the day of this young troll's larval awakening, also known as his wriggling day. Though it was six solar sweeps ago he was given life, it is only today he will be given a name!\r<br/> <br/>Six Alternian solar sweeps, for convenient reference, is equivalent to thirteen Earth years.\r<br/> <br/>Earth, also for convenient reference, is a planet that does not yet exist.\r<br/> <br/>What will the name of this young troll be? </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

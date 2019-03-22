@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2353,
+    "commands": [
+        {
+            "command": "Vriska: Wheeeeeeee! ",
+            "link": "/story/2354"
+        }
+    ],
+    "media": [
+        {
+            "file": "02353.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">But unfortunately, Rufio is not real. He's imaginary. A fake. Like a made up friend, the way fairies are. \r<br/> <br/>You continue to be sad and alone.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

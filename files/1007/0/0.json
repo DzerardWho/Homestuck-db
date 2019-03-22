@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1007,
+    "commands": [
+        {
+            "command": "WV: Appearify the temple. ",
+            "link": "/story/1008"
+        }
+    ],
+    "media": [
+        {
+            "file": "01007.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">ABSOLUTELY NOT WHAT ARE YOU CRAZY\r<br/> <br/>A MAYOR DOES NOT RELINQUISH HIS MAYORAL SASH UNDER ANY CIRCUMSTANCES EVER PERIOD</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

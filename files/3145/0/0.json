@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 3145,
+    "commands": [
+        {
+            "command": "Jade: Just draw some earmuffs. ",
+            "link": "/story/3146"
+        }
+    ],
+    "media": [
+        {
+            "file": "03142_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03142_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03142_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You combine Rose's HEADBAND with... some sort of of fluffy ball you drew?\r<br/> <br/>This isn't really working. Also, this pointless thing was absurdly expensive for some reason.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 335,
+    "commands": [
+        {
+            "command": "TROUBLING. INVESTIGATE THIS. ",
+            "link": "/story/336"
+        }
+    ],
+    "media": [
+        {
+            "file": "00335.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">A thick, unpleasant fluid pools from beneath the door.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6112,
+    "commands": [
+        {
+            "command": "[A6I5] SS: Gaze over balcony at horizon. ",
+            "link": "/story/6113"
+        }
+    ],
+    "media": [
+        {
+            "file": "06109.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are now Spades Slick.\r<br/> <br/>It appears that you will be the focus of an exciting new sub plot. That is, if everyone's ok with that. You're not sure. Is that allowed, you wonder? Is anyone going to throw a tantrum and make us look at something else?\r<br/> <br/><img border=\"0\" src=\"/images/storyfiles/hs2/scraps/scorpio.gif\"/><span style=\"color: #005682\">LEAVE ME ALONE YOU FUCKING CREEP!!!!!!!!</span><img border=\"0\" src=\"/images/storyfiles/hs2/scraps/scorpio.gif\"/> <br/> <br/>Good news, Spades. It looks like your sub plot checks out. You have the green light, whenever you're ready.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

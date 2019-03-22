@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1013,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1014"
+        }
+    ],
+    "media": [
+        {
+            "file": "01013_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01013_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh, of course. The time wasn't set to the present moment. Somehow it got reset to a few hundred years ago.\r<br/> <br/>It is some sort of present from the past... in the present.\r<br/> <br/>Attached is an envelope. It looks extremely important.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

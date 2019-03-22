@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4134,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4135"
+        }
+    ],
+    "media": [
+        {
+            "file": "04131_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04131_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You know you really should switch to PESTERCHUM. It's what your friends use, and it's a lot better than BETTYBOTHER, if you're being honest with yourself. BB is just so spammy and annoying with all of the popups everywhere.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

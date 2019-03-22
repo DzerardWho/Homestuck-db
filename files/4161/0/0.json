@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4161,
+    "commands": [
+        {
+            "command": "Jane: Exit. ",
+            "link": "/story/4162"
+        }
+    ],
+    "media": [
+        {
+            "file": "04158.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Yeah, this is a really shitty disguise.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 574,
+    "commands": [
+        {
+            "command": "Dave: Grab those fireworks. ",
+            "link": "/story/575"
+        }
+    ],
+    "media": [
+        {
+            "file": "00574_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00574_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">See, like, his hobbies are cool and all, and you guess he's got to put his shit SOMEWHERE. But what if you just wanted to heat up a burrito or something?\r<br/> <br/>This kitchen is pretty much useless.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

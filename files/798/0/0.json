@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 798,
+    "commands": [
+        {
+            "command": "Jade: Organize all your dolls. ",
+            "link": "/story/799"
+        }
+    ],
+    "media": [
+        {
+            "file": "00798.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "00798_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Speaking of which, you pick up and admire one of your MANTHRO CHAPS. They are wonderful friends and are always cheerful and pleasant fellows.\r<br/> <br/>Why dear Mr. Coxcomb, how ever will you be received at the BARNYARD GALA without the trappings of a proper gentleman?\r<br/> <br/>Each MANTHRO CHAP comes with a number of accessories, including articles of FORMAL ATTIRE, a VACCINATION KIT, and a DISHWASHER-SAFE SLOP TROUGH.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

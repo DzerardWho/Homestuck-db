@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2102,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2103"
+        }
+    ],
+    "media": [
+        {
+            "file": "02102_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02102_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You kickstart a rousing match of FIDUSPAWN, with the only friend you've got to play with in person, your loyal lusus TINKERBULL.\r<br/> <br/>You take a look at the favorable hand you dealt yourself and crack a mischievous smile. With a HOST PLUSH at the ready, you quickly lob an OOGONIBOMB and catch your adversary off guard!!!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

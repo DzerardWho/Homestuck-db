@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4515,
+    "commands": [
+        {
+            "command": "Roxy: Descend. ",
+            "link": "/story/4516"
+        }
+    ],
+    "media": [
+        {
+            "file": "04512.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are fairly sure this window will take you to one of the windows you have set up in the lab. \r<br/> <br/>There is more than one way to find out if this is true, you guess. But there is only one way that involves doing what the inebriated do best, which is falling down.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

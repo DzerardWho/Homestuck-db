@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1166,
+    "commands": [
+        {
+            "command": "[I] SS: Go to mspaintadventures.com. ",
+            "link": "/story/1167"
+        }
+    ],
+    "media": [
+        {
+            "file": "01166.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Is that what this thing is? You've had it for some time, and don't quite remember how you got it. You never knew the identity of this pipe-smoking creature.\r<br/> <br/>Perhaps it could be the same species as the character you just saw under the rug. But you know that is impossible, because this one does not feature the same bizarre furred lip. They are probably differing species within the same genus.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

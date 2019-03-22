@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1567,
+    "commands": [
+        {
+            "command": "Jade: Draw the totem lathe. ",
+            "link": "/story/1568"
+        }
+    ],
+    "media": [
+        {
+            "file": "01567.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The totem pedestal is converted into a holographic projector. It projects an image of the item the punch code represents.\r<br/> <br/>This seems useful for previewing an item a code will produce, without spending the grist on it. You test it out with the blender card.\r<br/> <br/>But it still renders the alchemiter unusable. At least without further upgrades.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

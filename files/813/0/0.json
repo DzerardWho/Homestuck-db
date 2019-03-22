@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 813,
+    "commands": [
+        {
+            "command": "Jade: Stick fruits in the refrigerator to keep them fresh. ",
+            "link": "/story/814"
+        }
+    ],
+    "media": [
+        {
+            "file": "00813.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You just deploy the gadgets yourself. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

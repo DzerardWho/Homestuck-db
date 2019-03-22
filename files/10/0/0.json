@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 10,
+    "commands": [
+        {
+            "command": "John: Examine Problem Sleuth Poster. ",
+            "link": "/story/11"
+        }
+    ],
+    "media": [
+        {
+            "file": "00010.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You aren't totally sure if \"EQUIP\" is a verb copasetic with the abstract behavioral medium in which you dwell, but you give it a try anyway.\r<br/> <br/>Unfortunately, you cannot access the FAKE ARMS! Their card is underneath the one you just used to captchalogue the SMOKE PELLETS. You will have to use the pellets first in order to access the arms. But this is probably unadvisable, since you'd just make your room lousy with smoke!\r<br/> <br/>Your SYLLADEX'S FETCH MODUS is currently dictated by the logic of a STACK DATA STRUCTURE. You were never all that great with data structures and you find the concept puzzling and mildly irritating.\r<br/> <br/>But with any hope, perhaps you will advance new, more practical FETCH MODI for your SYLLADEX with a little more experience.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

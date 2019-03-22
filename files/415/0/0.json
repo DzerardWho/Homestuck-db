@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 415,
+    "commands": [
+        {
+            "command": "THE DOOR, JOHN. LOOK AT THE DOOR. ",
+            "link": "/story/416"
+        }
+    ],
+    "media": [
+        {
+            "file": "00415_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00415_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You plug in your LAPTOP and connect to the internet signal again.\r<br/> <br/>Everything predictably falls out of your SYLLADEX, but you're not about to get bent out of shape about it. You have bigger fish to fry.\r<br/> <br/>Looks like Dave noticed you're back online. He pesters you like clockwork.\r<br/> <br/>And there's John. What on earth is he up to now?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

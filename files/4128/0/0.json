@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4128,
+    "commands": [
+        {
+            "command": "Jane: Examine bunnies. ",
+            "link": "/story/4129"
+        }
+    ],
+    "media": [
+        {
+            "file": "04125_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04125_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You tuck your trusty JUNIOR BATTERMASTER'S BOWLBUSTER STIRRING SOLUTION 50000 into your strife deck, allocated with the ever martially-pragmatic SPOONKIND. You wouldn't have it any other way!\r<br/> <br/>You love your fancy spoon. It has several million recipes stored in it, and walks you through each step with a soothing female robot voice, just like in science fiction. Some urban legends say that the device also broadcasts subliminal messages distributing OMINOUS CROCKERCORP PROPAGANDA, but you don't put any stock in that sort of baloney for a second.\r<br/> <br/>There is one switch on it that doesn't seem to do anything. Maybe yours is defective? Still, it's perfectly serviceable, and has assisted you in whipping many a cake into delicious submission. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

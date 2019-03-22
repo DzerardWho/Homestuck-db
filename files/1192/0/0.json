@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1192,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1193"
+        }
+    ],
+    "media": [
+        {
+            "file": "01192.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You got it. Clubs Deuce it is.\r<br/> <br/>You have opened your BATTLEDROBE in search of your BACKUP HAT. You also need some more ROPE to retie <span style=\"color: #2ed73a\">Doze</span>, who is absolutely tearing through the mansion as we speak. If you don't hurry, he may clear the chair within the hour.\r<br/> <br/>But it's a big mess. You mostly just see a bunch of bombs and cards.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

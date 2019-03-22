@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1370,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1371"
+        }
+    ],
+    "media": [
+        {
+            "file": "01370.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You gather up the rest of your items. Might as well try it out!\r<br/> <br/>You go for all the blocks containing your TANGLE BUDDIES.\r<br/> <br/>Careful... careful...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

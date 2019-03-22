@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1312,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1313"
+        }
+    ],
+    "media": [
+        {
+            "file": "01312.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The first thing you whack is <span style=\"color: #2ed73a\">Eggs</span>'s EGG TIMER. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

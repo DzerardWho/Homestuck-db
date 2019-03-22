@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4081,
+    "commands": [
+        {
+            "command": "SNOP ",
+            "link": "/story/4082"
+        }
+    ],
+    "media": [
+        {
+            "file": "04078.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><span style=\"color: black\">--------------- <img border=\"0\" src=\"/images/storyfiles/hs2/scraps/olliesouty.gif\"/> *ollies outy*</span></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

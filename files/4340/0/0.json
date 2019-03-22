@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4340,
+    "commands": [
+        {
+            "command": "[A6I1] ==> ",
+            "link": "/story/4341"
+        }
+    ],
+    "media": [
+        {
+            "file": "04337.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #4ac925\">JADE: how about this one?</p>\n<p style=\"color: #4ac925\">JADE: looks like its still in pretty good condition</p>\n<p style=\"color: #0715cd\">JOHN: yes, that's perfect!!!</p>\n<p style=\"color: #0715cd\">JOHN: everyone will love it, especially probably dave.</p>\n<p style=\"color: #0715cd\">JOHN: i think i need something to fold it up and put it in though.</p>\n<p style=\"color: #0715cd\">JOHN: i don't want to just like crumple it up and chuck it in there like some garbage...</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

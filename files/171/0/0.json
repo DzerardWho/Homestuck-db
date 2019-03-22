@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 171,
+    "commands": [
+        {
+            "command": "John: Examine wheel on the Cruxtruder. ",
+            "link": "/story/172"
+        }
+    ],
+    "media": [
+        {
+            "file": "00171.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #b536da\">TT: Oh fuck.</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

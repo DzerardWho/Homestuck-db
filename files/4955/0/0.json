@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4955,
+    "commands": [
+        {
+            "command": "Jane: Answer. ",
+            "link": "/story/4956"
+        }
+    ],
+    "media": [
+        {
+            "file": "04952.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Now armed with your father's roomy, sleek leather wallet, you retrieve the family sedan with ease.\r<br/> <br/>It looks like a cool pair of shades wants to talk about your sweet new ride.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

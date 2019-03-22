@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1477,
+    "commands": [
+        {
+            "command": "PM?: Ready sword. ",
+            "link": "/story/1478"
+        }
+    ],
+    "media": [
+        {
+            "file": "01477.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It is a carved MINITABLET. \r<br/> <br/>The carving is not especially clear to say the least. But your wealth of delivery experience allows you to decipher it immediately. \r<br/> <br/>It is the other parcel the agent is holding. It appears you will need to acquire both from him now. It is your sworn duty.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

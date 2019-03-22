@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1322,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1323"
+        }
+    ],
+    "media": [
+        {
+            "file": "01322.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Since your expert safe cracker apparently spent the last five or six hours being totally useless down here, you figure it's time to take things into your own hands.\r<br/> <br/>Huh? What's this little fella all worked up about?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

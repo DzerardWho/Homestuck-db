@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3033,
+    "commands": [
+        {
+            "command": "Dave: Wake up. ",
+            "link": "/story/3034"
+        }
+    ],
+    "media": [
+        {
+            "file": "03032.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Hey, calm down! Just because it's snowing outside doesn't mean it's Christmas just yet. \r<br/> <br/>There are still plenty of things to do before we bother with that sort of nonsense. Take a deep breath, put the cards down, and relax.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

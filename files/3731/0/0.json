@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3731,
+    "commands": [
+        {
+            "command": "Terezi: Captchalogue disc. ",
+            "link": "/story/3732"
+        }
+    ],
+    "media": [
+        {
+            "file": "03728.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Predictably, you scratch the surface of the disc. What were you expecting? It's almost like you don't even know what a CD is.\r<br/> <br/>With the disc damaged, who knows what sort of effects it will have on the data. Better store it somewhere safe to prevent any more mishaps.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

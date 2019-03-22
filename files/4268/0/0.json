@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4268,
+    "commands": [
+        {
+            "command": "Jane: Level up. ",
+            "link": "/story/4269"
+        }
+    ],
+    "media": [
+        {
+            "file": "04265.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

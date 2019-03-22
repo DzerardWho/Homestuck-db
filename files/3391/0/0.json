@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3391,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3392"
+        }
+    ],
+    "media": [
+        {
+            "file": "03388.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><img border=\"0\" src=\"/images/storyfiles/hs2/scraps/STUPID.gif\"/> <br/> <br/> <br/> <br/>Why don't we see what John's up to.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

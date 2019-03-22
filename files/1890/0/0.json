@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1890,
+    "commands": [
+        {
+            "command": "John: Scale echeladder. ",
+            "link": "/story/1891"
+        }
+    ],
+    "media": [
+        {
+            "file": "01890.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3648,
+    "commands": [
+        {
+            "command": "BM: Wreck some havoc. ",
+            "link": "/story/3649"
+        }
+    ],
+    "media": [
+        {
+            "file": "03645_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03645_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

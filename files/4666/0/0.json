@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4666,
+    "commands": [
+        {
+            "command": "ACT 6 INTERMISSION 2 ",
+            "link": "/story/4667"
+        }
+    ],
+    "media": [
+        {
+            "file": "04663.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">END OF ACT 6 ACT 2.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

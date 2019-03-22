@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1570,
+    "commands": [
+        {
+            "command": "Jade: Draw the intellibeam laserstation. ",
+            "link": "/story/1571"
+        }
+    ],
+    "media": [
+        {
+            "file": "01570.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This is getting a little abstract.\r<br/> <br/>But it appears to economize on space. Now all you have to do is stick a card in a slot to apply an upgrade. Don't have to bother with the shunts anymore.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

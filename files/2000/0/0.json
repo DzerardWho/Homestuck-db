@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2000,
+    "commands": [
+        {
+            "command": "Karkat: Examine large black book. ",
+            "link": "/story/2001"
+        }
+    ],
+    "media": [
+        {
+            "file": "02000.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">GOD.\r<br/> <br/><span style=\"font-style: italic\">DAMMIT.</span> <br/> <br/>You hear some unhappy grumbling through the hole below. This was not the coolest thing you could have done just now.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 5454,
+    "commands": [
+        {
+            "command": "[A6I4] ==> ",
+            "link": "/story/5455"
+        }
+    ],
+    "media": [
+        {
+            "file": "05451.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "05451retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This place is boring as hell.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1411,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1412"
+        }
+    ],
+    "media": [
+        {
+            "file": "01411_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01411_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The hole blown into the the station by the caution guy's rocket leads into the third room, which had been locked.\r<br/> <br/>Unsurprisingly there is another sort of gizmo in here and you have no idea what it does.\r<br/> <br/>The station is very low on power so you don't think you'll be able to find out.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

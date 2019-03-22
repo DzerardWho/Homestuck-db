@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4213,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4214"
+        }
+    ],
+    "media": [
+        {
+            "file": "04210.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #00d5f2\">GG: \"The Page is dead.\"</p>\n<p style=\"color: #00d5f2\">GG: \"Our hope is lost.\"</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

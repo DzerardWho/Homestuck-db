@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4888,
+    "commands": [
+        {
+            "command": "Jack: Take pointy thing. ",
+            "link": "/story/4889"
+        }
+    ],
+    "media": [
+        {
+            "file": "04885.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Hang on. You remember seeing some pointy things just outside the window. \r<br/> <br/>Luckily both kingdoms are totally covered in pointy things. Can't swing a dead cat without impaling it on one.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

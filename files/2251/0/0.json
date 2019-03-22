@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2251,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2252"
+        }
+    ],
+    "media": [
+        {
+            "file": "02251.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #005682\">AG: Arrivederci, Megido.</p>\n\n<p style=\"color: #005682\">arachnidsGrip [AG]</span> ceased trolling <span style=\"color: #a10000\">apocalypseArisen [AA]</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

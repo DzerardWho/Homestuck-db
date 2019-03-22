@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3786,
+    "commands": [
+        {
+            "command": "[o] Tock. ",
+            "link": "/story/3787"
+        }
+    ],
+    "media": [
+        {
+            "file": "03783.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">I warned my neophyte protege not to stare into that ball.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

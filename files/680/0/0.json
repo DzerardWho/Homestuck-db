@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 680,
+    "commands": [
+        {
+            "command": "WV: Clear out all the cans inside the purple machine. ",
+            "link": "/story/681"
+        }
+    ],
+    "media": [
+        {
+            "file": "00680.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are somewhat skeptical about the nutritional value contained by these pages. However, of the practical wisdom they contain there can be little doubt. You have learned so much.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

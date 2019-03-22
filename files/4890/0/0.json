@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4890,
+    "commands": [
+        {
+            "command": "Jack: Open it. ",
+            "link": "/story/4891"
+        }
+    ],
+    "media": [
+        {
+            "file": "04887.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It slices through the meat of the vegetable like a sharp spire through thick squash. This is working so well. Who the hell needs a trusty knife when you are this resourceful? Screw knives!\r<br/> <br/>You take it back, you can't stay mad at knives.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

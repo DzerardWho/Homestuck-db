@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 7761,
+    "commands": [
+        {
+            "command": "[A6A6I5] ====> ",
+            "link": "/story/7762"
+        }
+    ],
+    "media": [
+        {
+            "file": "07757.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #e00707\">DAVE: hey</p>\n<p style=\"color: #f2a400\">DIRK: ?</p>\n<p style=\"color: #e00707\">DAVE: sorry about this</p>\n<p style=\"color: #f2a400\">DIRK: What?</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

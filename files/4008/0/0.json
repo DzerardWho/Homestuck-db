@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4008,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/4009"
+        }
+    ],
+    "media": [
+        {
+            "file": "04005_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04005_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #626262\">PCG: ESPECIALLY WHEN YOU'RE BUILDING THE GENETIC CODE FOR AN ENTIRE UNIVERSE.</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

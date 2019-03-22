@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 24,
+    "commands": [
+        {
+            "command": "John: Open Pesterchum. ",
+            "link": "/story/25"
+        }
+    ],
+    "media": [
+        {
+            "file": "00024_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00024_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You pull up to your COMPUTER. This is where you spend most of your time. You decorated your desktop with some rather handsome WALLPAPER which you made yourself. You are really proud of it.\r<br/> <br/>Your desktop is also littered with various PROGRAMMING PROJECT FILES. You are so bad at programming sometimes you wonder why you even bother with it.\r<br/> <br/>Your PESTERCHUM application is flashing. Someone is trying to get in touch with you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 279,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/280"
+        }
+    ],
+    "media": [
+        {
+            "file": "00279.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The SPRITE finds the DISTRACTING MANNER in which you FLAIL ABOUT to be rather DISTRACTING.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

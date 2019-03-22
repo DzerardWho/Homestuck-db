@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2456,
+    "commands": [
+        {
+            "command": "Eridan: Bother Vriska. ",
+            "link": "/story/2457"
+        }
+    ],
+    "media": [
+        {
+            "file": "02455_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02455_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You unequip AHAB'S CROSSHAIRS, which is YET ANOTHER legendary weapon, about as powerful as your KIND ABSTRATUS will allow.\r<br/> <br/>You plundered it from a ghost ship during a particularly challenging campaign. It was the same old gamblignant's ship from which your accomplice at the time also plundered a set of extraordinarily powerful dice.\r<br/> <br/>You almost feel sorry for the adversaries you will face tonight. They will likely pose neither team much challenge at all. Unless one of the links in the prototyping chain includes something especially huge and monstrous, but really, what are the odds of that happening?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

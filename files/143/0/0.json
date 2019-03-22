@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 143,
+    "commands": [
+        {
+            "command": "TT: Select stuff in yard and move it back into room. ",
+            "link": "/story/144"
+        }
+    ],
+    "media": [
+        {
+            "file": "00143_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00143_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It looks like your DAD is leaving again for more baking supplies. You're relieved to have the house to yourself again, if only for a few minutes.\r<br/> <br/>You just hope he doesn't notice the MAGIC CHEST on the roof. Or all the shit you threw out the window, for that matter.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

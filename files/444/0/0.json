@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 444,
+    "commands": [
+        {
+            "command": "Dave: Exit your room, and go into the living room. ",
+            "link": "/story/445"
+        }
+    ],
+    "media": [
+        {
+            "file": "00444.swf",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Dude, that bird is long gone. It probably won't last long in this heat anyway.\r<br/> <br/>You don't even know what's up with this sick heat. The sun threatens to set but won't step off. It's staring you down, like the big red eye of a hot needle skipping on a groove its tracing 'round the earth. While lingering in midair its heat seems to suspend time itself, stretching it like warped vinyl. It's meant to rain this season but there ain't been a drop in sight. Even a little drizzle would help. Might help to fizzle this sizzle a little bizzle, set the record straight on this global turn-tizzle.\r<br/> <br/>\"So don't change the dizzle, turn it up a little\r<br/>I got a living room full of fine dime brizzles\r<br/>Waiting on the Pizzle, the Dizzle and the Shizzle\r<br/>G's to the bizzack, now ladies here we gizzo\r<br/> <br/>When the pimp's in the crib ma\r<br/>Drop it like it's hot\r<br/>Drop it like it's hot\r<br/>Drop it like it's hot...\"\r<br/> <br/>-English Romantic poet, John Keats</p>",
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

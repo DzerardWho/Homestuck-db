@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1969,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1970"
+        }
+    ],
+    "media": [
+        {
+            "file": "01969_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01969_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">A tyrant is retreating. A battleship, landing.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

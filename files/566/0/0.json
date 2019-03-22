@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 566,
+    "commands": [
+        {
+            "command": "Dave: Go into the kitchen. ",
+            "link": "/story/567"
+        }
+    ],
+    "media": [
+        {
+            "file": "00566.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ok, some of this stuff you KNOW he's just leaving around to get under your skin. This is obviously another ploy in his relentless siege of one-upsmanship to get your goat (the same goat you've been meaning to bleat like ironically, but that will still have to wait for a more appropriate time).\r<br/> <br/>You think he knows that deep down you feel like you're still not ironic enough to get stuff like this, and this is probably some weird gauntlet he's throwing down to see if you will \"GET IT\". \r<br/> <br/>But honestly you think this material is just a little TOO ironic. You just don't need to see this shit right now.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

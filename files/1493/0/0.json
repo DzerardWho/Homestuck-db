@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1493,
+    "commands": [
+        {
+            "command": "Follow them. ",
+            "link": "/story/1494"
+        }
+    ],
+    "media": [
+        {
+            "file": "01493_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01493_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Someone is pestering you. But you are oblivious to the message because your laptop is buried under three inches of fucking yarn.\r<br/> <br/>There are footprints in the white sand.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1569,
+    "commands": [
+        {
+            "command": "Dave: Upgrade. ",
+            "link": "/story/1570"
+        }
+    ],
+    "media": [
+        {
+            "file": "01569.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You get the code for the jumper block extension to upgrade the alchemiter with... uh... the jumper block extension?\r<br/> <br/>Ok that's kind of a crappy drawing but it seemed to work anyway.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

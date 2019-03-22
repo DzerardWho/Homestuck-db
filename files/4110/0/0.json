@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4110,
+    "commands": [
+        {
+            "command": "[S] Begin intermission 2. ",
+            "link": "/story/4111"
+        }
+    ],
+    "media": [
+        {
+            "file": "04107.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

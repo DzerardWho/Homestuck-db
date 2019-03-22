@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2436,
+    "commands": [
+        {
+            "command": "Eridan: Go home. ",
+            "link": "/story/2437"
+        }
+    ],
+    "media": [
+        {
+            "file": "02435.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">That should keep her quiet for a while.\r<br/> <br/>At least until she dies.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

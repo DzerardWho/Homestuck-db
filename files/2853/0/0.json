@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2853,
+    "commands": [
+        {
+            "command": "Jade: Remove reminders. ",
+            "link": "/story/2854"
+        }
+    ],
+    "media": [
+        {
+            "file": "02852.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">That was not a conversation you were hoping to wake up to. You feel more agitated and disoriented than ever.\r<br/> <br/>You consult your reminders to get your bearings on what to do next.\r<br/> <br/>But you can't remember what they mean at all. You have a feeling these are all useless now.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

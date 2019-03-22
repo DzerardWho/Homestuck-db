@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1196,
+    "commands": [
+        {
+            "command": "[I] CD: Pick up card depicting stately blonde-haired fellows ",
+            "link": "/story/1197"
+        }
+    ],
+    "media": [
+        {
+            "file": "01196_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01196_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You're a busy guy so you just pick up any old thing and put it on your head. Since you are in a big hurry you will assume that it is your BACKUP HAT.\r<br/> <br/>You stand nearby the two remaining cards on the floor. An OFF-SUITED KING AND JACK.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

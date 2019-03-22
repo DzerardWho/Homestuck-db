@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 329,
+    "commands": [
+        {
+            "command": "SS: Climb ladder and exit hideout. Implement nefarious plots ",
+            "link": "/story/330"
+        }
+    ],
+    "media": [
+        {
+            "file": "00329.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">\"Spades Slick uses OCCAM'S RAZOR to carve a circular hole into the HEIST PLANS, freeing it from the knife.\r<br/> <br/>You wonder what moron would jam the knife so hard into the table in the first place.\"</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

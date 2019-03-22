@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 1585,
+    "commands": [
+        {
+            "command": "Rose: Knit the scarf. Ride the ogre. ",
+            "link": "/story/1586"
+        }
+    ],
+    "media": [
+        {
+            "file": "01585_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01585_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "01585_1retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

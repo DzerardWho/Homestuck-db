@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 741,
+    "commands": [
+        {
+            "command": "WV: Press green button on right. ",
+            "link": "/story/742"
+        }
+    ],
+    "media": [
+        {
+            "file": "00741.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You first examine the attractive GREEN BUTTONS. \r<br/> <br/>The icon for the one on the left is that house shape you've seen plenty of times before.\r<br/> <br/>The right one on closer inspection appears to be the map for this underground facility, with an X marking its center.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

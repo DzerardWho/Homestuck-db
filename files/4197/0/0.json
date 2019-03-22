@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4197,
+    "commands": [
+        {
+            "command": "Jane: Proceed downstairs. ",
+            "link": "/story/4198"
+        }
+    ],
+    "media": [
+        {
+            "file": "04194.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">There's a familiar face. A friendly face. Old poppop Crocker, smiling from beyond. Your dad sure misses him. He doesn't like to talk about the day he died. Some incident involving a tall bookshelf, a ladder, and a mysterious young woman in a suspicious looking hat. You have often fantasized about putting on your dirty old fedora and your Frenchest looking mustache to go tracking down this felonious broad and bring her to justice. But your dad always says best to let sleeping dogs lie.\r<br/> <br/>There's some other plucky looking tool there next to him. Dunno who that guy is.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

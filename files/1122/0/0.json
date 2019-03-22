@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1122,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1123"
+        }
+    ],
+    "media": [
+        {
+            "file": "01122.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh it's this guy again and his little blinking bee. So outrageous.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

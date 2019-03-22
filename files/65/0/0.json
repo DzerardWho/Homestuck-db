@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 65,
+    "commands": [
+        {
+            "command": "John: Inspect burnt paper on the floor. ",
+            "link": "/story/66"
+        }
+    ],
+    "media": [
+        {
+            "file": "00065.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Hehehehehehehehe.\r<br/> <br/>You don't care what COLONEL SASSACRE says, that makes it AT LEAST a million percent funnier.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

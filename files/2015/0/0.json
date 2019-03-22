@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2015,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2016"
+        }
+    ],
+    "media": [
+        {
+            "file": "02015.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You decide to give this diabolical contraption another shot. Maybe one of these days you will get one more suited to your proportions. For now this is all you have to work with.\r<br/> <br/>You just have to figure out how to stay on the thing without flying off the handle.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

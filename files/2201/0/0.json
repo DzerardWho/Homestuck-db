@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2201,
+    "commands": [
+        {
+            "command": "Vriska: Deal with this guy. ",
+            "link": "/story/2202"
+        }
+    ],
+    "media": [
+        {
+            "file": "02201.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What now?\r<br/> <br/>Oh, him. You thought he'd washed his hands of you. Strange timing that he's bugging you tonight after so long without a peep from him.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

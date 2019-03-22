@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4894,
+    "commands": [
+        {
+            "command": "Jack: Empty pumpkin on floor. ",
+            "link": "/story/4895"
+        }
+    ],
+    "media": [
+        {
+            "file": "04891.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He's not the sharpest tool in the shed. Although now that you think about it, he might be by default, since he just sent you all the sharpest tools in the shed.\r<br/> <br/>Oh well, you can probably get some use out of these. You've never once been disappointed to receive a pumpkin full of knives, and you're not about to make an exception.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

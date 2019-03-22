@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5110,
+    "commands": [
+        {
+            "command": "Calliope: Examine black tome. ",
+            "link": "/story/5111"
+        }
+    ],
+    "media": [
+        {
+            "file": "05107.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Yeah, see here?\r<br/> <br/>These are the dark spots you were referring to. Little tidbits here and there have been redacted by some fool with no respect for history. Looks like he used some kind of peculiar indigo ink.\r<br/> <br/>Frustratingly enough, most of the redactions target any piece of information about the indestructible demon who was either directly or indirectly behind every terrible event in the story. Everything about him, like where he came from, information about his manipulative right hand man, his agenda, his abilities, his name... all of it has been voided out.\r<br/> <br/>Most of the other blot-outs seem to target one member of the post-scratch troll group. Some guy who drinks a lot of soda? These omissions strike you as much less consequential. Frivolous, even. Whoever that guy was, he sounds like he was easily the least important character in the entire story.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

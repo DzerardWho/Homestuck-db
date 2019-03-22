@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2449,
+    "commands": [
+        {
+            "command": "Eridan: Check fridge. ",
+            "link": "/story/2450"
+        }
+    ],
+    "media": [
+        {
+            "file": "02448.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Another emotionally exhausting conversation. Too many FEELINGS AND PROBLEMS. It couldn't be any clearer to you. You and this sea princess have splashed down hard into the moirail zone, and now you don't know which way's upward. Perhaps tonight you will reveal your true feelings toward her, and end these exaggerated emotional theatrics once and for all, one way or another.\r<br/> <br/>You need a stiff drink.\r<br/> <br/>But... ugh. Not this swill. You're not THAT desperate.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

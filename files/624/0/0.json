@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 624,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/625"
+        }
+    ],
+    "media": [
+        {
+            "file": "00624.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make a POGO RIDE too. Minus 5 BUILD, 1 SHALE.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

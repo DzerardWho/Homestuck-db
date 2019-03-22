@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3789,
+    "commands": [
+        {
+            "command": "[o] How could this moment later come to pass? ",
+            "link": "/story/3790"
+        }
+    ],
+    "media": [
+        {
+            "file": "03786.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It would be disingenuous of me to present it as such, and I will not belittle your intelligence with such a tawdry narrative ploy. It would be rude, and I am too well dressed for that kind of behavior.\r<br/> <br/>If there truly stood some chance of permanence to the Heir's corpsehood, I can hear you asking now...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

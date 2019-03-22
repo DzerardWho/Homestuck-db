@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 399,
+    "commands": [
+        {
+            "command": "[S] JOHN, SALVAGE YOUR WEAPON AND FIGHT ON! ",
+            "link": "/story/400"
+        }
+    ],
+    "media": [
+        {
+            "file": "00399.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4302,
+    "commands": [
+        {
+            "command": "[A6I1] ==> ",
+            "link": "/story/4303"
+        }
+    ],
+    "media": [
+        {
+            "file": "04299.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">JOHN: wait, what just happened?</p>\n<p style=\"color: #4ac925\">JADE: i dont know!</p>\n<p style=\"color: #0715cd\">JOHN: it got darker, and greener...</p>\n<p style=\"color: #4ac925\">JADE: :?</p>\n<p style=\"color: #0715cd\">JOHN: this place is weird. when are we gonna bust through the other window, anyway?</p>\n<p style=\"color: #0715cd\">JOHN: i'm kind of antsy to get on with our adventure and meet up with everybody!</p>\n<p style=\"color: #4ac925\">JADE: yes me too</p>\n<p style=\"color: #4ac925\">JADE: hmmmmmm</p>\n<p style=\"color: #0715cd\">JOHN: what is it?</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

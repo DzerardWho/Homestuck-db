@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1217,
+    "commands": [
+        {
+            "command": "[I] HB: Pry the wall from the safe. ",
+            "link": "/story/1218"
+        }
+    ],
+    "media": [
+        {
+            "file": "01217.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This is just absolutely the most ridiculous thing you could possibly choose to do right now. I mean come on. \r<br/> <br/>Why don't you take a closer look at that safe...\r<br/> <br/>Seriously stop that.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

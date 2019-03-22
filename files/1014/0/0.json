@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1014,
+    "commands": [
+        {
+            "command": "WV: Try to appearify the cable again. ",
+            "link": "/story/1015"
+        }
+    ],
+    "media": [
+        {
+            "file": "01014.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You open the envelope. Inside is a letter and another envelope.\r<br/> <br/>This is all highly confusing and you do not know what to make of it.\r<br/> <br/>Still it is obviously critical MAYORAL BUSINESS which you take very seriously and you will defend this package with your life.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

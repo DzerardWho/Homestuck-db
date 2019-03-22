@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1824,
+    "commands": [
+        {
+            "command": "Dave: Preview item with holopad. ",
+            "link": "/story/1825"
+        }
+    ],
+    "media": [
+        {
+            "file": "01824.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You combine a couple more items you got from future Dave's loot stash. The broken form of CALEDSCRATCH, and some RUBY CONTRABAND, whatever the hell that is.\r<br/> <br/>The resulting item costs a fortune. You have no idea what it is.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 774,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/775"
+        }
+    ],
+    "media": [
+        {
+            "file": "00774.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It is an awfully silly idea and is basically a waste of everyone's time. You will predictably disregard this thought and focus on more sensible objectives at once.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

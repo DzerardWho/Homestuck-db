@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4470,
+    "commands": [
+        {
+            "command": "Roxy: Go grab that sweet gun. ",
+            "link": "/story/4471"
+        }
+    ],
+    "media": [
+        {
+            "file": "04467.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are now Roxy. What were you up to again? You were floating somewhere in the nonlinear timestew of paradox space, and we were hoping to get a handle on the exact chronology of your situation. Perhaps your successive actions will oblige us?\r<br/> <br/>Yeah, you aren't really listening. You're going to do whatever the hell you want.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

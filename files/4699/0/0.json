@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 4699,
+    "commands": [
+        {
+            "command": "[A6I2] ==> ",
+            "link": "/story/4700"
+        }
+    ],
+    "media": [
+        {
+            "file": "04696_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04696_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "04696_1_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #e00707\">DAVE: kanaya?</p>\n<p style=\"color: #008141\">KANAYA: No Thank You</p>\n<p style=\"color: #e00707\">DAVE: ok</p>\n<p style=\"color: #e00707\">DAVE: ...</p>\n<p style=\"color: #e00707\">DAVE: this fuckin thing</p>\n<p style=\"color: #e00707\">DAVE: where did you even unearth this piece of shit from</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

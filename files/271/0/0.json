@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 271,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/272"
+        }
+    ],
+    "media": [
+        {
+            "file": "00271.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><a class=\"postlink\" href=\"/story/waywardvagabond/anunsealedtunnel/\" target=\"_blank\">An unsealed tunnel welcomes hot desert air into its stagnant depths.</a></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

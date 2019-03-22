@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2011,
+    "commands": [
+        {
+            "command": "Enter name. ",
+            "link": "/story/2012"
+        }
+    ],
+    "media": [
+        {
+            "file": "02011.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Whoa what the motherfuck, who's this motherfuckin' motherfucker?\r<br/> <br/>It's cool, life is like that sometimes. It's full of mysteries. You'll be doing one thing then something else hits you just like that and you roll with it. That's what you do when life hands you lemons. You sure as fuck don't make lemonade because who the fuck knows where that fuckin' shit comes from?\r<br/> <br/>It's squeezed out of miracles is where.\r<br/> <br/>So what's this motherfucker's name?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

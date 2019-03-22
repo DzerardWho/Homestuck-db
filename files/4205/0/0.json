@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4205,
+    "commands": [
+        {
+            "command": "Jane: Retrieve arm. ",
+            "link": "/story/4206"
+        }
+    ],
+    "media": [
+        {
+            "file": "04202.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You just remembered something your alien friend said about the big old book downstairs, and trusting words written by your own hand. What the heck did she mean by that?\r<br/> <br/>Uh, whoops. Sorry, poppop.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

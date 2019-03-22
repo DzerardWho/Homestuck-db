@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2133,
+    "commands": [
+        {
+            "command": "Enter name. ",
+            "link": "/story/2134"
+        }
+    ],
+    "media": [
+        {
+            "file": "02133.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">That's better. We can now be properly introduced.\r<br/> <br/>Who's this spooky lady?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

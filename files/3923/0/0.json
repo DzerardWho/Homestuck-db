@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3923,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/3924"
+        }
+    ],
+    "media": [
+        {
+            "file": "03920.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">GT: hey, look!</p>\n<p style=\"color: #0715cd\">GT: that's my dad.</p>\n<p style=\"color: #0715cd\">GT: what's he doing here?</p>\n<p style=\"color: #005682\">AG: ........</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

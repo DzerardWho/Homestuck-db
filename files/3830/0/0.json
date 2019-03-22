@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3830,
+    "commands": [
+        {
+            "command": "[o] I wouldn't bet against her. ",
+            "link": "/story/3831"
+        }
+    ],
+    "media": [
+        {
+            "file": "03827.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">I'm reasonably sure that if I was,</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

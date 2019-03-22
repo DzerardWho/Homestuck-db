@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2081,
+    "commands": [
+        {
+            "command": "Sollux: Recruit team leader. ",
+            "link": "/story/2082"
+        }
+    ],
+    "media": [
+        {
+            "file": "02081.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are always up to your nook in the newest and hottest games. It is hard to walk around the place without squishing them. Whenever that happens you are screwed, and you have to grow a new one from scratch. Or just pirate it you guess.\r<br/> <br/>But tonight is no night for games.\r<br/> <br/>Well, ok, it is.\r<br/> <br/>But just one game in particular, and this game is no joking matter. It is delirious bugnasty.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1084,
+    "commands": [
+        {
+            "command": "Dave: Eject your modus and set it to Scrabble values. ",
+            "link": "/story/1085"
+        }
+    ],
+    "media": [
+        {
+            "file": "01084.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You try to grab the <span style=\"color: blue\">B</span><span style=\"color: red\">E</span><span style=\"color: blue\">T</span><span style=\"color: red\">A</span> (6) but you forgot your sylladex is completely packed.\r<br/> <br/>You wonder why you jammed all this useless crap in here in the first place. Maybe you assumed you would weaponize it all during one of your customary HASHRAP battles with your BRO. But in retrospect that probably just would have been a huge chore and would have made the battle drag on forever. \r<br/> <br/>It's like what are you made of time.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

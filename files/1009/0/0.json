@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1009,
+    "commands": [
+        {
+            "command": "WV: Command Serenity to carry the rope to you. ",
+            "link": "/story/1010"
+        }
+    ],
+    "media": [
+        {
+            "file": "01009.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Wait, what's that?\r<br/> <br/>There's something dangling from the top of one of the towers near the temple.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

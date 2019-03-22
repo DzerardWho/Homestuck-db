@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 821,
+    "commands": [
+        {
+            "command": "[S] Jade: Play a hauntingly relaxing bassline. ",
+            "link": "/story/822"
+        }
+    ],
+    "media": [
+        {
+            "file": "00821.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You switch your ECLECTIC BASS to its advanced setting. \r<br/> <br/>But you promptly switch it back, since obviously it's too complicated to play it in person like this. The default setting is your preferred mode for casual jamming.\r<br/> <br/>And since you can't possibly waste enough time playing music, casually jam is exactly what you're gonna do.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

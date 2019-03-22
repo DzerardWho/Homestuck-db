@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1924,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1925"
+        }
+    ],
+    "media": [
+        {
+            "file": "01924_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01924_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It is a high ranking agent from your kingdom.\r<br/> <br/>Could he be the man behind this crime? Could his intent be mutinous?\r<br/> <br/>You know the agent to be far too dangerous to take into custody. You hide behind some equipment and observe.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

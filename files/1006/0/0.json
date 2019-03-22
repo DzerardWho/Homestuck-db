@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1006,
+    "commands": [
+        {
+            "command": "WV: Sacrifice your MAYORAL SASH for more CABLES. ",
+            "link": "/story/1007"
+        }
+    ],
+    "media": [
+        {
+            "file": "01006_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01006_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You cannot descend from the top of your mobile station. The loose cable you gathered up and tied together is not yet long enough to allow you to reach the ground safely.\r<br/> <br/>You have used all the cable you can find. You will have to come up with another plan.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

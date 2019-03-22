@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 724,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/725"
+        }
+    ],
+    "media": [
+        {
+            "file": "00724.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You say a bittersweet goodbye to your beloved city. It is time to move on to greener pastures. By which of course you mean an arid, sandy wasteland upon which nothing green has grown in years.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

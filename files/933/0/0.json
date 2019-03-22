@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 933,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/934"
+        }
+    ],
+    "media": [
+        {
+            "file": "00933_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00933_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The machine beside it sucks up the paradox sludge and begins some kind of automated procedure.\r<br/> <br/>It seems whatever sort of primordial biochemical properties the sludge possesses is being evaluated by the device.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

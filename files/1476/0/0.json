@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1476,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1477"
+        }
+    ],
+    "media": [
+        {
+            "file": "01476.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You conclude you have no choice. You will march right up to him and ask politely for the package.\r<br/> <br/>Wait a minute...\r<br/> <br/>What's this?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

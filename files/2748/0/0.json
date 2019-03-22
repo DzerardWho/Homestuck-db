@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2748,
+    "commands": [
+        {
+            "command": "Terezi: Return to party. ",
+            "link": "/story/2749"
+        }
+    ],
+    "media": [
+        {
+            "file": "02747.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You take the brunt of the stellar smellsplosion like a sour apple punch to the snout!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 601,
+    "commands": [
+        {
+            "command": "Dave: Activate garbage disposal. ",
+            "link": "/story/602"
+        }
+    ],
+    "media": [
+        {
+            "file": "00601.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><span style=\"color: blue\">BL</span><span style=\"color: red\">E</span><span style=\"color: blue\">ND</span><span style=\"color: red\">E</span><span style=\"color: blue\">R</span> (2) is a pretty simple word, and you can already tell that's not going to work.\r<br/> <br/>Instead you take the...\r<br/> <br/><span style=\"color: blue\">WH</span><span style=\"color: red\">I</span><span style=\"color: blue\">RL</span><span style=\"color: red\">I</span><span style=\"color: blue\">NG BL</span><span style=\"color: red\">A</span><span style=\"color: blue\">D</span><span style=\"color: red\">E</span> <span style=\"color: blue\">P</span><span style=\"color: red\">I</span><span style=\"color: blue\">TCH</span><span style=\"color: red\">E</span><span style=\"color: blue\">R</span> (4).\r<br/> <br/>That's really a much better name for it anyway, you think.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 492,
+    "commands": [
+        {
+            "command": "John: Make your way to the study. ",
+            "link": "/story/493"
+        }
+    ],
+    "media": [
+        {
+            "file": "00492.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

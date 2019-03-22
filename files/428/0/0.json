@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 428,
+    "commands": [
+        {
+            "command": "THE HAG MENTIONED COOKIES. PURSUE HER. ",
+            "link": "/story/429"
+        }
+    ],
+    "media": [
+        {
+            "file": "00428.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #00d5f2\">NANNASPRITE: John, you are such a good boy! I know you will succeed.</p>\n<p style=\"color: #0715cd\">JOHN: thanks, nanna.</p>\n<p style=\"color: #00d5f2\">NANNASPRITE: You are a good boy, and good boys deserve treats!</p>\n<p style=\"color: #0715cd\">JOHN: hooray!</p>\n<p style=\"color: #00d5f2\">NANNASPRITE: I am going to go bake you some cookies.</p>\n<p style=\"color: #0715cd\">JOHN: ...</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

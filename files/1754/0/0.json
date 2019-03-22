@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1754,
+    "commands": [
+        {
+            "command": "Dave: Be the puppet. ",
+            "link": "/story/1755"
+        }
+    ],
+    "media": [
+        {
+            "file": "01754.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Where is he off to now?\r<br/> <br/>At least you have this little fellow here to keep you company.\r<br/> <br/>You will name him Viceroy Bubbles Von Salamancer.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

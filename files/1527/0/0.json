@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1527,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1528"
+        }
+    ],
+    "media": [
+        {
+            "file": "01527.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The package from your pen-pal appears again. You've been wondering when it was going to show up. It has been months since you last worked on it!\r<br/> <br/>Hopefully your friend has made the final modifications you require. You'll have to mail it soon so it reaches John in time!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

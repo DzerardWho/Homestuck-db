@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1922,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1923"
+        }
+    ],
+    "media": [
+        {
+            "file": "01922_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01922_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Thirteen years later, the boy develops a taste for adventure. He and his guardian bid farewell. His sister is sad. She will be left all alone with the wicked pastry baroness. She can handle it, he tells her. He believes in her.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

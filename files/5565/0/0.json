@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5565,
+    "commands": [
+        {
+            "command": "DD: Proceed to solitary confinement suite. ",
+            "link": "/story/5566"
+        }
+    ],
+    "media": [
+        {
+            "file": "05562.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You take a stroll through the Derse penitentiary. This is where the gen pop is housed. For inmates life is usually unpleasant and short down here. But the moment you laid eyes on the human prisoner, you knew you could never in good conscience lock him up in the dungeons and gulags with the common thieves, tax cheats and parking fee delinquents. That would be a crime worse than those committed by all the inmates combined.\r<br/> <br/>No, a man of such distinction and strong fashion sense needed special accommodations. A cell reserved for Very Important Prisoners.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

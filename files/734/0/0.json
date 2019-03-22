@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 734,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/735"
+        }
+    ],
+    "media": [
+        {
+            "file": "00734.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You immediately craft a MEASURING SPEAR through possibly the most advanced form of alchemy employed thusfar. This is obviously the most important thing to do first.\r<br/> <br/>OBVIOUSLY.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

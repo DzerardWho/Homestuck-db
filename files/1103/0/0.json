@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1103,
+    "commands": [
+        {
+            "command": "AR: Quickly retrieve side arms. ",
+            "link": "/story/1104"
+        }
+    ],
+    "media": [
+        {
+            "file": "01103.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">There is plenty of ammunition stored in the various AMMO CRATES which you have spent a great deal of time unearthing from nearby dunes and hauling back to your stronghold. You have a large variety of weaponry and ammunition at your disposal.\r<br/> <br/>Whether you can locate some more AK47 rounds quickly enough is a different matter.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1492,
+    "commands": [
+        {
+            "command": "Is it not why you are here? ",
+            "link": "/story/1493"
+        }
+    ],
+    "media": [
+        {
+            "file": "01492.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">JASPERSPRITE is nowhere to be found. He always was a little cagey, even when he was alive.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 736,
+    "commands": [
+        {
+            "command": "WV: Press the triangle pattern. ",
+            "link": "/story/737"
+        }
+    ],
+    "media": [
+        {
+            "file": "00736.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You examine the perplexing contraption across the room. You of course have no idea what it could possibly do.\r<br/> <br/>You adopt the only obvious course of action which is to poke and prod it with your HANDY RULER. You are quite sure this is what science is all about.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

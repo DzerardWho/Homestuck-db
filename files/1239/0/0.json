@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1239,
+    "commands": [
+        {
+            "command": "[I] SS: Clocks. Destroy them. ",
+            "link": "/story/1240"
+        }
+    ],
+    "media": [
+        {
+            "file": "01239.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You grab his VOODOO DOLL, and stick his pin in there for good measure. Might as well keep track of everyone you've offed this way too.\r<br/> <br/>Not that you intend to abuse its power to settle your score. What's the point if you're not gonna get your hands dirty.\r<br/> <br/>Still, it might come in handy down the road. <span style=\"color: #2ed73a\">Lord English</span> is supposedly indestructible. He's rumored to be killable only through a number of glitches and exploits in spacetime. The doll may ultimately help you work the system if it comes to that.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

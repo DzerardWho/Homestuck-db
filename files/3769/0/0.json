@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3769,
+    "commands": [
+        {
+            "command": "[o] Tock. ",
+            "link": "/story/3770"
+        }
+    ],
+    "media": [
+        {
+            "file": "03766.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The Seer of Mind had challenged the Thief of Light to a simple game of chance. \r<br/> <br/>If the result was the undamaged side, the Thief would agree to stay. If not, she would \"go.\"</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

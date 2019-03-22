@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1550,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1551"
+        }
+    ],
+    "media": [
+        {
+            "file": "01550.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Mr. Noir tells you that ticket had better be notarized and punched in triplicate and presented with the full boondollar penalty plus processing fees, or you are wasting valuable time he could otherwise spend shirking his clerical duties.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

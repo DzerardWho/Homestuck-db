@@ -1,0 +1,36 @@
+{
+    "version": 0,
+    "page": 662,
+    "commands": [
+        {
+            "command": "John: Turn around... ",
+            "link": "/story/663"
+        }
+    ],
+    "media": [
+        {
+            "file": "00662_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00662_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00662_3.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "00662_2_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It already seems like a long way down to your yard. Not even to speak of whatever's below.\r<br/> <br/>Hey, weren't your TRICK HANDCUFFS dangling from that branch earlier? Dammit, why do imps got to be making off with all your sweet gear?? </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

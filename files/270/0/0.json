@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 270,
+    "commands": [
+        {
+            "command": "Years in the future, but not many... ",
+            "link": "/story/271"
+        }
+    ],
+    "media": [
+        {
+            "file": "00270.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Now you're just being a pest.\r<br/> <br/>Which turnip truck did you just tumble out of, anyway?\r<br/> <br/>Who are you?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

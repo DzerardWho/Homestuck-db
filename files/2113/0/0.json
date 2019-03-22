@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2113,
+    "commands": [
+        {
+            "command": "Tavros: Hop in. ",
+            "link": "/story/2114"
+        }
+    ],
+    "media": [
+        {
+            "file": "02113.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This is how you get up to your recuperacoon when it's time to rest. It's kind of a production getting in and out.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

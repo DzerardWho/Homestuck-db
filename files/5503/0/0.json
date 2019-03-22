@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 5503,
+    "commands": [
+        {
+            "command": "[A6I4] ==> ",
+            "link": "/story/5504"
+        }
+    ],
+    "media": [
+        {
+            "file": "05500_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "05500_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #2ed73a\">AH. YES. IT'S THIS BUMBLING TWIT.</p>\n<p style=\"color: #2ed73a\">WHERE IS HE.</p>\n<p style=\"color: #000000\">He is in his game session, exploring his land.</p>\n<p style=\"color: #2ed73a\">HIS LAND LOOKS COOLER THAN MINE.</p>\n<p style=\"color: #000000\">It is cooler.</p>\n<p style=\"color: #2ed73a\">THAT FUCKER. I AM SO GOING TO MESS WITH HIM. NOW THAT I CAN SEE HIM.</p>\n<p style=\"color: #2ed73a\">HEY.</p>\n<p style=\"color: #2ed73a\">WHY CAN I SEE HIM NOW? THEIR GAME WAS BLACKED OUT. LAST I LOOKED.</p>\n<p style=\"color: #000000\">You were looking through a standard chat client viewport.</p>\n<p style=\"color: #000000\">This tower's signal bypasses the field of void permeating the session.</p>\n<p style=\"color: #000000\">As long as you find the right tower, the right monitor, and have the right key, you should be able to see anything in existence from this planet.</p>\n<p style=\"color: #2ed73a\">INTERESTING.</p>\n<p style=\"color: #000000\">Try another key.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

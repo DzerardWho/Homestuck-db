@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4597,
+    "commands": [
+        {
+            "command": "Jack: Finish job. ",
+            "link": "/story/4598"
+        }
+    ],
+    "media": [
+        {
+            "file": "04594.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You just <span style=\"font-style: italic\">knew</span> you hadn't finished the job. \r<br/> <br/>When it comes to children who ain't quite been offed yet, you've got sixth sense.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

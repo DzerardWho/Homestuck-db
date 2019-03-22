@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 1271,
+    "commands": [
+        {
+            "command": "[I] SS: Bring knives to the gunfight. ",
+            "link": "/story/1272"
+        }
+    ],
+    "media": [
+        {
+            "file": "01271.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "01271retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><span style=\"color: #2ed73a\">Stitch</span> gets the business end of your SABER RATTLE. He's dead. In this timeline at least.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

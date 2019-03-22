@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4677,
+    "commands": [
+        {
+            "command": "[A6I2] ==> ",
+            "link": "/story/4678"
+        }
+    ],
+    "media": [
+        {
+            "file": "04674.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">If you don't calm down, I'm going to repair your other eye. You know, the one you refused to let me fix, because you thought the eye patch looked cool? I'll do it!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

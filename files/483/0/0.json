@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 483,
+    "commands": [
+        {
+            "command": "Rose: It's time to build. ",
+            "link": "/story/484"
+        }
+    ],
+    "media": [
+        {
+            "file": "00483.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The piano in its valiant effort has unfortunately been slain.\r<br/> <br/>But if it hadn't, it would have raked in so many BOONDOLLARS, you have no idea.\r<br/> <br/>SO MANY.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

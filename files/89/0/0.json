@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 89,
+    "commands": [
+        {
+            "command": "[S] STRIFE! ",
+            "link": "/story/90"
+        }
+    ],
+    "media": [
+        {
+            "file": "00089_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00089_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your DAD sees right through your costume! You don't know what you were even thinking with this foolish ruse!!!\r<br/> <br/>You unequip the CLEVER DISGUISE. Your DAD wields a dreaded ARTIFACT OF CONFECTION. He stands between you and the mail.\r<br/> <br/>There is only one way to settle this.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

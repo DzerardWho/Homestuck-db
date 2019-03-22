@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 793,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/794"
+        }
+    ],
+    "media": [
+        {
+            "file": "00793.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">There isn't much to wonder, really. You left the WARDROBIFIER on its randomization setting.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

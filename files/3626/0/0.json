@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3626,
+    "commands": [
+        {
+            "command": "Rose: Pester informant. ",
+            "link": "/story/3627"
+        }
+    ],
+    "media": [
+        {
+            "file": "03623.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You cannot be a teenage girl from another universe, because you are too busy being a teenage girl from this universe. You are busy being Rose Lalonde. Completely preoccupied with it, in fact. \r<br/> <br/>So preoccupied, you have been neglecting messages from some of your friends who are trying to contact you. But you have a lot of important stuff to do. You will get back to them later.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

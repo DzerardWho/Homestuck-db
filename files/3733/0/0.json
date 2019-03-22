@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3733,
+    "commands": [
+        {
+            "command": "Terezi: Open chest. ",
+            "link": "/story/3734"
+        }
+    ],
+    "media": [
+        {
+            "file": "03730.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have spent way too much time calibrating the ambiance of your investigation, and not nearly enough time investigating. It is one of the most common pitfalls to being an investigator. Aside from literal pitfalls, which you actually fall into.\r<br/> <br/>There are two chests in this secret room. Nothing out of the ordinary. Chests are everywhere in this lab, and people find it all too tempting to sneak their personal belongings into them for safe keeping. That is, until the goods are stolen shortly after by those who can't resist looting every chest they encounter, which is everybody.\r<br/> <br/>Maybe these ones contain clues?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

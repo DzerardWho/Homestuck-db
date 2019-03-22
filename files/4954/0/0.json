@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4954,
+    "commands": [
+        {
+            "command": "Jane: Get car. ",
+            "link": "/story/4955"
+        }
+    ],
+    "media": [
+        {
+            "file": "04951.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What the...\r<br/> <br/>You think your dad maybe left the wrong note in the wallet? He probably meant to leave one pertaining to how you're mature enough to inherit his wallet, and what a big responsibility a wallet is for a strong young woman, or something like that. Dad leaves tons of notes like this around for such occasions, so it's probably easy for him to get them mixed up sometimes. He is a highly professional and competent father, but the guy is still fallible after all. D'aww.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

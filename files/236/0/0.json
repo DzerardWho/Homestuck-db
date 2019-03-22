@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 236,
+    "commands": [
+        {
+            "command": "Rose: See what you can observe. ",
+            "link": "/story/237"
+        }
+    ],
+    "media": [
+        {
+            "file": "00236.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You first put your LAPTOP down on the floor to get it situated.\r<br/> <br/>But removing it from the ROOT CARD causes all the branches and leaves to be severed! Your items are dumped unceremoniously on the floor.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

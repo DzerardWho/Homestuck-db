@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2741,
+    "commands": [
+        {
+            "command": "Dave: Answer. ",
+            "link": "/story/2742"
+        }
+    ],
+    "media": [
+        {
+            "file": "02740_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02740_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Looks like Egbert came through. He wires you his measly BOONBUCK. It's not much, but it is immediately funneled into the pipelines of your various investment scams, and quickly begins paying dividends.\r<br/> <br/>The figures are tight. You have this shit on fiduciary lockdown. The economy belongs to you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4237,
+    "commands": [
+        {
+            "command": "Jane: Activate. ",
+            "link": "/story/4238"
+        }
+    ],
+    "media": [
+        {
+            "file": "04234.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have waited around long enough. Dad's legendary car wash won't last forever, and the day isn't getting any younger.\r<br/> <br/>You pack up poppop's book and bust out your trusty HOMING DEVICE.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

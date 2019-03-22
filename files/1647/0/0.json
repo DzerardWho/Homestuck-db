@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1647,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1648"
+        }
+    ],
+    "media": [
+        {
+            "file": "01647.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #e00707\">TG: WAIT</p>\n<p style=\"color: #0715cd\">EB: what?</p>\n<p style=\"color: #e00707\">TG: dont go yet</p>\n<p style=\"color: #e00707\">TG: somethings up</p>\n<p style=\"color: #0715cd\">EB: ugh...</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

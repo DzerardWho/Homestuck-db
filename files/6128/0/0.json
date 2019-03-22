@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6128,
+    "commands": [
+        {
+            "command": "[A6I5] SS: Go through 5th wall. ",
+            "link": "/story/6129"
+        }
+    ],
+    "media": [
+        {
+            "file": "06125.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Through here <span style=\"color: #2ed73a\">Crowbar</span> says. \r<br/> <br/>Hey what's this thing <span style=\"color: #2ed73a\">Clover</span> asks? Nothing you say. You think the idiot who used to live here was doing some sort of science experiment. Pretty much, Ms. Paint says. Don't touch it you say. Could be a deathtrap. <span style=\"color: #2ed73a\">Clover</span> pulls his hand away quickly. He looks worried.\r<br/> <br/><span style=\"color: #2ed73a\">Die</span> asks if he can have his doll back. You say of course not, shut up. He looks crestfallen. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

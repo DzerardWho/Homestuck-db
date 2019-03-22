@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4885,
+    "commands": [
+        {
+            "command": "Jack: Inspect pumpkin. ",
+            "link": "/story/4886"
+        }
+    ],
+    "media": [
+        {
+            "file": "04882.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">A lone sentry is on duty below. You shout a few obscenities his way. You wonder aloud what a guy has to do to get a decent meal around here. Hey, you're TALKING to that guy. It's no use though. He ignores you.\r<br/> <br/>Just look at that stoic face. The unshakeable discipline. The stalwart sense of duty and pride. This is what it means to be a member of the Prospitian Royal Guard. \r<br/> <br/>What a load of shit, you grumble to yourself, but loud enough for him to hear.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

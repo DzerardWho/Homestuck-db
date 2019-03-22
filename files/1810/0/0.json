@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1810,
+    "commands": [
+        {
+            "command": "Rose: Combine knittings and velvet pillow and squiddle shirt ",
+            "link": "/story/1811"
+        }
+    ],
+    "media": [
+        {
+            "file": "01810_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01810_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make a pair of NEEDLEWANDS.\r<br/> <br/>They crackle with the majyyk enyrjjies.\r<br/> <br/>It is time to make something cool to wear.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

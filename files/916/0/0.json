@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 916,
+    "commands": [
+        {
+            "command": "Jade: Leap dramatically across the divide. ",
+            "link": "/story/917"
+        }
+    ],
+    "media": [
+        {
+            "file": "00916.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You suppose you could still manage to sneak by the crafty old man if you are fast enough. Avoiding an encounter would be ideal.\r<br/> <br/>Encounters with him are usually........\r<br/> <br/>Intense.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

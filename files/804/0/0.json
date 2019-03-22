@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 804,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/805"
+        }
+    ],
+    "media": [
+        {
+            "file": "00804.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">These things are stupid and useless!\r<br/> <br/>When the MAGIC 8 BALL isn't being frustratingly ambiguous, its forecast is always wrong! You have tested it numerous times with certain facts you know to be true. This is its reply when you ask if it is your friend John's birthday today. See? Stupid!\r<br/> <br/>You guess maybe it could be used as a reverse-prediction device, and always trust the opposite of what it says. But that seems dumb to you. And anyway, the thing gives you a bad vibe. You might consider smashing it, but you are a little superstitious about whatever ominous consequences that might have, even if the occult talisman in question is a cheap piece of garbage.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

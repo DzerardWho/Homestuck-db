@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2274,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2275"
+        }
+    ],
+    "media": [
+        {
+            "file": "02274_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02274_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your mercy killing triggers another avalanche. More rotten luck!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4471,
+    "commands": [
+        {
+            "command": "Roxy: Examine dead mutant collection. ",
+            "link": "/story/4472"
+        }
+    ],
+    "media": [
+        {
+            "file": "04468_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04468_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You pick up your high octane LASER GUN. It's powered by the most deadly sciences you know of.\r<br/> <br/>You keep a couple specibus allocations in your portfolio on standby. You try to stay as sharp as possible in unarmed combat, because you never know when you'll get ambushed. It's dangerous out there.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

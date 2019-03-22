@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4248,
+    "commands": [
+        {
+            "command": "Jake: Look down. ",
+            "link": "/story/4249"
+        }
+    ],
+    "media": [
+        {
+            "file": "04245.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">There are the ruins you'll be making your way toward once you've got the uranium. \r<br/> <br/>Still need to locate that enigmatic brobot. He's out there, somewhere. Just watching. You can feel it.\r<br/> <br/>Can't let your guard down for a second, or you'll get served like a dude on butler island.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

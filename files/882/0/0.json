@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 882,
+    "commands": [
+        {
+            "command": "John: Pick up as much grist as you can hold. ",
+            "link": "/story/883"
+        }
+    ],
+    "media": [
+        {
+            "file": "00882.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You and your CERAMIC PORKHOLLOW rejoice in the mound of wealth yielded from your meteoric ascent up the ladder. \r<br/> <br/>You are still not sure what all these BOONDOLLARS can actually get you. But when pulling in such insane loot hand over fist like this, who cares? \r<br/> <br/>Not you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

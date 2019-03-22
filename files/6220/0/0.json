@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6220,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/6221"
+        }
+    ],
+    "media": [
+        {
+            "file": "06217.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You chance upon the SLAB OF THE JADED FOOL'S ENNUI. You don't know the slab is called that, but that's what the slab is called.\r<br/> <br/>Looks like a good spot to decompress after your strange ordeal through canonspace.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

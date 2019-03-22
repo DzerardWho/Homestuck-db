@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4167,
+    "commands": [
+        {
+            "command": "Jake: Examine bed. ",
+            "link": "/story/4168"
+        }
+    ],
+    "media": [
+        {
+            "file": "04164.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Better off just keeping it in your strife deck.\r<br/> <br/>You can draw the guns faster from there anyway.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

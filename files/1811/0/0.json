@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1811,
+    "commands": [
+        {
+            "command": "Rose: Combine needlewands and grimoire. ",
+            "link": "/story/1812"
+        }
+    ],
+    "media": [
+        {
+            "file": "01811_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01811_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make a stylish VELVET SQUIDDLEKNIT DRESS.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

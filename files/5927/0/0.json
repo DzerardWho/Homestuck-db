@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 5927,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/5928"
+        }
+    ],
+    "media": [
+        {
+            "file": "05924_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "05924_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #626262\">KARKAT: DAVE ARE YOU THERE</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

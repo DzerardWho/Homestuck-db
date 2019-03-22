@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1478,
+    "commands": [
+        {
+            "command": "AR?: Doff your hat to the attractive female. ",
+            "link": "/story/1479"
+        }
+    ],
+    "media": [
+        {
+            "file": "01478.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You do not have a sword. You are quite sure it would never occur to you to carry a sword or resort to violence under any circumstance.\r<br/> <br/>You will have to take a more diplomatic route with this fellow.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

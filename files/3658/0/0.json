@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3658,
+    "commands": [
+        {
+            "command": "John: Locate Tumor. ",
+            "link": "/story/3659"
+        }
+    ],
+    "media": [
+        {
+            "file": "03655_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03655_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">OK ANYWAY LET'S GET BACK TO JOHN.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 463,
+    "commands": [
+        {
+            "command": "Dave: Give Lil Cal a nervous fist bump. ",
+            "link": "/story/464"
+        }
+    ],
+    "media": [
+        {
+            "file": "00463.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh. Uh...\r<br/> <br/>Hey...\r<br/> <br/>Hey there, Cal.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

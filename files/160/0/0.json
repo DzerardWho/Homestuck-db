@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 160,
+    "commands": [
+        {
+            "command": "John: Examine Alchemiter in a cautious manner. ",
+            "link": "/story/161"
+        }
+    ],
+    "media": [
+        {
+            "file": "00160.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">EB: hey, i'm out on the balcony now.</p>\n<p style=\"color: #0715cd\">EB: i am messaging from my dad's pda.</p>\n<p style=\"color: #b536da\">TT: The one you threw into the yard?</p>\n<p style=\"color: #0715cd\">EB: no, i am telling you.</p>\n<p style=\"color: #0715cd\">EB: it jumped out of my sylladex like a frightened weasel.</p>\n<p style=\"color: #b536da\">TT: What were you doing with it in the first place?</p>\n<p style=\"color: #b536da\">TT: I am not sensing a lot of regard for the personal property of others.</p>\n<p style=\"color: #b536da\">TT: Is this how your pent-up frustration with your father manifests itself?</p>\n<p style=\"color: #0715cd\">EB: what? no.</p>\n<p style=\"color: #0715cd\">EB: those were all accidents.</p>\n<p style=\"color: #0715cd\">EB: please take your psycho-babblery elsewhere, miss!</p>\n<p style=\"color: #b536da\">TT: Your bathroom is a mess.</p>\n<p style=\"color: #b536da\">TT: Did you do that too?</p>\n<p style=\"color: #0715cd\">EB: oh man, see this isn't cool.</p>\n<p style=\"color: #0715cd\">EB: all this snooping nonsense!</p>\n<p style=\"color: #b536da\">TT: There's a cake in the toilet.</p>\n<p style=\"color: #0715cd\">EB: yes. there is.</p>\n<p style=\"color: #b536da\">TT: I'm tempted to clean it up for you.</p>\n<p style=\"color: #0715cd\">EB: ok, if that will satisfy your weird ocd complex then go ahead.</p>\n<p style=\"color: #b536da\">TT: My Obsessive-Compulsive Disorder complex?</p>\n<p style=\"color: #b536da\">TT: Can a disorder also be a complex?</p>\n<p style=\"color: #0715cd\">EB: in your case, probably!</p>\n<p style=\"color: #b536da\">TT: Sounds complicated.</p>\n<p style=\"color: #0715cd\">EB: anyway...</p>\n<p style=\"color: #0715cd\">EB: i am going to have a look at this enormous platformy thing you put on the balcony.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

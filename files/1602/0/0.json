@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1602,
+    "commands": [
+        {
+            "command": "John: Answer CG. ",
+            "link": "/story/1603"
+        }
+    ],
+    "media": [
+        {
+            "file": "01602.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

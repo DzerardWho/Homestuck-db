@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 683,
+    "commands": [
+        {
+            "command": "WV: Be the imp. ",
+            "link": "/story/684"
+        }
+    ],
+    "media": [
+        {
+            "file": "00683.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You wield your TRUSTY KNIFE.\r<br/> <br/>It is actually a...\r<br/> <br/>You're not sure what they're called. It's an old rusted one of those red mailbox arm-swing flappy doodads, either for letting you know there is mail in the box, or maybe for alerting the mailman to outgoing mail to be collected. You don't know, really. You've wrapped a little piece of cloth around it for the grip.\r<br/> <br/>It is useless for opening cans.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1204,
+    "commands": [
+        {
+            "command": "[I] DD: Resume pursuit of wounded felt member. ",
+            "link": "/story/1205"
+        }
+    ],
+    "media": [
+        {
+            "file": "01204.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Trouble is, whenever he does, he lets you know exactly where he's going to be in the future. This time you'll be ready for him.\r<br/> <br/>You radio Deuce for backup. Give him a time and place, and exactly what path through the mansion to take.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1203,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1204"
+        }
+    ],
+    "media": [
+        {
+            "file": "01203.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><span style=\"color: #2ed73a\">Trace</span> always knows where you've been. \r<br/> <br/>The spineless rat likes to follow your PAST TRAIL around and mess with you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

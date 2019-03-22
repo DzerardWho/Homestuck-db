@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1884,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1885"
+        }
+    ],
+    "media": [
+        {
+            "file": "01884_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01884_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The gentleman discovers a clue. A powerful nose detects perfume. The lady has fled. The mystery deepens.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

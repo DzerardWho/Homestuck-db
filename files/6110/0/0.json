@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6110,
+    "commands": [
+        {
+            "command": "ACT 6 INTERMISSION 5 INTERMISSION 5 ",
+            "link": "/story/6111"
+        }
+    ],
+    "media": [
+        {
+            "file": "06107.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #77003c\">MEENAH: dammit</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

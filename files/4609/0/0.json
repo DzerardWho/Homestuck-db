@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4609,
+    "commands": [
+        {
+            "command": "Roxy: Go just sort of pick it up. ",
+            "link": "/story/4610"
+        }
+    ],
+    "media": [
+        {
+            "file": "04606.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You stow the kidmomgoo in one of your captchalogue bottles.\r<br/> <br/>Wait...\r<br/> <br/>That was kind of a weird implementation of your modus. You're not even sure what happened there. Oh well, whatever. You guess you can go just... sort of... \r<br/> <br/>Pick it up?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

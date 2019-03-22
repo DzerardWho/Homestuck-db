@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3026,
+    "commands": [
+        {
+            "command": "Dave: Eject disc. ",
+            "link": "/story/3027"
+        }
+    ],
+    "media": [
+        {
+            "file": "03025.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #4ac925\">GG: what does this thing do?</p>\n<p style=\"color: #e00707\">TG: its mostly pretty stupid and useless</p>\n<p style=\"color: #e00707\">TG: but itll come in handy here</p>\n<p style=\"color: #e00707\">TG: it reads captcha codes</p>\n<p style=\"color: #4ac925\">GG: on the back of cards?</p>\n<p style=\"color: #e00707\">TG: yeah</p>\n<p style=\"color: #4ac925\">GG: but</p>\n<p style=\"color: #4ac925\">GG: we can already read those!</p>\n<p style=\"color: #e00707\">TG: some are too garbled and complicated</p>\n<p style=\"color: #e00707\">TG: the human eye cant decipher them</p>\n<p style=\"color: #e00707\">TG: needs sophisticated scanning technology</p>\n<p style=\"color: #e00707\">TG: and artificial intelligence to figure it out</p>\n<p style=\"color: #4ac925\">GG: hmm</p>\n<p style=\"color: #4ac925\">GG: but isnt the whole point of captchas that only humans can read them?</p>\n<p style=\"color: #4ac925\">GG: and not robots???</p>\n<p style=\"color: #e00707\">TG: yeah well</p>\n<p style=\"color: #e00707\">TG: thats why this is so dumb</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

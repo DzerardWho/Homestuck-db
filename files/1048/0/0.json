@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1048,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1049"
+        }
+    ],
+    "media": [
+        {
+            "file": "01048_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01048_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It is very much the same as your own! The only difference is that this one is home to a young boy instead of a young girl.\r<br/> <br/>You peer through the window.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

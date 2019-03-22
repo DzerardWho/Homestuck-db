@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1132,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1133"
+        }
+    ],
+    "media": [
+        {
+            "file": "01132.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Today is your BIRTHDAY. Your grandfather has decided to celebrate by introducing you to THE THRILL OF THE HUNT. \r<br/> <br/>But suddenly you and Bec are wandering off. Where is this silly DOG taking you?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 5017,
+    "commands": [
+        {
+            "command": "Jake: Monstrositify something. ",
+            "link": "/story/5018"
+        }
+    ],
+    "media": [
+        {
+            "file": "05014_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "05014_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Terry! Atta boy. He looks like he is ready and raring to be a loyal companion to his new owner, that lucky bastard. You will be a little sad to say goodbye. You hardly got a chance to know him at all.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

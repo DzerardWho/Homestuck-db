@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 5477,
+    "commands": [
+        {
+            "command": "[A6I4] ==> ",
+            "link": "/story/5478"
+        }
+    ],
+    "media": [
+        {
+            "file": "05474_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "05474_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are really upset that you killed that sweet helpful bard. No, don't pretend you aren't. He only wanted to be your guide. Would that have been so bad, you wonder? You wonder this to yourself while a tear rolls down your stupid red cheek. You turn away so that no one can see you cry, but you let out a muffled sob and everyone can tell how sad you are.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

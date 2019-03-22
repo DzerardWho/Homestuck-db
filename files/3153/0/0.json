@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3153,
+    "commands": [
+        {
+            "command": "Jade: Combine Rose's crystal ball and magic cue ball. ",
+            "link": "/story/3154"
+        }
+    ],
+    "media": [
+        {
+            "file": "03150_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03150_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make the DRESS OF ECLECTICA! \r<br/> <br/>This is so much better.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4133,
+    "commands": [
+        {
+            "command": "Jane: Go to computer. ",
+            "link": "/story/4134"
+        }
+    ],
+    "media": [
+        {
+            "file": "04130.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Looks like somebody is bothering you. He better make it quick! You've got a window to stay glued to.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

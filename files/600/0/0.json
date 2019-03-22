@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 600,
+    "commands": [
+        {
+            "command": "Dave: Take blender. ",
+            "link": "/story/601"
+        }
+    ],
+    "media": [
+        {
+            "file": "00600.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You go for the <span style=\"color: blue\">CH</span><span style=\"color: red\">E</span><span style=\"color: blue\">RR</span><span style=\"color: red\">Y</span> <span style=\"color: blue\">B</span><span style=\"color: red\">O</span><span style=\"color: blue\">MBS</span> (9) unsuccessfully. \r<br/> <br/>After mulling it over a bit, you take the <span style=\"color: blue\">R</span><span style=\"color: red\">E</span><span style=\"color: blue\">D SPH</span><span style=\"color: red\">E</span><span style=\"color: blue\">R</span><span style=\"color: red\">I</span><span style=\"color: blue\">C</span><span style=\"color: red\">A</span><span style=\"color: blue\">L S</span><span style=\"color: red\">A</span><span style=\"color: blue\">L</span><span style=\"color: red\">U</span><span style=\"color: blue\">T</span><span style=\"color: red\">E</span><span style=\"color: blue\">S</span> (1).</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

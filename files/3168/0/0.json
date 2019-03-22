@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3168,
+    "commands": [
+        {
+            "command": "Jade: Combine mecha, streetsweeper, and iron suit. ",
+            "link": "/story/3169"
+        }
+    ],
+    "media": [
+        {
+            "file": "03165_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03165_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make the THREE IN THE MORNING DRESS!\r<br/> <br/>It is so fancy. You cannot imagine wearing it on anything other than super special occasions. Not to mention you'll freeze your ass off in this thing!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3435,
+    "commands": [
+        {
+            "command": "Terezi: Examine marks. ",
+            "link": "/story/3436"
+        }
+    ],
+    "media": [
+        {
+            "file": "03432.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Another textbook impaling. Your perp has been busy tonight.\r<br/> <br/>Wait... there appears to be a pair of smaller marks on the victim's neck.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

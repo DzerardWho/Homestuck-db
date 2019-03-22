@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 538,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/539"
+        }
+    ],
+    "media": [
+        {
+            "file": "00538.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">EB: wow, that was so totally unnecessary!</p>\n<p style=\"color: #b536da\">TT: I made a shortcut upstairs. I thought it would be a good idea to get up there and try the cards as soon as possible.</p>\n<p style=\"color: #b536da\">TT: Also, you weren't being terribly responsive.</p>\n<p style=\"color: #0715cd\">EB: you mean these stairs?</p>\n<p style=\"color: #0715cd\">EB: man, look at these shitty stairs...</p>\n<p style=\"color: #0715cd\">EB: they're so narrow! i'm supposed to climb those?</p>\n<p style=\"color: #b536da\">TT: They're perfectly navigable.</p>\n<p style=\"color: #b536da\">TT: I'm saving on grist for now.</p>\n<p style=\"color: #b536da\">TT: If you keep slaying foes, collecting grist, and expanding the cache limit, we may not need to be so economical with our resources in the future.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

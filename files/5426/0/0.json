@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 5426,
+    "commands": [
+        {
+            "command": "[S][A6I3] MINISTRIFE!!! ",
+            "link": "/story/5427"
+        }
+    ],
+    "media": [
+        {
+            "file": "05423_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "05423_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p class=\"o_chat-log type-left type-rg type-hs-small--md line-caption line-copy--md mar-t-md mar-t-md--md pad-x-md pad-x-hs-lg--md pad-b-md pad-b-md--md disp-n\">You spend no less than 90 seconds staring at this fucking GIF image before you realize the actual Flash animation is on the next page.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

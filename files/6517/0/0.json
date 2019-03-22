@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6517,
+    "commands": [
+        {
+            "command": "YOUR NOBLE MOUNT ABSORBS MOST OF THE DAMAGE THOUGH. ",
+            "link": "/story/6518"
+        }
+    ],
+    "media": [
+        {
+            "file": "06514.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">YOU DEAL A CRITICAL HIT TO THE HORRIBLE WITCH. \r<br/> <br/>HOWEVER. AN ILL TIMED LEAP SUBSEQUENTLY CAUSES YOU TO SUFFER *MASSIVE DAMAGE*.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

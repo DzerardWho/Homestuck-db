@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 145,
+    "commands": [
+        {
+            "command": "TT: Select bunny. ",
+            "link": "/story/146"
+        }
+    ],
+    "media": [
+        {
+            "file": "00145.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You cannot select a PLAYER!\r<br/> <br/>JOHN abjures the meddlesome cursor.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

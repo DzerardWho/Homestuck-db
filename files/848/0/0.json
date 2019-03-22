@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 848,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/849"
+        }
+    ],
+    "media": [
+        {
+            "file": "00848.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">There are no scientists to be found, mad or otherwise. Or anyone for that matter. The lab appears to be deserted. \r<br/> <br/>There is a KIOSK though.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

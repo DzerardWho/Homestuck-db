@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 735,
+    "commands": [
+        {
+            "command": "WV: Look at the other wall. ",
+            "link": "/story/736"
+        }
+    ],
+    "media": [
+        {
+            "file": "00735.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Or it WOULD obviously be the most important thing to do if you had remembered to bring your TRUSTY KNIFE.\r<br/> <br/>You feel so insecure without your TRUSTY KNIFE, it makes you want to slit your wrists. Or at the very least, flog your carapace with some sort of measuring apparatus.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

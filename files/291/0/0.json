@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 291,
+    "commands": [
+        {
+            "command": "RIDICULOUS FOLLY. INEXCUSABLE. ",
+            "link": "/story/292"
+        }
+    ],
+    "media": [
+        {
+            "file": "00291_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00291_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "00291_2_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 8011,
+    "commands": [
+        {
+            "command": "[A6A6I5] ====> ",
+            "link": "/story/8012"
+        }
+    ],
+    "media": [
+        {
+            "file": "08005.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

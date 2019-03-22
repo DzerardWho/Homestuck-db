@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 667,
+    "commands": [
+        {
+            "command": "WV: Examine rotten pumpkin. ",
+            "link": "/story/668"
+        }
+    ],
+    "media": [
+        {
+            "file": "00667.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Got em already.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

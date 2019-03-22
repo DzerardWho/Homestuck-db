@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1253,
+    "commands": [
+        {
+            "command": "[I] HB: Call Spades for backup. ",
+            "link": "/story/1254"
+        }
+    ],
+    "media": [
+        {
+            "file": "01253.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><span style=\"color: #2ed73a\">Stitch</span> mutters to himself in his shop. He guesses <span style=\"color: #2ed73a\">Eggs</span> and <span style=\"color: #2ed73a\">Biscuits</span> are roughhousing again, because the fabric of spacetime is tearing something fierce on <span style=\"color: #2ed73a\">Lord English</span>'s CAIRO OVERCOAT. This sort of thing is exactly why he keeps a BACKUP COAT, and always leaves <span style=\"color: #2ed73a\">Stitch</span> with one of them.\r<br/> <br/>Any gang does well to have an in-house doctor on hand. But if you deal in time travel you better have a damn good tailor too.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

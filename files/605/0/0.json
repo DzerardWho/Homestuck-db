@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 605,
+    "commands": [
+        {
+            "command": "Dave: Use the turntables and cinderblocks to make a fort. ",
+            "link": "/story/606"
+        }
+    ],
+    "media": [
+        {
+            "file": "00605_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00605_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's the hatch to the crawlspace above your apartment. BRO'S always tucking away in there when he's busting out his rad stealth stunts. He's so slick that dangling cord never even jostles.\r<br/> <br/>You just know he's being ironic with these weird mind games. There's no way anyone could be serious about aping those shitty movies.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

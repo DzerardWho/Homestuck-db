@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6113,
+    "commands": [
+        {
+            "command": "[A6I5] SS: Inspect green torso. ",
+            "link": "/story/6114"
+        }
+    ],
+    "media": [
+        {
+            "file": "06110.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">There was some commotion up here earlier. That guy flipped your bed over this balcony and you fell in the water like a thousand feet below. You had to climb all the way back up, sopping wet. You think he said something about English? You don't see any sign of the rival mob boss though. You'll have to investigate.\r<br/> <br/>You might not have much time to find him though. The sun is setting on the horizon. What are all those things floating over the water? You can't quite make them out, even with your awesome cyborg eye, which can probably make you see better. Maybe. I'm not sure. I don't actually know anything about cybernetics to tell you the truth. I just gave you a red eye because I thought it looked cool.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

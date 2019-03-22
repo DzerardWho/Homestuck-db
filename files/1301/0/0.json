@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1301,
+    "commands": [
+        {
+            "command": "[I] SS: Arm yourself, in case Cans shows up. ",
+            "link": "/story/1302"
+        }
+    ],
+    "media": [
+        {
+            "file": "01301_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01301_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">That's better.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

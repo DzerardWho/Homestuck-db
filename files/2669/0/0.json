@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2669,
+    "commands": [
+        {
+            "command": "John: Examine Posters. ",
+            "link": "/story/2670"
+        }
+    ],
+    "media": [
+        {
+            "file": "02668.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">They chucked it out the window. Little oily bastards. You'll have to get your hands on a new one somehow.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

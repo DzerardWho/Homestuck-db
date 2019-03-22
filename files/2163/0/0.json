@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2163,
+    "commands": [
+        {
+            "command": "Nepeta: Give Tavros the bad news. ",
+            "link": "/story/2164"
+        }
+    ],
+    "media": [
+        {
+            "file": "02163_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02163_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

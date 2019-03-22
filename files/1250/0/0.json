@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1250,
+    "commands": [
+        {
+            "command": "[I] HB: Waste exactly four hours on this tomfoolery. ",
+            "link": "/story/1251"
+        }
+    ],
+    "media": [
+        {
+            "file": "01250.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You stop to admire this gorgeous clock. It is so pretty. Too bad it's not ticking like so many of the clocks in this place. Not that you can blame them. There are so  many clocks in this mansion it would obviously be impractical to make sure they all work properly.\r<br/> <br/>Oh look. A trail of blood.\r<br/> <br/>You think you'll start following it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

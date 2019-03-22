@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1522,
+    "commands": [
+        {
+            "command": "You guide the Heir. Consult with him. ",
+            "link": "/story/1523"
+        }
+    ],
+    "media": [
+        {
+            "file": "01522.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You set the application to leech off John's BUILD GRIST because he's obviously got too much for his own good.\r<br/> <br/>It cuts the download rate in half though.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

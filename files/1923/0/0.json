@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1923,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1924"
+        }
+    ],
+    "media": [
+        {
+            "file": "01923.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This all seems pointless to you, and immaterial to the crime that has been committed. \r<br/> <br/>Though you do find it odd that the appearifier target has been fixed over that especially stupid looking animal. \r<br/> <br/>You hear the elevator platform. Someone is coming.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 66,
+    "commands": [
+        {
+            "command": "John: Throw present wrap in fire. ",
+            "link": "/story/67"
+        }
+    ],
+    "media": [
+        {
+            "file": "00066_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00066_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You put this back in the fire where it belongs.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

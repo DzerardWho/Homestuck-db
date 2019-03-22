@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1162,
+    "commands": [
+        {
+            "command": "[I] SS: Shuffle contents of war chest. ",
+            "link": "/story/1163"
+        }
+    ],
+    "media": [
+        {
+            "file": "01162.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

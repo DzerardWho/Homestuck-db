@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1520,
+    "commands": [
+        {
+            "command": "Dave: Illegally pirate some of John's shale. ",
+            "link": "/story/1521"
+        }
+    ],
+    "media": [
+        {
+            "file": "01520.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">GRISTTORRENT is now running.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3668,
+    "commands": [
+        {
+            "command": "John: Reunite with Liv Tyler. ",
+            "link": "/story/3669"
+        }
+    ],
+    "media": [
+        {
+            "file": "03665.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You and your rabbit friend approach a gentleman wrapped in a fine white cloth, and his courageous cohort, a young man riding a great gust of wind!\r<br/> <br/>You are so impressed, you forget what you are supposed to be doing.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

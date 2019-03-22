@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3606,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3607"
+        }
+    ],
+    "media": [
+        {
+            "file": "03603.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #000056\">AA: there was another fragment</p>\n<p style=\"color: #a10000\">AA: oh?</p>\n<p style=\"color: #000056\">AA: yes</p>\n<p style=\"color: #000056\">AA: an additional eight symbols</p>\n<p style=\"color: #000056\">AA: from a wild card source i suppose</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

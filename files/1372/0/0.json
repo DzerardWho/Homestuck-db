@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1372,
+    "commands": [
+        {
+            "command": "Jade: Try out new Pictionary modus. ",
+            "link": "/story/1373"
+        }
+    ],
+    "media": [
+        {
+            "file": "01372.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Yeah, that one's obviously not going to work.\r<br/> <br/>You switch to PICTIONARY, a choice based on a strong whim from the <a class=\"postlink\" href=\"/images/storyfiles/hs2/scraps/poll_jademodus.gif\" target=\"_blank\">mysterious ethers of democracy</a>.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

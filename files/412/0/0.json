@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 412,
+    "commands": [
+        {
+            "command": "Rose: Hurry and activate the generator! ",
+            "link": "/story/413"
+        }
+    ],
+    "media": [
+        {
+            "file": "00412.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "00412_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

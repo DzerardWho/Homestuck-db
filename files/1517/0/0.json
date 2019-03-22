@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1517,
+    "commands": [
+        {
+            "command": "Dave: Insert disc into computer. ",
+            "link": "/story/1518"
+        }
+    ],
+    "media": [
+        {
+            "file": "01517.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You put the card in the slot and stick the shunt on the jumper pins.\r<br/> <br/>Nothing happens. You might need to stick a punched card in there, probably allowing the holes in the card to affect the flow of current through the circuits. And to punch cards you'll need to get a designix somehow.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

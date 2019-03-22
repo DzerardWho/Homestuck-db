@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2867,
+    "commands": [
+        {
+            "command": "Jade: Go inside. ",
+            "link": "/story/2868"
+        }
+    ],
+    "media": [
+        {
+            "file": "02866_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02866_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You suppose you could upgrade this thing right away, if Jade can spare some time to cooperate. You've got plenty of grist to spare.\r<br/> <br/>There's a lot of new junk in the registry. You wonder what all this stuff is for. \r<br/> <br/>It costs a fortune. You have a lot of grist, but not nearly that much.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

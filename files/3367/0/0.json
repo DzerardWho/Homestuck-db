@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3367,
+    "commands": [
+        {
+            "command": "Terezi: Inspect noise. ",
+            "link": "/story/3368"
+        }
+    ],
+    "media": [
+        {
+            "file": "03364.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And not far from that, you detect bright trails of white light. It smells... hopeful.\r<br/> <br/>Also curious.\r<br/> <br/>And that noise. Behind you...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

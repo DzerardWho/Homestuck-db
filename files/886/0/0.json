@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 886,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/887"
+        }
+    ],
+    "media": [
+        {
+            "file": "00886.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Where a kingdom lies entrenched beyond an impenetrable veil of darkness.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

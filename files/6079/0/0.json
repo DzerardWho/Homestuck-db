@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6079,
+    "commands": [
+        {
+            "command": "[A6I5] VBVS: Summon undead army. ",
+            "link": "/story/6080"
+        }
+    ],
+    "media": [
+        {
+            "file": "06076.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You retrieve your adorable amphibious arms from your RAG OF DEMONS. And in doing so you reveal them to be adorably grasping the dreaded CROOK OF FRAILTY. No young salamancer should dabble in the dark arts without one.\r<br/> <br/>You twirl the grim cudgel in the air and begin to disturb ancient spirits from their slumber. In spite of necromancy's notoriously bonkers FAKENESS ATTRIBUTE, you begin to cast a spell!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

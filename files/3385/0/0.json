@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3385,
+    "commands": [
+        {
+            "command": "Rufio: Make him pay. ",
+            "link": "/story/3386"
+        }
+    ],
+    "media": [
+        {
+            "file": "03382_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03382_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Alas, they cannot be revived.\r<br/> <br/>Their dream selves have been slain.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

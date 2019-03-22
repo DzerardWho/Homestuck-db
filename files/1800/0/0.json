@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1800,
+    "commands": [
+        {
+            "command": "[S] WV?: Rise up. ",
+            "link": "/story/1801"
+        }
+    ],
+    "media": [
+        {
+            "file": "01800.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Somewhere, a WARWEARY VILLEIN rues eternal struggle between feuding royalty.\r<br/> <br/>The BATTLEFIELD holds little promise for the peaceful life of a simple farmer.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

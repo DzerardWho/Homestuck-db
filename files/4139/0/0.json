@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4139,
+    "commands": [
+        {
+            "command": "Jane: Examine bowlbuster. ",
+            "link": "/story/4140"
+        }
+    ],
+    "media": [
+        {
+            "file": "04136_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04136_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Yep. This one changed too. Crockercorp is nothing if not thorough with its branding tactics. You <span style=\"font-style: italic\">guess</span> it's pretty cool? It's just a fork instead of a spoon. Not the most awe inspiring logo you've ever seen, but who are you to judge? Aside from the future owner of the company.\r<br/> <br/>(You make a mental note that when you turn 18 and inherit the company you will change it back to a spoon, you love the spoon.)</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

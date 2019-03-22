@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5682,
+    "commands": [
+        {
+            "command": "Jane: Return home. ",
+            "link": "/story/5683"
+        }
+    ],
+    "media": [
+        {
+            "file": "05679.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #2ed73a\">uu: INTO MY HIDEOUS SOUL.</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

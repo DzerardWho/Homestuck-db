@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 684,
+    "commands": [
+        {
+            "command": "WV: Become the mayor of Can Town. ",
+            "link": "/story/685"
+        }
+    ],
+    "media": [
+        {
+            "file": "00684.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This means nothing to you. You are not an imp, you have no idea what an imp is, and you will not entertain such frivolous and childish ideas ever again. You feel stupid and hate yourself a little for even considering it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

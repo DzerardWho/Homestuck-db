@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 979,
+    "commands": [
+        {
+            "command": "[S] Jade: Retrieve package. ",
+            "link": "/story/980"
+        }
+    ],
+    "media": [
+        {
+            "file": "00979.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

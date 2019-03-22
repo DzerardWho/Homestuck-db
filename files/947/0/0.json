@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 947,
+    "commands": [
+        {
+            "command": "[S] John: Examine your dad's room. ",
+            "link": "/story/948"
+        }
+    ],
+    "media": [
+        {
+            "file": "00947.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Aw yeah, here come the secrets. Get ready for some MAJOR revela...\r<br/> <br/>Wait a minute. These are just boring business documents and spreadsheets.\r<br/> <br/>What the hell is going on here???</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

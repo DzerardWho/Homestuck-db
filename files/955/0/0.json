@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 955,
+    "commands": [
+        {
+            "command": "Jack: Don comical hat. ",
+            "link": "/story/956"
+        }
+    ],
+    "media": [
+        {
+            "file": "00955_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00955_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are ARCHAGENT JACK NOIR. You oversee various affairs of a DARK KINGDOM. Presently you are determining how to deal with this prisoner, who has been a thorn in your side since he was apprehended.\r<br/> <br/>You view the affairs of the kingdom through a series of FENESTRATED WALLS. You have three walls, nearly enough to form a CUBICLE OF VIGILANCE, which is a full and proper enclosure for an agent of your stature.\r<br/> <br/>However, much to your utter contempt, your FOURTH WALL was stolen some time ago.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

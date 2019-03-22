@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3722,
+    "commands": [
+        {
+            "command": "[???????] ",
+            "link": "/story/7322"
+        },
+        {
+            "command": "==> ",
+            "link": "/story/3723"
+        }
+    ],
+    "media": [
+        {
+            "file": "03719.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The door is locked!\r<br/> <br/>You will either need a key, or to break it down with force. You would need to achieve an especially heightened state of determination to pull that off, though.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

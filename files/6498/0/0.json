@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6498,
+    "commands": [
+        {
+            "command": "STEEDS: RIDE. ",
+            "link": "/story/6499"
+        }
+    ],
+    "media": [
+        {
+            "file": "06495.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">ALL MEMBERS OF YOUR PARTY SIT ON THEIR MAJESTIC BEASTS OF BURDEN. AND PREPARE TO RIDE LIKE THE WIND. \r<br/> <br/>IT GOES WITHOUT SAYING. THAT THE INCOMPLETE HORSES. MUST BE RESERVED FOR THE WOMEN.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

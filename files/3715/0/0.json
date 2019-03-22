@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3715,
+    "commands": [
+        {
+            "command": "Keep playing anyway. ",
+            "link": "/story/3716"
+        }
+    ],
+    "media": [
+        {
+            "file": "03712_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03712_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

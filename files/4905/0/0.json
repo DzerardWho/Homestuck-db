@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4905,
+    "commands": [
+        {
+            "command": "Jack: Beckon other guard over. ",
+            "link": "/story/4906"
+        }
+    ],
+    "media": [
+        {
+            "file": "04902.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">No dice. Need a different approach. \r<br/> <br/>Wait a minute. Another guard notices your unauthorized tomfoolery and radios for backup.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

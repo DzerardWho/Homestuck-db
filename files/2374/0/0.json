@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2374,
+    "commands": [
+        {
+            "command": "Vriska: Help Pupa find shadow. ",
+            "link": "/story/2375"
+        }
+    ],
+    "media": [
+        {
+            "file": "02374.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh my!\r<br/> <br/>It appears Pupa Pan himself has flown through your window while you were asleep. How exciting! Surely he is here to take you away on the adventure of a lifetime. He is more dreamy and heroic than you ever imagined.\r<br/> <br/>But what's this?? It seems the legendary Boy-Skylark has misplaced his shadow. He is looking EVERYWHERE for it, to no avail. He is having a devil of a time, what with being paralyzed from the waist down and all. He clearly needs your help.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

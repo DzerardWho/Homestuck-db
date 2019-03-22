@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 764,
+    "commands": [
+        {
+            "command": "Read note. ",
+            "link": "/story/765"
+        }
+    ],
+    "media": [
+        {
+            "file": "00764.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What pumpkin?\r<br/> <br/>You see no pumpkin, and frankly it is hard to imagine there ever was a pumpkin, in plain sight or otherwise.\r<br/> <br/>Anyway, that would be a really terrible thing to do to poor, sweet Farmstink.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

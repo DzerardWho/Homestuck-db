@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2956,
+    "commands": [
+        {
+            "command": "oh dear. the purple text human again? ",
+            "link": "/story/2957"
+        }
+    ],
+    "media": [
+        {
+            "file": "02955.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Yes, and it seems you have remembered your human etiquette as well.\r<br/> <br/>John is busy at the moment. He is talking to his friend.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

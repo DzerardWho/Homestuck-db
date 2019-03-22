@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2793,
+    "commands": [
+        {
+            "command": "John: Deploy... huh? ",
+            "link": "/story/2794"
+        }
+    ],
+    "media": [
+        {
+            "file": "02792_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02792_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Aw, there she is. All tuckered out. You wonder what she is dreaming about? Surely something adorable.\r<br/> <br/>Anyway, guess it's time to get down to business and save her life! You prepare to initiate an uninterrupted sequence of life-saving events.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

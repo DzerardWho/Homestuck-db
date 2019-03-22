@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 305,
+    "commands": [
+        {
+            "command": "Rose: Take items and proceed downstairs. ",
+            "link": "/story/306"
+        }
+    ],
+    "media": [
+        {
+            "file": "00305.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And then there's this strange page containing some rather mysterious notes on summoning procedures. You've never been quite sure what these diagrams are getting at.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

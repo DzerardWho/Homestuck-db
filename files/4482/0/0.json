@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4482,
+    "commands": [
+        {
+            "command": "Roxy: Examine plush pile. ",
+            "link": "/story/4483"
+        }
+    ],
+    "media": [
+        {
+            "file": "04479.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">That's much better. \r<br/> <br/>As much as you enjoy an afternoon cocktail, you have to remember to pace yourself with these things. They're crazy strong, and tend to make you kinda sleepy.\r<br/> <br/>Oh my. How inviting does that soft plush pile look about now? Quite, you think.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

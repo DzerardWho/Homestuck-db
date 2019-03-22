@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 697,
+    "commands": [
+        {
+            "command": "WV: Use your own pee for the commercial zones. ",
+            "link": "/story/698"
+        }
+    ],
+    "media": [
+        {
+            "file": "00697.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You develop westward, settling those fertile plains and claiming them for your city.\r<br/> <br/>You section off a number of RESIDENTIAL AND COMMERCIAL ZONES for civic growth, arranged in the only logical pattern that occurs to you.\r<br/> <br/>You color the RESIDENTIAL ZONES with your piece of white chalk, but for some reason none of the colors in the box strike you as suitable for the COMMERCIAL ZONES. Perhaps there is an alternative.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

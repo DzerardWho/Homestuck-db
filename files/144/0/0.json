@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 144,
+    "commands": [
+        {
+            "command": "TT: Select John. ",
+            "link": "/story/145"
+        }
+    ],
+    "media": [
+        {
+            "file": "00144.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">EB: hey, do you think you could do me a favor?</p>\n<p style=\"color: #0715cd\">EB: can you grab all that stuff outside my broken window and bring it in for me?</p>\n<p style=\"color: #b536da\">TT: I'll give it a shot.</p>\n<p style=\"color: #0715cd\">EB: thx!</p>\n<p style=\"color: #b536da\">TT: No luck.</p>\n<p style=\"color: #b536da\">TT: It appears to be out of range. I'm guessing it is too far away from you, the \"player\".</p>\n<p style=\"color: #0715cd\">EB: :C</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

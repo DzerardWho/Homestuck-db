@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1031,
+    "commands": [
+        {
+            "command": "Jade: Go and make a new friend. ",
+            "link": "/story/1032"
+        }
+    ],
+    "media": [
+        {
+            "file": "01031_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01031_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

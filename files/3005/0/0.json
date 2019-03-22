@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3005,
+    "commands": [
+        {
+            "command": "Jade: Thank best friend. ",
+            "link": "/story/3006"
+        }
+    ],
+    "media": [
+        {
+            "file": "03004.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You finally hop off the lowly GREENTIKE rung and secure your position on the somewhat respectable KIDDO ECLIPSE rung.\r<br/> <br/>You have a lot of climbing ahead of you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

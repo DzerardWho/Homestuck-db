@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 3604,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3605"
+        }
+    ],
+    "media": [
+        {
+            "file": "03601_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03601_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03601_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #a10000\">AA: and the other</p>\n<p style=\"color: #a10000\">AA: five</p>\n<p style=\"color: #a10000\">AA: why the scale was tipped in this way between sisters</p>\n<p style=\"color: #a10000\">AA: i cannot say!</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

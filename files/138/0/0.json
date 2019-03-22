@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 138,
+    "commands": [
+        {
+            "command": "TT: Select magic chest. ",
+            "link": "/story/139"
+        }
+    ],
+    "media": [
+        {
+            "file": "00138.swf",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">[Mouseover the interface buttons. -AH]</p>",
+    "pesterlog": null,
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

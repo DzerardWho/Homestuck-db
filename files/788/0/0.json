@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 788,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/789"
+        }
+    ],
+    "media": [
+        {
+            "file": "00788.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You enter your bedroom. On this side of the room you are immediately confronted with numerous artifacts highlighting your various INTERESTS.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

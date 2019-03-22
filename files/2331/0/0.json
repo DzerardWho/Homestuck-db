@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2331,
+    "commands": [
+        {
+            "command": "Kanaya: Go downstairs. ",
+            "link": "/story/2332"
+        }
+    ],
+    "media": [
+        {
+            "file": "02331.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's too late. \r<br/> <br/>You'd better change back into your work clothes. No point in getting a good dress dirty.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

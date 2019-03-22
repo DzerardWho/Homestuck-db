@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3888,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/3889"
+        }
+    ],
+    "media": [
+        {
+            "file": "03885.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #1f9400\">JADESPRITE: dave?</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

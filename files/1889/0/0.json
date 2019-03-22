@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1889,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1890"
+        }
+    ],
+    "media": [
+        {
+            "file": "01889_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01889_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">One pair of tubes empties the sludge into the chamber below. \r<br/> <br/>The other pair does as well.\r<br/> <br/>Another sequence is activated.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

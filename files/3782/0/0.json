@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3782,
+    "commands": [
+        {
+            "command": "[o] Here we left our human Hero of Light. ",
+            "link": "/story/3783"
+        }
+    ],
+    "media": [
+        {
+            "file": "03779.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

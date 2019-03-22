@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 673,
+    "commands": [
+        {
+            "command": "WV: Take the can labeled BEANS. ",
+            "link": "/story/674"
+        }
+    ],
+    "media": [
+        {
+            "file": "00673.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your WEAK PATHETIC DIGITS are not strong enough to penetrate the can!!!\r<br/> <br/>Your fingers are certainly pointy enough, and your black carapace is suitably rigid, but you just don't have enough muscle for the task.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

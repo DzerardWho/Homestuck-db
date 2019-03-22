@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 397,
+    "commands": [
+        {
+            "command": "Rose: Forget the W and make haste to the mausoleum. ",
+            "link": "/story/398"
+        }
+    ],
+    "media": [
+        {
+            "file": "00397.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

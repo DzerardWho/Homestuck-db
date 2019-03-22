@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2914,
+    "commands": [
+        {
+            "command": "John: Wake up. ",
+            "link": "/story/2915"
+        }
+    ],
+    "media": [
+        {
+            "file": "02913.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

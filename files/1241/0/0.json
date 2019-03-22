@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1241,
+    "commands": [
+        {
+            "command": "[I] SS: Return to being Hearts Boxcars. ",
+            "link": "/story/1242"
+        }
+    ],
+    "media": [
+        {
+            "file": "01241.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Problem with that is, he'll just see your FUTURE TRAIL following him, and that'll be nothing but a loud invitation for him to mess with you some more.\r<br/> <br/>Besides, better to leave him alive. You think you know where he'll lead you to. Just got to be a little more subtle about tracing his BLOOD TRAIL. Keep your FUTURE TRAIL out of his line of sight.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

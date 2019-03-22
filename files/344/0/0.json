@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 344,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/345"
+        }
+    ],
+    "media": [
+        {
+            "file": "00344.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "00344_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You head out to get a TOWEL from the bathroom across the hall.\r<br/> <br/>You glance at one of the many RADICAL PUPPETS in your BRO'S collection and nod in approval.\r<br/> <br/>Is there anything not awesome about your BRO? No, you think not.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 558,
+    "commands": [
+        {
+            "command": "John: Make your way up those stairs, posthaste. ",
+            "link": "/story/559"
+        }
+    ],
+    "media": [
+        {
+            "file": "00558.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The SAFE was slain in battle. A great flaming nautical pyre carries it off to VAULTHALLA.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

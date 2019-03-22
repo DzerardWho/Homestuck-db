@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1159,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1160"
+        }
+    ],
+    "media": [
+        {
+            "file": "01159_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01159_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What is under the rug is much worse than any trap you can imagine.\r<br/> <br/>It is a member of a species that you do not recognize, with a ghastly furred upper lip.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

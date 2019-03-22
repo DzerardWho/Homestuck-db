@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5036,
+    "commands": [
+        {
+            "command": "Jane: Answer client shades. ",
+            "link": "/story/5037"
+        }
+    ],
+    "media": [
+        {
+            "file": "05033.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You can smell his cologne. Or at least you think you can. Maybe you're just imagining it? You know what, it doesn't matter. Someone punched through this door, and that guy was your dad. End of story!\r<br/> <br/>Another incoming message from your client shades. Your client human sure is a busy guy. You've barely heard a peep out of him since you got here.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

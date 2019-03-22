@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1576,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1577"
+        }
+    ],
+    "media": [
+        {
+            "file": "01576.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Size of the object you make is now variable. The bigger, the more expensive, as one would expect.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

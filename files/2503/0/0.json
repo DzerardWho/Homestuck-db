@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2503,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2504"
+        }
+    ],
+    "media": [
+        {
+            "file": "02502.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This moon is different. It's very... \r<br/> <br/>Purple.\r<br/> <br/>And quiet. \r<br/> <br/>Doesn't look like anyone here is awake yet.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

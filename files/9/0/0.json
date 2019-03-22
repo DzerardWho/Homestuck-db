@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 9,
+    "commands": [
+        {
+            "command": "John: Equip fake arms. ",
+            "link": "/story/10"
+        }
+    ],
+    "media": [
+        {
+            "file": "00009.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You stow the SMOKE PELLETS on one of your CAPTCHALOGUE CARDS in your SYLLADEX.\r<br/> <br/>You still aren't totally sure what that means, but you are starting to get the hang of the vernacular at least.\r<br/> <br/>You have two empty CAPTCHALOGUE CARDS remaining.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

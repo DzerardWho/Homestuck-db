@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 1053,
+    "commands": [
+        {
+            "command": "John: Combine ghost shirt and suit. ",
+            "link": "/story/1054"
+        }
+    ],
+    "media": [
+        {
+            "file": "01053_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01053_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01053_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This time instead of overlapping (&amp;&amp;) the two cards which created the POGO HAMMER, you use the two codes to double-punch (||) a blank card, producing a different hole pattern.\r<br/> <br/>The result is the HAMMERHEAD POGO RIDE. It doesn't look like it's as much fun as the original ride, but to be fair it's probably a lot safer.\r<br/> <br/>Double-punching cards creates patterns with more holes, rather than less holes by overlapping cards. This strikes you as a viable method for combining more than two items without whittling down to too few holes, or too many! Just mix up the overlaps and double-punches, and the sky's the limit.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

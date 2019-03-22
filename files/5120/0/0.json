@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5120,
+    "commands": [
+        {
+            "command": "Calliope: Examine ladder. ",
+            "link": "/story/5121"
+        }
+    ],
+    "media": [
+        {
+            "file": "05117.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Every time you wake up, you are always sure to put the lid back on neatly. \r<br/> <br/>Considering you virtually always find it exactly where you left it, you doubt your brother is anywhere near as diligent about making the bed. Wait, you mean sarswapagus.\r<br/> <br/>But the fact that he's a slob was never exactly breaking news to anyone.\r<br/> <br/>Neither is the fact that you both share a body.\r<br/> <br/>I mean come on.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

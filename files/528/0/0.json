@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 528,
+    "commands": [
+        {
+            "command": "John: Mash keys heedlessly. ",
+            "link": "/story/529"
+        }
+    ],
+    "media": [
+        {
+            "file": "00528.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh, well that should just be a simple matter of...\r<br/> <br/>Uh oh. It looks like it's trapped now. You don't see how you can access the item anymore, or store a new item there for that matter. These cards are pretty much useless now, and the items they contain are toast!\r<br/> <br/>But maybe all is not lost. Recalling from your experience with the PRE-PUNCHED CARD, you may be able to use the cards to replicate the items in question.\r<br/> <br/>Assuming you got the codes right, that is...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

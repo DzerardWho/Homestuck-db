@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1417,
+    "commands": [
+        {
+            "command": "It's nice to meet you, John. ",
+            "link": "/story/1418"
+        }
+    ],
+    "media": [
+        {
+            "file": "01417.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Yep. That's right.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

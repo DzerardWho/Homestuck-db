@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1088,
+    "commands": [
+        {
+            "command": "Rose: Captchalogue and send John code for his present. ",
+            "link": "/story/1089"
+        }
+    ],
+    "media": [
+        {
+            "file": "01088_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01088_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have finally finished your building project. You have done about all you can do for John. You don't think you can provide much assistance against all those ogres this time, but at least now John appears to be armed to the teeth.\r<br/> <br/>All there is left to do is wait for Dave.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

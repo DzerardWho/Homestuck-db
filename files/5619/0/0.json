@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5619,
+    "commands": [
+        {
+            "command": "Roxy: Turn around again. ",
+            "link": "/story/5620"
+        }
+    ],
+    "media": [
+        {
+            "file": "05616.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #ff6ff2\">TG: what?</p>\n<p style=\"color: #929292\">UU: OH NO!!!</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

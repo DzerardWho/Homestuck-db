@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4145,
+    "commands": [
+        {
+            "command": "Jane: Rummage around. ",
+            "link": "/story/4146"
+        }
+    ],
+    "media": [
+        {
+            "file": "04142_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04142_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You return to your BAKING CHEST which you use mainly for storing QUALITY PRANKING APPARATUS and a few other odds and ends.\r<br/> <br/>Oh hello, poppop. His friendly face is there to greet you every time you open your chest. You would have loved to meet him. Unfortunately his life was cut short at the tender age of 86 in a tragic accident, coincidentally on the same day you were born, or so your dad tells you. Poppop Crocker was a LEGENDARY COMEDIAN, following in the footsteps of his grandfather who of course was the greatest southern pranking legend of all time. One day, you hope to follow in poppop's too. \r<br/> <br/>But then, if the whoppers you have been told recently have any truth to them, maybe you will get to meet him after all? It seems too good to be true. The only relationship you have ever had with him are through video footage of his VAUDEVILLIAN ANTICS on stage. Or through his role as Judge Johnny Stone on one of your favorite old sitcoms, NIGHT COURT.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

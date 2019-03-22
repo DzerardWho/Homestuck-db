@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4833,
+    "commands": [
+        {
+            "command": "Jane: Say hello to your new guide. ",
+            "link": "/story/4834"
+        }
+    ],
+    "media": [
+        {
+            "file": "04830.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

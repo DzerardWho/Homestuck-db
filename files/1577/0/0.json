@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1577,
+    "commands": [
+        {
+            "command": "John: Find the car. ",
+            "link": "/story/1578"
+        }
+    ],
+    "media": [
+        {
+            "file": "01577.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make a tiny AIR CONDITIONER.\r<br/> <br/>This was totally not a waste of time!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

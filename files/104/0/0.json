@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 104,
+    "commands": [
+        {
+            "command": "John: Go to bathroom and grab a towel. ",
+            "link": "/story/105"
+        }
+    ],
+    "media": [
+        {
+            "file": "00104_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00104_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You pause at the juncture and head down the hall. You are going to need something to clean up the mess you are about to make by dissecting this CAKE.\r<br/> <br/>To the left is the BATHROOM. To the right is your DAD'S ROOM. It is locked, and you are forbidden from ever entering. He has secrets.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

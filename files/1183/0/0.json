@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1183,
+    "commands": [
+        {
+            "command": "[I] CD: Throw the hat down and stomp it mercilessly. ",
+            "link": "/story/1184"
+        }
+    ],
+    "media": [
+        {
+            "file": "01183.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Don't be stupid. To play solitaire you'd need a DECK OF CARDS. \r<br/> <br/>I don't see a DECK OF CARDS, do you? All I see is your BATTLEDROBE.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

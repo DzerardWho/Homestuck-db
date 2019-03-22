@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3881,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/3882"
+        }
+    ],
+    "media": [
+        {
+            "file": "03878.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p class=\"o_chat-log type-left type-rg type-hs-small--md line-caption line-copy--md mar-t-md mar-t-md--md pad-x-md pad-x-hs-lg--md pad-b-md pad-b-md--md disp-n\">arachnidsGrip <span style=\"color: #005682\">[AG]</span> began trolling ghostyTrickster <span style=\"color: #0715cd\">[GT]</p>\n\n<p style=\"color: #005682\">AG: Hi, John human.</p>\n<p style=\"color: #0715cd\">GT: auuugh!</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

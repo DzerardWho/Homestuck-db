@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4150,
+    "commands": [
+        {
+            "command": "Jane: Insert hat card. ",
+            "link": "/story/4151"
+        }
+    ],
+    "media": [
+        {
+            "file": "04147.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This thing's a piece of junk! It just wastes your boondollars and destroys your cool gear to produce these stupid things that look like Gushers! But unlike Gushers which serve many practical purposes like inducing vomiting and simulating the experience of eating plump insects, these things are totally useless!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

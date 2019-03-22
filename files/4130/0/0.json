@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4130,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4131"
+        }
+    ],
+    "media": [
+        {
+            "file": "04127_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04127_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You've been fidgeting around your room all day, making little observations about your various belongings, checking the clock. When will the dang mail get here?? You take another peek out the window, just in case.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

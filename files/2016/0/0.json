@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2016,
+    "commands": [
+        {
+            "command": "Gamzee: Sample delicious pie cooling on the counter. ",
+            "link": "/story/2017"
+        }
+    ],
+    "media": [
+        {
+            "file": "02016.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You do some sort of acrobatic fucking pirouette off the handle and into a big pile of horns.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 77,
+    "commands": [
+        {
+            "command": "John: Play 52 Pick-Up. ",
+            "link": "/story/78"
+        }
+    ],
+    "media": [
+        {
+            "file": "00077.swf",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">(Pages including sound will be preceded by [S] in the command.)</p>",
+    "pesterlog": null,
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

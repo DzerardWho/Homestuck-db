@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2300,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2301"
+        }
+    ],
+    "media": [
+        {
+            "file": "02300.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You don't see what the big deal is. Nothing special. This kid's out of his mind.\r<br/> <br/>But he's still blubbering on and on about it. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4908,
+    "commands": [
+        {
+            "command": "Jack: Look around room. ",
+            "link": "/story/4909"
+        }
+    ],
+    "media": [
+        {
+            "file": "04905.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Real smooth, Jack. What's the plan now? To bury the keys under a growing pile of torsos? This is turning out to be the second shittiest jailbreak attempt anyone has ever seen.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

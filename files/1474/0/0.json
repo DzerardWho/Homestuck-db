@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1474,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1475"
+        }
+    ],
+    "media": [
+        {
+            "file": "01474_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01474_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Of course. Now you remember. \r<br/> <br/>You must deliver a message to John right away.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3165,
+    "commands": [
+        {
+            "command": "Jade: Combine mummy and MC poster and outfit. ",
+            "link": "/story/3166"
+        }
+    ],
+    "media": [
+        {
+            "file": "03162_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03162_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Or you would, if you were able to afford the thing.\r<br/> <br/>Dave turbo-torrented you a lot of grist, but you don't have THAT much.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6092,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/6093"
+        }
+    ],
+    "media": [
+        {
+            "file": "06089.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">JOHN: ok, i'm not sure what that crazy outburst was about.</p>\n<p style=\"color: #0715cd\">JOHN: i think i'll just let that one go.</p>\n<p style=\"color: #0715cd\">JOHN: but you say this little house thing is intangible?</p>\n<p style=\"color: #005682\">VRISKA: Yes.</p>\n<p style=\"color: #0715cd\">JOHN: so i can't touch it?</p>\n<p style=\"color: #005682\">VRISKA: Yeah, I'm pretty sure that's what intangi8le means!</p>\n<p style=\"color: #0715cd\">JOHN: what happens if i try?</p>\n<p style=\"color: #005682\">VRISKA: I dunno if I would do that if I were you.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

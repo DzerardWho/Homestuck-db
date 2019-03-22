@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1067,
+    "commands": [
+        {
+            "command": "John: Combine iron and pogo hammer. ",
+            "link": "/story/1068"
+        }
+    ],
+    "media": [
+        {
+            "file": "01067.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Whatever this item is, you cannot make it yet! It requires a ludicrous amount of grist, some types of which you have not even encountered.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

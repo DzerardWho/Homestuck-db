@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1419,
+    "commands": [
+        {
+            "command": "This is great! Something is in there. Take a look. ",
+            "link": "/story/1420"
+        }
+    ],
+    "media": [
+        {
+            "file": "01419.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ok, have at it! If you're at a loss, click the controller button up there.\r<br/> <br/>This may or may not mean anything to you depending on your current perspective.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

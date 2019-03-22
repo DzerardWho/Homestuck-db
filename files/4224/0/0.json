@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4224,
+    "commands": [
+        {
+            "command": "Jake: Answer Lalonde. ",
+            "link": "/story/4225"
+        }
+    ],
+    "media": [
+        {
+            "file": "04221.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You successfully fail to notice it. Wait notice what? You don't even know what we're talking about here.\r<br/> <br/>But it doesn't matter for now because suddenly a wild chum assails you with banter!!!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

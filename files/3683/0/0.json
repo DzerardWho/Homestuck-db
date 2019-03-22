@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 3683,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3684"
+        }
+    ],
+    "media": [
+        {
+            "file": "03680_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03680_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03680_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">First you request that everyone settle down! The squat fellow mediates between the two bickering parties, and patches up Liv's missing eye. She is nothing if not accustomed to decades of repair work, and quickly resumes her plucky demeanor.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

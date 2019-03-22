@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1186,
+    "commands": [
+        {
+            "command": "[I] SS: Lift left leg and hold it a little ways in the air. ",
+            "link": "/story/1187"
+        }
+    ],
+    "media": [
+        {
+            "file": "01186_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01186_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Alright, you're the boss. Hearts Boxcars you ain't.\r<br/> <br/>Someone has replaced your plain and serviceable HAT with a silly and undersized one. An outrage beyond compare.\r<br/> <br/>You're sure you know who the culprit was. You can still smell his overly caffeinated blood...\r<br/> <br/>986/1000 CLOCKS SHOWN MERCY</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

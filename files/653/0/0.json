@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 653,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/654"
+        }
+    ],
+    "media": [
+        {
+            "file": "00653_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00653_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You stick the POGO HAMMER back in your STRIFE SPECIBUS and get ready to kill some more of these pesky little...\r<br/> <br/>Huh? What's that?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

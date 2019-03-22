@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5638,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/5639"
+        }
+    ],
+    "media": [
+        {
+            "file": "05635.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #e00707\">TT: Bro.</p>\n<p style=\"color: #e00707\">TT: Not to derail our serious conversation.</p>\n<p style=\"color: #e00707\">TT: But I should probably let you know that Roxy has been attempting to pester you.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

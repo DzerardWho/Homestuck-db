@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 488,
+    "commands": [
+        {
+            "command": "John: Ride pogo ride. ",
+            "link": "/story/489"
+        }
+    ],
+    "media": [
+        {
+            "file": "00488_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00488_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You captchalogue two cans of SHAVING CREAM just in case. You never know when you'll need to bust out a hilarious SHAVING CREAM SANTA BEARD to ratchet up your PRANKSTER'S GAMBIT.\r<br/> <br/>Your TELESCOPE goes flying out the window.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

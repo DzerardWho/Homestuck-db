@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 1334,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1335"
+        }
+    ],
+    "media": [
+        {
+            "file": "01334_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01334_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01334_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It doesn't work!!!\r<br/> <br/><span style=\"color: #2ed73a\">Cans</span> clocks Boxcars entirely out of the current calendar year. You land in a totally different outdated calendar. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

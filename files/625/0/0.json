@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 625,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/626"
+        }
+    ],
+    "media": [
+        {
+            "file": "00625.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You use the TOTEM carved with the random code. You create a...\r<br/> <br/>A ROCKET PACK?\r<br/> <br/>With some random crap stuck inside it. Looks like a CINDERBLOCK, a VIOLIN, and a FLOWER POT. The items have rendered the device completely inoperable.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

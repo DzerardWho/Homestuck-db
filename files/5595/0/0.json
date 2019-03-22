@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5595,
+    "commands": [
+        {
+            "command": "Roxy: Exit room. ",
+            "link": "/story/5596"
+        }
+    ],
+    "media": [
+        {
+            "file": "05592.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #ff6ff2\">TG: (hey wait for me!)</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

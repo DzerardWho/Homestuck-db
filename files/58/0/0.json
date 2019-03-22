@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 58,
+    "commands": [
+        {
+            "command": "John: Put urn back. ",
+            "link": "/story/59"
+        }
+    ],
+    "media": [
+        {
+            "file": "00058.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You merge the SACRED URN with the ASHES.\r<br/> <br/>Most of the ASH is back in the URN, but it's a total mess. Really it probably would have been tidier if you just used a broom and dustpan.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

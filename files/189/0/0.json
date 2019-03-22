@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 189,
+    "commands": [
+        {
+            "command": "John: Captchalogue telescope. ",
+            "link": "/story/190"
+        }
+    ],
+    "media": [
+        {
+            "file": "00189.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Acquiring a CRUXITE DOWEL seems to have populated the ATHENEUM with one item: a PERFECTLY GENERIC OBJECT.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

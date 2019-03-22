@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 861,
+    "commands": [
+        {
+            "command": "Rose: Attempt to plug laptop into nearby hub. ",
+            "link": "/story/862"
+        }
+    ],
+    "media": [
+        {
+            "file": "00861.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">At the center, you find a little stage that looks perfect for supporting a spectacularly silly dance. Or it would if standing on it didn't make you a little nervous, and also if that didn't sound like a retarded idea given the circumstances. \r<br/> <br/>It looks sort of like the various contraptions you've been deploying in John's house. You wonder what it does?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 659,
+    "commands": [
+        {
+            "command": "John: Ascend to the highest point of the house. ",
+            "link": "/story/660"
+        }
+    ],
+    "media": [
+        {
+            "file": "00659.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are being ambushed!\r<br/> <br/>There isn't much room to maneuver on this sloping roof. Maybe you should consider making your way to higher ground.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

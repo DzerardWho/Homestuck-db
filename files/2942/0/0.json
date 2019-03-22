@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2942,
+    "commands": [
+        {
+            "command": "WV: Examine fourth station. ",
+            "link": "/story/2943"
+        }
+    ],
+    "media": [
+        {
+            "file": "02941.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2068,
+    "commands": [
+        {
+            "command": "Karkat: Deal with crabby customer. ",
+            "link": "/story/2069"
+        }
+    ],
+    "media": [
+        {
+            "file": "02068_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02068_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">We return to the Land of Pulse and Haze, so that we can rewind a bit. Before all that paint got slopped on your hive and before that mysterious hole was made.\r<br/> <br/>Man how'd that hole get made??\r<br/> <br/>(It was when Karkat ran TA's cursed ~ATH program and his computer blew up. That's what happened. We'll see this happen later. It will be startling and unexpected.)</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

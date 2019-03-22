@@ -1,0 +1,36 @@
+{
+    "version": 0,
+    "page": 2004,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2005"
+        }
+    ],
+    "media": [
+        {
+            "file": "02004_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02004_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02004_3.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "02004_2_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The lawnrings are empty. Blood skims the voids in your porous cranial plates, as if grazing the hollow of a threshed stem, or say, an abandoned cocoon. A sour note is produced. It's the one Agitation plays to make its audience squirm.\r<br/> <br/>It is your sixth wriggling day, and as with all five preceding it blah blah blah blah blah blah blah blah blah blah blah blah blah blah.\r<br/> <br/>Look.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

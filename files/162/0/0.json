@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 162,
+    "commands": [
+        {
+            "command": "TT: Grab the soiled toilet. ",
+            "link": "/story/163"
+        }
+    ],
+    "media": [
+        {
+            "file": "00162_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00162_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It is a clear, sunny day. Nothing out of the ordinary to report. At least, not beyond the walls of your own home.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

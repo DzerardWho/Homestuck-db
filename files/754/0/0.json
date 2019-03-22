@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 754,
+    "commands": [
+        {
+            "command": "[S] WV: Hasten to the exit post-haste! ",
+            "link": "/story/755"
+        }
+    ],
+    "media": [
+        {
+            "file": "00754.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

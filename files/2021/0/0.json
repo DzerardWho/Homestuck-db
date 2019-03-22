@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 2021,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2022"
+        }
+    ],
+    "media": [
+        {
+            "file": "02021_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02021_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02021_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You say a short prayer to your beloved MIRTHFUL MESSIAHS, and splash a pinch of SPECIAL STARDUST in your face.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

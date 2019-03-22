@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5080,
+    "commands": [
+        {
+            "command": "Roxy: Answer chumps. ",
+            "link": "/story/5081"
+        }
+    ],
+    "media": [
+        {
+            "file": "05077.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It seems while you were running away from missiles and trying not to get blown up, messages from friends have been piling up. These chumps need to calm down. Don't they realize how hung over you are starting to feel? Everybody needs to chill the fuck out. Those chess guys behind you need to chill out too. The whole world needs to chill out and stop being so noisy and bright and on fire.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

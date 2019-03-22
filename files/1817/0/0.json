@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1817,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1818"
+        }
+    ],
+    "media": [
+        {
+            "file": "01817.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You take advantage of Dave's nap to make some architectural headway on his building. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

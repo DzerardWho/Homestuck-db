@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2037,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2038"
+        }
+    ],
+    "media": [
+        {
+            "file": "02037.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You don't want to slap too hard. Enough to sting, but not to bruise. It must be methodical, business-like. And persistent. You only stop when you smell tears.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

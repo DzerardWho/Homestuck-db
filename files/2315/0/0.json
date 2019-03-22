@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2315,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2316"
+        }
+    ],
+    "media": [
+        {
+            "file": "02315_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02315_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Though the signs pointed to two distinct sessions - two sets of mystic ruins, two opposing teams, two separate chains of connected players - this was all misleading.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

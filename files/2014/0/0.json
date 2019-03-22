@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2014,
+    "commands": [
+        {
+            "command": "Gamzee: Ride one wheel device. ",
+            "link": "/story/2015"
+        }
+    ],
+    "media": [
+        {
+            "file": "02014_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02014_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You take your HUSKTOP.\r<br/> <br/>Sometimes you just like to pick stuff up and watch the colors. It's so beautiful. Life is beautiful.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

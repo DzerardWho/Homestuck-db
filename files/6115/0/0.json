@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6115,
+    "commands": [
+        {
+            "command": "[A6I5] SS: Investigate. ",
+            "link": "/story/6116"
+        }
+    ],
+    "media": [
+        {
+            "file": "06112.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You're not gonna take the wand because obviously magic is fake. Come on. What sort of buffoon would try to wield that thing under any circumstance?\r<br/> <br/>You will however take the horns. They'll make a nice trophy. You always thought taking trophies from guys you killed was a cool idea. Or at least from guys you wish you killed, who you happen to find dead.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

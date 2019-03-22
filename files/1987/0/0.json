@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1987,
+    "commands": [
+        {
+            "command": "Recap 2. ",
+            "link": "/story/1988"
+        }
+    ],
+    "media": [
+        {
+            "file": "01987.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And inside, a FOURTH WALL, pilfered from a bureaucrat's office and absconded with years ago.\r<br/> <br/>It isn't turned on. \r<br/> <br/>But if it was, this is almost certainly what we would see.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

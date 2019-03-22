@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1326,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1327"
+        }
+    ],
+    "media": [
+        {
+            "file": "01326.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What's this? Hee hee! You think you can shoot <span style=\"color: #2ed73a\">Clover</span>? He is so lucky the gun will probably jam or something predictable like that. Nice try though!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

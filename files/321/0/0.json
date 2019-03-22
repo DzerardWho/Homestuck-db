@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 321,
+    "commands": [
+        {
+            "command": "Dave: Access Pesterchum and pester John. ",
+            "link": "/story/322"
+        }
+    ],
+    "media": [
+        {
+            "file": "00321.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You captchalogue the JUICE into card 7.\r<br/> <br/>2+1+1+2+1 %10 = 7.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

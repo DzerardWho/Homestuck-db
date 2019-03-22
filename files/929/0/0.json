@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 929,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/930"
+        }
+    ],
+    "media": [
+        {
+            "file": "00929.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You mess with the controls...\r<br/> <br/>Hey, Jaspers is alive!!!\r<br/> <br/>Or, at least he was in the past. According to the time-stamp this was almost nine years ago.\r<br/> <br/>You try to move the crosshairs with the joystick, but it seems to be permanently locked on a specific target. You might be able to unlock it, but you clearly don't have much time to horse around with this thing.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

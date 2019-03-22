@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 1337,
+    "commands": [
+        {
+            "command": "[I] SS: Enter the vault. ",
+            "link": "/story/1338"
+        }
+    ],
+    "media": [
+        {
+            "file": "01337_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01337_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01337_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The massive release of temporal distortion from the vault transports you to a highly unfavorable timeline. Looks like the entire mansion was leveled, except for the vault and its enclosure. Everyone's dead except for you and you know who.\r<br/> <br/>But at least the safe's open.\r<br/> <br/>1000/1000 CLOCKS DESTROYED\r<br/> <br/>14/15 GREEN TORSOS DEAD\r<br/> <br/>3/4 BLACK SCOFFLAWS OFFED</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

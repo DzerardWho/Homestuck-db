@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2886,
+    "commands": [
+        {
+            "command": "Jade: Proceed to stairwell. ",
+            "link": "/story/2887"
+        }
+    ],
+    "media": [
+        {
+            "file": "02885.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

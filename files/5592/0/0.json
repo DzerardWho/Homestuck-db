@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5592,
+    "commands": [
+        {
+            "command": "Roxy: Say hello. ",
+            "link": "/story/5593"
+        }
+    ],
+    "media": [
+        {
+            "file": "05589.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #ff6ff2\">TG: OH MY GOD ITS TWINKLY HERBERT</p>\n<p style=\"color: #ff6ff2\">TG: ;D</p>\n<p style=\"color: #ff6ff2\">TG: haha what a pal, all comin to see me from infinite nowhere</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

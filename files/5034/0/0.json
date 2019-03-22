@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5034,
+    "commands": [
+        {
+            "command": "I selected all those characters. Time to move on. ",
+            "link": "/story/5085"
+        }
+    ],
+    "media": [
+        {
+            "file": "05031.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

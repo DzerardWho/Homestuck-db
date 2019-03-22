@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1206,
+    "commands": [
+        {
+            "command": "[I] CD: Follow Diamonds Droog's instructions. ",
+            "link": "/story/1207"
+        }
+    ],
+    "media": [
+        {
+            "file": "01206.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Can't overthink this time stuff.\r<br/> <br/>You go with your gut and head upstairs.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1398,
+    "commands": [
+        {
+            "command": "Jade: Deploy cruxtruder in Dave's room. ",
+            "link": "/story/1399"
+        }
+    ],
+    "media": [
+        {
+            "file": "01398.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's almost as if this broken AIR CONDITIONING UNIT was scaled to be a perfect fit for the ALCHEMITER all along.\r<br/> <br/>WEIRD!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

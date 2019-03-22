@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 800,
+    "commands": [
+        {
+            "command": "Jade: Look out window. ",
+            "link": "/story/801"
+        }
+    ],
+    "media": [
+        {
+            "file": "00800_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00800_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You deactivate the WARDROBIFIER'S randomization mode and set it to cycle through these three shirt designs.\r<br/> <br/>The decision was tough, but you think you came to the <a class=\"postlink\" href=\"/images/storyfiles/hs2/scraps/poll_jadeshirt.gif\" target=\"_blank\">best possible conclusion</a>.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1212,
+    "commands": [
+        {
+            "command": "[I] SS: Make friends with Die. ",
+            "link": "/story/1213"
+        }
+    ],
+    "media": [
+        {
+            "file": "01212.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Looks like he got what he deserved.\r<br/> <br/>But, uh...\r<br/> <br/>As usual, you find yourself in a bit of a predicament.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

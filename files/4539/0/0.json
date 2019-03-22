@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4539,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4540"
+        }
+    ],
+    "media": [
+        {
+            "file": "04536_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04536_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's the latest issue of THE ENQUIRING CARAPACIAN, touting the recent assassination of Prospit's Maid of Life. Quite the triumph for the dark kingdom, and the press has predictably sensationalized the event to please the royalty and whip its readership into a nationalistic lather. In spite of all the ridiculous hyperbole and baseless slander found in the tabloids, one thing is clear. This development means nothing but trouble. If Noir has been empowered to take measures like this, you may have to accelerate your plans.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

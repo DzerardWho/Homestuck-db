@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 466,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/467"
+        }
+    ],
+    "media": [
+        {
+            "file": "00466.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You get Egbert on the line again to give him the lowdown on your progress. You feel it's important to keep the wires hot.\r<br/> <br/>But he's not answering. You wonder what that guy is up to.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

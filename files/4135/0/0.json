@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4135,
+    "commands": [
+        {
+            "command": "Jane: Answer Jake. ",
+            "link": "/story/4136"
+        }
+    ],
+    "media": [
+        {
+            "file": "04132.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ugh, look at this dreadful clutter. You have got to switch. But then, brand loyalty is a powerful thing.\r<br/> <br/>Looks like Jake is messaging you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

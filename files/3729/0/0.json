@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3729,
+    "commands": [
+        {
+            "command": "[S] Terezi: Play tiny record. ",
+            "link": "/story/3730"
+        }
+    ],
+    "media": [
+        {
+            "file": "03726_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03726_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You cannot get over how tiny this record is. It's adorable. You wonder what sort of music it plays?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

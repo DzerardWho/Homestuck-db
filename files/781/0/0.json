@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 781,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/782"
+        }
+    ],
+    "media": [
+        {
+            "file": "00781.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your MEMORY modus is hardly any fun without much stuff in it, so you decide to stock up on fresh produce to fill some more cards.\r<br/> <br/>You pick a juicy red CRAB APPLE.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

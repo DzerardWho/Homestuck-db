@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 696,
+    "commands": [
+        {
+            "command": "WV: Lay a chalk foundation for Can Town's civic growth. ",
+            "link": "/story/697"
+        }
+    ],
+    "media": [
+        {
+            "file": "00696.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You sketch a handsome network of sprawling thoroughfares for your citizens to traverse. The adoring population applauds its mayor's keen instincts for city planning.\r<br/> <br/>You even add some lush vegetation to your city with a piece of blue chalk, because you can't seem to find a more suitable color for some reason.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

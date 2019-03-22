@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5307,
+    "commands": [
+        {
+            "command": "[S][A6I3] ==> ",
+            "link": "/story/5308"
+        }
+    ],
+    "media": [
+        {
+            "file": "05304.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #4ac925\">JADE: john...</p>\n<p style=\"color: #4ac925\">JADE: are you asleep?</p>\n<p style=\"color: #4ac925\">JADE: please dont tell me you just fell asleep in your driveway</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

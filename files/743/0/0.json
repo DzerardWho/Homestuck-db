@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 743,
+    "commands": [
+        {
+            "command": "WV: Appearify your trusty knife. ",
+            "link": "/story/744"
+        }
+    ],
+    "media": [
+        {
+            "file": "00743_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00743_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">One way to find out would be to attempt to appearify something from this facility.\r<br/> <br/>It should be easy to zero in on a location relative to the center because you have an uncanny knack for tracking precise distances you have already traversed, in whatever units you choose.\r<br/> <br/>Your HANDY RULER gives you a good clue as to the BASIC UNIT OF HUMAN MEASUREMENT. You will go with that.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

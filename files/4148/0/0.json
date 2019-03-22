@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4148,
+    "commands": [
+        {
+            "command": "Jane: Inspect books. ",
+            "link": "/story/4149"
+        }
+    ],
+    "media": [
+        {
+            "file": "04145.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your sylladex is so great. You shudder to remember some of the old shitty fetch modi you used to struggle with when you were younger, still learning the captchaloguing ropes. Fibonacci heap??? Lol at the f'ing noob.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

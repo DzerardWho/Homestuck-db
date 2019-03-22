@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1136,
+    "commands": [
+        {
+            "command": "WHOP ",
+            "link": "/story/1137"
+        }
+    ],
+    "media": [
+        {
+            "file": "01136.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Who is this John claiming to be your friend? And these other friends he mentions? \r<br/> <br/>Whoever he is, you think he might be on to something. Blue is a very pretty color! Also, growing some pumpkins sounds like it could be fun. Maybe you will ask Grandpa if you can use the atrium to do some gardening. This will be exciting.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

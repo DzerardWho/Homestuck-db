@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4052,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/4053"
+        }
+    ],
+    "media": [
+        {
+            "file": "04049.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It is a tale to remind her of the sacrifice she must make. One serving to remind all of her people of the sacrifice once made by long forgotten heroes in a discarded reality. It is of this sacrifice the Sufferer died to speak the truth, and it is his tale I will tell you now.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

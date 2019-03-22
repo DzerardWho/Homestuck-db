@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 101,
+    "commands": [
+        {
+            "command": "John: Get cake on couch. ",
+            "link": "/story/102"
+        }
+    ],
+    "media": [
+        {
+            "file": "00101.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

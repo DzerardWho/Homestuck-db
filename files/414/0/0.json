@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 414,
+    "commands": [
+        {
+            "command": "Rose: Plug in your laptop. ",
+            "link": "/story/415"
+        }
+    ],
+    "media": [
+        {
+            "file": "00414.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Sorry, Jaspers. Have to make space for the LAPTOP.\r<br/> <br/>Besides, your final resting place is already a mockery. You should have decomposed years ago under a bed of petunias like a normal cat. Not given to a taxidermist and fitted with a tiny, custom-tailored suit, and then stuffed in a coffin built for infants.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

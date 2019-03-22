@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 495,
+    "commands": [
+        {
+            "command": "John: Ride your steed to victory. ",
+            "link": "/story/496"
+        }
+    ],
+    "media": [
+        {
+            "file": "00495.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Well ok, it's not a Slimer pogo, but you mount it anyway and brandish your deadly armaments.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2009,
+    "commands": [
+        {
+            "command": "Karkat: Answer troll. ",
+            "link": "/story/2010"
+        }
+    ],
+    "media": [
+        {
+            "file": "02009.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ok enough messing around time to get some work done maybe a little programming or oh god. \r<br/> <br/>It figures that installing this new beta chat client would open the floodgates. All your moron friends are going to be hounding you relentlessly. Not that they needed an excuse before.\r<br/> <br/>You wonder what this chump wants.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

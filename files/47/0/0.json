@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 47,
+    "commands": [
+        {
+            "command": "John: Go downstairs. ",
+            "link": "/story/48"
+        }
+    ],
+    "media": [
+        {
+            "file": "00047.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You exit into the HALLWAY.\r<br/> <br/>On one wall hangs a picture of a fella who sure knows how to have a laugh, a man after your own heart. You always thought he looked a lot like Michael Cera. But your DAD swears on the many HALLOWED TOMBS of Egypt that it is not. You're not sure about that though.\r<br/> <br/>On the other wall is one of your DAD'S stupid clowns. Or HARLEQUINS, as he is quick to correct anyone who would venture such brazen assumption. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

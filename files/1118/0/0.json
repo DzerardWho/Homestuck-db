@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1118,
+    "commands": [
+        {
+            "command": "AR: Berate self for unauthorized demolition. ",
+            "link": "/story/1119"
+        }
+    ],
+    "media": [
+        {
+            "file": "01118_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01118_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh no!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

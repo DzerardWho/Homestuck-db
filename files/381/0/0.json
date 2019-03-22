@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 381,
+    "commands": [
+        {
+            "command": "Dave: Answer chum. ",
+            "link": "/story/382"
+        }
+    ],
+    "media": [
+        {
+            "file": "00381.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You're almost done patching up the hole in your window with the GAFFER TAPE. \r<br/> <br/>But it's sort of hard to get any work done when people keep pestering you all day. You guess you better get that.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2513,
+    "commands": [
+        {
+            "command": "Sollux: Get back to adventurin'. ",
+            "link": "/story/2514"
+        }
+    ],
+    "media": [
+        {
+            "file": "02512.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You've wasted enough time on sleeping and dying. You've got to get back to adventurin' while the adventurin's good. And also change out of these stupid pajamas.\r<br/> <br/>PCH<span style=\"color: red\">O</span><span style=\"color: blue\">O</span><span style=\"color: red\">O</span><span style=\"color: blue\">O</span><span style=\"color: red\">O</span><span style=\"color: blue\">O</span><span style=\"color: red\">O</span><span style=\"color: blue\">O</span><span style=\"color: red\">O</span><span style=\"color: blue\">O</span><span style=\"color: red\">O</span><span style=\"color: blue\">O</span><span style=\"color: red\">O</span><span style=\"color: blue\">O</span><span style=\"color: red\">O</span><span style=\"color: blue\">O</span><span style=\"color: red\">O</span><span style=\"color: blue\">O</span><span style=\"color: red\">O</span><span style=\"color: blue\">O</span></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

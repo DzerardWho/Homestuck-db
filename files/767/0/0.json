@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 767,
+    "commands": [
+        {
+            "command": "Examine room. ",
+            "link": "/story/768"
+        }
+    ],
+    "media": [
+        {
+            "file": "00767.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

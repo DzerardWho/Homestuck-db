@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 253,
+    "commands": [
+        {
+            "command": "BOY, QUIT ALL THIS SCURRYING AROUND. ",
+            "link": "/story/254"
+        }
+    ],
+    "media": [
+        {
+            "file": "00253.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4605,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4606"
+        }
+    ],
+    "media": [
+        {
+            "file": "04602.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You never understood what the point of this thing was. It's old and damaged. Whatever is supposed to show up on the screens is blacked out, either due to the damage, or due to this voidey blackout bullshit that seems to follow you wherever you go.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

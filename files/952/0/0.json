@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 952,
+    "commands": [
+        {
+            "command": "Enter name. ",
+            "link": "/story/953"
+        }
+    ],
+    "media": [
+        {
+            "file": "00952.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Who's this guy?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

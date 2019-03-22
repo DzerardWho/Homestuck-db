@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 122,
+    "commands": [
+        {
+            "command": "John: Get more stuff. ",
+            "link": "/story/123"
+        }
+    ],
+    "media": [
+        {
+            "file": "00122_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00122_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The second CAKE causes the RAZOR to launch out the front of your SYLLADEX.\r<br/> <br/>Oh good lord. \r<br/> <br/>THAT BEAUTIFUL FACE.\r<br/> <br/>You wish the RAZOR would have failed to launch.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

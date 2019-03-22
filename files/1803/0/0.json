@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1803,
+    "commands": [
+        {
+            "command": "Rose: Combine bronzed vacuum and umbrella. ",
+            "link": "/story/1804"
+        }
+    ],
+    "media": [
+        {
+            "file": "01803_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01803_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make the HUBTOP.\r<br/> <br/>That one was pretty obvious.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

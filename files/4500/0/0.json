@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4500,
+    "commands": [
+        {
+            "command": "Roxy: Take book. ",
+            "link": "/story/4501"
+        }
+    ],
+    "media": [
+        {
+            "file": "04497.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #00d5f2\">GG: It worked!</p>\n<p style=\"color: #00d5f2\">GG: The book is gone!</p>\n<p style=\"color: #ff6ff2\">TG: oh no</p>\n<p style=\"color: #ff6ff2\">TG: aaaawwwww shit</p>\n<p style=\"color: #00d5f2\">GG: What is it?</p>\n<p style=\"color: #ff6ff2\">TG: shit shit shitsh it</p>\n<p style=\"color: #00d5f2\">GG: Did you receive the book?</p>\n<p style=\"color: #ff6ff2\">TG: shoiiiiiiiiiiiiiiiiiiiiit</p>\n<p style=\"color: #ff6ff2\">TG: SHITSHITSHITHISTHITSHITSTHI</p>\n<p style=\"color: #00d5f2\">GG: Don't tell me.</p>\n<p style=\"color: #00d5f2\">GG: The book is damaged somehow, isn't it?</p>\n<p style=\"color: #ff6ff2\">TG: ffuuuuuuuuuuuk :(</p>\n[<a class=\"postlink\" href=\"/story/4436\" target=\"_blank\">CONTINUED TRAGICALLY</a>]</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

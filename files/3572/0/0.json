@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3572,
+    "commands": [
+        {
+            "command": "Aradia: Enter bubble. ",
+            "link": "/story/3573"
+        }
+    ],
+    "media": [
+        {
+            "file": "03569.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It appears to be yours. At least, that's how it begins.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1179,
+    "commands": [
+        {
+            "command": "[I] CD: Punch clocks in faces to establish chronology. ",
+            "link": "/story/1180"
+        }
+    ],
+    "media": [
+        {
+            "file": "01179_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01179_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He's probably still using his special ability to slow time down for himself.\r<br/> <br/>He can't feel a damn thing, and certainly isn't saying anything. Apart from a very low noise which could be him saying \"ow\" very, very slowly.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

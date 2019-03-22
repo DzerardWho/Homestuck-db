@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4346,
+    "commands": [
+        {
+            "command": "[A6I1] Dave: Level up. ",
+            "link": "/story/4347"
+        }
+    ],
+    "media": [
+        {
+            "file": "04343.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

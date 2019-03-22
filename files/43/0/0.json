@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 43,
+    "commands": [
+        {
+            "command": "John: Captchalogue magician's hat. ",
+            "link": "/story/44"
+        }
+    ],
+    "media": [
+        {
+            "file": "00043.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It might come in handy if you ever need something that burns easily.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3685,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3686"
+        }
+    ],
+    "media": [
+        {
+            "file": "03682.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">She littlefies the ship down to something more manageable for a small bunny captain. Everyone is impressed.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

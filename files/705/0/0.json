@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 705,
+    "commands": [
+        {
+            "command": "WV: Turn on the other 3 screens. ",
+            "link": "/story/706"
+        }
+    ],
+    "media": [
+        {
+            "file": "00705.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh yeah, it's that guy. You had almost forgotten about him and his confusing shenanigans.\r<br/> <br/>It seems like he has things well in hand at the moment. He does not appear to need your help, and you have already concluded that he cannot help you, at least for the time being.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

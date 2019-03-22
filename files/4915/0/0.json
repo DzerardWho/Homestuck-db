@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4915,
+    "commands": [
+        {
+            "command": "Jack: Make it fit. ",
+            "link": "/story/4916"
+        }
+    ],
+    "media": [
+        {
+            "file": "04912.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You sever the guard's head with your most trusted of all trusty knives, and begin sizing up that hollowed pumpkin. \r<br/> <br/>It will definitely be snug, but you think you can make it fit.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

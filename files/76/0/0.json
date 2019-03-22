@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 76,
+    "commands": [
+        {
+            "command": "[S] John: Play haunting piano refrain. ",
+            "link": "/story/77"
+        }
+    ],
+    "media": [
+        {
+            "file": "00076.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">ARGH!!!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

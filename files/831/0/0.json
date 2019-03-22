@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 831,
+    "commands": [
+        {
+            "command": "END INTERMISSION. ",
+            "link": "/story/832"
+        }
+    ],
+    "media": [
+        {
+            "file": "00831.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You open your web browser and visit MSPA.\r<br/> <br/>You navigate to a random page in the middle of the latest epic. \r<br/> <br/>Looks like he was just finishing up some sort of weird tangential intermission here. Whatever it was, it clearly advanced the plot in no relevant way whatsoever.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 91,
+    "commands": [
+        {
+            "command": "John: Equip disguise for defense. ",
+            "link": "/story/92"
+        }
+    ],
+    "media": [
+        {
+            "file": "00091.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You cannot ABSCOND! This pesky GUARDIAN is blocking your path! You will need to engineer some sort of distraction.\r<br/> <br/>And now he brandishes yet another ARTIFACT OF CONFECTION! The man is ruthless. \r<br/> <br/>You'd better brace for impact in the most comedically striking fashion possible.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

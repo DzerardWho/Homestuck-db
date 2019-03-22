@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5310,
+    "commands": [
+        {
+            "command": "[A6I3] ==> ",
+            "link": "/story/5311"
+        }
+    ],
+    "media": [
+        {
+            "file": "05307.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">THIS GUY!\r<br/> <br/>This is the guy who you are now being.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

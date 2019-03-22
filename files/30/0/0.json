@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 30,
+    "commands": [
+        {
+            "command": "John: Examine games on CD rack. ",
+            "link": "/story/31"
+        }
+    ],
+    "media": [
+        {
+            "file": "00030.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">If you go down stairs to get it, he will likely monopolize hours of your time. You decide to chill out up here for a while until the dust settles.\r<br/> <br/>Sometimes you feel like you are trapped in this room. Stuck, if you will, in a sense which possibly borders on the titular.\r<br/> <br/>And now your chum is pestering you again. The clockwork of friendship turns ceaselessly, operating the swing-lever dealies of harassment in perpetuity!\r<br/> <br/>Whatever. The dude can just hold his damn horses.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

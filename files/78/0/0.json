@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 78,
+    "commands": [
+        {
+            "command": "John: Attempt to leave the house. ",
+            "link": "/story/79"
+        }
+    ],
+    "media": [
+        {
+            "file": "00078_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00078_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You play the prankster's favorite card game, even though you are alone in the room, thus rendering it an especially foolish version of Solitaire.\r<br/> <br/>SO STUPID. Look at this mess.\r<br/> <br/>The peanut gallery over there sure is getting a kick out of it. You are allergic to their scorn.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

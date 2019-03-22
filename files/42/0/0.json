@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 42,
+    "commands": [
+        {
+            "command": "John: Captchalogue GameBro. ",
+            "link": "/story/43"
+        }
+    ],
+    "media": [
+        {
+            "file": "00042.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

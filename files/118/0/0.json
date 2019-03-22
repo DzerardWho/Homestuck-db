@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 118,
+    "commands": [
+        {
+            "command": "John: Switch back to Stack Modus. ",
+            "link": "/story/119"
+        }
+    ],
+    "media": [
+        {
+            "file": "00118.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Items captchalogued in your SYLLADEX are no longer immediately accessible. You can only use the item on the bottom card, and must wait for items on upper cards to be pushed back to it.\r<br/> <br/>For instance, the RED PACKAGE is now inaccessible. You can only use the RAZOR at the moment.\r<br/> <br/>This modus doesn't strike you as a significant upgrade to your previous one. In fact, it almost seems more inconvenient. You figure you might as well give it a chance though.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

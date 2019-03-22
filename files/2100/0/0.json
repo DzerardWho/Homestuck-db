@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2100,
+    "commands": [
+        {
+            "command": "Enter name. ",
+            "link": "/story/2101"
+        }
+    ],
+    "media": [
+        {
+            "file": "02100.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are now no longer the other girl, or any of the other five for that matter.\r<br/> <br/>What's the name of this dude sitting in his FOUR WHEEL DEVICE?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

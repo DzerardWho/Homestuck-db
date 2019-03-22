@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 263,
+    "commands": [
+        {
+            "command": "BOY I SAID MAKE HASTE ON THE NARROW CATWALK! ",
+            "link": "/story/264"
+        }
+    ],
+    "media": [
+        {
+            "file": "00263.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">John isn't sure about that. It's a long way down.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

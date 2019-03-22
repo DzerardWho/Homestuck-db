@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 135,
+    "commands": [
+        {
+            "command": "John: Press [ENTER] ",
+            "link": "/story/136"
+        }
+    ],
+    "media": [
+        {
+            "file": "00135.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "-- tentacleTherapist <span style=\"color: #b536da\">[TT]</span> began pestering ectoBiologist <span style=\"color: #0715cd\">[EB]</span> at 17:08 --\n\n<p style=\"color: #b536da\">TT: It looks like you managed to retrieve the beta. Excellent.</p>\n<p style=\"color: #b536da\">TT: I'm going to try to connect.</p>\n<p style=\"color: #0715cd\">EB: whoa ok but i just got the most awesome present.</p>\n<p style=\"color: #b536da\">TT: The rabbit?</p>\n<p style=\"color: #0715cd\">EB: SO SWEET.</p>\n<p style=\"color: #b536da\">TT: I've heard tales of this wretched creature often. Its Homeric legend is practically ensconced in the fold of my personal mythology by now.</p>\n<p style=\"color: #0715cd\">EB: ha ha, what?</p>\n<p style=\"color: #b536da\">TT: Why don't we focus on the matter at hand?</p>\n<p style=\"color: #0715cd\">EB: oh the game, ok.</p>\n<p style=\"color: #0715cd\">EB: i don't really know how this works. what am i even looking at here?</p>\n<p style=\"color: #b536da\">TT: You are running the client application. I am running the server, so I am the host user. I have established a connection with you. This is sufficient for us to play the game.</p>\n<p style=\"color: #0715cd\">EB: oh, ok then.</p>\n<p style=\"color: #b536da\">TT: Why don't we get started?</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

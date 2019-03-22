@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 714,
+    "commands": [
+        {
+            "command": "WV: Type => SWITCH 2. ",
+            "link": "/story/715"
+        }
+    ],
+    "media": [
+        {
+            "file": "00714.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You scroll all the way up to your first command.\r<br/> <br/>It looks like there are more commands above it. Maybe someone was entering commands on this thing before you?\r<br/> <br/>There aren't many more. At the top of this list appears to be the very first command.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

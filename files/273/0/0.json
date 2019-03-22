@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 273,
+    "commands": [
+        {
+            "command": "Rose: Check status of battery. ",
+            "link": "/story/274"
+        }
+    ],
+    "media": [
+        {
+            "file": "00273_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00273_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00273_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">In the distance, meteorites fall with greater frequency. The fire in the forest burns so hot, not even the rain is putting it out!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

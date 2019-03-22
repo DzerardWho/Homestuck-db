@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1185,
+    "commands": [
+        {
+            "command": "[I] SS: Stop being Hearts Boxcars. ",
+            "link": "/story/1186"
+        }
+    ],
+    "media": [
+        {
+            "file": "01185.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><span style=\"color: #2ed73a\">Doze</span> proceeds to make a fleetfooted getaway.\r<br/> <br/>THE CHASE\r<br/> <br/>IS ON</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

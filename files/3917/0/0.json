@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3917,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/3918"
+        }
+    ],
+    "media": [
+        {
+            "file": "03914.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">GT: what's happening?</p>\n<p style=\"color: #0715cd\">GT: are we back on earth?</p>\n<p style=\"color: #005682\">AG: You tell me.</p>\n<p style=\"color: #0715cd\">GT: it's my house again. why are we here?</p>\n<p style=\"color: #0715cd\">GT: i was having fun seeing your planet!</p>\n<p style=\"color: #005682\">AG: I don't know, John. They're your memories.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

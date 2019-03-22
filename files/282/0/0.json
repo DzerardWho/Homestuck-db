@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 282,
+    "commands": [
+        {
+            "command": "Rose: Remove cruxtruder from doorway. ",
+            "link": "/story/283"
+        }
+    ],
+    "media": [
+        {
+            "file": "00282.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You find the SACRED URN toppled again. This time you're quite sure it wasn't your fault!\r<br/> <br/>The SPRITE is nowhere to be found.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

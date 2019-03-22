@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3465,
+    "commands": [
+        {
+            "command": "John: Answer. ",
+            "link": "/story/3466"
+        }
+    ],
+    "media": [
+        {
+            "file": "03462.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Perhaps this is the one?\r<br/> <br/>As you approach, you make an attempt to contact your friends for verification. But there is no answer from Jade, or from Rose. You wonder what they could be up to? \r<br/> <br/>It seems someone else is bugging you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

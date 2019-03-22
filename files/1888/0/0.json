@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1888,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1889"
+        }
+    ],
+    "media": [
+        {
+            "file": "01888.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ectobiology sure does involve a lot of button pushing. At least it does when you're a junior ectobiologist.\r<br/> <br/>Your loyal assistant Dr. Meowgon is all over this one.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

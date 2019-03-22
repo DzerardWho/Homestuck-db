@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2773,
+    "commands": [
+        {
+            "command": "Dave: Pester Terezi. ",
+            "link": "/story/2774"
+        }
+    ],
+    "media": [
+        {
+            "file": "02772.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are suddenly the awesome coolkid.\r<br/> <br/>In a different game session. \r<br/> <br/>In the future.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

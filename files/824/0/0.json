@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 824,
+    "commands": [
+        {
+            "command": "Jade: Get down to business. ",
+            "link": "/story/825"
+        }
+    ],
+    "media": [
+        {
+            "file": "00824.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You like to make yourself comfy in your plushy pile before getting down to business with your computer.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

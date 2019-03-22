@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 1441,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1442"
+        }
+    ],
+    "media": [
+        {
+            "file": "01441_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01441_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "01441_1_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Once you're done you'll captchalogue the bottle and send the code to Egbert and tell him it's something really important. Then he'll make it and be like, oh man yes apple juice I am so thirsty!!!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1238,
+    "commands": [
+        {
+            "command": "[I] SS: Take voodoo doll. ",
+            "link": "/story/1239"
+        }
+    ],
+    "media": [
+        {
+            "file": "01238.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

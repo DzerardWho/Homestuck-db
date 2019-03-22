@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1808,
+    "commands": [
+        {
+            "command": "Rose: Combine wizard statue and ball of yarn. ",
+            "link": "/story/1809"
+        }
+    ],
+    "media": [
+        {
+            "file": "01808_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01808_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make a bottle of MAGNETIC WODKA. In addition to having high alcohol content, the liquid inside appears to have magnetic properties.\r<br/> <br/>You...\r<br/> <br/>You GUESS this could be useful?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

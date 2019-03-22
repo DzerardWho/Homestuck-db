@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 5114,
+    "commands": [
+        {
+            "command": "Calliope: Examine chest. ",
+            "link": "/story/5115"
+        }
+    ],
+    "media": [
+        {
+            "file": "05111_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "05111_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You load your WHITE MAGNUM.\r<br/> <br/>You wouldn't trade your dualing weapon for any other. It is lightweight, elegant and precise, like a conductor's baton with stopping power. \r<br/> <br/>Your brother's favored weapon is a little more... heavy handed. To each his own, you guess. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

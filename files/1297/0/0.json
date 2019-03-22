@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1297,
+    "commands": [
+        {
+            "command": "[I] DD: Call Spades. ",
+            "link": "/story/1298"
+        }
+    ],
+    "media": [
+        {
+            "file": "01297.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You grab the tub and chest and move on. That is ALTOGETHER ENOUGH of this nonsense.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

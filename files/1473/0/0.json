@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 1473,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1474"
+        }
+    ],
+    "media": [
+        {
+            "file": "01473_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01473_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01473_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It is a clear and peaceful night. A delicious meal has been shared with new friends. The glow of the ammunition fire gradually subsides. All is well.\r<br/> <br/>But you can't shake the feeling there is something familiar about all this. There is something you are forgetting.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

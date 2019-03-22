@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3411,
+    "commands": [
+        {
+            "command": "John: Just do windy thing already. ",
+            "link": "/story/3412"
+        }
+    ],
+    "media": [
+        {
+            "file": "03408_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03408_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your feet do not reach the little steppy levers.\r<br/> <br/>Your copilot points out that you also do not have the key.\r<br/> <br/>You are terribly disappointed.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 883,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/884"
+        }
+    ],
+    "media": [
+        {
+            "file": "00883.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your expanded CACHE LIMIT is more than enough to accommodate the grist windfall.\r<br/> <br/>You gather up 2260 pieces of BUILD GRIST, 1040 pieces of SHALE, 490 drops of TAR, and 350 drops of MERCURY.\r<br/> <br/>You can't wait to find out what amazing items this new supply of grist will be just barely insufficient to produce. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

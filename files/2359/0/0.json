@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2359,
+    "commands": [
+        {
+            "command": "Vriska: Go back up. ",
+            "link": "/story/2360"
+        }
+    ],
+    "media": [
+        {
+            "file": "02359.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

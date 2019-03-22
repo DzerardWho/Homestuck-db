@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 675,
+    "commands": [
+        {
+            "command": "WV: Examine marking on wrist. ",
+            "link": "/story/676"
+        }
+    ],
+    "media": [
+        {
+            "file": "00675.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The can clearly reads \"MUSTARD\", a fact of which you were perfectly well aware.\r<br/> <br/>It is sort of cumbersome holding all these cans at once. You doubt you can hold many more than this. Maybe one or two.\r<br/> <br/>You'll need to find something to put stuff in if you want to carry a lot of things around.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

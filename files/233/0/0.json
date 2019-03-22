@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 233,
+    "commands": [
+        {
+            "command": "Rose: Go through door. ",
+            "link": "/story/234"
+        }
+    ],
+    "media": [
+        {
+            "file": "00233_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00233_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "00233_1_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This door leads up to the OBSERVATORY. You haven't ventured up there in quite some time.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

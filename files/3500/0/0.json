@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3500,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3501"
+        }
+    ],
+    "media": [
+        {
+            "file": "03497.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">More wine for the lady?\r<br/> <br/>This woman sure does seem to like her wine. The gentleman has never met a woman quite so taken with the drink, or one as enchanting and beautiful, for that matter.\r<br/> <br/>Oops!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 370,
+    "commands": [
+        {
+            "command": "Rose: Captchalogue W. ",
+            "link": "/story/371"
+        }
+    ],
+    "media": [
+        {
+            "file": "00370.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This is incredibly silly, and you're not sure how it fits into your campaign against your mother, OR getting your computer back online to escape your doom!\r<br/> <br/>But it's hard to resist getting a little silly sometimes. Especially when you are absolutely positive no one is watching.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

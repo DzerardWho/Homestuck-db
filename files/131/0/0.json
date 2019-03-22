@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 131,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/132"
+        }
+    ],
+    "media": [
+        {
+            "file": "00131.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You open the package. There is something suspicious inside. \r<br/> <br/>Something suspiciously dirty and smelly.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

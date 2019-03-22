@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 318,
+    "commands": [
+        {
+            "command": "Dave: Take box. ",
+            "link": "/story/319"
+        }
+    ],
+    "media": [
+        {
+            "file": "00318_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00318_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "00318_1_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This is the package that your friend John Egbert sent you for your 13th birthday a little while ago. It now contains nothing except a NOTE and a CERTIFICATE OF AUTHENTICITY vouching for the genuine Hollywood memorabilia which the box originally contained, and which you are now wearing to be IRONIC but also to be INCREDIBLY COOL IN A WAY SOMEHOW INTANGIBLY RELATED TO THE IRONIC NATURE OF THE ACCESSORY. You find it sort of exasperating to explain these subtleties to people.\r<br/> <br/>The BOX also included a signed photo of BEN STILLER which now proudly hangs above your closet. Proudly and IRONICALLY.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

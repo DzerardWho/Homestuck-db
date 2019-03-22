@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 49,
+    "commands": [
+        {
+            "command": "John: Examine fireplace. ",
+            "link": "/story/50"
+        }
+    ],
+    "media": [
+        {
+            "file": "00049.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You check out the shelves of FANCIFUL HARLEQUINS.\r<br/> <br/>Look at this fucking garbage. You hate this stuff. Funny is funny, but your DAD sure can be a real cornball.\r<br/> <br/>Sometimes at night you pray for burglars.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

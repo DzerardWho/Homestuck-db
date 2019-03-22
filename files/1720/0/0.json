@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1720,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1721"
+        }
+    ],
+    "media": [
+        {
+            "file": "01720.swf",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Dave shows you some of his sweet gear. Wow he is so cool.</p>",
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

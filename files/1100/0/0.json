@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1100,
+    "commands": [
+        {
+            "command": "AR: Realize that your weapon is magazine-fed, not clip-fed. ",
+            "link": "/story/1101"
+        }
+    ],
+    "media": [
+        {
+            "file": "01100.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The Aimless Renegade. \r<br/> <br/>You have identified a couple of unwelcome rogues outside your present stronghold. They are in violation of your jurisdiction. Despite your ordinarily striking marksmanship, you have spent your entire ammo clip without recording a single killshot.\r<br/> <br/>What will you do?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

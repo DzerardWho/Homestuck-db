@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2964,
+    "commands": [
+        {
+            "command": "WV: Push it. ",
+            "link": "/story/2965"
+        }
+    ],
+    "media": [
+        {
+            "file": "02963.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The matter he is discussing is quite urgent. Perhaps he'll humor you another time.\r<br/> <br/>Ah, so that's your plan, is it? \r<br/> <br/>Yelling will get you nowhere. Don't you remember?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

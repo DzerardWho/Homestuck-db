@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4262,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4263"
+        }
+    ],
+    "media": [
+        {
+            "file": "04259.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Fat chance, dad.\r<br/> <br/>This bird's gotta fly!!!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

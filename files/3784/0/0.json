@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 3784,
+    "commands": [
+        {
+            "command": "[o] Tick. ",
+            "link": "/story/3785"
+        }
+    ],
+    "media": [
+        {
+            "file": "03781.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "03781retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The Seer wouldn't win this duel. \r<br/> <br/>My apologies if this spoils the outcome for you. I can't speak as discreetly about such matters against this canvas.  </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

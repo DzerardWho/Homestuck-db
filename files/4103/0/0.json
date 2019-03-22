@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4103,
+    "commands": [
+        {
+            "command": "=   > ",
+            "link": "/story/4104"
+        }
+    ],
+    "media": [
+        {
+            "file": "04100_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04100_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #4ac925\">GG: shaving cream?</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

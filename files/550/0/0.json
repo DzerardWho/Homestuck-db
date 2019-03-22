@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 550,
+    "commands": [
+        {
+            "command": "John: Punch card. ",
+            "link": "/story/551"
+        }
+    ],
+    "media": [
+        {
+            "file": "00550_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00550_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 579,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/580"
+        }
+    ],
+    "media": [
+        {
+            "file": "00579.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">First you captchalogue the <span style=\"color: blue\">B</span><span style=\"color: red\">O</span><span style=\"color: blue\">X</span> (5) again, while adeptly avoiding the SHURIKEN trap, which you yourself set only moments ago.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

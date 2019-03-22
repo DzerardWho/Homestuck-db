@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 770,
+    "commands": [
+        {
+            "command": "Jade: Captchalogue flute. ",
+            "link": "/story/771"
+        }
+    ],
+    "media": [
+        {
+            "file": "00770.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Wow, you really suck at this thing! \r<br/> <br/>Maybe you should try playing an instrument you actually know how to play instead, like the one in your bedroom. Honestly you have no idea where this flute even came from. Things seem to appear and disappear around here all the time. Especially, to your unending chagrin, any sort of large orange gourd that might be lying around.\r<br/> <br/>You consider throwing the flute down in disgust.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

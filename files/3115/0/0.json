@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 3115,
+    "commands": [
+        {
+            "command": "Thief. ",
+            "link": "/story/3116"
+        }
+    ],
+    "media": [
+        {
+            "file": "03112.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "03112_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

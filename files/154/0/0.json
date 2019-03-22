@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 154,
+    "commands": [
+        {
+            "command": "John: Stand in corner. ",
+            "link": "/story/155"
+        }
+    ],
+    "media": [
+        {
+            "file": "00154_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00154_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #b536da\">TT: Now that your room is bigger, why don't you move to the far corner?</p>\n<p style=\"color: #b536da\">TT: It will extend the range of the cursor, and I can reach the items.</p>\n<p style=\"color: #b536da\">TT: Which... you threw out the window for some reason?</p>\n<p style=\"color: #0715cd\">EB: good idea!</p>\n<p style=\"color: #b536da\">TT: What have you been doing in here all afternoon, anyway?</p>\n<p style=\"color: #0715cd\">EB: ugh, i was fussing with my retarded sylladex.</p>\n<p style=\"color: #0715cd\">EB: but i think i have it under control now.</p>\n<p style=\"color: #0715cd\">EB: what modus do you use?</p>\n<p style=\"color: #b536da\">TT: I like to use trees.</p>\n<p style=\"color: #0715cd\">EB: oh no, that sounds so awkward.</p>\n<p style=\"color: #b536da\">TT: It's not exceptionally practical.</p>\n<p style=\"color: #b536da\">TT: But I think they are elegant.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

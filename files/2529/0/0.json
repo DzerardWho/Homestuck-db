@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2529,
+    "commands": [
+        {
+            "command": "To begin your mission. ",
+            "link": "/story/2530"
+        }
+    ],
+    "media": [
+        {
+            "file": "02528.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

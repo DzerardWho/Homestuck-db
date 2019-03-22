@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 776,
+    "commands": [
+        {
+            "command": "Jade: Consult colourful reminders. ",
+            "link": "/story/777"
+        }
+    ],
+    "media": [
+        {
+            "file": "00776_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00776_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You captchalogue the BAG OF FERTILIZER.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

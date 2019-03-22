@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4725,
+    "commands": [
+        {
+            "command": "[A6I2] ==> ",
+            "link": "/story/4726"
+        }
+    ],
+    "media": [
+        {
+            "file": "04722.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #e00707\">DAVE: hup</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

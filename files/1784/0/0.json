@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1784,
+    "commands": [
+        {
+            "command": "CD?: Pick PM?'s pocket. ",
+            "link": "/story/1785"
+        }
+    ],
+    "media": [
+        {
+            "file": "01784.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have unwittingly been tailed by a nefarious COURTYARD DROLL from Derse. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

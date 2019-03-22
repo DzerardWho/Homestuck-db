@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1947,
+    "commands": [
+        {
+            "command": "Hours in the future... ",
+            "link": "/story/1948"
+        }
+    ],
+    "media": [
+        {
+            "file": "01947_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01947_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The boy sees himself in a cloud. His destination, revealed.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

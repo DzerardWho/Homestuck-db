@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 32,
+    "commands": [
+        {
+            "command": "John: Captchalogue fake arms again. ",
+            "link": "/story/33"
+        }
+    ],
+    "media": [
+        {
+            "file": "00032_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00032_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You decide to consult with the Colonel's bottomless wisdom. Good grief this thing is huge. It could kill a cat if you dropped it.\r<br/> <br/>But to really dig into this hefty book, you will have to captchalogue it. You are not sure you are ready to logjam your other ARTIFACTS beneath it just yet. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

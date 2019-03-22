@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3501,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3502"
+        }
+    ],
+    "media": [
+        {
+            "file": "03498.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The fellow has stained the mademoiselle's fine garment. The gaffe is unforgivable, and the only true course of chivalry would be to liberate the damsel from the sodden cloth and launder it immediately.\r<br/> <br/>But the lady has no concern for the purity of her finery. She has other things on her mind altogether.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

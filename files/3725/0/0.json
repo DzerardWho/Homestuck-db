@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3725,
+    "commands": [
+        {
+            "command": "Terezi: Remove Midnight Crew record. ",
+            "link": "/story/3726"
+        }
+    ],
+    "media": [
+        {
+            "file": "03722.swf",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You select appropriate crime solving music to set the right mood. With this kind of atmosphere, it is highly unlikely that any crime will stay unsolved for long.</p>",
+    "pesterlog": null,
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

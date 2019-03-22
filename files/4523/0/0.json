@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4523,
+    "commands": [
+        {
+            "command": "Dirk: Examine wardrobe. ",
+            "link": "/story/4524"
+        }
+    ],
+    "media": [
+        {
+            "file": "04520.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You say yo what up to this dude over here, and exchange a unique series of hand shakes and fist bumps.\r<br/> <br/>His name is SQUAREWAVE. You built him to have rap-offs with now and then. He's an enthusiastic rapper, and gives it his all whenever you duel, but he's pretty easy to destroy. You've never lost a match against him.\r<br/> <br/>You have only built one other rapbot besides him. His name is SAWTOOTH. You designed him to be unbeatable in a rap-off, and he is. You have never won a match against him. You hope to one day, but you're not gonna hold your breath. His flow is just that insane.\r<br/> <br/>You keep one of his spare heads over there on your desk, but otherwise you don't see much of him. It's been months since your last encounter. He presumably spends his time traveling the world, annihilating any rapper foolish enough to challenge him.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1999,
+    "commands": [
+        {
+            "command": "Karkat: Take card vault. ",
+            "link": "/story/2000"
+        }
+    ],
+    "media": [
+        {
+            "file": "01999.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You grab your trusty SICKLE with your ENCRYPTION MODUS. To retrieve it, you'll need to hack the code to open the CARD VAULT left behind.\r<br/> <br/>This will obviously prove to be a completely ridiculous and untenable way of managing an inventory, and lead to a great many follies. Later on, you would swap your modus with your hacker friend, a guy who unlike you happens to be competent with programming. It would only make sense.\r<br/> <br/>But for the time being it makes your life kind of a nightmare. There are so many stupid things that happen because of this modus. So many, you just have no idea.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1064,
+    "commands": [
+        {
+            "command": "John: Combine Cosby poster with computer. ",
+            "link": "/story/1065"
+        }
+    ],
+    "media": [
+        {
+            "file": "01064_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01064_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">If you can somehow \"subtract\" the code of the JOKER FIGURINE from the code of the poster, it might work.\r<br/> <br/>Luckily, the Joker code only has two holes, making the task very simple. The defaced Cosby poster shares those holes. You determine that the defaced Cosby could only result from a double-punching with the Joker, if your theory is correct. This means the original Cosby poster had one of those holes punched, or the other, or neither, making three total possibilities.\r<br/> <br/>You try out all three possible codes, yielding:\r<br/> <br/>- 1 POTTED PLANT \r<br/>- 1 PAINTING OF A HORSE ATTACKING A FOOTBALL PLAYER \r<br/>- 1 CLEAN COSBY POSTER \r<br/> <br/>SUCCESS.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

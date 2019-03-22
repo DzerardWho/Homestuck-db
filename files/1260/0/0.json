@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1260,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1261"
+        }
+    ],
+    "media": [
+        {
+            "file": "01260.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Drop it and get in.\r<br/> <br/>Don't bleed on the suits.\r<br/> <br/><span style=\"color: #2ed73a\">Stitch</span> says huh?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 103,
+    "commands": [
+        {
+            "command": "John: Retreat upstairs! ",
+            "link": "/story/104"
+        }
+    ],
+    "media": [
+        {
+            "file": "00103.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You then merge the two CAKES across all five cards.\r<br/> <br/>Everything in your SYLLADEX is smushed between the CAKES. Why don't you think these things through first??</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

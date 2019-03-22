@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 165,
+    "commands": [
+        {
+            "command": "John: Hop down the hole. ",
+            "link": "/story/166"
+        }
+    ],
+    "media": [
+        {
+            "file": "00165_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00165_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">EB: augh!</p>\n<p style=\"color: #b536da\">TT: I think I can patch it up.</p>\n<p style=\"color: #b536da\">TT: Just give me a little space.</p>\n<p style=\"color: #b536da\">TT: Why don't you go have a look at the Cruxtruder?</p>\n<p style=\"color: #0715cd\">EB: the what?</p>\n<p style=\"color: #b536da\">TT: The thing I put in your living room.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

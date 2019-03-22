@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 852,
+    "commands": [
+        {
+            "command": "Jade: Keep going. ",
+            "link": "/story/853"
+        }
+    ],
+    "media": [
+        {
+            "file": "00852_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00852_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You hop down a level.\r<br/> <br/>Granddad also likes to accumulate VALIANT KNIGHTS from his travels. These are pretty cool, you guess.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

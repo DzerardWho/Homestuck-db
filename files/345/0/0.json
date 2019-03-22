@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 345,
+    "commands": [
+        {
+            "command": "Dave: Captchalogue damp towel. ",
+            "link": "/story/346"
+        }
+    ],
+    "media": [
+        {
+            "file": "00345.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You enter the bathroom. There's a damp towel on the floor you can probably use for this crisis.\r<br/> <br/>You stop to pay a little respect to one of your BRO'S boys up there. Hey lil' man. How's it hangin'?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

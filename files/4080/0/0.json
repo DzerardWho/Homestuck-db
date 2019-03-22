@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4080,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/4081"
+        }
+    ],
+    "media": [
+        {
+            "file": "04077.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><span style=\"color: black\">What the hell? Looks like he's had the disc repaired for a while already, but didn't tell us. Motherfucker just loves the sound of his own voice.</span></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

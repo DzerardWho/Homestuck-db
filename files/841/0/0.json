@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 841,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/842"
+        }
+    ],
+    "media": [
+        {
+            "file": "00841.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You've spent enough time for now concerning yourself with the future of your friends.\r<br/> <br/>John will not be available until later. By then he will have his hands full, as will you. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

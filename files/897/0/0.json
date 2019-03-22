@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 897,
+    "commands": [
+        {
+            "command": "PM: Type => VIEW ",
+            "link": "/story/898"
+        }
+    ],
+    "media": [
+        {
+            "file": "00897.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's the terminal you used to activate the station's homing mechanism. It looks like it has now returned control to you.\r<br/> <br/>The default viewport displays commands previously entered, including your last and only command \"=&gt; HOME\".</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

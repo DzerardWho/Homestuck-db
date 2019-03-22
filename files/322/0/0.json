@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 322,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/323"
+        }
+    ],
+    "media": [
+        {
+            "file": "00322.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">In addition to letting your buddy know about this outstanding juice windfall, you figure you'll wish him a happy birthday while you're at it. In your own cool, sort of roundabout way of course. Good thing you looked at that box he sent you, or you might have forgotten.\r<br/> <br/>You also might as well ask him about that beta. The kid's been harping about it for weeks. It would be cool if it came on his birthday. He'd be one happy camper.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

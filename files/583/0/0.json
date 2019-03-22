@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 583,
+    "commands": [
+        {
+            "command": "Dave: Press EJECT button. ",
+            "link": "/story/584"
+        }
+    ],
+    "media": [
+        {
+            "file": "00583.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You flip over your FETCH MODUS and check out the back.\r<br/> <br/>You're not really sure where it is you're keeping this thing. Oh well, who cares.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

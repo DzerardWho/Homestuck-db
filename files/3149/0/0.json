@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3149,
+    "commands": [
+        {
+            "command": "Jade: Combine Iron Man armor and outfit. ",
+            "link": "/story/3150"
+        }
+    ],
+    "media": [
+        {
+            "file": "03146_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03146_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make the JOHNNYTOP!\r<br/> <br/>Finally, a difficult to use hands-on computing solution that does nothing but roll around of his own accord while talking about his emotions and reading books fast!\r<br/> <br/>FINALLY!!!!!!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

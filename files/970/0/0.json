@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 970,
+    "commands": [
+        {
+            "command": "John: Unwrap the smallest present first. ",
+            "link": "/story/971"
+        }
+    ],
+    "media": [
+        {
+            "file": "00970_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00970_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You see no reason at all not to jam the ARRAY CARTRIDGE in there too. You make sure to blow the dust out first of course.\r<br/> <br/>The sylladex reconfigures itself into an ARRAY of distinct QUEUESTACKS.\r<br/> <br/>Now we're talking. This is just the sort of needless complexity you have come to expect from your INVENTORY MANAGEMENT SYSTEM.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 443,
+    "commands": [
+        {
+            "command": "[S] Dave: Retrieve dead bird. ",
+            "link": "/story/444"
+        }
+    ],
+    "media": [
+        {
+            "file": "00443.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You captchalogue your <span style=\"color: blue\">K</span><span style=\"color: red\">A</span><span style=\"color: blue\">T</span><span style=\"color: red\">A</span><span style=\"color: blue\">N</span><span style=\"color: red\">A</span> (2+1+2+1+2+1 = 9%10 = 9) and prepare to venture out into the apartment to retrieve your BRO's copy of the game.\r<br/> <br/>But first, maybe...\r<br/> <br/>Just maybe...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

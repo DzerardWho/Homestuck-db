@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1058,
+    "commands": [
+        {
+            "command": "John: Combine fake arm, blue ectoplasm, and PDA. ",
+            "link": "/story/1059"
+        }
+    ],
+    "media": [
+        {
+            "file": "01058_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01058_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You mix your Gushers with some of the blue slime Nanna left on the wall to make a box of HELLACIOUS BLUE PHLEGM ANEURYSM GUSHERS (WITH GHOSTLY HEALING PROPERTIES!)\r<br/> <br/>THESE SHOULD BE CONVENIENT, IF SOMEWHAT UNAPPETIZING.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

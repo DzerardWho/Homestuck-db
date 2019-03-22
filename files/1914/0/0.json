@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1914,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1915"
+        }
+    ],
+    "media": [
+        {
+            "file": "01914_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01914_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">There is a large monitor. Displayed on it is a small human girl in a fancy house. The date is April 21, 1910.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

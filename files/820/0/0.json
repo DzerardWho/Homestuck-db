@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 820,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/821"
+        }
+    ],
+    "media": [
+        {
+            "file": "00820.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You wouldn't exactly call it an atomic bass, but it is heavily customized to accommodate a high level of musical virtuosity, the perfect instrument for the eclectically spirited.\r<br/> <br/>You've tuned the strings way down of course because your stumpy arms can't reach the low notes.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

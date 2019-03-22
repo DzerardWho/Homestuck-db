@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1538,
+    "commands": [
+        {
+            "command": "This is the last you will hear from me. ",
+            "link": "/story/1539"
+        }
+    ],
+    "media": [
+        {
+            "file": "01538.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

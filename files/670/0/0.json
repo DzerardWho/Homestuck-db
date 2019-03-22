@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 670,
+    "commands": [
+        {
+            "command": "WV: Pick up the can of gravy. Just pick it up. ",
+            "link": "/story/671"
+        }
+    ],
+    "media": [
+        {
+            "file": "00670.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Captchalogue? You have no idea what that means. It is total nonsense and you do not know what to make of it. You will not give the foolish notion a second thought.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

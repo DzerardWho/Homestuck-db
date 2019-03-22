@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3692,
+    "commands": [
+        {
+            "command": "John: Approach grimdarkness. ",
+            "link": "/story/3693"
+        }
+    ],
+    "media": [
+        {
+            "file": "03689.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Something is happening on the other side of the planet. Something ominous. Something...\r<br/> <br/>Grimdark.\r<br/> <br/>You are so glad that grimdark is a real word, so that when things like this happen they may be described as such.\r<br/> <br/>Maybe your dad is over there? You believe you will investigate.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

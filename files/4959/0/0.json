@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4959,
+    "commands": [
+        {
+            "command": "Jane: Proceed to crypt. ",
+            "link": "/story/4960"
+        }
+    ],
+    "media": [
+        {
+            "file": "04956_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04956_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The built-in GRIST GUTTER on the widget immediately kicks into action, collecting all the grist overflow exceeding your current low limit. You guess that's pretty convenient.\r<br/> <br/>You honestly thought these features were a lot of meaningless nonsense before. Like an example of BCCorp's strange sense of humor, made into a product sold for top dollar. The fact that this turned out to be a useful gizmo well in advance is either reassuring or unsettling. You aren't sure which.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 254,
+    "commands": [
+        {
+            "command": "FINE. JOHN. RETURN TO YOUR QUARTERS. ",
+            "link": "/story/255"
+        }
+    ],
+    "media": [
+        {
+            "file": "00254.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">For the last time, this boy's name is John!!!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4138,
+    "commands": [
+        {
+            "command": "Jane: Look around. ",
+            "link": "/story/4139"
+        }
+    ],
+    "media": [
+        {
+            "file": "04135.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You ride out another 60 seconds and... huh? Something happened to your BAKING CHEST. Did the logo just change?\r<br/> <br/>You wonder what else may have been affected.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1060,
+    "commands": [
+        {
+            "command": "John: Combine umbrella and straight razor. ",
+            "link": "/story/1061"
+        }
+    ],
+    "media": [
+        {
+            "file": "01060_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01060_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make a LEFT HANDED REMOTE GHOST GAUNTLET to complete the pair.\r<br/> <br/>BECAUSE YOU DON'T SEE WHY THE HELL NOT.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2065,
+    "commands": [
+        {
+            "command": "A little later... ",
+            "link": "/story/2066"
+        }
+    ],
+    "media": [
+        {
+            "file": "02065_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02065_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You're not sure why you did that, really.\r<br/> <br/>There'll probably turn out to be a reason. There's a reason for everything. Understanding this lets you be reckless.\r<br/> <br/>Whoever you are.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

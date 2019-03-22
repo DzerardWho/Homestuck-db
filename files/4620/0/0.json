@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4620,
+    "commands": [
+        {
+            "command": "Roxy: Turn around. ",
+            "link": "/story/4621"
+        }
+    ],
+    "media": [
+        {
+            "file": "04617.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">More clank noises behind you. You pretend not to notice...\r<br/> <br/>And slowly...\r<br/> <br/>Calmly...\r<br/> <br/>Reach for your...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

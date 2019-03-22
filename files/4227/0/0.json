@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4227,
+    "commands": [
+        {
+            "command": "Jake: Turn around. ",
+            "link": "/story/4228"
+        }
+    ],
+    "media": [
+        {
+            "file": "04224_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04224_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It is time to get DEAD SERIOUS about hunting down a robot that looks exactly like your best friend, destroy it with your guns somehow, and steal its uranimum. (* uranium)\r<br/> <br/>But then the thing behind you that you were oblivious to starts grumbling. \r<br/> <br/>You totally forgot about the FRIGHTENING FAUNA on this island, and its regrettable REALNESS ATTRIBUTE.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

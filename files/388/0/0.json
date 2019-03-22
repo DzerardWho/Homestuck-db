@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 388,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/389"
+        }
+    ],
+    "media": [
+        {
+            "file": "00388.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

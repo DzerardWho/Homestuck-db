@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 725,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/726"
+        }
+    ],
+    "media": [
+        {
+            "file": "00725.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The door shuts behind you. A panel on the door becomes illuminated. \r<br/> <br/>As you ponder over the marks on the panel, you hear another mechanical sound overhead. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

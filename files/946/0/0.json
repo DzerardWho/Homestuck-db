@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 946,
+    "commands": [
+        {
+            "command": "John: Snoop. ",
+            "link": "/story/947"
+        }
+    ],
+    "media": [
+        {
+            "file": "00946.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ok, you do that. You are now in your DAD'S room.\r<br/> <br/>Hmm... Where are all the clowns?\r<br/> <br/>You spot your DAD'S BRIEFCASE beside you. It probably contains all sorts of clues, or at least various forms and paperwork critical to his trade as a hilarious street performer.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

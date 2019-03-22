@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 8095,
+    "commands": [
+        {
+            "command": "====> ",
+            "link": "/story/8096"
+        }
+    ],
+    "media": [
+        {
+            "file": "08088mspaint.png",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

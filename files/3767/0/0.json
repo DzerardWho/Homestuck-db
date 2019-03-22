@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3767,
+    "commands": [
+        {
+            "command": "[o] Tock. ",
+            "link": "/story/3768"
+        }
+    ],
+    "media": [
+        {
+            "file": "03764.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And since for once in my life, time is at a premium, let's get on with it. Where were we? </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

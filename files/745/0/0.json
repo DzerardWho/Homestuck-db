@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 745,
+    "commands": [
+        {
+            "command": "WV: Deappearify the pumpkin. ",
+            "link": "/story/746"
+        }
+    ],
+    "media": [
+        {
+            "file": "00745.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You nudge the numbers a bit more and appearify a bunch of cans. This is so much more efficient than walking back to the other room to get them. \r<br/> <br/>You are to believe that time is at a premium, after all.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2038,
+    "commands": [
+        {
+            "command": "[???????] ",
+            "link": "/story/7235"
+        },
+        {
+            "command": "Terezi: Call a witness. ",
+            "link": "/story/2039"
+        }
+    ],
+    "media": [
+        {
+            "file": "02038.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Mr. Senator, you smell very nice. Your luscious yellow scales are like the sweetest gumdrops to the prosecution's nose.\r<br/> <br/>But your deceit <span style=\"font-style: italic\">STINKS</span>.\r<br/> <br/>Did you honestly think you could dip your corpulent snout into the imperial beetle coffers like that and get away with it?? Did you think your revolting abuse of the public trust would go unnoticed??? <span style=\"font-style: italic\">THINK AGAIN, GOOD SENATOR. WHILE THE PROSECUTION MAY BE BLIND, REST ASSURED THE LEAGUE OF LEGISLACERATORS SEES ALL.</span></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

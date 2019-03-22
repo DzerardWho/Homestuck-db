@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 503,
+    "commands": [
+        {
+            "command": "well done, john. polite congratulations. ",
+            "link": "/story/504"
+        }
+    ],
+    "media": [
+        {
+            "file": "00503.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The REFRIGERATOR skyrockets up the ECHELADDER to a new rung: FIVESTAR GENERAL ELECTRIC and earns 285 BOONDOLLARS.\r<br/> <br/>Things are really looking up for this feisty appliance.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

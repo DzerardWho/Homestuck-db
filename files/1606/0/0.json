@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1606,
+    "commands": [
+        {
+            "command": "John: Hop in. ",
+            "link": "/story/1607"
+        }
+    ],
+    "media": [
+        {
+            "file": "01606.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">EB: so this is the seventh gate?</p>\n<p style=\"color: #0715cd\">EB: that'll take me into the palace and down to the sleeping denizen?</p>\n<p style=\"color: #008282\">GC: NOP3 &gt;:]</p>\n<p style=\"color: #008282\">GC: TH1S 1S JUST 4 S1MPL3 R3TURN NOD3</p>\n<p style=\"color: #008282\">GC: TH3R3 4R3 LOTS OF TH3S3 4ROUND</p>\n<p style=\"color: #008282\">GC: JUST HOP 1N</p>\n<p style=\"color: #008282\">GC: DONT WORRY 1LL G3T YOU TO TH3 G4T3 SOON 4FT3R TH4T</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

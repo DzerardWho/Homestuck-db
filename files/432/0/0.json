@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 432,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/433"
+        }
+    ],
+    "media": [
+        {
+            "file": "00432.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Perhaps you will take this spare moment to contemplate the Nannasprite's strange tale. It may also behoove you to record your thoughts on these developments in your GameFaqs walkthrough/journal. It can be hard finding time to update it. In fact, you're not even sure where you found the time to write what's already there!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

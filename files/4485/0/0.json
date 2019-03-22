@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4485,
+    "commands": [
+        {
+            "command": "[S] Roxy: Sleepwalk. ",
+            "link": "/story/4486"
+        }
+    ],
+    "media": [
+        {
+            "file": "04482.swf",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Nap time.</p>",
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

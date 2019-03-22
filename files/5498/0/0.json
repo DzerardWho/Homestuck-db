@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 5498,
+    "commands": [
+        {
+            "command": "[A6I4] ==> ",
+            "link": "/story/5499"
+        }
+    ],
+    "media": [
+        {
+            "file": "05495_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "05495_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #2ed73a\">*THIS*???</p>\n<p style=\"color: #000000\">Hell no.</p>\n<p style=\"color: #000000\">Hmm...</p>\n<p style=\"color: #2ed73a\">WHAT.</p>\n<p style=\"color: #000000\">Gamzee again.</p>\n<p style=\"color: #2ed73a\">OH.</p>\n<p style=\"color: #000000\">Wonder what he's up to now?</p>\n<p style=\"color: #000000\">He doesn't look too good.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

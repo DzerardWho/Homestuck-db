@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1740,
+    "commands": [
+        {
+            "command": "Rose: Check out Dave's computer. ",
+            "link": "/story/1741"
+        }
+    ],
+    "media": [
+        {
+            "file": "01740.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "-- ectoBiologist <span style=\"color: #0715cd\">[EB]</span> began pestering turntechGodhead <span style=\"color: #f2a400\">[TG]</span> --\n\n<p style=\"color: #0715cd\">EB: so what is this?</p>\n<p style=\"color: #0715cd\">EB: the thing the code made...</p>\n<p style=\"color: #f2a400\">TG: really powerful hammer</p>\n<p style=\"color: #0715cd\">EB: how do you know?</p>\n<p style=\"color: #0715cd\">EB: i thought you couldn't use hammers.</p>\n<p style=\"color: #f2a400\">TG: i cant</p>\n<p style=\"color: #f2a400\">TG: better be though</p>\n<p style=\"color: #f2a400\">TG: got it from hephaestus</p>\n<p style=\"color: #0715cd\">EB: who's that?</p>\n<p style=\"color: #f2a400\">TG: really tough to kill dude</p>\n<p style=\"color: #0715cd\">EB: you killed him for it?</p>\n<p style=\"color: #f2a400\">TG: nope</p>\n<p style=\"color: #0715cd\">EB: how'd you get it then?</p>\n<p style=\"color: #f2a400\">TG: shenanigans</p>\n<p style=\"color: #0715cd\">EB: ok.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

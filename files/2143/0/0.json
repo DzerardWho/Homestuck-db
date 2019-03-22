@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2143,
+    "commands": [
+        {
+            "command": "Aradia: Get bugged by AG. ",
+            "link": "/story/2144"
+        }
+    ],
+    "media": [
+        {
+            "file": "02143_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02143_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Hmm, you wonder what she wants.\r<br/> <br/>What's with all these girls bugging you? Bugging and fussing and meddling.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

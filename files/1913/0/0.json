@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1913,
+    "commands": [
+        {
+            "command": "AR?: Examine equipment. ",
+            "link": "/story/1914"
+        }
+    ],
+    "media": [
+        {
+            "file": "01913.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Deeper into the darkness of the room there is some complicated lab equipment. Again, nothing particularly unusual for this jurisdiction.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

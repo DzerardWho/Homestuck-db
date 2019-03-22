@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 1778,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1779"
+        }
+    ],
+    "media": [
+        {
+            "file": "01778.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "01778retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">These hops are unreal. Shit this flagrant should be illegal. It probably is.\r<br/> <br/>But you don't care.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

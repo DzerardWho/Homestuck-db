@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 744,
+    "commands": [
+        {
+            "command": "WV: Appearify Can Town. ",
+            "link": "/story/745"
+        }
+    ],
+    "media": [
+        {
+            "file": "00744_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00744_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You nudge the coordinates very slightly and bump up the elevation by 0.5 HUMAN MEASUREMENT UNITS. You make sure to keep the time approximately what it was to begin with.\r<br/> <br/>You appearify your TRUSTY KNIFE.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

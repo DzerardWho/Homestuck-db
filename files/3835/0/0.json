@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3835,
+    "commands": [
+        {
+            "command": "[o] Tock. ",
+            "link": "/story/3836"
+        }
+    ],
+    "media": [
+        {
+            "file": "03832_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03832_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And she would know victory doesn't matter in a reality where all else is doomed to fail.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

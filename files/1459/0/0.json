@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1459,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1460"
+        }
+    ],
+    "media": [
+        {
+            "file": "01459.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You discover a couple of UNAUTHORIZED PARCELS in the cabin of the vehicle. You confiscate them immediately.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

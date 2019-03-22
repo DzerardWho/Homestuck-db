@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5398,
+    "commands": [
+        {
+            "command": "[A6I3] ==> ",
+            "link": "/story/5399"
+        }
+    ],
+    "media": [
+        {
+            "file": "index.html",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">[If game doesn't play, try another browser. Chrome or Firefox Recommended.]\r<br/> <br/>[<a class=\"postlink\" href=\"/images/scraps2/a6i3map3.gif\" target=\"_blank\">MAP</a>]</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

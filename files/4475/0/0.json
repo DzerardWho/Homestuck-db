@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4475,
+    "commands": [
+        {
+            "command": "Roxy: Say hi to cat. ",
+            "link": "/story/4476"
+        }
+    ],
+    "media": [
+        {
+            "file": "04472_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04472_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Some original edition cover art from one of the books. \r<br/> <br/>It features the androgynous young apprentice, Calmasis, who throughout the series plays the roles of antihero and chief antagonist. S/he convinces fellow disciples to rebel against Zazzerpan's vaunted Complacency, and one by one hunts down each wizard. All twelve are killed but the Predicant Scholar himself, forcing a showdown.  \r<br/> <br/>The poster depicts the notorious chess match between Calmasis and Zazzerpan. Zazzerpan had a reputation for being unbeatable. He had never lost a match, even to the gods. But his apprentice was able to beat him in the wizard's duel by first becoming checkmated, and through some unprecedented enchantment, continuing to play beyond the death of the king.\r<br/> <br/>You love your mom's books and find them heavily inspiring, but you can't help but feel the work is exhaustingly heavy-handed at times. You kind of prefer to write more lighthearted things. Actually crack a joke now and then, you know?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

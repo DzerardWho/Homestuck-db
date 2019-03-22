@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2455,
+    "commands": [
+        {
+            "command": "Eridan: Disarm. ",
+            "link": "/story/2456"
+        }
+    ],
+    "media": [
+        {
+            "file": "02454_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02454_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You decide to unwind and take your mind off the drama for a while before starting the game. You nearly forgot this is going to be an exciting night. Everything you are about to do next is exciting. It is always exciting. You are excited.\r<br/> <br/>You unequip <img border=\"0\" src=\"/images/storyfiles/hs2/scraps/psi.gif\"/>DON'S ENTENTE, a golden DOUBLE CULLING FORK, a legendary weapon reserved for royalty, and generally only used for ceremonial purposes.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

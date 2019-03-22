@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3300,
+    "commands": [
+        {
+            "command": "Kanaya: View Rose. ",
+            "link": "/story/3301"
+        }
+    ],
+    "media": [
+        {
+            "file": "03297.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

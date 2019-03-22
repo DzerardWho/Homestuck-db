@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5100,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/5101"
+        }
+    ],
+    "media": [
+        {
+            "file": "05097.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">These are just a few of the many drawings you have done over the years celebrating your absolute all-time favorite characters. Er... you mean friends.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4598,
+    "commands": [
+        {
+            "command": "Jack: Answer Dignitary. ",
+            "link": "/story/4599"
+        }
+    ],
+    "media": [
+        {
+            "file": "04595.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Hang on. It's this guy. Gotta answer this. He better be bearing news of murdered youngsters.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

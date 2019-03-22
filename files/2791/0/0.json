@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2791,
+    "commands": [
+        {
+            "command": "[S] Past Karkat: Wake up. ",
+            "link": "/story/2792"
+        }
+    ],
+    "media": [
+        {
+            "file": "02790.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You cannot be Past Karkat because in the past, Past Karkat is asleep!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

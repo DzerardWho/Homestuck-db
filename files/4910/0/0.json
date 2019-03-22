@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4910,
+    "commands": [
+        {
+            "command": "Jack: Be the other guy. ",
+            "link": "/story/4911"
+        }
+    ],
+    "media": [
+        {
+            "file": "04907.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Looks like the sentry phoned downstairs for a little muscle. It's one of the regulator lugs they use to keep the gen pop in line. This guy has an itchy baton wrist and that look in his eye you know all too well. He's not leaving this room until one of you is good and bloody.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

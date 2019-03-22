@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 507,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/508"
+        }
+    ],
+    "media": [
+        {
+            "file": "00507.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oblivious to the commotion behind you, suddenly you find yourself pondering the whereabouts of a CAN OPENER.\r<br/> <br/>You think there is probably one in the kitchen, but the path is blocked by your REFRIGERATOR.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

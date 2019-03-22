@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3269,
+    "commands": [
+        {
+            "command": "AR: Prepare to tidy up. ",
+            "link": "/story/3270"
+        }
+    ],
+    "media": [
+        {
+            "file": "03266.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Unfortunately, your simple message cannot seem to penetrate their thick carapaces.\r<br/> <br/>Doesn't ANYBODY in this stupid desert speak blinking?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

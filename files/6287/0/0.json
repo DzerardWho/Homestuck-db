@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 6287,
+    "commands": [
+        {
+            "command": "[A6A6I1] ====> ",
+            "link": "/story/6284"
+        }
+    ],
+    "media": [
+        {
+            "file": "06285_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "06285_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit":[
+        {
+            "file": "06285_1_preemptiveretcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It appears the current path is too corrupted to continue. You can't even open the dialoglog. It is simply too shitty.\r<br/> <br/>Perhaps this part of the story will clear up a little later, and you will be able to resume this arc. Until then, no dice.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1188,
+    "commands": [
+        {
+            "command": "[I] SS: Wear CD's hat on top of your current one. ",
+            "link": "/story/1189"
+        }
+    ],
+    "media": [
+        {
+            "file": "01188_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01188_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">4/15 GREEN TORSOS DEAD</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

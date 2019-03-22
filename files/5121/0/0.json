@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5121,
+    "commands": [
+        {
+            "command": "Calliope: Exit. ",
+            "link": "/story/5122"
+        }
+    ],
+    "media": [
+        {
+            "file": "05118.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This leads outside. Being tethered to the wall, you can't venture too far beyond the exit though.\r<br/> <br/>But you might as well go for a bit fresh air before you sleep. One more six-foot-radius stroll in the sun. It could be your last chance. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

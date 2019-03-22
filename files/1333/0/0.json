@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1333,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1334"
+        }
+    ],
+    "media": [
+        {
+            "file": "01333_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01333_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You flail the torso <span style=\"color: #2ed73a\">Cans</span>-ward in an attempt to <a class=\"postlink\" href=\"http://www.mspaintadventures.com/?s=4&amp;p=000436\" target=\"_blank\">placate him with the red meat</a>.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

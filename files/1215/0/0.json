@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1215,
+    "commands": [
+        {
+            "command": "[I] HB: Stop being SS. ",
+            "link": "/story/1216"
+        }
+    ],
+    "media": [
+        {
+            "file": "01215.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">How many times does he have to tell you. He made this town. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

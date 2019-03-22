@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 19,
+    "commands": [
+        {
+            "command": "John: Examine Con Air poster. ",
+            "link": "/story/20"
+        }
+    ],
+    "media": [
+        {
+            "file": "00019_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00019_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You use the HAMMER, NAILS, and POSTER on the blank space on the wall. \r<br/> <br/>It's glorious. Exactly what you wanted. The old man really came through this time.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

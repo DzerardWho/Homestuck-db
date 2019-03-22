@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3020,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3021"
+        }
+    ],
+    "media": [
+        {
+            "file": "03019.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You return to the GRAND FOYER. It's a bit less cluttered than you remember it being.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

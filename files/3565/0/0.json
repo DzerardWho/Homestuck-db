@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3565,
+    "commands": [
+        {
+            "command": "Aradia: Release him. ",
+            "link": "/story/3566"
+        }
+    ],
+    "media": [
+        {
+            "file": "03562.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are now the Maid of Time, recently resurrected from the crypt of Derse. Your name is Aradia Megido, and for the first time in your life, you feel truly alive.\r<br/> <br/>You have just incapacitated Jack Noir with a spell. But a demon so powerful requires your full concentration to subdue. He will break free any moment. You may release him, and die now. Or you may continue to hold him, and die later.\r<br/> <br/>What will you do? \r<br/> <br/>Aside from die, that is.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

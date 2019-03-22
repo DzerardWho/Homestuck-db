@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3936,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/3974"
+        }
+    ],
+    "media": [
+        {
+            "file": "03933.swf",
+            "folder": "0"
+        },
+        {
+            "file": "nextbowl.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It seems she's acting out again. Sorting these clippings will have to wait while I settle her down. I apologize profusely.\r<br/> <br/>Please continue to help yourself to the serviceable \"==&gt;\" command in my absence. As a first-class host, I keep a healthy supply on hand at all times.\r<br/> <br/><img border=\"0\" src=\"/images/storyfiles/hs2/scraps/nextbowl.gif\"/></p>",
+    "pesterlog": null,
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

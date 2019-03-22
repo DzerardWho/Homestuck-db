@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3125,
+    "commands": [
+        {
+            "command": "What are you. ",
+            "link": "/story/3126"
+        }
+    ],
+    "media": [
+        {
+            "file": "03122.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

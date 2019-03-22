@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 785,
+    "commands": [
+        {
+            "command": "Jade: Go upstairs to bedroom. ",
+            "link": "/story/786"
+        }
+    ],
+    "media": [
+        {
+            "file": "00785.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Modus fun aside, you feel it is impossible to have too many fresh fruits and vegetables on hand.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4118,
+    "commands": [
+        {
+            "command": "Enter name. ",
+            "link": "/story/4119"
+        }
+    ],
+    "media": [
+        {
+            "file": "04115.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Jane is not empowered to rehash this tired running gag because all of a sudden she is too busy being the other guy.\r<br/> <br/>We need to figure out what this fella's name is, pronto!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

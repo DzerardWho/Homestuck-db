@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3266,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3267"
+        }
+    ],
+    "media": [
+        {
+            "file": "03263.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Once the regent's task is complete, the queen must use the key to set the destination for her royal entourage. \r<br/> <br/>And once all the pieces are in place...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

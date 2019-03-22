@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3200,
+    "commands": [
+        {
+            "command": "Jade: View Davesprite. ",
+            "link": "/story/3201"
+        }
+    ],
+    "media": [
+        {
+            "file": "03197.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">According to the spectagoggles, there are currently 13 Daves scattered around the incipisphere, including Davesprite. That is an absolutely preposterous amount of Daves.\r<br/> <br/>You guess Davesprite is the one prototyped by his future self that John was telling you about? Dave sure is a clever guy. Might as well have a look...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 664,
+    "commands": [
+        {
+            "command": "[S] Dave: Ascend to the highest point of the building. ",
+            "link": "/story/665"
+        }
+    ],
+    "media": [
+        {
+            "file": "00664.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You stop being the other guy. You're not even sure what that meant anyway.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

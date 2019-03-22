@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2660,
+    "commands": [
+        {
+            "command": "John: Prepare for flight. ",
+            "link": "/story/2661"
+        }
+    ],
+    "media": [
+        {
+            "file": "02659.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your RAG OF SOULS begins to soak in the BLOOD OF THE FALLEN. You suppose it could be poetic?\r<br/> <br/>No, instead you think it is just sad.\r<br/> <br/>You were very foolish to believe you could be a leader of men. Look at what bearing that flag has wrought.\r<br/> <br/>Perhaps one day you will find something new to bear. A burden befitting of the peasant you truly are.\r<br/> <br/>Oh my what's that shiny thing in the water.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

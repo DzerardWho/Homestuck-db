@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1691,
+    "commands": [
+        {
+            "command": "John: Answer Dave. ",
+            "link": "/story/1692"
+        }
+    ],
+    "media": [
+        {
+            "file": "01691.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Despite the pandemonium of your entrance, Rose is still sound asleep. She must be really tuckered out!\r<br/> <br/>It looks like this little guy is awake and ready for action though. He is adorable. You decide to name him Dr. Meowgon Spengler.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

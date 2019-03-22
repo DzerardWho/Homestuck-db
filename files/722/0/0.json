@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 722,
+    "commands": [
+        {
+            "command": "Minutes in the future... ",
+            "link": "/story/723"
+        }
+    ],
+    "media": [
+        {
+            "file": "00722_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00722_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your caffeinated jittering must have agitated all the little bubbles curiously hidden in the liquid, creating too much pressure in the can. You speculate this is why it exploded as you nervously eye the timer.\r<br/> <br/>You are starting to wonder what will happen when it reaches zero. Maybe it would be best not to be near it when this happens.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

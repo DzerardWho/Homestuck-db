@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4947,
+    "commands": [
+        {
+            "command": "DD: Ok, that's cool. Stop being invisible. ",
+            "link": "/story/4948"
+        }
+    ],
+    "media": [
+        {
+            "file": "04944.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Awesome powers? Let's see. You're guessing it can probably make you invisible. \r<br/> <br/>Yep. There you go. Invisible, just like you thought. What else is a magical ring of void gonna do? This is like Magic Rings 101. Real basic stuff.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

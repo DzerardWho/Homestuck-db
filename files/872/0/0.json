@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 872,
+    "commands": [
+        {
+            "command": "Rose: Look around for anything else of importance. ",
+            "link": "/story/873"
+        }
+    ],
+    "media": [
+        {
+            "file": "00872.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What does?\r<br/> <br/>You don't have time to humor every random thought that pops into your head. The clock is ticking.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

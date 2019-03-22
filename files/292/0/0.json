@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 292,
+    "commands": [
+        {
+            "command": "WHAT COLOR ARE THE WORDS THAT THIS CHUM SAYS? ",
+            "link": "/story/293"
+        }
+    ],
+    "media": [
+        {
+            "file": "00292.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You're inclined to agree, but hey, accidents happen. You double check your PDA to make sure if Rose is really gone. Indeed this seems to be the case.\r<br/> <br/>TG is still pestering you of course. But another chum is now logged in as well.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

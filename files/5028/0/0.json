@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5028,
+    "commands": [
+        {
+            "command": "UU: Cheer uu. ",
+            "link": "/story/5029"
+        }
+    ],
+    "media": [
+        {
+            "file": "05025.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And that was how that stuff happened.\r<br/> <br/>The bunny didn't make it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

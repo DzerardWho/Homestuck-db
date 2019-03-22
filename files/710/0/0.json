@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 710,
+    "commands": [
+        {
+            "command": "WV: Welcome the rest into the city. ",
+            "link": "/story/711"
+        }
+    ],
+    "media": [
+        {
+            "file": "00710.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You free the heavenly brown elixir from the jewels of pink carapace and imbibe like the wind.\r<br/> <br/>It is so sweet and sugary. You wonder how so much sugar can fit in one can. Whatever mighty wizard concocted this potion is truly deserving of your fear and respect.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

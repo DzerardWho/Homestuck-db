@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 839,
+    "commands": [
+        {
+            "command": "Rose: Descend. ",
+            "link": "/story/840"
+        }
+    ],
+    "media": [
+        {
+            "file": "00839.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are now the other girl several hours in the future.\r<br/> <br/>It appears a secret passage in the mausoleum has been opened.\r<br/> <br/>It's getting awfully toasty in here. You gather up your belongings, including your dead cat.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4164,
+    "commands": [
+        {
+            "command": "Jake: Examine holster belt. ",
+            "link": "/story/4165"
+        }
+    ],
+    "media": [
+        {
+            "file": "04161_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04161_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Right. You pick up your TWIN M9 BERETTAS, weapons of choice in an absurd arsenal inherited from an eccentric old woman.\r<br/> <br/>Guns are so cool. Your GRANDMA was rad.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2707,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/2708"
+        }
+    ],
+    "media": [
+        {
+            "file": "02706.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The conversations with the other two humans didn't go that well either.\r<br/> <br/>Must be something about the human intellect, and a specific posture it assumes. Particularly when a certain subject is broached.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

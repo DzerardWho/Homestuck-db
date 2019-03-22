@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1849,
+    "commands": [
+        {
+            "command": "Dave: Read it. ",
+            "link": "/story/1850"
+        }
+    ],
+    "media": [
+        {
+            "file": "01849_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01849_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">One book is titled \"MEOW\". The other is titled \"Complacency of the Learned\".\r<br/> <br/>Gee, you wonder what could be in MEOW.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

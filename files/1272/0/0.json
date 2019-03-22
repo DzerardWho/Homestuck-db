@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1272,
+    "commands": [
+        {
+            "command": "[I] SS: Occam's Razor. Crowbar's head. Make it hapen. ",
+            "link": "/story/1273"
+        }
+    ],
+    "media": [
+        {
+            "file": "01272.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Where do you think you're going, fatty?\r<br/> <br/>You'll deal with him in a minute. \r<br/> <br/>You whip out your DOUBLE EDGED SWORD and OCCAM'S RAZOR.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

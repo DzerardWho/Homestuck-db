@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2199,
+    "commands": [
+        {
+            "command": "Vriska: Begin meddling. ",
+            "link": "/story/2200"
+        }
+    ],
+    "media": [
+        {
+            "file": "02199_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02199_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You equip your enchanted dice set, the fabled FLUORITE OCTET. \r<br/> <br/>It consists of eight D8, plundered from a ghost ship during a particularly challenging campaign. In ancient times such weapons were employed by roving bands of GAMBLIGNANTS, deadly marauders with a passion for chance. They all died off though. Took too many crazy risks.\r<br/> <br/>Rolling the dice will execute a wide range of highly unpredictable attacks. Very high rolls can be devastating to even the most powerful opponents.\r<br/> <br/>Of course with the luck you've had lately, you couldn't make a good roll to save your life. Got to do something about this awful luck.\r<br/> <br/>Gotta catch a br8k!!!!!!!!\r<br/> <br/>When you get worked up about stuff you put 8's in places that don't really make a lot of sense phonetically.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

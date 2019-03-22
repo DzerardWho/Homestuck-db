@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4301,
+    "commands": [
+        {
+            "command": "[A6I1] ==> ",
+            "link": "/story/4302"
+        }
+    ],
+    "media": [
+        {
+            "file": "04298.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Pay no attention to the man behind the curtain cloth. Or anything taking place out here in the emerald shitty paintjob, for that matter. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

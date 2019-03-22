@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 536,
+    "commands": [
+        {
+            "command": "John: Answer your chums. ",
+            "link": "/story/537"
+        }
+    ],
+    "media": [
+        {
+            "file": "00536.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

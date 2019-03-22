@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2947,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/2948"
+        }
+    ],
+    "media": [
+        {
+            "file": "02946.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">John is the boy you saw that day.\r<br/> <br/>John is the windy one.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 572,
+    "commands": [
+        {
+            "command": "Dave: Set blender to \"Crush Ice\". ",
+            "link": "/story/573"
+        }
+    ],
+    "media": [
+        {
+            "file": "00572.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This might be the only thing in the whole apartment that's a bigger piece of shit than your own sword.\r<br/> <br/>You put it back behind the microwave where it belongs.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

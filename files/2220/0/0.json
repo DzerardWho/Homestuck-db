@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2220,
+    "commands": [
+        {
+            "command": "Equius: Talk to friend/enemy. ",
+            "link": "/story/2221"
+        }
+    ],
+    "media": [
+        {
+            "file": "02220.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You proceed to have a <a class=\"postlink\" href=\"/story/2162\" target=\"_blank\">conversation we read not all that long ago</a>. It went mostly like this.\r<br/> <br/><span style=\"color: #000056\">CT: D --&gt; Yes</span> <span style=\"color: #416600\">AC: :33 &lt; no</span> <span style=\"color: #000056\">CT: D --&gt; Yes</span> <span style=\"color: #416600\">AC: :33 &lt; no</span> <span style=\"color: #000056\">CT: D --&gt; Yes</span> <span style=\"color: #416600\">AC: :33 &lt; no</span> <span style=\"color: #000056\">CT: D --&gt; Yes</span> <span style=\"color: #416600\">AC: :33 &lt; no</span> <span style=\"color: #000056\">CT: D --&gt; Yes</span> <span style=\"color: #416600\">AC: :33 &lt; no</span> <span style=\"color: #000056\">CT: D --&gt; Yes</span> <span style=\"color: #416600\">AC: :33 &lt; no</span> <span style=\"color: #000056\">CT: D --&gt; Yes</span> <span style=\"color: #416600\">AC: :33 &lt; no</span> <br/> <br/>But when all was said and done, you are quite sure you convinced your good friend to stay on the right team. Not the team full of degenerates with swill coursing through their veins. You're starting to get worked up again.\r<br/> <br/>Routine helps calm you down. Maybe you will talk to another friend. You talk to him every day for some reason. Though it's not exactly right to call him a friend, since you despise him. Your relationship with the fellow is difficult to describe.\r<br/> <br/>It should be noted that in troll language, the word for friend is exactly the same as the word for enemy.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

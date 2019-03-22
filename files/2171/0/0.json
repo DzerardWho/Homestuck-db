@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2171,
+    "commands": [
+        {
+            "command": "A little later... ",
+            "link": "/story/2172"
+        }
+    ],
+    "media": [
+        {
+            "file": "02171.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You take your starting position in the field. The game is afoot, and anything can happen now. It's up to you to consult your maps and work with your teammate to discover the objective of the quest, find treasure, and slay monsters.\r<br/> <br/>Your STAT BAT has bonded with you. This keeps track of every attribute for your character, including vitals. While these attributes in principle remain abstractions, due to the fact that this is EXTREME role playing, they will always relate in some way to your real life attributes as well. You've got to be careful out here!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

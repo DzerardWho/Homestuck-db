@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1228,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1229"
+        }
+    ],
+    "media": [
+        {
+            "file": "01228.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Looks like the trail of blood ends here. Or originates. Whatever.\r<br/> <br/>Something went down here in the past. Or... is about to go down in the future? You know what, never mind.\r<br/> <br/>21/1000 CLOCKS DESTROYED, APPARENTLY</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

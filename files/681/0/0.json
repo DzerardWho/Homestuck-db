@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 681,
+    "commands": [
+        {
+            "command": "WV: Search room for can opener. ",
+            "link": "/story/682"
+        }
+    ],
+    "media": [
+        {
+            "file": "00681.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You empty the peculiar cabinet and take a quick inventory of your canned goods.\r<br/> <br/>You have BEANS, MUSTARD, GRAVY, BREAD, SHRIMP, ASPARAGUS, CHEESE, RICE, CORN, PEAS, FLOUR, CHESTNUTS, MAYO, HAM, POTATOES, and SQUASH.\r<br/> <br/>Such bountiful plenty. And yet the delights taunt you from within their small metal prisons.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

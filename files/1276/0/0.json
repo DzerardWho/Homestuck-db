@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1276,
+    "commands": [
+        {
+            "command": "[I] SS: Just go stab Sawbuck until the time shenanigans stop ",
+            "link": "/story/1277"
+        }
+    ],
+    "media": [
+        {
+            "file": "01276.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You cram him in the WAR CHEST.\r<br/> <br/><span style=\"color: #2ed73a\">Sawbuck </span>you need to keep alive too, for the moment. Not to return to the right timeline, but the right time.\r<br/> <br/>Speaking of which, where's tubby think he's waddling off to.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

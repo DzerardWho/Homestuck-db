@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5460,
+    "commands": [
+        {
+            "command": "[A6I4] ==> ",
+            "link": "/story/5461"
+        }
+    ],
+    "media": [
+        {
+            "file": "05457.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh, right. It's your sister's computer, still stored in your shared sylladex. You never understood what a kid chained to her bedroom needed with a portable computer. It made you mad how stupid that was.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3763,
+    "commands": [
+        {
+            "command": "[o] Please come in. ",
+            "link": "/story/3764"
+        }
+    ],
+    "media": [
+        {
+            "file": "03760.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">[<span style=\"color: white\">You rang?\r<br/> <br/>That was a joke. Of course you didn't. I don't have a doorbell, remember?\r<br/> <br/>Haa haa, hee hee, hoo hoo.</span>]</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

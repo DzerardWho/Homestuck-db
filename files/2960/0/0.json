@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2960,
+    "commands": [
+        {
+            "command": "the master thief! is that who you are talking to now, john? ",
+            "link": "/story/2961"
+        }
+    ],
+    "media": [
+        {
+            "file": "02959.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Why yes, he is in peril. He was stranded there on account of a nap instigated by the one he apprentices under.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

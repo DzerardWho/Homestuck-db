@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4508,
+    "commands": [
+        {
+            "command": "Roxy: Jump in. ",
+            "link": "/story/4509"
+        }
+    ],
+    "media": [
+        {
+            "file": "04505.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your test pilot flew back out, which means the link between planes is working and stable. You can't even remember which one you linked this up to. You guess you'll find out the fast way.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

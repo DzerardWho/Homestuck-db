@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2709,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/2710"
+        }
+    ],
+    "media": [
+        {
+            "file": "02708.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Earth is surprisingly pretty.\r<br/> <br/>It seems very...\r<br/> <br/>Bright.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

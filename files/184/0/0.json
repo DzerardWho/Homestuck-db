@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 184,
+    "commands": [
+        {
+            "command": "TT: Drop maimed harlequin into Kernelsprite. ",
+            "link": "/story/185"
+        }
+    ],
+    "media": [
+        {
+            "file": "00184.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">EB: this thing keeps following me around.</p>\n<p style=\"color: #0715cd\">EB: i think it's trying to talk to me or something.</p>\n<p style=\"color: #b536da\">TT: That is probably the \"Kernelsprite\".</p>\n<p style=\"color: #b536da\">TT: It apparently needs to be \"prototyped\".</p>\n<p style=\"color: #b536da\">TT: Twice, actually.</p>\n<p style=\"color: #b536da\">TT: Whatever the hell that means.</p>\n<p style=\"color: #b536da\">TT: These walkthroughs are horrendously written.</p>\n<p style=\"color: #0715cd\">EB: hmm, ok.</p>\n<p style=\"color: #0715cd\">EB: well, you are the one with the cursor so just do whatever you think is the right thing to do!</p>\n<p style=\"color: #0715cd\">EB: also, fix my bathroom.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 347,
+    "commands": [
+        {
+            "command": "Dave: Take towel. ",
+            "link": "/story/348"
+        }
+    ],
+    "media": [
+        {
+            "file": "00347.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Nah, you just decide to wring this towel out into the toilet to make it less damp.\r<br/> <br/>It is now just a <span style=\"color: blue\">T</span><span style=\"color: red\">O</span><span style=\"color: blue\">W</span><span style=\"color: red\">E</span><span style=\"color: blue\">L</span> (2+1+2+1+2 = 8 % 10 = 8).</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

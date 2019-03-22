@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 893,
+    "commands": [
+        {
+            "command": "PM: Open envelope. ",
+            "link": "/story/894"
+        }
+    ],
+    "media": [
+        {
+            "file": "00893.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This message to Dr. Brinner looks pretty serious.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

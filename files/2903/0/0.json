@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2903,
+    "commands": [
+        {
+            "command": "Rose: Answer John. ",
+            "link": "/story/2904"
+        }
+    ],
+    "media": [
+        {
+            "file": "02902.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

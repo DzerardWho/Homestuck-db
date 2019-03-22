@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1181,
+    "commands": [
+        {
+            "command": "[I] CD: Dump the contents of your war chest over him. ",
+            "link": "/story/1182"
+        }
+    ],
+    "media": [
+        {
+            "file": "01181.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You begin a feeble campaign of psychological warfare. Perhaps compromising his fashion motif is the way to get to him.\r<br/> <br/>Nope. Looks like he's still in his weird state of stasis and doesn't care.\r<br/> <br/>Either that or it's driving him nuts. Just very slowly.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1230,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1231"
+        }
+    ],
+    "media": [
+        {
+            "file": "01230.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><span style=\"color: #2ed73a\">Fin</span> always knows where you're going. \r<br/> <br/>He's followed your FUTURE TRAIL here. He likes to mess with you from the past.\r<br/> <br/>Trouble is he tips you off to where he's been. This time you're ready.\r<br/> <br/>Wait for it. Wait...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

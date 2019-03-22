@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1840,
+    "commands": [
+        {
+            "command": "Dave: Combine camera and captchalogue card. ",
+            "link": "/story/1841"
+        }
+    ],
+    "media": [
+        {
+            "file": "01840_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01840_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You're looking pretty chill with your new freakshow entourage.\r<br/> <br/>The underlings all look kind of put off by it though. You're kind of weirding them out.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5125,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/5126"
+        }
+    ],
+    "media": [
+        {
+            "file": "05122.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Whatever way it is you finally depart this world, you're going to miss the place.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

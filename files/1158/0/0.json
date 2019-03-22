@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1158,
+    "commands": [
+        {
+            "command": "[I] SS: Check for traps under the billiards rug. ",
+            "link": "/story/1159"
+        }
+    ],
+    "media": [
+        {
+            "file": "01158.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have an idea that is so much better.\r<br/> <br/>CLOCKS DESTROYED: 4/1000</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 396,
+    "commands": [
+        {
+            "command": "[S] GET UP JOHN, THIS IS NO TIME FOR SLUMBER. ",
+            "link": "/story/397"
+        }
+    ],
+    "media": [
+        {
+            "file": "00396.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You regather your items and begin the soggy trek mausoleum-ward.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

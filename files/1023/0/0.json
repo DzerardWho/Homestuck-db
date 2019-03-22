@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1023,
+    "commands": [
+        {
+            "command": "John: Alchemize. ",
+            "link": "/story/1024"
+        }
+    ],
+    "media": [
+        {
+            "file": "01023.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #b536da\">TT: It looks like you were in your father's room recently.</p>\n<p style=\"color: #0715cd\">EB: yeah.</p>\n<p style=\"color: #b536da\">TT: And how did it make you feel to discover what was in there?</p>\n<p style=\"color: #0715cd\">EB: oh no, i just realized!</p>\n<p style=\"color: #0715cd\">EB: you are going to psycho-therapify me.</p>\n<p style=\"color: #0715cd\">EB: well don't bother!</p>\n<p style=\"color: #b536da\">TT: Maybe I am just being a friend?</p>\n<p style=\"color: #0715cd\">EB: maybe...</p>\n<p style=\"color: #0715cd\">EB: /EYES SUSPSICIOSLY</p>\n<p style=\"color: #0715cd\">EB: anyway i guess you saw what's in there, it's boring and there's not much to even see.</p>\n<p style=\"color: #b536da\">TT: That doesn't matter.</p>\n<p style=\"color: #b536da\">TT: What matters is how seeing it affected you.</p>\n<p style=\"color: #b536da\">TT: I think it clearly has in some way.</p>\n<p style=\"color: #0715cd\">EB: well...</p>\n<p style=\"color: #0715cd\">EB: i don't know, at first i was nervous to go in and find more of his weird clowns, because of course they are stupid and i hate them a lot.</p>\n<p style=\"color: #0715cd\">EB: but then when i didn't see any, it was weird.</p>\n<p style=\"color: #0715cd\">EB: i felt weirdly, like... disappointed almost.</p>\n<p style=\"color: #b536da\">TT: Is it fair to say this changed your perception of your father?</p>\n<p style=\"color: #0715cd\">EB: yeah, i guess.</p>\n<p style=\"color: #b536da\">TT: Is it such a stretch to conclude it changed your perception of other things as well?</p>\n<p style=\"color: #0715cd\">EB: uh no, maybe not.</p>\n<p style=\"color: #0715cd\">EB: but what are you getting at?</p>\n<p style=\"color: #0715cd\">EB: it sounds like you're saying i'm crazy!</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

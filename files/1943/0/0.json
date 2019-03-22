@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1943,
+    "commands": [
+        {
+            "command": "the recent past is recalled... ",
+            "link": "/story/1944"
+        }
+    ],
+    "media": [
+        {
+            "file": "01943_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01943_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The warweary calls another broken planet home, another cloth his garb. Land and rags fit for the wayward.\r<br/> <br/>A villein becomes a vagabond.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

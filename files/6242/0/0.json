@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 6242,
+    "commands": [
+        {
+            "command": "[S] ACT 6 ACT 6 ",
+            "link": "/story/6243"
+        }
+    ],
+    "media": [
+        {
+            "file": "06239_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "06239_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

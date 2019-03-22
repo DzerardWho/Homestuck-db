@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6325,
+    "commands": [
+        {
+            "command": "[A6A6I1] ====> ",
+            "link": "/story/6326"
+        }
+    ],
+    "media": [
+        {
+            "file": "06323.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #626262\">KARKAT: WHAT'S THAT.</p>\n<p style=\"color: #4ac925\">JADE:</span> <span style=\"color: #000000\">what this?</p>\n<p style=\"color: #626262\">KARKAT: YES. THAT.</p>\n<p style=\"color: #4ac925\">JADE:</span> <span style=\"color: #000000\">earth</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

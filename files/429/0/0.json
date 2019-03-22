@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 429,
+    "commands": [
+        {
+            "command": "JOHN YOU DO NOT SAY NO TO COOKIES. I COMMAND YOU TO GET THEM ",
+            "link": "/story/430"
+        }
+    ],
+    "media": [
+        {
+            "file": "00429.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh God dammit, that's just what you need. More baked goods.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

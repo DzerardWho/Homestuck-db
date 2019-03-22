@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 869,
+    "commands": [
+        {
+            "command": "Again in the future... ",
+            "link": "/story/870"
+        }
+    ],
+    "media": [
+        {
+            "file": "00869.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's another one of these ominous countdowns. You didn't notice it when you first entered the lab about a minute ago. It looks like this one may have been ticking for years.\r<br/> <br/>Whatever it's ticking down to, there isn't much time. You can only hope that when you turn on your computer again, there will be a connection invitation from one Mr. Strider.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

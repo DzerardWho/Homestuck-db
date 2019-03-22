@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1076,
+    "commands": [
+        {
+            "command": "Jade: Grab your harpoon gun. ",
+            "link": "/story/1077"
+        }
+    ],
+    "media": [
+        {
+            "file": "01076_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01076_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Bec has never allowed you to enter the MYSTIC RUINS for reasons you never understood. You always assumed it was on account of your protection. But your dream has strongly suggested to you that is where you need to go now!\r<br/> <br/>Since your DREAMBOT is secured in its chamber and does not need to be looked after, Bec is taking a nap in the GRAND FOYER as he usually does. Perhaps you can take advantage of this and sneak out of the house another way?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

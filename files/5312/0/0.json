@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5312,
+    "commands": [
+        {
+            "command": "[A6I3] ==> ",
+            "link": "/story/5313"
+        }
+    ],
+    "media": [
+        {
+            "file": "05309.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">There.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

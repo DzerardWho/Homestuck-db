@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3151,
+    "commands": [
+        {
+            "command": "Jade: Combine one of grandpa's beauties and outfit. ",
+            "link": "/story/3152"
+        }
+    ],
+    "media": [
+        {
+            "file": "03148_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03148_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make the IRON LASS SUIT!\r<br/> <br/>It's quite stylish, but maybe a bit cumbersome for casual wear. Probably only good for special occasions.\r<br/> <br/>If you are going to adopt a new regular outfit, you'd prefer something a little comfier and less ostentatious, and if possible, in less flagrant violation of copyright laws.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

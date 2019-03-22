@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5118,
+    "commands": [
+        {
+            "command": "Calliope: Check out bed. ",
+            "link": "/story/5119"
+        }
+    ],
+    "media": [
+        {
+            "file": "05115.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This is the chain you shackle to your other leg when you're about to go to sleep. You are the only one who is able to unlock it.\r<br/> <br/>Both chains are totally unbreakable, and their anchors are immovable from the wall, due to a mysterious juju enchantment. All juju enchantments are equally mysterious. Each is more equally mysterious than the last.\r<br/> <br/>Sleeping with shackled legs doesn't make for very comfy slumber. Still, it's advisable to stay in the habit, unless you want all your belongings to get messed with.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 509,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/510"
+        }
+    ],
+    "media": [
+        {
+            "file": "00509.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">But let's not get totally carried away here.\r<br/> <br/><a class=\"postlink\" href=\"/story/waywardvagabond/astudiouseye/\" target=\"_blank\">A studious eye darts about a page like a honeybee gathering the nectar of wisdom.</a></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

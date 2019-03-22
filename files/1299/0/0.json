@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1299,
+    "commands": [
+        {
+            "command": "[I] SS: Have right eye patched up. ",
+            "link": "/story/1300"
+        }
+    ],
+    "media": [
+        {
+            "file": "01299.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Get to work, threadmonkey.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4459,
+    "commands": [
+        {
+            "command": "DS: Deploy. ",
+            "link": "/story/4460"
+        }
+    ],
+    "media": [
+        {
+            "file": "04456.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #f2a400\">TT: Now do me a favor and hop off the couch.</p>\n<p style=\"color: #00d5f2\">GG: Ok.</p>\n<p style=\"color: #00d5f2\">GG: What are you doing?</p>\n<p style=\"color: #f2a400\">TT: Makin' room for something big.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

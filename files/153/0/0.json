@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 153,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/154"
+        }
+    ],
+    "media": [
+        {
+            "file": "00153.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #b536da\">TT: It seems expanding the dimensions of your room cost us some \"Build Grist\".</p>\n<p style=\"color: #b536da\">TT: But deploying the lathe did not appear to incur any expense.</p>\n<p style=\"color: #b536da\">TT: It looks like certain objects are freebies, probably to help you set up the game.</p>\n<p style=\"color: #0715cd\">EB: wow, ok.</p>\n<p style=\"color: #0715cd\">EB: what do they do?</p>\n<p style=\"color: #b536da\">TT: I think it's up to you to find out.</p>\n<p style=\"color: #b536da\">TT: All I can do is drop stuff in your house, and move it around, apparently.</p>\n<p style=\"color: #0715cd\">EB: how do i move stuff around? it sounds fun!</p>\n<p style=\"color: #b536da\">TT: I don't think you can as the client. You will need to install the server application.</p>\n<p style=\"color: #b536da\">TT: You should have received both in separate envelopes. I am running both on my computer right now.</p>\n<p style=\"color: #0715cd\">EB: what??</p>\n<p style=\"color: #b536da\">TT: Did you get another envelope in the mail?</p>\n<p style=\"color: #0715cd\">EB: no!</p>\n<p style=\"color: #b536da\">TT: Once you install the server and establish a connection, I'm sure you will be able to manipulate my environment in the same manner.</p>\n<p style=\"color: #b536da\">TT: Are you sure you didn't get it?</p>\n<p style=\"color: #0715cd\">EB: oh man.</p>\n<p style=\"color: #0715cd\">EB: i think i might know where it is.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

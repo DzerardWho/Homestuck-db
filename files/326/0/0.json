@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 326,
+    "commands": [
+        {
+            "command": "Dave: Check the latest page of the Midnight Crew. ",
+            "link": "/story/327"
+        }
+    ],
+    "media": [
+        {
+            "file": "00326.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">In a new tab you open another one of your sites, a webcomic ironically maintained through a satirical cipher vaguely similar to that of your blog. It's called <a class=\"postlink\" href=\"/sweet-bro-and-hella-jeff\" target=\"_blank\">SWEET BRO AND HELLA JEFF</a>. \r<br/> <br/>You have legions of devoted fans, most of whom are totally convinced of your creative persona's sincerity. Which is just how you like it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

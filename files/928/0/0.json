@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 928,
+    "commands": [
+        {
+            "command": "Rose: Screw around with the appearifier. ",
+            "link": "/story/929"
+        }
+    ],
+    "media": [
+        {
+            "file": "00928.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This doesn't appear to be a game.\r<br/> <br/>It appears to be an APPEARIFIER.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

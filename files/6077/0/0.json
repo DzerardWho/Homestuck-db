@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6077,
+    "commands": [
+        {
+            "command": "[A6I5] VBVS: Do a silly dance. ",
+            "link": "/story/6078"
+        }
+    ],
+    "media": [
+        {
+            "file": "06074.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are now Viceroy Bubbles Von Salamancer.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

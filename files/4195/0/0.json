@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4195,
+    "commands": [
+        {
+            "command": "Jane: Examine portrait. ",
+            "link": "/story/4196"
+        }
+    ],
+    "media": [
+        {
+            "file": "04192.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are suddenly Jane again. Or, you suddenly keep being Jane. Who can say for sure???\r<br/> <br/>Hopefully your dad is still out back washing the car. Ideally this is one of his legendary infinite car washes. What can you say? Dad fancies his automotive ablutions.\r<br/> <br/>While he is preoccupied, you should be able to sneak downstairs and grab the mail undetected. The perfect crime? You bet.\r<br/> <br/>You slip the HALLWAY CERA a furtive wink for good luck.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

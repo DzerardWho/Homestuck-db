@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 845,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/846"
+        }
+    ],
+    "media": [
+        {
+            "file": "00845_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00845_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><a class=\"postlink\" href=\"/images/scraps2/captchas.swf\" target=\"_blank\">PUNCH CARD CALCULATOR</a> <br/> <br/>[By <a class=\"postlink\" href=\"http://timelesschaos.com/\" target=\"_blank\">Gankro</a>]</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

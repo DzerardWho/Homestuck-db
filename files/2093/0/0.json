@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2093,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2094"
+        }
+    ],
+    "media": [
+        {
+            "file": "02093.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Sounds like your lusus is agitated about something up there. You already gave him his serving of honey today. If he thinks he can get more, well that's just greedy.\r<br/> <br/>You wonder what could be bothering him?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

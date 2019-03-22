@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3158,
+    "commands": [
+        {
+            "command": "Jade: Combine furry trophy, lunchtop, and shirt/shoes. ",
+            "link": "/story/3159"
+        }
+    ],
+    "media": [
+        {
+            "file": "03155_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03155_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make the JUNIOR COMPU-SOOTH SPECTAGOGGLES!\r<br/> <br/>You can never have too many cool computers.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

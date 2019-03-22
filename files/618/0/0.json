@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 618,
+    "commands": [
+        {
+            "command": "John: Do same thing with captchalogued captchalogue card. ",
+            "link": "/story/619"
+        }
+    ],
+    "media": [
+        {
+            "file": "00618_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00618_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You use the card containing the code for the HAMMER, as well as the one with the random code you punched over the SHAVING CREAM card for the hell of it. You carve the respective TOTEMS for the cards.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

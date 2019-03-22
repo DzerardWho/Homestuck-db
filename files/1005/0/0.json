@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1005,
+    "commands": [
+        {
+            "command": "WV: Descend. ",
+            "link": "/story/1006"
+        }
+    ],
+    "media": [
+        {
+            "file": "01005.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

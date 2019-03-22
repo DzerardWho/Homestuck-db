@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 999,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1000"
+        }
+    ],
+    "media": [
+        {
+            "file": "00999_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00999_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Enough for the above weather to be seasonably reconcilable...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

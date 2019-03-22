@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1345,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1346"
+        }
+    ],
+    "media": [
+        {
+            "file": "01345_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01345_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><span style=\"color: #2ed73a\">Sn</span>o<span style=\"color: #2ed73a\">wman</span>'s BLACK INCHES no doubt have been responsible for more than a few RED CHEEKS.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

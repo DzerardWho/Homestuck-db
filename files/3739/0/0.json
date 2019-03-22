@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3739,
+    "commands": [
+        {
+            "command": "Terezi: Look up. ",
+            "link": "/story/3740"
+        }
+    ],
+    "media": [
+        {
+            "file": "03736.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This puppet is becoming a nuisance. It appears to exhibit the same incredible puppet fastness properties which Dave's had. Must be some form of universal puppet enchantment. It couldn't possibly be the same one, because that would just be insane.\r<br/> <br/>Hey, where did Pyralspite go???</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

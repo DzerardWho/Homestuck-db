@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6030,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/6031"
+        }
+    ],
+    "media": [
+        {
+            "file": "06027.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">JOHN: oh my god, you are all so insane!</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

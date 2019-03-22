@@ -1,0 +1,17 @@
+{
+    "version": 0,
+    "page": 7363,
+    "commands": [],
+    "media": [
+        {
+            "file": "pwimg.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<div class=\"o_story-nav type-center mar-x-0 mar-x-hs-md--md mar-b-hs-lg\">\n    <form name=\"input\" action=\"/story/password\" method=\"get\">\n    3NT3R P4SSWORD: <br>\n        <input type=\"text\" name=\"pw\" required=\"\" style=\"width:175px;background-color:white;padding:5px;\">\n    <input type=\"hidden\" name=\"pg\" value=\"7158\">\n    <button type=\"submit\">Submit</button>\n    </form>\n    <br><br>\n    <div id=\"pwd-blank\" class=\"disp-n\" style=\"display: block;\">&lt;- OR GO B4CK!!!</div>\n    <div id=\"pwd-wrong\" class=\"disp-n\" style=\"display: none;\">&lt;- <b>WRONG!</b> GO B4CK!!!</div>\n</div>",
+    "pesterlog": "<p class=\"o_chat-log type-left type-rg type-hs-small--md line-caption line-copy--md mar-t-md mar-t-md--md pad-x-md pad-x-hs-lg--md pad-b-md pad-b-md--md disp-n\" style=\"color:#008282;\">\n1F YOU DON'T KNOW TH3 P4SSWORD Y3T, 1T M34NS YOU'R3 NOT SUPPOS3D TO, DUMMY! GO B4CK!!!\n</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

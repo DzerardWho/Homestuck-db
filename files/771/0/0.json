@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 771,
+    "commands": [
+        {
+            "command": "Jade: Set modus. ",
+            "link": "/story/772"
+        }
+    ],
+    "media": [
+        {
+            "file": "00771.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">On second thought, it was a perfectly nice flute and there is no reason to take your frustration out on it. You just need some practice.\r<br/> <br/>But before you captchalogue the FLUTE you will need to set your FETCH MODUS first! </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

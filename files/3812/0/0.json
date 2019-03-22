@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3812,
+    "commands": [
+        {
+            "command": "[o] But not without a pair of trophies. ",
+            "link": "/story/3813"
+        }
+    ],
+    "media": [
+        {
+            "file": "03809.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He would soon return for the duel she wanted.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

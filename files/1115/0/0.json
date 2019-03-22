@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1115,
+    "commands": [
+        {
+            "command": "PM : Read the letter. ",
+            "link": "/story/1116"
+        }
+    ],
+    "media": [
+        {
+            "file": "01115.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You guess you could swim. \r<br/> <br/>Maybe you can think of a better way across though.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

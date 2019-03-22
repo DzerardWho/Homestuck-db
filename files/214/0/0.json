@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 214,
+    "commands": [
+        {
+            "command": "Enter name. ",
+            "link": "/story/215"
+        }
+    ],
+    "media": [
+        {
+            "file": "00214.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">A young lady stands in her bedroom. Due to a violent storm, her house has just lost power, along with her wireless internet connection. This has severed her link to a popular video game she was playing with a young man at a critical moment. That young man is relying on this young lady to reestablish a connection somehow. This young lady named...\r<br/> <br/>Named...\r<br/> <br/>It's on the tip of your tongue. What was the name of this young lady again?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

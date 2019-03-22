@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 711,
+    "commands": [
+        {
+            "command": "WV: Hit escape. ",
+            "link": "/story/712"
+        }
+    ],
+    "media": [
+        {
+            "file": "00711.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The TABS are naturalized as loyal new citizens of CAN TOWN. All cans are welcome and equal in your city, regardless of can content, and whether empty or full.\r<br/> <br/>It's not like emptying a can kills it or anything. They are just cans after all.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

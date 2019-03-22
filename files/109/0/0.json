@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 109,
+    "commands": [
+        {
+            "command": "[S] John: Check Pesterchum. ",
+            "link": "/story/110"
+        }
+    ],
+    "media": [
+        {
+            "file": "00109.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You're not usually into chick-flicks, but Matthew McConaughey's cool charisma could salvage any heap of smoldering wreckage. \r<br/> <br/>This is your \"McConaughey Wall\", a casual shrine to an amazing actor. The film above that one is a lot better, you think.\r<br/> <br/>CAN YOU SEE HER? I WANT YOU TO PICTURE THAT LITTLE GIRL. [chokes up] NOW IMAGINE SHE'S WHITE. \r<br/> <br/>You got us Matthew! Your smooth talking exposed our latent racism! Damn you are good!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

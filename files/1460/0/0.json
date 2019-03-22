@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1460,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1461"
+        }
+    ],
+    "media": [
+        {
+            "file": "01460.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are a simple PARCEL MISTRESS on one of your routes. Today is another day of uneventful but highly satisfying deliveries.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

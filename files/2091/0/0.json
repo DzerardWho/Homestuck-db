@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2091,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2092"
+        }
+    ],
+    "media": [
+        {
+            "file": "02091.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">While deleting your virus folders, you pause on one oddball file you have lying around.\r<br/> <br/>You did not write this virus. You copied it from an obscure server, far beyond your planet's global network. This application is running on that server perpetually.\r<br/> <br/>It is an extremely simple ~ATH program. Its main loop is tied to the lifespan of the universe. When the universe dies, a mysterious subprogram will be executed. You have no way of knowing what that subprogram does. It runs on a protected part of the server. It is completely unhackable.\r<br/> <br/>You delete the file, but it won't do much good. The program is already running elsewhere. Luckily, whatever harm it will do will not be done for many billions of years. And even then, what harm could a virus do after the expiration of the universe? This file always struck you as quite odd.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

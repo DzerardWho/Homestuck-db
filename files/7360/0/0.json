@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 7360,
+    "commands": [
+        {
+            "command": "[A6A6I4] ====> ",
+            "link": "/story/7361"
+        }
+    ],
+    "media": [
+        {
+            "file": "07357.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">JOHN: uh, wow.</p>\n<p style=\"color: #0715cd\">JOHN: not sure what to expect for this one.</p>\n<p style=\"color: #0715cd\">JOHN: alright, here goes.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

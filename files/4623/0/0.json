@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4623,
+    "commands": [
+        {
+            "command": "Roxy: Solicit GCat for assistance. ",
+            "link": "/story/4624"
+        }
+    ],
+    "media": [
+        {
+            "file": "04620.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You can't do it. They may be dangerous, but you know they're only looking for food.\r<br/> <br/>You have this awful feeling these guys sneak in here now and then to hunt for cats. Best not to think about it, really.\r<br/> <br/>Gotta figure out some other way to get out of this jam!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

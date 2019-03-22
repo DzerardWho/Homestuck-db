@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1462,
+    "commands": [
+        {
+            "command": "John: Activate ghost gloves. ",
+            "link": "/story/1463"
+        }
+    ],
+    "media": [
+        {
+            "file": "01462.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">But you notice he is holding two parcels. You recognize one of them. You have spent a long time looking for it. \r<br/> <br/>It looks like you are going to need to get that package from him somehow.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

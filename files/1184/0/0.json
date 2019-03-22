@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1184,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1185"
+        }
+    ],
+    "media": [
+        {
+            "file": "01184.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh no. It's <span style=\"color: #2ed73a\">Itchy</span>, and it looks like he's all wound up.\r<br/> <br/>He unties <span style=\"color: #2ed73a\">Doze</span> and quickly swaps everyone's HATS around.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5210,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/5211"
+        }
+    ],
+    "media": [
+        {
+            "file": "05207.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #f2a400\">DIRK: So...</p>\n<p style=\"color: #f2a400\">DIRK: Here's the thing.</p>\n<p style=\"color: #f2a400\">DIRK: I have to go.</p>\n<p style=\"color: #f2a400\">DIRK: Like, right now.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

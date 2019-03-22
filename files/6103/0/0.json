@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 6103,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/6104"
+        }
+    ],
+    "media": [
+        {
+            "file": "06100.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "06100_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

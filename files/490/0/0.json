@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 490,
+    "commands": [
+        {
+            "command": "Rose: Check up on Nannaquin, see what's cookin'! ",
+            "link": "/story/491"
+        }
+    ],
+    "media": [
+        {
+            "file": "00490.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The TOWEL floats back down to the rack.\r<br/> <br/>The circle of stupidity is complete.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

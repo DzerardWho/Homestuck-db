@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 480,
+    "commands": [
+        {
+            "command": "Rose: Drop pogo ride in John's bathroom. ",
+            "link": "/story/481"
+        }
+    ],
+    "media": [
+        {
+            "file": "00480.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

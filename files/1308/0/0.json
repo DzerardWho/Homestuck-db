@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 1308,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1309"
+        }
+    ],
+    "media": [
+        {
+            "file": "01308.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "01308retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This was such an unbelievably terrible idea.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

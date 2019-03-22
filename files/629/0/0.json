@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 629,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/630"
+        }
+    ],
+    "media": [
+        {
+            "file": "00629_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00629_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You never really understood what Caveney's relation to Anderson was, or why he wrote this book about him. His ambivalent attitude toward your favorite magician in these anecdotes always struck you as a little weird, and to be honest, you tend not to read much of the text in the book. You mostly like to look at the diagrams for all the cool tricks.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

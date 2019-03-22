@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 953,
+    "commands": [
+        {
+            "command": "Take another stab at it. ",
+            "link": "/story/954"
+        }
+    ],
+    "media": [
+        {
+            "file": "00953_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00953_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Spades Slick?\r<br/> <br/>Got a nice ring to it.\r<br/> <br/>But you know your own name. And that damn well ain't your name.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

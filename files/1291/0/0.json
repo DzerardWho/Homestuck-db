@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1291,
+    "commands": [
+        {
+            "command": "[I] SS: Knock Sawbuck unconscious. ",
+            "link": "/story/1292"
+        }
+    ],
+    "media": [
+        {
+            "file": "01291.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You pry the CIGARETTE HOLDER from his torso. Whoops, another time jump.\r<br/> <br/>This tub of goo keeps going for his gun. Widebody's gotta settle his big ass down.\r<br/> <br/>You really should incapacitate him without inflicting another wound. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

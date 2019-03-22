@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 753,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/754"
+        }
+    ],
+    "media": [
+        {
+            "file": "00753_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00753_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Serenity blinks a message of urgency. You nearly forgot that while trapped in amber she was witness to all your tomfoolery and dillydallying in the other room, and knows the timer is about to expire. It is time to get this show on the road and escape.\r<br/> <br/>You reset the coordinates with the RIGHT GREEN BUTTON again, and this time only adjust the elevation by approximately 10 HUMAN MEASUREMENT UNITS.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

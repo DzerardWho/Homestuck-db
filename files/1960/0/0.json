@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1960,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1961"
+        }
+    ],
+    "media": [
+        {
+            "file": "01960_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01960_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">A boy's grief is interrupted. His ring, sought.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

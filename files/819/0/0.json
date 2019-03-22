@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 819,
+    "commands": [
+        {
+            "command": "Jade: Examine the atomic bass by your bed. ",
+            "link": "/story/820"
+        }
+    ],
+    "media": [
+        {
+            "file": "00819_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00819_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You captchalogue the IRRADIATED STEAK and save it for your trip outside.\r<br/> <br/>You probably shouldn't waste much more time. You wouldn't want all those nice depleted steak isotopes to settle down.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

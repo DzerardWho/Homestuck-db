@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 126,
+    "commands": [
+        {
+            "command": "John: Get razor. ",
+            "link": "/story/127"
+        }
+    ],
+    "media": [
+        {
+            "file": "00126_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00126_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You examine the package. It is from one of your internet chums.\r<br/> <br/>It's bound in packing tape though. You'll need something sharp to open it. \r<br/> <br/>Ah, of course! The RAZOR! It's all so simple, you wonder why you didn't...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 1290,
+    "commands": [
+        {
+            "command": "[I] SS: Quickly remove lance from Sawbuck. ",
+            "link": "/story/1291"
+        }
+    ],
+    "media": [
+        {
+            "file": "01290.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "01290_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">One of the clocks that wasn't destroyed before is now bloodied and full of holes. \r<br/> <br/>Not especially noteworthy. You just have a feeling you should register this fact.\r<br/> <br/>108/1000 CLOCKS DESTROYED</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

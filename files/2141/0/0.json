@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2141,
+    "commands": [
+        {
+            "command": "Aradia: Go up. ",
+            "link": "/story/2142"
+        }
+    ],
+    "media": [
+        {
+            "file": "02141.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p class=\"o_chat-log type-left type-rg type-hs-small--md line-caption line-copy--md mar-t-md mar-t-md--md pad-x-md pad-x-hs-lg--md pad-b-md pad-b-md--md disp-n\">You then had <a class=\"postlink\" href=\"/story/2085\" target=\"_blank\">a conversation we already read</a>, which began like this:\n\n<p style=\"color: #a10000\">AA: did y0u set up the teams</p>\n\nAnd ended like this:\n\n<p style=\"color: #a10000\">AA: im c0ming up</p>\n\nAnd then you went up.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

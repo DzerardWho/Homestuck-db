@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 876,
+    "commands": [
+        {
+            "command": "Rose: Turn on your laptop and check on John. ",
+            "link": "/story/877"
+        }
+    ],
+    "media": [
+        {
+            "file": "00876.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You zoom way out and narrow the search based on size. The two at the top of the list appear to be the biggest by far. You examine only their coordinates.\r<br/> <br/>The second biggest is centered over a U.S. city. The biggest by a landslide is, luckily for the Earth you suppose, way out in the middle of the Pacific ocean.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

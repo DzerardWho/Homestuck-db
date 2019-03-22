@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 6492,
+    "commands": [
+        {
+            "command": "SUDDENLY. THERE IS A DRAMATIC CHANGE. ",
+            "link": "/story/6493"
+        }
+    ],
+    "media": [
+        {
+            "file": "06489_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "06489_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "06489_2_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">YOU SUCCESSFULLY BE ON THE ROOF. AND PREPARE TO HUMAN KISS YOUR SORRY PLANET GOODBYE. THERE IS NOT A DRY EYE IN THE PARTY. EXCEPT FOR THE MALE'S. AS WELL AS THE PUPPET'S.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

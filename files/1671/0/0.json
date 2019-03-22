@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1671,
+    "commands": [
+        {
+            "command": "AH: Examine wall. ",
+            "link": "/story/1672"
+        }
+    ],
+    "media": [
+        {
+            "file": "01671.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What?\r<br/> <br/>Oh hell no. This is always such a terrible idea. Leave me alone.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

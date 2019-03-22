@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1854,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1855"
+        }
+    ],
+    "media": [
+        {
+            "file": "01854_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01854_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You return to your room in search of a bookmark. \r<br/> <br/>Oh, hey. Finally a use for that pointless juice stained beta that will never serve any purpose, past or future.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

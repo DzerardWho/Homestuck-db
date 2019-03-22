@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 332,
+    "commands": [
+        {
+            "command": "Dave: Answer chum. ",
+            "link": "/story/333"
+        }
+    ],
+    "media": [
+        {
+            "file": "00332.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Even though the adventure began recently, it's already over 3000 pages long. You just don't have time for this bullshit. You'll catch up later. \r<br/> <br/>Besides, it looks like someone's pestering you. You're pretty sure you know who it is. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 203,
+    "commands": [
+        {
+            "command": "John: Answer chums. ",
+            "link": "/story/204"
+        }
+    ],
+    "media": [
+        {
+            "file": "00203.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Two chums have been trying to message you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

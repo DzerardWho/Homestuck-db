@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 870,
+    "commands": [
+        {
+            "command": "[S] Dave: Abscond. ",
+            "link": "/story/871"
+        }
+    ],
+    "media": [
+        {
+            "file": "00870.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><a class=\"postlink\" href=\"/story/waywardvagabond/windsdownsideways/\" target=\"_blank\">Another timer winds down, sideways.</a></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

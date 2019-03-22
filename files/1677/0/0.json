@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1677,
+    "commands": [
+        {
+            "command": "Ok. ==> ",
+            "link": "/story/1678"
+        }
+    ],
+    "media": [
+        {
+            "file": "01677.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh, but I don't merely <span style=\"font-style: italic\">draw</span> Homestuck...\r<br/> <br/>(Type \"==&gt;\", I am about to make a joke.)</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

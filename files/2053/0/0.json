@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2053,
+    "commands": [
+        {
+            "command": "Terezi: Begin recruiting red team members. ",
+            "link": "/story/2054"
+        }
+    ],
+    "media": [
+        {
+            "file": "02053.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Like this.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

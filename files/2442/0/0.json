@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2442,
+    "commands": [
+        {
+            "command": "Eridan and Feferi: Do something ridiculous. ",
+            "link": "/story/2443"
+        }
+    ],
+    "media": [
+        {
+            "file": "02441.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What will you both do?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

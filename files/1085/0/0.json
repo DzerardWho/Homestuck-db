@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1085,
+    "commands": [
+        {
+            "command": "Dave: Get beta. ",
+            "link": "/story/1086"
+        }
+    ],
+    "media": [
+        {
+            "file": "01085_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01085_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You dump all this crap all over the roof.\r<br/> <br/>You then set your modus to the SCRABBLE HASH FUNCTION for some reason. This function always makes it a little less intuitive to calculate hash values for items, and therefore more cumbersome to rap with. But you guess that's kind of a moot point now that your BRO flew off fuck knows where. His mysterious ways transcend irony once again.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

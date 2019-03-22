@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 794,
+    "commands": [
+        {
+            "command": "Jade: Captchalogue nearest Squiddles doll and hug it. ",
+            "link": "/story/795"
+        }
+    ],
+    "media": [
+        {
+            "file": "00794.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You may contemplate which shirt design you favor the most and commit to that setting in the near future.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

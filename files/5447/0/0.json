@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 5447,
+    "commands": [
+        {
+            "command": "[A6I4] ==> ",
+            "link": "/story/5448"
+        }
+    ],
+    "media": [
+        {
+            "file": "05444_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "05444_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You peer at your former prison through the scope on your MACHINE GUN. You aren't really supposed to hold the gun by the magazine like that, but whatever.\r<br/> <br/>There's the CRUXTRUDER. It was the only device available to be deployed. You're pretty sure there were supposed to be more devices that went with it. But you guess your game session is a little different?\r<br/> <br/>You were also under the impression there were supposed to be gates directly above your home. But you don't see any. Maybe if you look higher...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

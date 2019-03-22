@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 2043,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2044"
+        }
+    ],
+    "media": [
+        {
+            "file": "02043_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02043_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02043_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The coin tumbles through the air. Lemonsnout is sweating bullets!!!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

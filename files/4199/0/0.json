@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4199,
+    "commands": [
+        {
+            "command": "Jane: Check window. ",
+            "link": "/story/4200"
+        }
+    ],
+    "media": [
+        {
+            "file": "04196_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04196_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You were afraid this might be the case. Your dad has blocked the front door with the REFRIGERATOR. Looks like he's taking the grounding seriously this time.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

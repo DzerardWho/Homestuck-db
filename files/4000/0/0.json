@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4000,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/4001"
+        }
+    ],
+    "media": [
+        {
+            "file": "03997.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #a1a100\">TA: SHIT, it's s0 bright, how can y0u stand it here?</p>\n<p style=\"color: #a10000\">AA: you can see the sun?</p>\n<p style=\"color: #a1a100\">TA: yeah, i can see it.</p>\n<p style=\"color: #a1a100\">TA: but..</p>\n<p style=\"color: #a1a100\">TA: it lo0ks 2d.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

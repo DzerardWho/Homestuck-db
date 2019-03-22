@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6040,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/6041"
+        }
+    ],
+    "media": [
+        {
+            "file": "06037.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #005682\">VRISKA: Tavros!!!!!!!!</p>\n<p style=\"color: #a15000\">TAVROS: wHAT,</p>\n<p style=\"color: #005682\">VRISKA: What did you do with that ring?!</p>\n<p style=\"color: #a15000\">TAVROS: ,,,,,</p>\n<p style=\"color: #a15000\">TAVROS: wHAT RING,</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

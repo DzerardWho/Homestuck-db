@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4391,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4392"
+        }
+    ],
+    "media": [
+        {
+            "file": "04388.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are Jane Crocker again.\r<br/> <br/>And once again, you have woken up on the moon of Prospit, without any recollection of how you fell asleep. You think you were going outside to get the mail? You can't remember.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

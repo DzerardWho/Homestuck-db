@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 669,
+    "commands": [
+        {
+            "command": "WV: Captchalogue can of gravy. ",
+            "link": "/story/670"
+        }
+    ],
+    "media": [
+        {
+            "file": "00669.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It appears to be a gauge for a large POWER CELL, perhaps fueled by some type of nuclear reaction. If this is the case, it is relatively low on fuel. But who knows how long it has been running here?\r<br/> <br/>You do not care about this sort of nonsense and you will disregard it at once. You are very hungry.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

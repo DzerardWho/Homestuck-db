@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1515,
+    "commands": [
+        {
+            "command": "Jade: Attempt to deploy catchalogue disk drive. ",
+            "link": "/story/1516"
+        }
+    ],
+    "media": [
+        {
+            "file": "01515.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You then pay the steep fee of 1000 BUILD GRIST to deploy the JUMPER BLOCK EXTENSION.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

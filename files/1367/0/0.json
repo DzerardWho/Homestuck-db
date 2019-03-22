@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1367,
+    "commands": [
+        {
+            "command": "Jade: Switch to Jenga modus. ",
+            "link": "/story/1368"
+        }
+    ],
+    "media": [
+        {
+            "file": "01367.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You captchalogue the SBURB BETA. It uneventfully tucks itself into your sylladex.\r<br/> <br/>You think you're getting kind of bored with this fetch modus. You like to mix it up now and then. \r<br/> <br/>Maybe you'll <a class=\"postlink\" href=\"/story/772\" target=\"_blank\">peruse your selection</a> and try out another one.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

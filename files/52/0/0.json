@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 52,
+    "commands": [
+        {
+            "command": "John: Topple urn. ",
+            "link": "/story/53"
+        }
+    ],
+    "media": [
+        {
+            "file": "00052.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You examine the SACRED URN containing your departed NANNA'S ASHES.\r<br/> <br/>When your father gives her portrait a wistful glance now and then, you can tell it brings back painful memories. A tall bookshelf. A ladder. An unabridged COLONEL SASSACRE'S. \r<br/> <br/>He never wants to talk about it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

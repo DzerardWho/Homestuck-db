@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 716,
+    "commands": [
+        {
+            "command": "WV: Type => HOME. ",
+            "link": "/story/717"
+        }
+    ],
+    "media": [
+        {
+            "file": "00716_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00716_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's another one of these rapscallions. This monitor is locked too. You can't tell him what to do. Not that you really want to, since it just looks like more confusing nonsense to you.\r<br/> <br/>You consider switching to SCREEN 4, but decide against it. You have a feeling that whatever's there would just confuse you even more, and you don't even really care all that much anyway.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

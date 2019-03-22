@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 475,
+    "commands": [
+        {
+            "command": "[S] ==> ",
+            "link": "/story/476"
+        }
+    ],
+    "media": [
+        {
+            "file": "00475_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00475_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Thank God your sanity has returned so you can entertain extremely rational, coherent thoughts like this one.\r<br/> <br/>You examine the POGO RIDE from the bathroom window. You do not like what you see.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

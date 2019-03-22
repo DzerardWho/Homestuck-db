@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 8086,
+    "commands": [
+        {
+            "command": "[S] Collide. ",
+            "link": "/story/8087"
+        }
+    ],
+    "media": [
+        {
+            "file": "08079_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "08079_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "08079_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

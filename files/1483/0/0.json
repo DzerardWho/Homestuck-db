@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1483,
+    "commands": [
+        {
+            "command": "John: Chase the man, you want your book! ",
+            "link": "/story/1484"
+        }
+    ],
+    "media": [
+        {
+            "file": "01483.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You follow the agent. You must not lose track of that parcel.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

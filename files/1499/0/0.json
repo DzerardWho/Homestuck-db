@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1499,
+    "commands": [
+        {
+            "command": "WV: Become the mayor of Exile Town. ",
+            "link": "/story/1500"
+        }
+    ],
+    "media": [
+        {
+            "file": "01499.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

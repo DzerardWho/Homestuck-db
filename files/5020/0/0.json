@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5020,
+    "commands": [
+        {
+            "command": "Jake: Shrink it. ",
+            "link": "/story/5021"
+        }
+    ],
+    "media": [
+        {
+            "file": "05017.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You deploy the massive thing that's been clogging your sylladex forever. Some time after your house exploded, you found it in the jungle and snapped it up for safe keeping. Even if it didn't have strong sentimental value, you probably would have grabbed it anyway. Globes are sweet. You love globes. Globes, spheres... they're all cool in your book.\r<br/> <br/>But to be completely honest, you'll be relieved to have the inventory space back.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3434,
+    "commands": [
+        {
+            "command": "Terezi: Examine body. ",
+            "link": "/story/3435"
+        }
+    ],
+    "media": [
+        {
+            "file": "03431.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This was no nap. This was...\r<br/> <br/>ANOTHER MURDER.\r<br/> <br/>What is going on in this lab???</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

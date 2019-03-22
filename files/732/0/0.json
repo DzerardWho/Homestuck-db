@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 732,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/733"
+        }
+    ],
+    "media": [
+        {
+            "file": "00732.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You go through the door to find another room. It's the same size as the other one you just wasted all that time in, while a clock was ticking down to something which may or may not be your doom. Maybe there is something in here that will help you escape.\r<br/> <br/>Against the wall there is another perplexing contraption.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2815,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/2816"
+        }
+    ],
+    "media": [
+        {
+            "file": "02814.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You won't need it anymore. It served you well. You suppose there are a lot of things you've outgrown, now that you think about it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

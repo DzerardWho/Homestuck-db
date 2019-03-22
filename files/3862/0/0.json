@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3862,
+    "commands": [
+        {
+            "command": "[o] Even atrocious candy bowl etiquette. ",
+            "link": "/story/3863"
+        }
+    ],
+    "media": [
+        {
+            "file": "03859_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03859_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Curt manners. Egregious womanizing. Murdering the help. Casual arson.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

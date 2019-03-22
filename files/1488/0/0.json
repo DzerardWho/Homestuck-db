@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1488,
+    "commands": [
+        {
+            "command": "John, the uncarved tablet you retrieved. ",
+            "link": "/story/1489"
+        }
+    ],
+    "media": [
+        {
+            "file": "01488.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The townspeople rejoice and are more than willing to give you all the credit. You suspect it is probably because they are not all that smart.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3768,
+    "commands": [
+        {
+            "command": "[o] Tick. ",
+            "link": "/story/3769"
+        }
+    ],
+    "media": [
+        {
+            "file": "03765.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Never mind, I figured it out instantly because of my unfathomable intellect, limitless knowledge, and mind boggling charisma. Granted, my charisma had less to do with it than the other qualities. But it didn't hurt, did it?\r<br/> <br/>Here, I'll show you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

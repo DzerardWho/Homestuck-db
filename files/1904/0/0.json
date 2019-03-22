@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1904,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1905"
+        }
+    ],
+    "media": [
+        {
+            "file": "01904.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">They're scramblin' all over the place!\r<br/> <br/>They appear to be preoccupied by some of the objects littered around the lab. At least it is keeping them busy.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1240,
+    "commands": [
+        {
+            "command": "[I] DD: Follow blood trail downstairs and finish him off. ",
+            "link": "/story/1241"
+        }
+    ],
+    "media": [
+        {
+            "file": "01240.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">29/1000 CLOCKS DESTROYED\r<br/> <br/>5/15 GREEN TORSOS DEAD</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

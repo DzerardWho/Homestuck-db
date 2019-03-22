@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 97,
+    "commands": [
+        {
+            "command": "John: Take PDA. ",
+            "link": "/story/98"
+        }
+    ],
+    "media": [
+        {
+            "file": "00097.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Now that DAD is busy placating the SMOKE DETECTOR, you can safely sneak away.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

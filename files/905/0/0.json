@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 905,
+    "commands": [
+        {
+            "command": "Rose: Wear the scarf. Be the Rider. ",
+            "link": "/story/906"
+        }
+    ],
+    "media": [
+        {
+            "file": "00905.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Looks like a little girl's room. This all strikes you as a bit odd.\r<br/> <br/>No time for messing around in here though.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

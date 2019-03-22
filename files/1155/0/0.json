@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1155,
+    "commands": [
+        {
+            "command": "[I] SS: Inspect timekeeping devices. ",
+            "link": "/story/1156"
+        }
+    ],
+    "media": [
+        {
+            "file": "01155.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your name is SPADES SLICK. You are the leader of a notoriously vicious gang of mobsters called the MIDNIGHT CREW. A rival gang known as <span style=\"color: #2ed73a\">THE FELT</span> recently knocked over one of your favorite casinos. Your long quest of revenge has finally taken you through the front door of the mansion belonging to their loathsome boss, <span style=\"color: #2ed73a\">LORD ENGLISH</span>.\r<br/> <br/>Your subordinates, CLUBS DEUCE, DIAMONDS DROOG, and HEARTS BOXCARS have been dispatched to various locations throughout the mansion to begin carrying out your mission. Your objective is to locate and crack English's SECRET VAULT, and plunder its mysteries.\r<br/> <br/>That's the business end of it. The pleasure will be painting this ugly house red with the blood of those miserable green motherfuckers.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

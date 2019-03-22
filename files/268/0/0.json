@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 268,
+    "commands": [
+        {
+            "command": "NO DON'T DO THAT. HOP OFF THIS LEDGE ON TO THAT CAR. ",
+            "link": "/story/269"
+        }
+    ],
+    "media": [
+        {
+            "file": "00268_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00268_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #b536da\">TT: John, are you ok?</p>\n<p style=\"color: #b536da\">TT: You seem a bit tentative.</p>\n<p style=\"color: #0715cd\">EB: i'm fine i guess.</p>\n<p style=\"color: #0715cd\">EB: since i got here i feel compelled to do these weird things i don't really want to do.</p>\n<p style=\"color: #0715cd\">EB: by some kind of voice that i can't really even hear. i don't know, it is hard to explain.</p>\n<p style=\"color: #b536da\">TT: Perhaps the early symptoms of an anxiety disorder, like post-traumatic stress?</p>\n<p style=\"color: #0715cd\">EB: yeah, maybe. who knows!</p>\n<p style=\"color: #b536da\">TT: Well, if you can pull yourself together, there are a few more things we should try.</p>\n<p style=\"color: #b536da\">TT: Like prototyping the Kernelsprite again, if possible.</p>\n<p style=\"color: #b536da\">TT: We should hurry. My laptop battery won't last forever.</p>\n<p style=\"color: #0715cd\">EB: Ok. I will go back inside.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

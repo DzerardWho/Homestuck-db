@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2541,
+    "commands": [
+        {
+            "command": "Equius: Answer Karkat. ",
+            "link": "/story/2542"
+        }
+    ],
+    "media": [
+        {
+            "file": "02540.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The underlings have been getting enormous lately. Must have been something one of those other clowns prototyped.\r<br/> <br/>Speaking of clowns...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

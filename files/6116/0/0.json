@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6116,
+    "commands": [
+        {
+            "command": "[A6I5] SS: Equip. ",
+            "link": "/story/6117"
+        }
+    ],
+    "media": [
+        {
+            "file": "06113.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This appears to be the murder weapon. Looks like English was the trigger man, then ditched the weapon by the body for some reason. You've never seen the guy, but you heard he carries a big overpowered gold machine gun. \r<br/> <br/>Pretty garish in your view. The man has no subtlety whatsoever. You and he sure have different styles when it comes to running an organized crime outfit. You honestly think he might be some sort of huge manchild.\r<br/> <br/>And I honestly think you might be right.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

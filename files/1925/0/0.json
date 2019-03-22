@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1925,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1926"
+        }
+    ],
+    "media": [
+        {
+            "file": "01925.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He appears to be holding some notebooks. Also what appears to be a pair of juice-stained envelopes.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

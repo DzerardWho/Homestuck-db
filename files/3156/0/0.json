@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3156,
+    "commands": [
+        {
+            "command": "Jade: Combine crystal ball and glasses. ",
+            "link": "/story/3157"
+        }
+    ],
+    "media": [
+        {
+            "file": "03153_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03153_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make a TRANSPARENT MAGIC 8 BALL!\r<br/> <br/>You can now see inside, and watch the dark water sloshing about the cavity in the globe.\r<br/> <br/>The predictions seem kind of lame when you can see all the other possibilities tumbling around in there. Kind of makes the fortune feel irrelevant.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

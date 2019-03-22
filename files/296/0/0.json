@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 296,
+    "commands": [
+        {
+            "command": "Rose: Equip grimoire to strife specibus. ",
+            "link": "/story/297"
+        }
+    ],
+    "media": [
+        {
+            "file": "00296_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00296_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">That would be such a waste of time!\r<br/> <br/>Besides, you already knitted one a while ago. You retrieve it from your KNITTING BAG and apply it to your LAPTOP.\r<br/> <br/>You captchalogue the LAPTOP PLUS COZY.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

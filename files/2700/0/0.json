@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2700,
+    "commands": [
+        {
+            "command": "Kanaya: View the past. ",
+            "link": "/story/2701"
+        }
+    ],
+    "media": [
+        {
+            "file": "02699.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You hope nobody caught you looking at that.\r<br/> <br/>The horseshitometer swings back to her side, as she has inadvertently caused you to flush with the shame of one thousand cocoon-wetting children.\r<br/> <br/>You win this round, Lalonde.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

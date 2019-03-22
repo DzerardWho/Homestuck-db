@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4913,
+    "commands": [
+        {
+            "command": "Jack: Give guy a proper funeral. ",
+            "link": "/story/4914"
+        }
+    ],
+    "media": [
+        {
+            "file": "04910.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You start to feel sorry for stabbing that guy with 7 knives in the back and bashing his face into the door 89 times. Well, maybe not all 89 times. For the first 88 you felt pretty good. But by the 89th face bashing, you were definitely starting to feel pretty sorry.\r<br/> <br/>And by sorry, you guess you mean bored.\r<br/> <br/>Anyway, you mutter something under your breath that could EASILY sound like an apology to someone who wasn't listening very well.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 543,
+    "commands": [
+        {
+            "command": "John: Examine contents of safe. ",
+            "link": "/story/544"
+        }
+    ],
+    "media": [
+        {
+            "file": "00543.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's another copy of COLONEL SASSACRE'S DAUNTING TEXT OF MAGICAL FRIVOLITY AND PRACTICAL JAPERY. This one looks really old, perhaps an original printing. Could it be the same one involved with your grandmother's unfortunate accident on that fateful day? DAD would never speak a word about it, but maybe NANNA wouldn't be so tight-lipped?\r<br/> <br/>You give it a cursory perusal. It appears to be similar to your reprinting, listing all the japes and chicanery you have come to know and love. You captchalogue it, thinking you may give it a closer look later.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

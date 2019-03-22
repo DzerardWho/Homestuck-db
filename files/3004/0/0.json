@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3004,
+    "commands": [
+        {
+            "command": "Jade: Level up! ",
+            "link": "/story/3005"
+        }
+    ],
+    "media": [
+        {
+            "file": "03003.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Good dog.\r<br/> <br/>Best friend.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

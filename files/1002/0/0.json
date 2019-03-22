@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1002,
+    "commands": [
+        {
+            "command": "Rose: Pester John. ",
+            "link": "/story/1003"
+        }
+    ],
+    "media": [
+        {
+            "file": "01002.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">At long last, you have returned to your bedroom with a stable power supply and internet connection.\r<br/> <br/>VODKA MUTINI purrs at your side.\r<br/> <br/>You SUPPOSE you will call it Mutie for short.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

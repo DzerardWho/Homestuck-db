@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1338,
+    "commands": [
+        {
+            "command": "[I] SS: Dramatically use the spade key. ",
+            "link": "/story/1339"
+        }
+    ],
+    "media": [
+        {
+            "file": "01338.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">There's nothing in here except an opening in the floor. There is a door with a keyhole, and you have a feeling you know how to open it.\r<br/> <br/>You only wonder why <span style=\"color: #2ed73a\">English</span>'s treasure would be locked behind a door with a spade on it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

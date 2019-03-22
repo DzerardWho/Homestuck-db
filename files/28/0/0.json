@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 28,
+    "commands": [
+        {
+            "command": "John: Go outside and check mailbox. ",
+            "link": "/story/29"
+        }
+    ],
+    "media": [
+        {
+            "file": "00028_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00028_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The little red arm-swingy-dealy thing or whatever it is called is flipped up!\r<br/> <br/>What the hell is that thing called anyway. You do not have time for these semantics. The red flippy-lever thing means you have new mail. And that means the beta might be here!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

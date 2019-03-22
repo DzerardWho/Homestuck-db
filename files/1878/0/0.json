@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 1878,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1879"
+        }
+    ],
+    "media": [
+        {
+            "file": "01878_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01878_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01878_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">An outrageously awesome dude stands before a crater where his favorite record shop stood one day prior.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

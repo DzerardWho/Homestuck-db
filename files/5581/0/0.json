@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5581,
+    "commands": [
+        {
+            "command": "Roxy: Answer UU. ",
+            "link": "/story/5582"
+        }
+    ],
+    "media": [
+        {
+            "file": "05578.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your home suddenly loses power due to the storm. Which... makes no sense? All devices in your house are powered by the portable green hubs you stole from the lab. That's weird.\r<br/> <br/>Your laptop continues to run on battery power regardless.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4035,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/4019"
+        }
+    ],
+    "media": [
+        {
+            "file": "04032_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04032_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">I refuse to acknowledge this foolish man's self indulgent rubbish. His frivolous charades have no place in this building, or anywhere in this reality.\r<br/> <br/>Am I making myself understood, young lady?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

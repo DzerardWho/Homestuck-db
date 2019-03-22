@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 751,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/752"
+        }
+    ],
+    "media": [
+        {
+            "file": "00751_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00751_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You and SERENITY consider new ways to waste more time with the APPEARIFIER. You are assuming she is a girl firefly even though you are not really sure that fireflies can even be girls.\r<br/> <br/>You target the extremely tasty ROTTEN PUMPKIN that was sitting in the other room hours ago.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

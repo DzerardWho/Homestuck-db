@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3402,
+    "commands": [
+        {
+            "command": "John: Examine contents. ",
+            "link": "/story/3403"
+        }
+    ],
+    "media": [
+        {
+            "file": "03399.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You don't have all day to be pawing through this thing while your silly friend eats shaving cream. You've already wasted hours staring at mysterious things happening in clouds.\r<br/> <br/>Time to take a rapid inventory.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

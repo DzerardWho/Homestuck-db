@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4242,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4243"
+        }
+    ],
+    "media": [
+        {
+            "file": "04239_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04239_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">God he is such a little troublemaker.\r<br/> <br/>Hopefully he will mind his manners today.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

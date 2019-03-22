@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 229,
+    "commands": [
+        {
+            "command": "Rose: Tiptoe to observatory. ",
+            "link": "/story/230"
+        }
+    ],
+    "media": [
+        {
+            "file": "00229.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You leave your BEDROOM. \r<br/> <br/>Hanging just next to your door in the hallway is a painting of an EXQUISITE WIZARD. Your mother collects these awful things IRONICALLY. She must know how much you detest them, and there is no doubt in your mind she stores these dreadful things in the house to bother you.\r<br/> <br/>Down the hall to the right is the way to the OBSERVATORY. Perhaps you will be able to connect from up there?\r<br/> <br/>Your mother's room is also in that direction. You will have to watch your step.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 8000,
+    "commands": [
+        {
+            "command": "[A6A6I5] ====> ",
+            "link": "/story/8001"
+        }
+    ],
+    "media": [
+        {
+            "file": "07994.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #ff0000\">CALLIOPE: goodbye, jade.</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

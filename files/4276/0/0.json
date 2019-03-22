@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4276,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4277"
+        }
+    ],
+    "media": [
+        {
+            "file": "04273.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Nearby, someone or something bleats like a goat for strategic purposes.\r<br/> <br/>And also</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

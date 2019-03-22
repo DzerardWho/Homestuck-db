@@ -1,0 +1,36 @@
+{
+    "version": 0,
+    "page": 5042,
+    "commands": [
+        {
+            "command": "Jane: Follow the rabbit. ",
+            "link": "/story/5043"
+        }
+    ],
+    "media": [
+        {
+            "file": "05039_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "05039_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "05039_3.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "05039_2_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #00d5f2\">GG: There. Those seem like suitable locations for the equipment.</p>\n<p style=\"color: #e00707\">TT: Yeah.</p>\n<p style=\"color: #00d5f2\">GG: Hey, where's Lil Seb?</p>\n<p style=\"color: #e00707\">TT: Just wandering around. Fidgeting and stuff.</p>\n<p style=\"color: #e00707\">TT: You know how he is.</p>\n<p style=\"color: #e00707\">TT: Just stay at your post until Roxy gets back.</p>\n<p style=\"color: #00d5f2\">GG: I think he went through the door.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

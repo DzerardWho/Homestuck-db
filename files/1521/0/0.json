@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1521,
+    "commands": [
+        {
+            "command": "Dave: Download a bunch of grist from John. He has plenty. ",
+            "link": "/story/1522"
+        }
+    ],
+    "media": [
+        {
+            "file": "01521.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You start leeching off John's SHALE at a pace of 4 g/s. \r<br/> <br/>Not the fastest download rate, but then again you don't need a whole lot. In one second you already collect enough for a PUNCH DESIGNIX.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

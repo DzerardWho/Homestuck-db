@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 59,
+    "commands": [
+        {
+            "command": "John: Go get fake arms again. ",
+            "link": "/story/60"
+        }
+    ],
+    "media": [
+        {
+            "file": "00059.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">No one will be the wiser. \r<br/> <br/>Except maybe for people with eyes.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

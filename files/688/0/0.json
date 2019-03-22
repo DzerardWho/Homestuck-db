@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 688,
+    "commands": [
+        {
+            "command": "WV: Use glowing green rock to open cans. ",
+            "link": "/story/689"
+        }
+    ],
+    "media": [
+        {
+            "file": "00688.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Over here is the other side of the room. There is another one of those purple storage boxes, and some useless objects scattered on the floor.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

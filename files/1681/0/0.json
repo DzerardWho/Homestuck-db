@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1681,
+    "commands": [
+        {
+            "command": "Switch wall's view to show us what's going on with John. ",
+            "link": "/story/1682"
+        }
+    ],
+    "media": [
+        {
+            "file": "01681_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01681_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh! And then you can type something like \"Switch wall's view to show us what's going on with John.\"\r<br/> <br/>Here, I'll prepare the GIF file for that. It'll just take a few seconds.\r<br/> <br/>Go ahead. Say that.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

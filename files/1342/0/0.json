@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1342,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1343"
+        }
+    ],
+    "media": [
+        {
+            "file": "01342.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Huh?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

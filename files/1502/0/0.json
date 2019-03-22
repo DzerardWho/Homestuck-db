@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1502,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1503"
+        }
+    ],
+    "media": [
+        {
+            "file": "01502.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The stars twinkle over the freshly christened EXILE TOWN. It is a beautiful evening and the future is so full of promise you can't imagine what could possibly oh my god a huge eggy looking thing just appeared in the sky.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

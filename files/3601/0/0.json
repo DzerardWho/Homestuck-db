@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3601,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3602"
+        }
+    ],
+    "media": [
+        {
+            "file": "03598.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #a10000\">AA: i would write the other</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

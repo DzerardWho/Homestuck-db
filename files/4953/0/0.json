@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4953,
+    "commands": [
+        {
+            "command": "Jane: Examine note. ",
+            "link": "/story/4954"
+        }
+    ],
+    "media": [
+        {
+            "file": "04950.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It is your dad's WALLET. This is surely the end of the line. Ahead is another crypt. You wonder if he went in there? There's another one of those obelisks nearby shining a light down a pit, serving some dang purpose. Probably has some ridiculous bearing on a puzzle like five miles away. Like activating an elevator or a conveyor belt or something that just leads to yet another stupid old skull.\r<br/> <br/>Actually, looks like there's one more thing left in the wallet. It's a note.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

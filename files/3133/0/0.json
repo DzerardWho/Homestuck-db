@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3133,
+    "commands": [
+        {
+            "command": "WV: Escape. ",
+            "link": "/story/3134"
+        }
+    ],
+    "media": [
+        {
+            "file": "03130.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The windy boy is dead. The tragedy is overwhelming. All hope is lost.\r<br/> <br/>Oh well. Time to get out of this tin can!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

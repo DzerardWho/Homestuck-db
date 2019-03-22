@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2800,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/2801"
+        }
+    ],
+    "media": [
+        {
+            "file": "02799.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">JOHN: ok. what is it?</p>\n<p style=\"color: #00d5f2\">NANNASPRITE: You can use it to summon me wherever you go.</p>\n<p style=\"color: #00d5f2\">NANNASPRITE: Now we needn't endure those long spells without a good visit!</p>\n<p style=\"color: #0715cd\">JOHN: oh cool, that is great!</p>\n<p style=\"color: #00d5f2\">NANNASPRITE: And now, the most important question of all.</p>\n<p style=\"color: #00d5f2\">NANNASPRITE: When was the last time you have eaten anything, young man??</p>\n<p style=\"color: #0715cd\">JOHN: hmm, i guess it has been a good while!</p>\n<p style=\"color: #0715cd\">JOHN: i've been snacking on gushers a whole lot. bluh...</p>\n<p style=\"color: #0715cd\">JOHN: i never realized how terrible they were, actually.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

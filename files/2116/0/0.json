@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2116,
+    "commands": [
+        {
+            "command": "Tavros: Admire posters. ",
+            "link": "/story/2117"
+        }
+    ],
+    "media": [
+        {
+            "file": "02116_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02116_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You like to practice your jousting outside. One day you hope to prove yourself worthy of recruitment into the halls of the dreaded imperial CAVALREAPERS. Assuming you are not slated for culling first on account of your disability. Or really any other arbitrary reason.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

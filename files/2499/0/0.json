@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2499,
+    "commands": [
+        {
+            "command": "SS: Move this along. ",
+            "link": "/story/2500"
+        }
+    ],
+    "media": [
+        {
+            "file": "02498.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Yeah ok. Guess I've trolled you guys enough.\r<br/> <br/>Where were we? Oh yeah. Slick.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

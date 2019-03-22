@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 29,
+    "commands": [
+        {
+            "command": "John: Forget it. Check mail later. ",
+            "link": "/story/30"
+        }
+    ],
+    "media": [
+        {
+            "file": "00029.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are about to hurry down stairs when you hear a car pull into the driveway. It looks like your DAD has returned from the grocery store.\r<br/> <br/>Oh great. He is beating you to the mail. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

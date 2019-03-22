@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3614,
+    "commands": [
+        {
+            "command": "o ",
+            "link": "/story/3615"
+        }
+    ],
+    "media": [
+        {
+            "file": "03611.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You once again try to be <span style=\"color: #2ed73a\">D</span><span style=\"color: #ffffff\">o</span><span style=\"color: #2ed73a\">c Scratch</span>, and fail spectacularly. You can't be him no matter how hard you try. It is impossible.\r<br/> <br/>[<span style=\"color: #ffffff\">In fact, I think it would be for the best if I commandeered the narrative completely for a while. I trust you won't mind if I speak in white. It's not actually negotiable, but as a courtesy I will enclose my words between a pair of visually audible brackets.\r<br/> <br/>I am doing this because I can.</span>]</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

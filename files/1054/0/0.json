@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1054,
+    "commands": [
+        {
+            "command": "John: Combine ghost suit and Wise Guy book. ",
+            "link": "/story/1055"
+        }
+    ],
+    "media": [
+        {
+            "file": "01054_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01054_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make the GREEN SLIME GHOST SUIT.\r<br/> <br/>Pretty swanky, but you are not completely satisfied with the wardrobe upgrade yet.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

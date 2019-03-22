@@ -1,0 +1,23 @@
+{
+    "version": 0,
+    "page": 5716,
+    "commands": [
+        {
+            "command": "https://www.homestuck.com/assets/trickster_sitegraphics/sucker-2642be11a851ce7317a3305ed6bb2fdabac1da38102bef905ca6f87520cd65b3.gif",
+            "link": "/story/5717",
+            "exportable": true
+        }
+    ],
+    "media": [
+        {
+            "file": "05713.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p class=\"o_chat-log type-left type-rg type-hs-small--md line-caption line-copy--md mar-t-md mar-t-md--md pad-x-md pad-x-hs-lg--md pad-b-md pad-b-md--md disp-n\"><img border=\"0\" src=\"/images/storyfiles/hs2/scraps/trickjanetxt_1.gif\"/></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

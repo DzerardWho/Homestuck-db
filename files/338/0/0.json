@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 338,
+    "commands": [
+        {
+            "command": "Dave: Take sip of the apple juice, despite what John said. ",
+            "link": "/story/339"
+        }
+    ],
+    "media": [
+        {
+            "file": "00338.swf",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Left knob: volume for current sample. \r<br/>Right knob: master volume.\r<br/>Store patterns in F1, F2, F3... buttons.</p>",
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

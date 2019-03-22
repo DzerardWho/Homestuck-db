@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5175,
+    "commands": [
+        {
+            "command": "Select character. ",
+            "link": "/story/5137"
+        }
+    ],
+    "media": [
+        {
+            "file": "05172.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #323232\">uu: I'LL TEACH HIM A LESSON FOR THAT.</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4076,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/4077"
+        }
+    ],
+    "media": [
+        {
+            "file": "04073_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04073_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><span style=\"color: black\">Booyeah?\r<br/> <br/> <br/> <br/> <br/> <br/>Hmm.</span></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

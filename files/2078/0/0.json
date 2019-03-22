@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2078,
+    "commands": [
+        {
+            "command": "Sollux: Taste honey. ",
+            "link": "/story/2079"
+        }
+    ],
+    "media": [
+        {
+            "file": "02078.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make short work of the specibus and...\r<br/> <br/>Oh God, one of your BEEHOUSE MAINFRAMES. The silicomb was sliced clean through by your foolish maneuver. What were you thinking???\r<br/> <br/>The workers pair up and dance angry messages to you in beenary code.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

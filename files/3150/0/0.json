@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3150,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3151"
+        }
+    ],
+    "media": [
+        {
+            "file": "03147_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03147_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You decide to cut to the chase and do something that will have indisputably cool results. \r<br/> <br/>You go to one of the stairwell rooms and carefully observe the armor while you sketch it. You have secretly wondered whether your grandpa was actually Iron Man in his younger years. It would explain so many things, including why this armor is here.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 6601,
+    "commands": [
+        {
+            "command": "[A6A6I2] ====> ",
+            "link": "/story/6602"
+        }
+    ],
+    "media": [
+        {
+            "file": "06598_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "06598_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

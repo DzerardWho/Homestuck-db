@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 413,
+    "commands": [
+        {
+            "command": "Rose: Defile tomb. ",
+            "link": "/story/414"
+        }
+    ],
+    "media": [
+        {
+            "file": "00413_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00413_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You fire up the GENERATOR and drag a cord into the MAUSOLEUM.\r<br/> <br/>It of course would be foolish to run the GENERATOR inside a confined space. GENERATOR SAFETY is everyone's business.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

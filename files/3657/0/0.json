@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3657,
+    "commands": [
+        {
+            "command": "I want to know. Tell me, and please be smug about it. ",
+            "link": "/story/3658"
+        }
+    ],
+    "media": [
+        {
+            "file": "03654_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03654_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

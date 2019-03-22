@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 262,
+    "commands": [
+        {
+            "command": "JOHN RUN ACROSS PRECARIOUS PLATFORM SWIFTLY. ",
+            "link": "/story/263"
+        }
+    ],
+    "media": [
+        {
+            "file": "00262.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Rose expends the GRIST to drag a new plank from the balcony in the direction of the PDA.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

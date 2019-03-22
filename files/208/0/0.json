@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 208,
+    "commands": [
+        {
+            "command": "John: Use cruxite dowel on totem lathe. ",
+            "link": "/story/209"
+        }
+    ],
+    "media": [
+        {
+            "file": "00208.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You retrieved the CRUXITE DOWEL.\r<br/> <br/>DAD just shrugs and heads back downstairs, presumably to do some more baking.\r<br/> <br/>If only he knew you were hard at work saving his ass.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

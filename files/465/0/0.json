@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 465,
+    "commands": [
+        {
+            "command": "Dave: Pester John to ease your nerves. ",
+            "link": "/story/466"
+        }
+    ],
+    "media": [
+        {
+            "file": "00465.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are sort of starting to flip the fuck out.\r<br/> <br/>Without losing your cool of course.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 243,
+    "commands": [
+        {
+            "command": "Rose: Remove blocks. ",
+            "link": "/story/244"
+        }
+    ],
+    "media": [
+        {
+            "file": "00243.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Got to get those stupid blocks out of the way first!\r<br/> <br/>The KERNELSPRITE is getting awfully worked up about all this!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

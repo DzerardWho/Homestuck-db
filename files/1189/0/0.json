@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1189,
+    "commands": [
+        {
+            "command": "[I] SS: Wear backup hat. ",
+            "link": "/story/1190"
+        }
+    ],
+    "media": [
+        {
+            "file": "01189.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are already wearing Deuce's hat you fool. The one on the floor is Droog's hat. This is exactly why you always keep a BACKUP HAT on hand.\r<br/> <br/>This son of a bitch on the floor here has played his last game of musical hats. Soon these lugs will learn to show you some respect. You made this town what it is after all. Wasn't nothin' but a bunch of dust and rocks before you got here.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

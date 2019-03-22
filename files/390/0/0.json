@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 390,
+    "commands": [
+        {
+            "command": "JOHN TURN AROUND!!!!! ",
+            "link": "/story/391"
+        }
+    ],
+    "media": [
+        {
+            "file": "00390.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You can't be this stupid pony, and frankly you can't imagine why anyone would want to!\r<br/> <br/>But you give the pony a begrudging pat on the snout anyway.\r<br/> <br/>Her name is MAPLEHOOF.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

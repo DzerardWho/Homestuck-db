@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2324,
+    "commands": [
+        {
+            "command": "Kanaya: Fine, equip that then. ",
+            "link": "/story/2325"
+        }
+    ],
+    "media": [
+        {
+            "file": "02324.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What CHAINSAW? You are quite sure there is no CHAINSAW leaning on that bookshelf.\r<br/> <br/>There is however a tube of LIPSTICK on the floor.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

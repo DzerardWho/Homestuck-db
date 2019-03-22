@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6046,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/6047"
+        }
+    ],
+    "media": [
+        {
+            "file": "06043.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #a1a100\">SOLLUX: LADIES.</span></p>",
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

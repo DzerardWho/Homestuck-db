@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5654,
+    "commands": [
+        {
+            "command": "[S] Ride. ",
+            "link": "/story/5655"
+        }
+    ],
+    "media": [
+        {
+            "file": "05651.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2340,
+    "commands": [
+        {
+            "command": "Kanaya: Meddle with moirail. ",
+            "link": "/story/2341"
+        }
+    ],
+    "media": [
+        {
+            "file": "02340.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3429,
+    "commands": [
+        {
+            "command": "Karkat: Contact Equius. ",
+            "link": "/story/3430"
+        }
+    ],
+    "media": [
+        {
+            "file": "03426.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">There. Good as new, best friend! It's like it never happened. No one can ever blame you for dropping him down the stairs now. Stairs? What stairs! Ha ha ha!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

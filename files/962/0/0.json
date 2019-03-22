@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 962,
+    "commands": [
+        {
+            "command": "John: Investigate room for anything dad may have left behind ",
+            "link": "/story/963"
+        }
+    ],
+    "media": [
+        {
+            "file": "00962.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your blood is boiling so hot you could cook an egg on your carapace.\r<br/> <br/>Looks like you'll have to go handle this yourself.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

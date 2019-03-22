@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1801,
+    "commands": [
+        {
+            "command": "Rose: Alchemize a whole bunch of cool stuff. ",
+            "link": "/story/1802"
+        }
+    ],
+    "media": [
+        {
+            "file": "01801.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

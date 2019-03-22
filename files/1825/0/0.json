@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1825,
+    "commands": [
+        {
+            "command": "Dave: Combine whole Caledscratch and ruby contraband. ",
+            "link": "/story/1826"
+        }
+    ],
+    "media": [
+        {
+            "file": "01825_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01825_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You momentarily reconfigure your alchemiter upgrades to make use of the HOLOPAD EXTENSION. You pop the card in the slot and check it out.\r<br/> <br/>The combination would produce the BROKEN SCARLET RIBBITAR.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

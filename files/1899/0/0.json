@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1899,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1900"
+        }
+    ],
+    "media": [
+        {
+            "file": "01899_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01899_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

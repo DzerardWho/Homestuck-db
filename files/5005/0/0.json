@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5005,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/5006"
+        }
+    ],
+    "media": [
+        {
+            "file": "05002.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #1f9400\">JAKE: HIIIIIIIIIIIII YA!!!!!!</p>\n<p style=\"color: #f2a400\">DIRK: Jake.</p>\n<p style=\"color: #1f9400\">JAKE: DIE FISH HITLER DIE!</p>\n<p style=\"color: #f2a400\">DIRK: Jake.</p>\n<p style=\"color: #1f9400\">JAKE: I WONT LET YOU KILL MY PEOPLE!</p>\n<p style=\"color: #005682\">ARANEA: Jake, no! What are you doing????????</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

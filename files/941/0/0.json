@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 941,
+    "commands": [
+        {
+            "command": "Jade: Locate and feed the devilbeast you call a pet. ",
+            "link": "/story/942"
+        }
+    ],
+    "media": [
+        {
+            "file": "00941.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 1415,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1416"
+        }
+    ],
+    "media": [
+        {
+            "file": "01415_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01415_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "01415_2_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Suddenly a powerful aroma hits your nonexistent nostrils. Someone is cooking something delicious. It demands investigation.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6602,
+    "commands": [
+        {
+            "command": "[A6A6I2] ====> ",
+            "link": "/story/6603"
+        }
+    ],
+    "media": [
+        {
+            "file": "06599.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #e00707\">ARQUIUSPRITE: <img border=\"0\" src=\"/images/storyfiles/hs2/scraps/arquius_shades.png\"/> My god...</p>\n<p style=\"color: #f2a400\">DAVESPRITE: what</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

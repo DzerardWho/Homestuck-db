@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 699,
+    "commands": [
+        {
+            "command": "WV: Peel label from can of MAYO and affix to sash. ",
+            "link": "/story/700"
+        }
+    ],
+    "media": [
+        {
+            "file": "00699.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You fill each empty square with a bit of MOTOR OIL to complete the zoning. It looks rather striking to you. You can hardly imagine that an up and coming young can trying to make it in the world would not be delighted to live in your fair district.\r<br/> <br/>You are very careful not to get any of the unpleasant fluid on your person.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

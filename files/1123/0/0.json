@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1123,
+    "commands": [
+        {
+            "command": "PM: Scamper quickly to the newly created hole. ",
+            "link": "/story/1124"
+        }
+    ],
+    "media": [
+        {
+            "file": "01123_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01123_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><a class=\"postlink\" href=\"/sweet-bro-and-hella-jeff/7\" target=\"_blank\"><img border=\"0\" src=\"/images/storyfiles/hs2/scraps/distaction.gif\"/></a></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

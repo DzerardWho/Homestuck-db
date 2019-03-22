@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3155,
+    "commands": [
+        {
+            "command": "Jade: Combine Rose's crystal ball and magic 8 ball. ",
+            "link": "/story/3156"
+        }
+    ],
+    "media": [
+        {
+            "file": "03152.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Sadly, the modus interprets your circle as a boring and useless MAGIC 8 BALL.\r<br/> <br/>Oh well, you guess you'll do it anyway.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

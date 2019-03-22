@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4345,
+    "commands": [
+        {
+            "command": "[A6I1] Rose: Level up. ",
+            "link": "/story/4346"
+        }
+    ],
+    "media": [
+        {
+            "file": "04342.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">JOHN: wait a minute!</p>\n<p style=\"color: #0715cd\">JOHN: i forgot, trolls hate cleaning products for some alien reason! shit, that's going to make everyone so uncomfortable.</p>\n<p style=\"color: #0715cd\">JOHN: oh well, there it goes. too late i guess.</p>\n<p style=\"color: #f2a400\">DAVESPRITE: ahahahaha you fucked up</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

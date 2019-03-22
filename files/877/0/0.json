@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 877,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/878"
+        }
+    ],
+    "media": [
+        {
+            "file": "00877.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You plug the laptop into the hub again and turn it on. It is now powered and connected to the wireless signal the hub is broadcasting.\r<br/> <br/>Your Sburb session reconnects.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

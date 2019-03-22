@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 27,
+    "commands": [
+        {
+            "command": "John: Examine mailbox. ",
+            "link": "/story/28"
+        }
+    ],
+    "media": [
+        {
+            "file": "00027_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00027_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You see the view of your yard from your window.\r<br/> <br/>Hanging from the tree is your TIRE SWING. In a kid's yard, a tree without a tire swing is like a proper gentleman without a monocle. That is to say, HE CAN HARDLY BE CONSIDERED A TERRIBLY PROPER GENTLEMAN AT ALL. \r<br/> <br/>And there beside your driveway is the mailbox.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

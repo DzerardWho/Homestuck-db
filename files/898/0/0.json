@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 898,
+    "commands": [
+        {
+            "command": "Greetings. ",
+            "link": "/story/899"
+        }
+    ],
+    "media": [
+        {
+            "file": "00898_1.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You type another one of the previously entered commands. It switches to the view of a young girl standing alone somewhere. There is a heavy amount of video interference of some sort.\r<br/> <br/>The girl seems familiar to you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

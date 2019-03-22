@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1200,
+    "commands": [
+        {
+            "command": "[I] DD: Withdraw licorice fish from backup hat. ",
+            "link": "/story/1201"
+        }
+    ],
+    "media": [
+        {
+            "file": "01200.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are the only member of this band of thugs who is civilized enough to keep more than one BACKUP HAT, as well as an extensive array of FINELY TAILORED SUITS.\r<br/> <br/>The BRAWLSOLEUM seemed like the best storage option for your exceptional wardrobe. If there's any better sort of compartment to keep your wardrobe in, you'd love to hear it.\r<br/> <br/>Also there's a shitload of guns and cards in there too.\r<br/> <br/>You put on a BACKUP HAT. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

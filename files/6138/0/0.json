@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6138,
+    "commands": [
+        {
+            "command": "[A6I5] SS: Wasn't there a guy with an oven? ",
+            "link": "/story/6139"
+        }
+    ],
+    "media": [
+        {
+            "file": "06135.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">There. Crowbar shmowbar.\r<br/> <br/>How the hell are you gonna squeeze all these big galoots through that skinny ass door? Wait. You might have an idea.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 16,
+    "commands": [
+        {
+            "command": "John: Combine the nails and hammer. ",
+            "link": "/story/17"
+        }
+    ],
+    "media": [
+        {
+            "file": "00016.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This is the dumbest idea you've had in weeks!!!\r<br/> <br/>STUPID STUPID STUPID.\r<br/> <br/>And yet the polished surface of your desk...\r<br/> <br/>It beckons.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

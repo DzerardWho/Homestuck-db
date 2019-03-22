@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 532,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/533"
+        }
+    ],
+    "media": [
+        {
+            "file": "00532.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Unfortunately, you just burned another card in the process. Your deck is really dwindling now. Maybe you should have thought this through a little better.\r<br/> <br/>On the plus side, you just freed up your PDA, which is overflowing with the pent-up chatter of anxious pesterers.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

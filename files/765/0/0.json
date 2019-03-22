@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 765,
+    "commands": [
+        {
+            "command": "Try again. ",
+            "link": "/story/766"
+        }
+    ],
+    "media": [
+        {
+            "file": "00765_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00765_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

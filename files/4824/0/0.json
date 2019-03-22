@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4824,
+    "commands": [
+        {
+            "command": "[S] Jane: Proceed. ",
+            "link": "/story/4825"
+        }
+    ],
+    "media": [
+        {
+            "file": "04821.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You verify whether or not you made it to the end of the game, as shown above. If not, you decide to consult the <a class=\"postlink\" href=\"/images/storyfiles/hs2/scraps/A6A3walkthrough.gif\" target=\"_blank\">walkthrough</a> for guidance.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

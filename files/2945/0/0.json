@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2945,
+    "commands": [
+        {
+            "command": "WV: Remember. ",
+            "link": "/story/2946"
+        }
+    ],
+    "media": [
+        {
+            "file": "02944.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have not inspected your treasure in years. You have spent ages guarding it without understanding its purpose.\r<br/> <br/>Its only purpose you have understood has been to remind you of things you have taken care to forget. But now...\r<br/> <br/>You think it is time to remember.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

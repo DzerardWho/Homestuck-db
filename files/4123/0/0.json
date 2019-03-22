@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4123,
+    "commands": [
+        {
+            "command": "Jane: Captchalogue it! ",
+            "link": "/story/4124"
+        }
+    ],
+    "media": [
+        {
+            "file": "04120_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04120_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's your RECIPE MODUS, an extremely handy little inventory widget your DAD got for you for your birthday a couple years ago. He can be a real hard-ass sometimes (not really), but he sure knows how to spoil his little girl.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

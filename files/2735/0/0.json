@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2735,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/2736"
+        }
+    ],
+    "media": [
+        {
+            "file": "02734_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02734_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">EB: pchoo.</p>\n<p style=\"color: #005682\">AG: D::::</p>\n<p style=\"color: #0715cd\">EB: ha ha, just messin' with ya.</p>\n<p style=\"color: #0715cd\">EB: pchoooooooo!</p>\n<p style=\"color: #005682\">AG: Yessssssss.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

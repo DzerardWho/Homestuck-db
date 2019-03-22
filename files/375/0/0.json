@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 375,
+    "commands": [
+        {
+            "command": "Rose: Head out the back door. ",
+            "link": "/story/376"
+        }
+    ],
+    "media": [
+        {
+            "file": "00375.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And just like that, the UMBRELLA becomes accessible in the ROOT CARD. That's one of the things you love about the TREE MODUS. The happy surprises.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

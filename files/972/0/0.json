@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 972,
+    "commands": [
+        {
+            "command": "John: Open the big one. ",
+            "link": "/story/973"
+        }
+    ],
+    "media": [
+        {
+            "file": "00972.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You receive a box of delicious FRUIT GUSHERS.\r<br/> <br/>Could this birthday get any better? You don't think so.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

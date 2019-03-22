@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 67,
+    "commands": [
+        {
+            "command": "John: Captchalogue doll. ",
+            "link": "/story/68"
+        }
+    ],
+    "media": [
+        {
+            "file": "00067.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">As long as you're cleaning up...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

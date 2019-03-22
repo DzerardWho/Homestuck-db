@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4882,
+    "commands": [
+        {
+            "command": "Jack: Consume pumpkin. ",
+            "link": "/story/4883"
+        }
+    ],
+    "media": [
+        {
+            "file": "04879.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">WHAT FUCKING PUMPKIN. THERE IS NO PUMPKIN. ONCE AGAIN, THERE IS NOTHING AT ALL IN YOUR CELL, USEFUL OR oh god dammit.\r<br/> <br/>Ok, a pumpkin appears. You guess it must be feeding time for the prisoners. These Prospitian jails are like luxury suites compared to the penal system on Derse. Should be the softest time you ever did.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

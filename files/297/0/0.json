@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 297,
+    "commands": [
+        {
+            "command": "Rose: Recaptchalogue your items! ",
+            "link": "/story/298"
+        }
+    ],
+    "media": [
+        {
+            "file": "00297.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">That would be incredibly ill-advised!\r<br/> <br/>There are some dark forces you just don't want to mess around with. You understand this better than most.\r<br/> <br/>You put the book down.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

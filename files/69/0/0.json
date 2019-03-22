@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 69,
+    "commands": [
+        {
+            "command": "John: Find dad and retrieve mail. ",
+            "link": "/story/70"
+        }
+    ],
+    "media": [
+        {
+            "file": "00069_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00069_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You thought about consulting the text to determine exactly how hilarious the doll is now.\r<br/> <br/>But this text is way too big to navigate in a timely fashion. You decide to forget it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

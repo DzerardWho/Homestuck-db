@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 129,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/130"
+        }
+    ],
+    "media": [
+        {
+            "file": "00129_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00129_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You take three GLASS SHARDS in quick succession and duck for cover.\r<br/> <br/>Your SYLLADEX rains devastation on your room from above.\r<br/> <br/>And now that your cards are packed with glass, you probably don't want to do that again any time soon.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4570,
+    "commands": [
+        {
+            "command": "Jane: Answer Roxy. ",
+            "link": "/story/4571"
+        }
+    ],
+    "media": [
+        {
+            "file": "04567.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #e00707\">TT: Are you ready to do this thing?</p>\n<p style=\"color: #00d5f2\">GG: Yes!</p>\n<p style=\"color: #e00707\">TT: Ok. Looks like all that's left to do is deploy this pre-punched card, then I guess it's all up to you.</p>\n<p style=\"color: #00d5f2\">GG: Oh, wait.</p>\n<p style=\"color: #00d5f2\">GG: It's Roxy again.</p>\n<p style=\"color: #e00707\">TT: Is it?</p>\n<p style=\"color: #e00707\">TT: How totally unanticipated by anybody.</p>\n<p style=\"color: #00d5f2\">GG: Can you hold on? I'll try to make it quick.</p>\n<p style=\"color: #e00707\">TT: Go.</p>\n<p style=\"color: #e00707\">TT: I will be here.</p>\n<p style=\"color: #e00707\">TT: Quietly calculating.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2366,
+    "commands": [
+        {
+            "command": "Tavros: Lead fearsome entourage into ruins. ",
+            "link": "/story/2367"
+        }
+    ],
+    "media": [
+        {
+            "file": "02366.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

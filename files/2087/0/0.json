@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2087,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2088"
+        }
+    ],
+    "media": [
+        {
+            "file": "02087.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are highly startled by the totally unexpected explosion.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

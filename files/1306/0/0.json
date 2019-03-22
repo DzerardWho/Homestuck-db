@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1306,
+    "commands": [
+        {
+            "command": "[I] DD: Shoot up biscuit and eggs's effigies. ",
+            "link": "/story/1307"
+        }
+    ],
+    "media": [
+        {
+            "file": "01306.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You can't BELIEVE she saw you horsing around like that. You will never live this down.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

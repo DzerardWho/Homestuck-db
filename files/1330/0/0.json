@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1330,
+    "commands": [
+        {
+            "command": "[I] DD: Resist urge to shout \"Oh Yeah!\" ",
+            "link": "/story/1331"
+        }
+    ],
+    "media": [
+        {
+            "file": "01330.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">All of a sudden <span style=\"color: #2ed73a\">Cans </span>plows through the wall Kool-Aid Man style.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

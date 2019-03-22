@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2501,
+    "commands": [
+        {
+            "command": "SS: Type '====', then ==> ",
+            "link": "/story/2502"
+        }
+    ],
+    "media": [
+        {
+            "file": "02500.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><span style=\"font-style: italic\">Oh for the love of...</span> <br/> <br/>Why would they even DESIGN a button like that if it doesn't print the right advancement characters???\r<br/> <br/>You are getting really tired of mashing the '=' key.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

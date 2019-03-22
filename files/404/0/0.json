@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 404,
+    "commands": [
+        {
+            "command": "NOW EXULT. VICTORY, SPOILS ARE YOURS. ",
+            "link": "/story/405"
+        }
+    ],
+    "media": [
+        {
+            "file": "00404.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Now why couldn't he put the bunny back in the box?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

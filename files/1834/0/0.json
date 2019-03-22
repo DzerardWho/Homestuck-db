@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1834,
+    "commands": [
+        {
+            "command": "Dave: Combine plush puppet tux + Felt poster. ",
+            "link": "/story/1835"
+        }
+    ],
+    "media": [
+        {
+            "file": "01834_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01834_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make FOUR ACES SUITED.\r<br/> <br/>You aren't really sure which one you like better. The red one is softer, while the black one is sort of stiff and starchy. Anyone wearing this suit is all business.\r<br/> <br/>Maybe you'll switch it up as your mood dictates.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

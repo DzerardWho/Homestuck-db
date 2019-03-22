@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 8102,
+    "commands": [
+        {
+            "command": "====> ",
+            "link": "/story/8103"
+        }
+    ],
+    "media": [
+        {
+            "file": "08095ah.png",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

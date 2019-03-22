@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 531,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/532"
+        }
+    ],
+    "media": [
+        {
+            "file": "00531.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You punch the card with a pattern that is in no way related to the code for the item it contains. This should make for an interesting experiment.\r<br/> <br/>Mad science is a lot of fun.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

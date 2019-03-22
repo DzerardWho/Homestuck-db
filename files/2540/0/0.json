@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2540,
+    "commands": [
+        {
+            "command": "Equius: Get up and commence the adventurin'. ",
+            "link": "/story/2541"
+        }
+    ],
+    "media": [
+        {
+            "file": "02539.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You inquire into whereabouts of the MAID OF TIME. The HEIR OF VOID has no idea where she went! She just disappeared.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

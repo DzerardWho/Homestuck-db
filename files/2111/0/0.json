@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2111,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2112"
+        }
+    ],
+    "media": [
+        {
+            "file": "02111.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Nap time!\r<br/> <br/>Everybody wins. Horsaroni gains a bunch of levels. In no time he will be ready to breed and you can put him out to stud.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

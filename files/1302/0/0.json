@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1302,
+    "commands": [
+        {
+            "command": "[I] SS: Ride around on horse hitcher pretending to joust. ",
+            "link": "/story/1303"
+        }
+    ],
+    "media": [
+        {
+            "file": "01302.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">If <span style=\"color: #2ed73a\">Cans</span> shows up, none of these weapons you've got are going to do any good.\r<br/> <br/>You admire the LANCE for a moment. It's a pretty sweet weapon with outstanding craftsmanship. At least you got something out of the eye-gouging. She'll have to pry this thing from your rigid severed arm if she wants it back.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

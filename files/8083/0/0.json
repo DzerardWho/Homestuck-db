@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 8083,
+    "commands": [
+        {
+            "command": "[A6A6I5] ====> ",
+            "link": "/story/8084"
+        }
+    ],
+    "media": [
+        {
+            "file": "08076_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "08076_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "08076_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

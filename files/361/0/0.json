@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 361,
+    "commands": [
+        {
+            "command": "Rose: View Mother's solid copper vacuum statue. ",
+            "link": "/story/362"
+        }
+    ],
+    "media": [
+        {
+            "file": "00361.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You descend to the living room area of your home's expansive open layout. There is the sound of rushing water beneath the floor. It tends to strike guests as a strange presence in a living space, but it's become hardly audible to you through familiarity.\r<br/> <br/>There's the front door. But hopefully there's no need to make the long trek around the house in the rain. You might as well see if you can slip through the kitchen and out the back unnoticed.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

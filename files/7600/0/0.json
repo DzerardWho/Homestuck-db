@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 7600,
+    "commands": [
+        {
+            "command": "[A6A6I5] ====> ",
+            "link": "/story/7601"
+        }
+    ],
+    "media": [
+        {
+            "file": "07596.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #4ac925\">JADE: hi!</p>\n<p style=\"color: #4ac925\">JADE: its good to see you again</p>\n<p style=\"color: #ff0000\">CALLIOPE: you are kind to believe that.</p>\n<p style=\"color: #4ac925\">JADE: how long has it been?</p>\n<p style=\"color: #ff0000\">CALLIOPE: there is no way to measure.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

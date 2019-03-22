@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4535,
+    "commands": [
+        {
+            "command": "Dirk: Take sord..... ",
+            "link": "/story/4536"
+        }
+    ],
+    "media": [
+        {
+            "file": "04532_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04532_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Last but not least...\r<br/> <br/>There is nothing here that rhymes with Hella Jeff. It really isn't worth jumping through a lot of linguistic hoops to pick this thing up right now, so you just forget it. You have to pick your battles, you know?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

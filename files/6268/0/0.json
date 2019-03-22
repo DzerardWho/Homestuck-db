@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6268,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/6269"
+        }
+    ],
+    "media": [
+        {
+            "file": "06266.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">hold on. brb.\r<br/> <br/>I MEAN BRB.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

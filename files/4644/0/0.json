@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4644,
+    "commands": [
+        {
+            "command": "Dirk: Ask Roxy. ",
+            "link": "/story/4645"
+        }
+    ],
+    "media": [
+        {
+            "file": "04641.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This thing just appeared out of thin air. Did someone sendificate it to you? Or is it that damn cat again, up to his tricks?\r<br/> <br/>It looks like it's one of Roxy's. Maybe she knows what's up. You should probably ask her.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

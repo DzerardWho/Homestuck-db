@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4615,
+    "commands": [
+        {
+            "command": "Roxy: Send him home. ",
+            "link": "/story/4616"
+        }
+    ],
+    "media": [
+        {
+            "file": "04612.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Others gather around to bid farewell to their common ancestor. This is probably the closest he will ever come to receiving a proper funeral.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

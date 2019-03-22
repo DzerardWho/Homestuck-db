@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2090,
+    "commands": [
+        {
+            "command": "Sollux: Delete. ",
+            "link": "/story/2091"
+        }
+    ],
+    "media": [
+        {
+            "file": "02090.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Why did you send Karkat that code? It was such a bad idea. You suppose it was a boastful gesture to get a friend to think more highly of you. But why would flaunting your superior skills accomplish this? It was foolish.\r<br/> <br/>You ought to wipe all these clever viruses you wrote off your computer. They can only bring more trouble.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

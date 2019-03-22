@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4294,
+    "commands": [
+        {
+            "command": "ACT 6 INTERMISSION 1 ",
+            "link": "/story/4295"
+        }
+    ],
+    "media": [
+        {
+            "file": "04291.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You don't get boondollars anymore. That shit is for babies now.\r<br/> <br/>Instead, you are finally ready to have your first ACHIEVEMENT BADGE sewn on to your KIDDIE CAMPER HANDYSASH! \r<br/> <br/>You each receive the badge GIFT OF GAB, enabling you to engage in simple, direct dialogue with others, without requiring any gimmicks to facilitate communication. You don't need to type through a chat client, or talk to a sprite, or traverse through a memory in a dream bubble, or wander around in an interactive game environment, or any of that stuff.\r<br/> <br/>You seriously never thought you would live to see this achievement unlocked. It almost feels like cheating. Like conversing in god mode.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

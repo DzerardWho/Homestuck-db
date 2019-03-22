@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2552,
+    "commands": [
+        {
+            "command": "You will need to be strong. ",
+            "link": "/story/2553"
+        }
+    ],
+    "media": [
+        {
+            "file": "02551.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

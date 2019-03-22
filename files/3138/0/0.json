@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3138,
+    "commands": [
+        {
+            "command": "Jade: Prepare for imminent windfall. ",
+            "link": "/story/3139"
+        }
+    ],
+    "media": [
+        {
+            "file": "03135.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh yeah, there's another thing you forgot about! <a class=\"postlink\" href=\"/story/689\" target=\"_blank\">You ate that delicious green nuclear rock</a> earlier in the day, even though it feels like it was more than a year ago.\r<br/> <br/>Guess there's nothing to do but wait it out.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

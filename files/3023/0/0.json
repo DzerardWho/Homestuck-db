@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3023,
+    "commands": [
+        {
+            "command": "Jade: Answer Dave. ",
+            "link": "/story/3024"
+        }
+    ],
+    "media": [
+        {
+            "file": "03022.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have been dying to get back to your computer so you can touch base with John again. He has probably been going crazy wondering about you.\r<br/> <br/>But it seems someone else is messaging you right now.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

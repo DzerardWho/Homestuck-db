@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 739,
+    "commands": [
+        {
+            "command": "WV: Devour pumpkin. ",
+            "link": "/story/740"
+        }
+    ],
+    "media": [
+        {
+            "file": "00739.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It seems this mysterious gourd was transported (appearified!!!) from a specific time and location somewhere on this planet you are on. You wonder if the machine (APPEARIFIER!!!) will take any object that exists at whatever time and location you supply.\r<br/> <br/>There is a symbol carved on the PUMPKIN. You don't know what it means, and you doubt it will ever prove to be relevant in any way.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2059,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2060"
+        }
+    ],
+    "media": [
+        {
+            "file": "02059_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02059_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">After the KNIGHT OF BLOOD'S heroic arrival to the LAND OF PULSE AND HAZE...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

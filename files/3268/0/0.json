@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3268,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3269"
+        }
+    ],
+    "media": [
+        {
+            "file": "03265.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You interrupt whatever nonsense these silly people are planning with an extremely urgent message!!!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

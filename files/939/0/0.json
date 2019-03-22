@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 939,
+    "commands": [
+        {
+            "command": "Rose: Appearify Jaspers immediately. ",
+            "link": "/story/940"
+        }
+    ],
+    "media": [
+        {
+            "file": "00939.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">IT'S JASPERS. HE'S ALIVE.\r<br/> <br/>Well ok, he's still dead. But his body is intact. Turns out it wasn't some kind of DISINTEGRATIFICATOR like you thought. \r<br/> <br/>It's more like...\r<br/> <br/>AN ESCAPILIZER.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

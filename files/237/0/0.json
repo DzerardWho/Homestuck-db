@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 237,
+    "commands": [
+        {
+            "command": "Rose: Stack laptop on Grimoire to maximize elevation. ",
+            "link": "/story/238"
+        }
+    ],
+    "media": [
+        {
+            "file": "00237_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00237_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You're in a hurry, sure, but that doesn't mean you can't take moment to peek through the HUGE TELESCOPE.\r<br/> <br/>You find a gap in the clouds. It seems a flurry of smaller METEOROIDS is streaking steadily overhead. You're not sure what this means, but it is somewhat disconcerting.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

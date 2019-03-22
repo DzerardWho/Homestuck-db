@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 394,
+    "commands": [
+        {
+            "command": "Rose: Use umbrella. ",
+            "link": "/story/395"
+        }
+    ],
+    "media": [
+        {
+            "file": "00394.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You leave through the back door. \r<br/> <br/>Nearby is the TRANSFORMER which distributes electricity from the UNDERGROUND GENERATOR powered by the river flowing beneath your house. \r<br/> <br/>The transformer was struck by lightning though, and no longer works. You wonder if your mother has any plans to have it fixed. You guess she'd rather just play her mind games in a dark house like a weirdo.\r<br/> <br/>You can see the MAUSOLEUM and the PORTABLE GENERATOR across your back yard. You're almost there.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

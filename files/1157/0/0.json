@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1157,
+    "commands": [
+        {
+            "command": "[I] SS: Build fort with clocks. ",
+            "link": "/story/1158"
+        }
+    ],
+    "media": [
+        {
+            "file": "01157.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You obviously have no idea what that means.\r<br/> <br/>If it's some smartass way of saying to pick it up, forget it. You are already carrying an item. It is your trusty DECK OF CARDS.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

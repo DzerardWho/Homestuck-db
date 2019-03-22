@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1973,
+    "commands": [
+        {
+            "command": "Hours in the future... ",
+            "link": "/story/1974"
+        }
+    ],
+    "media": [
+        {
+            "file": "01973_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01973_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">A queen mourns. A kingdom, bid farewell.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

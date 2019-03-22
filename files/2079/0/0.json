@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2079,
+    "commands": [
+        {
+            "command": "Sollux: Calm those bees down. ",
+            "link": "/story/2080"
+        }
+    ],
+    "media": [
+        {
+            "file": "02079_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02079_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">No!!!!!!!!!\r<br/> <br/>You do not under any circumstance eat the MIND HONEY. The consequences are highly unpleasant.\r<br/> <br/>You cultivate this honey for your lusus. It helps him not be such a complete idiot all the time. Merely most of the time instead.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

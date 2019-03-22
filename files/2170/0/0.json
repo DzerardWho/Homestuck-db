@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2170,
+    "commands": [
+        {
+            "command": "Tavros: Go outside and begin adventure. ",
+            "link": "/story/2171"
+        }
+    ],
+    "media": [
+        {
+            "file": "02170.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">They disperse throughout the terrain surrounding your hive. They follow both preprogrammed and live instructions by your CLOUDER, a member of Team Scourge, whose role is to provide you with a challenging scenario, while your teammate does the same for Scourge's other player.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

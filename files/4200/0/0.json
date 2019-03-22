@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4200,
+    "commands": [
+        {
+            "command": "Jane: Consult with poppop. ",
+            "link": "/story/4201"
+        }
+    ],
+    "media": [
+        {
+            "file": "04197.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He padlocked the windows too. You'd bet boonbucks to donuts the back door is blocked too, probably with the safe from the study or something. The man means business this time.\r<br/> <br/>You aren't about to go smashing glass and making a ruckus though. You'll need a solution involving more stealth. You guess you have a plan in mind as a last resort, but you'd rather it not come to that.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

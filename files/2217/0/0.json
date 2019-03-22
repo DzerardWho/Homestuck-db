@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2217,
+    "commands": [
+        {
+            "command": "Equius: Equiup a bow. ",
+            "link": "/story/2218"
+        }
+    ],
+    "media": [
+        {
+            "file": "02217.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And as usual, it sends you into a rage. The spilled milk quickly evaporates.\r<br/> <br/>Got to do something to calm yourself  down. Let off some steam.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

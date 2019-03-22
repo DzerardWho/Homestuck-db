@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2376,
+    "commands": [
+        {
+            "command": "Vriska: Apply special stardust. ",
+            "link": "/story/2377"
+        }
+    ],
+    "media": [
+        {
+            "file": "02376.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Of course, the secret to reuniting with your shadow is to get up and walk around. And play and dance and frolic! Your shadow will surely join in your gaiety. \r<br/> <br/>But it appears Pupa has lost the use of his legs. There will be no frolicking in this young man's future. ::::(\r<br/> <br/>Unless...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

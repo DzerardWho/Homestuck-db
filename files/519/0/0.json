@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 519,
+    "commands": [
+        {
+            "command": "John: Gather grist, examine designix. ",
+            "link": "/story/520"
+        }
+    ],
+    "media": [
+        {
+            "file": "00519.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Wait, where did all this sweet loot come from?\r<br/> <br/>And why is there suddenly a crumpled hat on your head?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

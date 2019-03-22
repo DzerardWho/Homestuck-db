@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 4003,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/4004"
+        }
+    ],
+    "media": [
+        {
+            "file": "04000_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04000_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04000_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #626262\">PAST carcinoGeneticist [PCG]</span> 01:34 HOURS AGO responded to memo.\n<p style=\"color: #626262\">PCG: JADE?</p>\n<p style=\"color: #626262\">PCG: ARE YOU STILL RESPONDING TO THIS MEMO?</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

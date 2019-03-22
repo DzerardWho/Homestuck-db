@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2023,
+    "commands": [
+        {
+            "command": "Gamzee: Answer troll. ",
+            "link": "/story/2024"
+        }
+    ],
+    "media": [
+        {
+            "file": "02023_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02023_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You wonder if you can just...\r<br/> <br/>Just sort of reach over...\r<br/> <br/>And...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

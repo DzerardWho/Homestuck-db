@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4441,
+    "commands": [
+        {
+            "command": "Jane: Just check out the file already. ",
+            "link": "/story/4442"
+        }
+    ],
+    "media": [
+        {
+            "file": "04438.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Later, about halfway through the book, rather than see the gag through to the bitter end, Strider began pasting over entire pages of original text with his own completely rewritten version of the story, while keeping all the chapter titles. His revision is a tough, emotionally draining read. But it's cathartic, in all the worst ways possible.\r<br/> <br/>He tends to get carried away with his projects.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

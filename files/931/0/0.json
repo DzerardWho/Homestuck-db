@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 931,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/932"
+        }
+    ],
+    "media": [
+        {
+            "file": "00931.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You attempt to appearify Jaspers. This would surely cause a time paradox, because you can plainly see that he has not told you his SECRET yet.\r<br/> <br/>But it seems the machine has a safety mechanism to prevent such irresponsible appearification practices. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1921,
+    "commands": [
+        {
+            "command": "AR?: Fast forward. ",
+            "link": "/story/1922"
+        }
+    ],
+    "media": [
+        {
+            "file": "01921.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ah ha! There's HALLEY. The youngsters adore their new guardian. Good dog. Best friend.\r<br/> <br/>The young boy has difficulty pronouncing the name though. Sounds more like \"Harley\" when he says it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

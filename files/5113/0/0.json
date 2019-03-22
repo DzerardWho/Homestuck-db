@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5113,
+    "commands": [
+        {
+            "command": "Calliope: Load wand. ",
+            "link": "/story/5114"
+        }
+    ],
+    "media": [
+        {
+            "file": "05110.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The WHITE WAND is your weapon of choice, half the time. Magic is very handy. Some believe magic to be fake. But you know better than that.\r<br/> <br/>Of course, if anyone tried using this wand right now, it sure would seem like magic wasn't real. Can't very well use magic when your wand is out of bullets.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 72,
+    "commands": [
+        {
+            "command": "John: Upgrade costume with hat from hat rack. ",
+            "link": "/story/73"
+        }
+    ],
+    "media": [
+        {
+            "file": "00072.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">On the desk is a DECK OF PLAYING CARDS, one of your DAD'S PIPES, the April issue of THE SERIOUS JESTER magazine, and a stray CAPTCHALOGUE CARD.\r<br/> <br/>There is also a CAN OF PEANUTS on the desk. Ha ha, oh DAD. You won't be falling for THAT one again any time soon.\r<br/> <br/>A severe peanut allergy is a terrible affliction to cope with.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

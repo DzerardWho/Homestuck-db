@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2184,
+    "commands": [
+        {
+            "command": "Aradia: Begin session. ",
+            "link": "/story/2185"
+        }
+    ],
+    "media": [
+        {
+            "file": "02184.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You revisit the remains of your quaint rural hive. Your lawnring and the small excavation sites you dug up for practice are all overgrown with vegetation.\r<br/> <br/>You haven't been here since the night of the accident. On that night you found your CALLING. The voices of the dead grew louder, urging you to return to the ruins you discovered not long before. You left so abruptly, you didn't even have time to bury your lusus.\r<br/> <br/>But that's fine, because trolls don't typically bury their dead. Leaving bodies to be consumed by wild animals is more customary.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

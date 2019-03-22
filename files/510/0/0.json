@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 510,
+    "commands": [
+        {
+            "command": "Rose: Construct loft above John's room. ",
+            "link": "/story/511"
+        }
+    ],
+    "media": [
+        {
+            "file": "00510_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00510_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><a class=\"postlink\" href=\"/images/storyfiles/hs2/walkthrough/screencaps/01.jpg\" target=\"_blank\">http://tinyurl.com/0413sprite</a> <br/><a class=\"postlink\" href=\"/images/storyfiles/hs2/walkthrough/screencaps/02.jpg\" target=\"_blank\">http://tinyurl.com/0413power</a> <br/><a class=\"postlink\" href=\"/images/storyfiles/hs2/walkthrough/screencaps/03.jpg\" target=\"_blank\">http://tinyurl.com/0413internet</a> <br/><a class=\"postlink\" href=\"/images/storyfiles/hs2/walkthrough/screencaps/04.jpg\" target=\"_blank\">http://tinyurl.com/0413build</a> <br/><a class=\"postlink\" href=\"/images/storyfiles/hs2/walkthrough/screencaps/05.jpg\" target=\"_blank\">http://tinyurl.com/0413prototype</a> <br/><a class=\"postlink\" href=\"/images/storyfiles/hs2/walkthrough/screencaps/06.jpg\" target=\"_blank\">http://tinyurl.com/0413disconnect</a> <br/><a class=\"postlink\" href=\"/images/storyfiles/hs2/walkthrough/screencaps/07.jpg\" target=\"_blank\">http://tinyurl.com/0413nanna</a> <br/><a class=\"postlink\" href=\"/images/storyfiles/hs2/walkthrough/screencaps/08.jpg\" target=\"_blank\">http://tinyurl.com/0413weirdo</a> <br/><a class=\"postlink\" href=\"/images/storyfiles/hs2/walkthrough/screencaps/09.jpg\" target=\"_blank\">http://tinyurl.com/0413designix</a> <br/><a class=\"postlink\" href=\"/images/storyfiles/hs2/walkthrough/screencaps/10.jpg\" target=\"_blank\">http://tinyurl.com/0413grist</a> <br/><a class=\"postlink\" href=\"/images/storyfiles/hs2/walkthrough/screencaps/11.jpg\" target=\"_blank\">http://tinyurl.com/0413up</a> <br/><a class=\"postlink\" href=\"/images/storyfiles/hs2/walkthrough/screencaps/12.jpg\" target=\"_blank\">http://tinyurl.com/0413steed</a> <br/><a class=\"postlink\" href=\"/images/storyfiles/hs2/walkthrough/screencaps/13.jpg\" target=\"_blank\">http://tinyurl.com/0413barbasolbandit</a> <br/><a class=\"postlink\" href=\"/images/storyfiles/hs2/walkthrough/screencaps/14.jpg\" target=\"_blank\">http://tinyurl.com/0413really</a> <br/><a class=\"postlink\" href=\"/images/storyfiles/hs2/walkthrough/screencaps/15.jpg\" target=\"_blank\">http://tinyurl.com/0413hmm</a></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

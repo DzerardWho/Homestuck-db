@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5098,
+    "commands": [
+        {
+            "command": "Calliope: Dehorn. ",
+            "link": "/story/5099"
+        }
+    ],
+    "media": [
+        {
+            "file": "05095.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are now Calliope.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

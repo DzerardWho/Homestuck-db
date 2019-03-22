@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4800,
+    "commands": [
+        {
+            "command": "[A6I2] ==> ",
+            "link": "/story/4801"
+        }
+    ],
+    "media": [
+        {
+            "file": "04797.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Now if I can just go grab Ms. Paint and sneak out the back door before it's too...\r<br/> <br/>Are you kidding me? He's already here AGAIN? Talk about a one trick pony.\r<br/> <br/>Fine.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

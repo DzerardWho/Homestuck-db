@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3394,
+    "commands": [
+        {
+            "command": "John: Take wallet. ",
+            "link": "/story/3395"
+        }
+    ],
+    "media": [
+        {
+            "file": "03391.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You somehow manage to pry your eyes from the exquisite celestial projection.\r<br/> <br/>You have been exploring the battlefield with a new ally, a friendly fellow who strikes you as a sort of WIZARDLY VASSAL. Your travels have led you here.\r<br/> <br/>You spy a WALLET lying on the ground.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

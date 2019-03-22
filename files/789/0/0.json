@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 789,
+    "commands": [
+        {
+            "command": "Jade: Explore the other half of your room! ",
+            "link": "/story/790"
+        }
+    ],
+    "media": [
+        {
+            "file": "00789.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are an avid follower of CARTOON SHOWS OF CONSIDERABLE NOSTALGIC APPEAL. You have a profound zeal for marvelous and fantastical FAUNA OF AN ANTHROPOMORPHOLOGICAL PERSUASION. You have an uncanny knack for NUCLEAR PHYSICS, and not infrequently can be found dabbling in RATHER ADVANCED GADGETRY. You enjoy sporadic fits of NARCOLEPSY; your love of GARDENING transcends the glass confines of your ATRIUM; and you are at times prone to patterns of PRECOGNITIVE PROGNOSTICATION.\r<br/> <br/>You consider very briefly the question: What will you do?\r<br/> <br/>But you quickly realize this is only one half of your room, and is therefore host to only half of your INTERESTS to choose from. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

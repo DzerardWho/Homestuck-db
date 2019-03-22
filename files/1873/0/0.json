@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1873,
+    "commands": [
+        {
+            "command": "John: Zoom in. ",
+            "link": "/story/1874"
+        }
+    ],
+    "media": [
+        {
+            "file": "01873_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01873_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You switch to a monitor displaying a view of a remote island in the Pacific, on December 3rd, 1995.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

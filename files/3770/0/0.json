@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3770,
+    "commands": [
+        {
+            "command": "[o] Both the Seer and the Thief knew this. ",
+            "link": "/story/3771"
+        }
+    ],
+    "media": [
+        {
+            "file": "03767.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The result of the flip was left inconclusive, at which point you decided to pay me a visit. \r<br/> <br/>But the inconclusive should not be confused with the uncertain. The actual result was trivial; it was a constant across all timelines. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

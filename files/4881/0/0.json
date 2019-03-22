@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4881,
+    "commands": [
+        {
+            "command": "Jack: Get pumpkin. ",
+            "link": "/story/4882"
+        }
+    ],
+    "media": [
+        {
+            "file": "04878.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It is an extremely crude drawing of a key on the floor. Really, the drawing is so bad, it's ridiculous to think that some prankster thought it would fool you, which it did. Whoever drew this key clearly was employing the most primitive drawing tools available. \r<br/> <br/>You are obviously being fucked with in this stupid jail cell. You expect that you will continue to be fucked with, and it makes you wish you could stab something. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

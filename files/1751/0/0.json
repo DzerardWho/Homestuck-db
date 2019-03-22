@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1751,
+    "commands": [
+        {
+            "command": "John: Blast off. ",
+            "link": "/story/1752"
+        }
+    ],
+    "media": [
+        {
+            "file": "01751.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Why, Doctor Meowgon... do you want to come along for the ride? It sure looks that way.\r<br/> <br/>Ok, hop aboard then. Adventure awaits.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

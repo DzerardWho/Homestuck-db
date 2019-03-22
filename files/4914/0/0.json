@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4914,
+    "commands": [
+        {
+            "command": "Jack: Seek alternative casket. ",
+            "link": "/story/4915"
+        }
+    ],
+    "media": [
+        {
+            "file": "04911.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Whatever the state of your contrition might be, there can be no question about it. A man dedicated to royal service deserves a proper and dignified funeral.\r<br/> <br/>However, since there is no casket in your cell that is nearly big enough for this lug's hefty torso, you will have to improvise.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

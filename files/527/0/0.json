@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 527,
+    "commands": [
+        {
+            "command": "John: Attempt to retrieve pogo from card. ",
+            "link": "/story/528"
+        }
+    ],
+    "media": [
+        {
+            "file": "00527_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00527_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00527_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">In the interest of due diligence, you enter the other code and repeat the process with that card too.\r<br/> <br/>Both cards are now punched with different hole patterns.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

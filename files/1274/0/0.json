@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1274,
+    "commands": [
+        {
+            "command": "[I] SS: Hit Crowbar in the head. ",
+            "link": "/story/1275"
+        }
+    ],
+    "media": [
+        {
+            "file": "01274.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Which is to say the present, for the time being...\r<br/> <br/>A SCURRILOUS STRAGGLER eyes impromptu desert skirmish.\r<br/> <br/>He dismisses them as a bunch of ill-mannered rogues warranting no further investigation. Although he gives a small nod of approval to the plain and serviceable HAT worn by one of the combatants which strikes him as an absolutely smashing display of good fashion sense.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

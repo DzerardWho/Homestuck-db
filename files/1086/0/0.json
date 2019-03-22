@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1086,
+    "commands": [
+        {
+            "command": "Dave: Pester Rose. ",
+            "link": "/story/1087"
+        }
+    ],
+    "media": [
+        {
+            "file": "01086.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You get the <span style=\"color: green\">BETA</span> (3+1+1+1), now yielding a radically different hash value with the Scrabble function.\r<br/> <br/>Which is to say a radically exactly the same value.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

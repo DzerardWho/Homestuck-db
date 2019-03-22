@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 445,
+    "commands": [
+        {
+            "command": "Dave: Hastily enter the room with wild abandon. ",
+            "link": "/story/446"
+        }
+    ],
+    "media": [
+        {
+            "file": "00445_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00445_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Sorry little dude, coming through. Gotta put you down for a bit.\r<br/> <br/>You figure you've left him hanging long enough.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

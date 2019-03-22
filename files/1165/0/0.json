@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1165,
+    "commands": [
+        {
+            "command": "[I] SS: Start up the Crosbytop. ",
+            "link": "/story/1166"
+        }
+    ],
+    "media": [
+        {
+            "file": "01165.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You cannot hide properly inside the chest because you cannot close it while you are inside.\r<br/> <br/>Instead you momentarily pretend it is a really cool automobile that commands the fear and respect of larcenous adversaries everywhere. \r<br/> <br/>BEEP BEEP BEEP\r<br/> <br/>All aboard the idiot wagon!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

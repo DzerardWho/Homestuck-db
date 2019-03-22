@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1917,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1918"
+        }
+    ],
+    "media": [
+        {
+            "file": "01917_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01917_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The colonel and his new grand daughter investigate.\r<br/> <br/>The impact site is where a dog house stood moments ago. It was the magnificent abode of the man's beloved pet, HALLEY.\r<br/> <br/>He takes a belt from the old julep flask. He'd sooner perish himself than lose that dear animal.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

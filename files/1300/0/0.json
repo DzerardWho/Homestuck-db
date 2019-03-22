@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1300,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1301"
+        }
+    ],
+    "media": [
+        {
+            "file": "01300.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">DAMMIT.\r<br/> <br/>Your sprite was flipped the wrong way.\r<br/> <br/>You get Diamonds on the radio and tell him to undo it and wait until you're turned around. He says it's the right eye, right? Were you facing left or right? You say it's only right when facing left. It's the left eye when facing right. He says oh, so it's the left-right eye. You say yeah, but hang on a minute, you'll turn around so it's right-left. He says ok, he'll wait.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5500,
+    "commands": [
+        {
+            "command": "[A6I4] ==> ",
+            "link": "/story/5501"
+        }
+    ],
+    "media": [
+        {
+            "file": "05497.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #2ed73a\">UUUGH.</p>\n<p style=\"color: #000000\">I'm debating whether I should play the elevator music again.</p>\n<p style=\"color: #000000\">Would that be funny? I'm not sure.</p>\n<p style=\"color: #000000\">Kind of borderline, really.</p>\n<p style=\"color: #2ed73a\">HOLD ON.</p>\n<p style=\"color: #2ed73a\">WHAT IS THAT.</p>\n<p style=\"color: #000000\">What?</p>\n<p style=\"color: #2ed73a\">HE'S PUKING SOMETHING UP.</p>\n<p style=\"color: #2ed73a\">IT LOOKS LIKE...</p>\n<p style=\"color: #2ed73a\">ARE THOSE...</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

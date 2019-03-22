@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1457,
+    "commands": [
+        {
+            "command": "AR?: Write the owner of this vehicle a ticket. ",
+            "link": "/story/1458"
+        }
+    ],
+    "media": [
+        {
+            "file": "01457.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This looks much more orderly. Public safety has been assured. Your sworn duty as an AUTHORITY REGULATOR has been upheld.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

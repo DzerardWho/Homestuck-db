@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1104,
+    "commands": [
+        {
+            "command": "AR: Find a rocket launcher. ",
+            "link": "/story/1105"
+        }
+    ],
+    "media": [
+        {
+            "file": "01104.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You retrieve a pair of deadly SIDE ARMS.\r<br/> <br/>But you will need a longer-ranged weapon if you are to continue your enforcement.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

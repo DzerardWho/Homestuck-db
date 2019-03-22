@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 191,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/192"
+        }
+    ],
+    "media": [
+        {
+            "file": "00191.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You place the CRUXITE DOWEL on the ALCHEMITER'S small pedestal. \r<br/> <br/>Something is happening...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

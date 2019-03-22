@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 896,
+    "commands": [
+        {
+            "command": "PM: Examine keyboard and screen. ",
+            "link": "/story/897"
+        }
+    ],
+    "media": [
+        {
+            "file": "00896.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The mail is the one final hope for resurrecting a dead planet from its ashes, and the letter carriers are the brave soldiers of God in this righteous crusade. They are the defenders of the light of knowledge, free communication, and the exchange of ideas. They are the bold toters of all those little papery conduits of freedom, the white postmarked angels that whisper a message on their deliverance, a promise to the yearning: \"There is hope yet.\" \r<br/> <br/>Liberty. Reason. Justice. Civility. Edification. Perfection.\r<br/><span style=\"text-decoration: underline\"> <br/><span style=\"font-weight: bold\">MAIL.</span></span></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2831,
+    "commands": [
+        {
+            "command": "Dave: Take legendary POS. ",
+            "link": "/story/2832"
+        }
+    ],
+    "media": [
+        {
+            "file": "02830.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

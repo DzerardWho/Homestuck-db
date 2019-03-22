@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1765,
+    "commands": [
+        {
+            "command": "John: Proceed. ",
+            "link": "/story/1766"
+        }
+    ],
+    "media": [
+        {
+            "file": "01765.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The good Doctor Spengler helps you gather the riches.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

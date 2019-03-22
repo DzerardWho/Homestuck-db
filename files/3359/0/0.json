@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3359,
+    "commands": [
+        {
+            "command": "Karkat: Open memo. ",
+            "link": "/story/3360"
+        }
+    ],
+    "media": [
+        {
+            "file": "03356.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have never been so scared in your entire life.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1979,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1980"
+        }
+    ],
+    "media": [
+        {
+            "file": "01979.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

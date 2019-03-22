@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2792,
+    "commands": [
+        {
+            "command": "John: Connect to Jade. ",
+            "link": "/story/2793"
+        }
+    ],
+    "media": [
+        {
+            "file": "02791.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

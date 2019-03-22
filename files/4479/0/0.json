@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4479,
+    "commands": [
+        {
+            "command": "Roxy: You're thirsty. ",
+            "link": "/story/4480"
+        }
+    ],
+    "media": [
+        {
+            "file": "04476.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It isn't a ray gun. It's your APPEARIFIER!\r<br/> <br/>Pretty much the only Crockertech you can bring yourself to use. It's just too handy not to.\r<br/> <br/>You just plug in the coordinates you want to nab something from, point it where you want to appearify, and shoot. It'll make that thing appearify right then and there, assuming no temporal conflicts. Piece of cake!\r<br/> <br/>Not Crocker brand cake though cause fuck that witch.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

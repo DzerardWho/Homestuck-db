@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1481,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1482"
+        }
+    ],
+    "media": [
+        {
+            "file": "01481.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You show him the carved MINITABLET. As he can plainly see, you have signed authorization to deliver one of the parcels.\r<br/> <br/>He gives you the ENVELOPE. But he retains the PACKAGE. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6001,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/6002"
+        }
+    ],
+    "media": [
+        {
+            "file": "05998.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #005682\">ARANEA: The vast amount of resulting matter then collapses into a 8lack hole.</p>\n<p style=\"color: #005682\">ARANEA: Its gravit8tional pull is tremendous. Any o8ject within range will 8e sucked in and destroyed.</p>\n<p style=\"color: #005682\">ARANEA: Those planets which settle into or8it will 8e safe, for the time 8eing.</p>\n<p style=\"color: #005682\">ARANEA: 8ut in the case of our villain's session, three of the planets did not make it and fell 8ack into the hole.</p>\n<p style=\"color: #005682\">ARANEA: This was a very lucky 8r8k for him!</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

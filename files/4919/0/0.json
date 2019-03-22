@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4919,
+    "commands": [
+        {
+            "command": "Jack: Send him off. ",
+            "link": "/story/4920"
+        }
+    ],
+    "media": [
+        {
+            "file": "04916.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You open it up and switch a few wires around. There. Now instead of a nasty old pile of rotting pumpkin matter, the destination should be the throne room of the Prospitian palace! Surely the queen will want to be alerted to the noble sacrifice of this brave warrior so that arrangements can be made to honor the hero.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

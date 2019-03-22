@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4303,
+    "commands": [
+        {
+            "command": "[A6I1] ==> ",
+            "link": "/story/4304"
+        }
+    ],
+    "media": [
+        {
+            "file": "04300.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #4ac925\">JADE: im just trying to estimate our arrival time</p>\n<p style=\"color: #4ac925\">JADE: based on our current velocity, which is about as close to light speed as i can make it go</p>\n<p style=\"color: #0715cd\">JOHN: i see.</p>\n<p style=\"color: #0715cd\">JOHN: since we are going so fast, it should be pretty soon, right?</p>\n<p style=\"color: #0715cd\">JOHN: like a few more minutes?</p>\n<p style=\"color: #4ac925\">JADE: hmmmmmmmmmmm...</p>\n<p style=\"color: #4ac925\">JADE: no</p>\n<p style=\"color: #4ac925\">JADE: itll take quite a bit longer than that</p>\n<p style=\"color: #0715cd\">JOHN: ugh.</p>\n<p style=\"color: #0715cd\">JOHN: how long?</p>\n<p style=\"color: #4ac925\">JADE: i would say</p>\n<p style=\"color: #4ac925\">JADE: if i keep our speed constant...</p>\n<p style=\"color: #4ac925\">JADE: we should arrive in about three years</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4269,
+    "commands": [
+        {
+            "command": "Hat: Level up. ",
+            "link": "/story/4270"
+        }
+    ],
+    "media": [
+        {
+            "file": "04266.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You've been climbing your echeladder very gradually for various minor accomplishments here and there since you were 13. That was such a sweet textbook HAT POF, it earned you just enough to clear the next rung, FEDORAFLEDGLING. Nice going!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

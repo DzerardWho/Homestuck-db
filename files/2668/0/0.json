@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2668,
+    "commands": [
+        {
+            "command": "John: Examine computer. ",
+            "link": "/story/2669"
+        }
+    ],
+    "media": [
+        {
+            "file": "02667.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Look at this mess.\r<br/> <br/>Will you just LOOK at this slightly bigger mess than usual.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

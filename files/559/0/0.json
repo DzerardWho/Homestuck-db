@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 559,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/560"
+        }
+    ],
+    "media": [
+        {
+            "file": "00559.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You're not sure. They look pretty precarious to you.\r<br/> <br/>But you've been assured the stairs are perfectly navigable.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

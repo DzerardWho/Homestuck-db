@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1408,
+    "commands": [
+        {
+            "command": "AR: Retrieve mysterious artifacts from ruins. ",
+            "link": "/story/1409"
+        }
+    ],
+    "media": [
+        {
+            "file": "01408.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Blech. Too warm. Need to find something to chill this down with.\r<br/> <br/>Something to heat up your delicious GRAVY would be nice too.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

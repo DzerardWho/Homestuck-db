@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 3822,
+    "commands": [
+        {
+            "command": "[o] Tick. ",
+            "link": "/story/3823"
+        }
+    ],
+    "media": [
+        {
+            "file": "03819.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "03819_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Where y = 8.\r<br/> <br/>[<span style=\"color: #0e4603\">Hee hee.</span>]</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

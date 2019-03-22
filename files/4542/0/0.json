@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4542,
+    "commands": [
+        {
+            "command": "Dirk: Act fast. ",
+            "link": "/story/4543"
+        }
+    ],
+    "media": [
+        {
+            "file": "04539_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04539_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">While you were making short work of Squarewave, you once again made the mistake of letting your other self's guard down. \r<br/> <br/>You are accosted by a Dersite agent with a serious AXE TO GRIND. These guys aren't supposed to know you're awake. Looks like your cover's blown unless you act fast.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

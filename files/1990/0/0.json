@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1990,
+    "commands": [
+        {
+            "command": "Try again. ",
+            "link": "/story/1991"
+        }
+    ],
+    "media": [
+        {
+            "file": "01990.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh, ha ha! Nice one, smartypants. Really hilarious.\r<br/> <br/>But let's get real here. No more clowning around.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

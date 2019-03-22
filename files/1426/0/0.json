@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1426,
+    "commands": [
+        {
+            "command": "How exciting! A parcel for you. Retrieve it! ",
+            "link": "/story/1427"
+        }
+    ],
+    "media": [
+        {
+            "file": "01426.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You got a CHISEL.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

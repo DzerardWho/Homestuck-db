@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 7193,
+    "commands": [
+        {
+            "command": "[A6A6I4] ====> ",
+            "link": "/story/7194"
+        }
+    ],
+    "media": [
+        {
+            "file": "07190.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #00d5f2\">JANE: Apologies for the intrusion,</p>\n<p style=\"color: #00d5f2\">JANE: But I seem to be lost.</p>\n<p style=\"color: #00d5f2\">JANE: Could you please tell me where I am?</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 4124,
+    "commands": [
+        {
+            "command": "Jane: Get hat. ",
+            "link": "/story/4125"
+        }
+    ],
+    "media": [
+        {
+            "file": "04121_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04121_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04121_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You stick the RECIPE MODUS in your... uh... RECIPE MODUS!\r<br/> <br/>You flip the card over and look at the back. The thing about this modus you think is really cool is that instead of showing a completely useless wobbly garbled code on the back, it itemizes the components which could be used to create it! In a completely hypothetical framework, of course.\r<br/> <br/>Just another wonderful innovation by your favorite company. It releases many products of an experimental nature, often with applicability to other kinds of technology and products which haven't hit the market yet. Of course, as the heiress, you are privy to all the sweetest gear in advance. Maybe you'll rummage through some of that stuff later.\r<br/> <br/>The modus as a captchalogued object has only one simple recipe, involving an ARRAY MODUS (snore!) and a COOK BOOK (yesss!) Other objects have more varied and elaborate recipes though.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

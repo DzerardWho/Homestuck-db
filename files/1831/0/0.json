@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1831,
+    "commands": [
+        {
+            "command": "Dave: Combine Gamebro Magazine and timetables. ",
+            "link": "/story/1832"
+        }
+    ],
+    "media": [
+        {
+            "file": "01831.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You just make another one.\r<br/> <br/>You quickly stash it in a card so it can't escape from above.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 926,
+    "commands": [
+        {
+            "command": "Rose: Insert coin. ",
+            "link": "/story/927"
+        }
+    ],
+    "media": [
+        {
+            "file": "00926.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You fail miserably.\r<br/> <br/>Oh look, there's some more mad science crap over here.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

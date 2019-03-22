@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 6123,
+    "commands": [
+        {
+            "command": "[A6I5] SS: Take doll. ",
+            "link": "/story/6124"
+        }
+    ],
+    "media": [
+        {
+            "file": "06120_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "06120_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The hat was a little worse for the wear, but she took it to the tailor to have it repaired. Tailor, what tailor you say. The one that appears when you pull his pin from the little doll. She said she put the pin back though because the man was rather grouchy and unpleasant. \r<br/> <br/>Wait a minute...\r<br/> <br/>Of course. The doll!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

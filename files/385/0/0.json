@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 385,
+    "commands": [
+        {
+            "command": "THIS CHUM WILL KNOW WHAT TO DO. ",
+            "link": "/story/386"
+        }
+    ],
+    "media": [
+        {
+            "file": "00385.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And even meanerwhile, in the present. Sort of.\r<br/> <br/>Once again, the slippery antagonist eludes you. You only find more of these unpleasant oily smears.\r<br/> <br/>Someone is pestering you. Both your PDA and computer register the message.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5019,
+    "commands": [
+        {
+            "command": "Jake: Ok, try out infinitesimalizer. ",
+            "link": "/story/5020"
+        }
+    ],
+    "media": [
+        {
+            "file": "05016.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Eureka, it works! Never a doubt in your mind. Grandma's technology is pure modern witchcraft, like she busted loose from a big silver screen playing the Wizard of Oz or some nonsense, which also isn't a thing that's occurring to you right now. This is exactly the kind of technology you win big time awards for. The kind that could end world hunger. Or it would be if humanity wasn't about to go down the toilet anyway. What a bummer.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

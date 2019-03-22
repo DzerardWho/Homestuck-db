@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3410,
+    "commands": [
+        {
+            "command": "WV?: Ride. ",
+            "link": "/story/3411"
+        }
+    ],
+    "media": [
+        {
+            "file": "03407.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You presume the windy boy knows what he is doing. You tug the dark sash across your chest and secure it.\r<br/> <br/>This is an incredible look for you. It's too bad the fashion accessory seems to trap you inside this vehicle. Human fashion and transportation and safety sure are weird, and apparently interrelated.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

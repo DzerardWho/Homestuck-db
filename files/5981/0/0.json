@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5981,
+    "commands": [
+        {
+            "command": "[A6I5] END OF INTERFISHIN ",
+            "link": "/story/5982"
+        }
+    ],
+    "media": [
+        {
+            "file": "05978.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

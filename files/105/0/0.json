@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 105,
+    "commands": [
+        {
+            "command": "John: Remove PDA, envelope and package from cake. ",
+            "link": "/story/106"
+        }
+    ],
+    "media": [
+        {
+            "file": "00105_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00105_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You enter the BATHROOM. You can see your BACK YARD from the window. The jewel in its crown is the SWING SET which has provided you with years of joy. There is also a SPRING-MOUNTED POGO-RIDE, which has been responsible for more than one painful injury, and has provided you with years of lament.\r<br/> <br/>On the sink is your DAD'S RAZOR. On the rack to the side is a FRESH TOWEL.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2469,
+    "commands": [
+        {
+            "command": "Karkat: Check on Sollux. ",
+            "link": "/story/2470"
+        }
+    ],
+    "media": [
+        {
+            "file": "02468_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02468_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">YOU'R-E FR-E-E-E-E-E-E---------------E!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1991,
+    "commands": [
+        {
+            "command": "Hivebent ",
+            "link": "/story/1992"
+        }
+    ],
+    "media": [
+        {
+            "file": "01991.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">That is much better. In fact, as it happens, your guess is precisely correct. What are the odds??\r<br/> <br/>We examine the planet ALTERNIA. Somewhere on this planet, there is a young troll.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 119,
+    "commands": [
+        {
+            "command": "John: Put down razor. ",
+            "link": "/story/120"
+        }
+    ],
+    "media": [
+        {
+            "file": "00119.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You suddenly wonder if this is even possible. You don't even remember if you ever had a physical card for the STACK MODUS.\r<br/> <br/>You find this all to be a little abstract and you'd prefer not to think about it too much.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

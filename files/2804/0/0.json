@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2804,
+    "commands": [
+        {
+            "command": "Rose: Answer Eridan. ",
+            "link": "/story/2805"
+        }
+    ],
+    "media": [
+        {
+            "file": "02803.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">These chumps just won't quit hounding you!\r<br/> <br/>It's like they heard somebody over here was handing out asses, and they've known nothing but years of bitter ass famine.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

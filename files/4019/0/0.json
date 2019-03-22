@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4019,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/4036"
+        }
+    ],
+    "media": [
+        {
+            "file": "04016.swf",
+            "folder": "0"
+        },
+        {
+            "file": "nextbowl4.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><img border=\"0\" src=\"/images/storyfiles/hs2/scraps/nextbowl4.gif\"/></p>",
+    "pesterlog": null,
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

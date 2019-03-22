@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1711,
+    "commands": [
+        {
+            "command": "John: Take box. ",
+            "link": "/story/1712"
+        }
+    ],
+    "media": [
+        {
+            "file": "01711.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This gift from Rose is so cool. Two sweet bunnies on one birthday?? What are the odds. In a fit of enthusiasm you SHUT UP AND JAM the bunny back in the box, executing a textbook CHAOS DUNK.\r<br/> <br/>Millions would have perished, if everything in the ocean weren't dead already, that is.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

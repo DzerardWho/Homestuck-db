@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1216,
+    "commands": [
+        {
+            "command": "[I] HB: Do a silly dance. ",
+            "link": "/story/1217"
+        }
+    ],
+    "media": [
+        {
+            "file": "01216.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You stop not being Hearts Boxcars.\r<br/> <br/>You have made your way to the Felt's SECRET VAULT. It's bigger than you were expecting. You doubt you will be able to rely on your usual safe-cracking method, which is prying it from the wall with your bare hands. You'll have to think of something else.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

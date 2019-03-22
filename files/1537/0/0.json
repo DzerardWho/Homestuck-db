@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1537,
+    "commands": [
+        {
+            "command": "Rose, I must leave now. ",
+            "link": "/story/1538"
+        }
+    ],
+    "media": [
+        {
+            "file": "01537.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The BLACK QUEEN directs you to the office of the ARCHAGENT. He is in charge of most of the tedious paperwork around here.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

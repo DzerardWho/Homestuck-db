@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5458,
+    "commands": [
+        {
+            "command": "[A6I4] ==> ",
+            "link": "/story/5459"
+        }
+    ],
+    "media": [
+        {
+            "file": "05455.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What's that over there?? That looks like a GREAT thing to distract you from your awareness-addled reverie. \r<br/> <br/>It's some kind of blinking light, far off in the distance. It may be part of something else, like a larger structure. But it's so far away, the light is all you can see.\r<br/> <br/>You have a feeling it's going to be a long walk.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

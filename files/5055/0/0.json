@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 5055,
+    "commands": [
+        {
+            "command": "Jake: Take it. ",
+            "link": "/story/5056"
+        }
+    ],
+    "media": [
+        {
+            "file": "05052_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "05052_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You mainly want to take what's inside it. That thing is supposed to be all kinds of important.\r<br/> <br/>You wonder if you can just...\r<br/> <br/>Just sort of reach inside...\r<br/> <br/>And...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

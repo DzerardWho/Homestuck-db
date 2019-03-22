@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3426,
+    "commands": [
+        {
+            "command": "Karkat: Answer Terezi. ",
+            "link": "/story/3427"
+        }
+    ],
+    "media": [
+        {
+            "file": "03423.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have been so busy being consumed by unspeakable horror, you didn't notice someone has been trying to contact you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

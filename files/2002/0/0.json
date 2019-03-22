@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2002,
+    "commands": [
+        {
+            "command": "Karkat: Leave your room. ",
+            "link": "/story/2003"
+        }
+    ],
+    "media": [
+        {
+            "file": "02002_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02002_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It is a thick programming manual called \"~ATH - A HANDBOOK FOR THE IMMINENTLY DECEASED.\"\r<br/> <br/>~ATH is an insufferable language to work with. Its logic is composed of nothing but infinite loops, or at best, loops of effectively interminable construction.\r<br/> <br/>The above page in the intro section documents the simplest possible ~ATH code structure. Any code deviating from this basic structure will not compile.\r<br/> <br/>You have a whole bunch of code samples you've been messing around with on your computer. It's been frustrating at best, and debilitating to your machine at worst.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

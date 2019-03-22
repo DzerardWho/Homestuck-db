@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3719,
+    "commands": [
+        {
+            "command": "Terezi: Examine surroundings. ",
+            "link": "/story/3720"
+        }
+    ],
+    "media": [
+        {
+            "file": "03716.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You cannot wake up, because you were not actually asleep! You were just taking a breather in this nice cozy pile of horrifically mutilated scalemates, which were gathered here to break your fall for some reason. \r<br/> <br/>You wonder where you are? This is a fancy looking room. It doesn't look like a place you would expect to find on this meteor, at least not in any strictly canonical capacity.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

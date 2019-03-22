@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2120,
+    "commands": [
+        {
+            "command": "And way back again... ",
+            "link": "/story/2121"
+        }
+    ],
+    "media": [
+        {
+            "file": "02120.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The guy who likes to build robots just stood there and watched. It would always make everyone uncomfortable whenever he would just stand there. \r<br/> <br/>And watch.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

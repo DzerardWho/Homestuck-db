@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2509,
+    "commands": [
+        {
+            "command": "TROLL ETIQUETTE SURE IS CONFUSING. ",
+            "link": "/story/2510"
+        }
+    ],
+    "media": [
+        {
+            "file": "02508.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Just what you need. Another voice of the imminently deceased invading your head. Haven't they caused you enough trouble already?\r<br/> <br/>Get iit out.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1830,
+    "commands": [
+        {
+            "command": "Dave: Make another one. ",
+            "link": "/story/1831"
+        }
+    ],
+    "media": [
+        {
+            "file": "01830_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01830_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And there it goes. \r<br/> <br/>It is RIDICULOUS what kind of air this thing is getting. Dude come get the ruler check this out.\r<br/> <br/>Yeah, it's not coming back.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

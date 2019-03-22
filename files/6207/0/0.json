@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6207,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/6208"
+        }
+    ],
+    "media": [
+        {
+            "file": "06204.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">JOHN: what.</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

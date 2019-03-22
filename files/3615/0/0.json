@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3615,
+    "commands": [
+        {
+            "command": "o ",
+            "link": "/story/3616"
+        }
+    ],
+    "media": [
+        {
+            "file": "03612.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">[<span style=\"color: #ffffff\">I am also doing it because I am expecting a guest to arrive shortly. This should enable me to show the man the sort of hospitality he deserves, while doing the same for you.\r<br/> <br/>My apartment doesn't have a doorbell. Why would an omniscient fellow need to be alerted to the presence of a visitor? I know he will be right on time. Which is to say, early. And if I did have a doorbell, you would have just witnessed it ring.\r<br/> <br/>He is already here.</span>]</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

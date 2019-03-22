@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 595,
+    "commands": [
+        {
+            "command": "Dave: Take swords. ",
+            "link": "/story/596"
+        }
+    ],
+    "media": [
+        {
+            "file": "00595.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh god more shitty swords.\r<br/> <br/>Of course you knew these were in here. You're not even sure why you looked.\r<br/> <br/>If you want to keep any food or beverages in this apartment, you've pretty much got no choice but to hide stuff away in your closet.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

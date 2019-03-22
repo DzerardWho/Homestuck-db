@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 319,
+    "commands": [
+        {
+            "command": "Dave: Examine jar of unknown yellow substance in the closet. ",
+            "link": "/story/320"
+        }
+    ],
+    "media": [
+        {
+            "file": "00319.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You captchalogue the BOX through your HASH MAP FETCH MODUS.\r<br/> <br/>Your modus's current HASH FUNCTION resolves the index by valuing each consonant at 2, and each vowel at 1. The total is divided by your number of cards, and the remainder is the index.\r<br/> <br/>BOX = 2 + 1 + 2 = 5\r<br/> <br/>5 % 10 = 5\r<br/> <br/>The BOX is captchalogued in card 5.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

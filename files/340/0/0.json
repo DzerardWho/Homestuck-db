@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 340,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/341"
+        }
+    ],
+    "media": [
+        {
+            "file": "00340_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00340_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "00340_2_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You can't do it!\r<br/> <br/>John's got you all twisted up inside now. All you can think about is Mandel's gross monster piss. \r<br/> <br/>Damn you, Egbert!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

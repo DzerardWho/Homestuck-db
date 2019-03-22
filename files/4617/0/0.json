@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4617,
+    "commands": [
+        {
+            "command": "Jaspersprite: Say hi to everybody! ",
+            "link": "/story/4618"
+        }
+    ],
+    "media": [
+        {
+            "file": "04614.swf",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And that was pretty much how all that happened.</p>",
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1470,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1471"
+        }
+    ],
+    "media": [
+        {
+            "file": "01470.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The giclops absconds.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

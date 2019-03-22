@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3815,
+    "commands": [
+        {
+            "command": "[o] Tick. ",
+            "link": "/story/3816"
+        }
+    ],
+    "media": [
+        {
+            "file": "03812_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03812_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Again, sorry for the interruption. My conversation with the girl ran a bit long, slightly exceeding the one second I scheduled for it.\r<br/> <br/>This is where events begin to outpace my awareness. The deeper into this dark pocket we explore, the more I will be forced to speculate. I rarely have cause to rely on probability, but luckily for you, my guesses are better than anybody's.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

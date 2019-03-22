@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1748,
+    "commands": [
+        {
+            "command": "Rose: Proceed through door uneventfully. ",
+            "link": "/story/1749"
+        }
+    ],
+    "media": [
+        {
+            "file": "01748.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You hurry to the door so you can catch John before he goes gallivanting off somewhere.\r<br/> <br/>But it seems your door is ajar. Funny, you don't remember leaving your door ajar. Even though it's sort of absurd for you to take note of such a thing, considering John recently left your room. \r<br/> <br/>Oh well, it doesn't matter. You will now proceed through this door uneventfully.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

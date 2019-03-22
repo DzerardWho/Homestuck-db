@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1190,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1191"
+        }
+    ],
+    "media": [
+        {
+            "file": "01190_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01190_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You deploy your chest and swap this dinky little hat for one more suited to your tastes.\r<br/> <br/>Wait a minute...\r<br/> <br/>Thank god. Your precious SCOTTY DOGS are still here. You don't know what you'd do without them. You don't want to even think about it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

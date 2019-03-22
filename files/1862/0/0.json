@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1862,
+    "commands": [
+        {
+            "command": "Dave: Go back in time and stop the thief. ",
+            "link": "/story/1863"
+        }
+    ],
+    "media": [
+        {
+            "file": "01862.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

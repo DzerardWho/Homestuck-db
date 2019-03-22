@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3676,
+    "commands": [
+        {
+            "command": "John: Hugen hammer. ",
+            "link": "/story/3677"
+        }
+    ],
+    "media": [
+        {
+            "file": "03673.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Grandmother? You wonder who that could be?\r<br/> <br/>It's probably just Jade. What with all the time shenanigans.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

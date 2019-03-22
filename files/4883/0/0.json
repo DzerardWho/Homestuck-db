@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4883,
+    "commands": [
+        {
+            "command": "Jack: Look out window. ",
+            "link": "/story/4884"
+        }
+    ],
+    "media": [
+        {
+            "file": "04880.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What a horrible idea. You don't eat fresh produce. The thought is revolting to you. What do you think these sharp teeth are for? Or, what's left of them at least.\r<br/> <br/>You'll have to make a note to file a protest with your lawyer. Complain of cruel and unusual treatment. Their coddling criminal justice system will undoubtedly see to it you are given some proper meat to consume. Perhaps a prime cut of filet mignon, as if you are a guest of honor. What a bunch of powder puffs, with all their namby pamby morals and compassion. This kingdom makes you sick.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

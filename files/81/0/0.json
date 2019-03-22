@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 81,
+    "commands": [
+        {
+            "command": "[S] ==> ",
+            "link": "/story/82"
+        }
+    ],
+    "media": [
+        {
+            "file": "00081.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Predictably, the mailbox is empty. You have already been scooped by your father.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3205,
+    "commands": [
+        {
+            "command": "Jade: Pester Tavros. ",
+            "link": "/story/3206"
+        }
+    ],
+    "media": [
+        {
+            "file": "03202.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You don't know what you're about to do!\r<br/> <br/>But you've got to do something. You can't stand by and let that monster teleport-murder people all day, and frankly, the suicide plan Dave mentioned sounds just plain stupid. There must be a better way. Think, imagination!\r<br/> <br/>You suddenly remember the idea your awkward fairy god troll proposed. Maybe you were too hard on him. He was just trying to be nice, and it was an honest mistake when he slaughtered your grandfather ghost dad with his own childhood flintlock pistol. Maybe you should give his plan another chance.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

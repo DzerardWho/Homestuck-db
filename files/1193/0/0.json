@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 1193,
+    "commands": [
+        {
+            "command": "[I] CD: Grab the deuce of clubs. ",
+            "link": "/story/1194"
+        }
+    ],
+    "media": [
+        {
+            "file": "01193_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01193_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "01193_2_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You're not sure what's what. You can never remember which card to pick up. \r<br/> <br/>You can't believe how shitty your memory is.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

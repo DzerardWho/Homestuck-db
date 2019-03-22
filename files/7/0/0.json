@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 7,
+    "commands": [
+        {
+            "command": "John: Examine contents of chest. ",
+            "link": "/story/8"
+        }
+    ],
+    "media": [
+        {
+            "file": "00007_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00007_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You retrieve your FAKE ARMS from the chest. You use these for HILARIOUS ANTICS. \r<br/> <br/>You CAPTCHALOGUE them in your SYLLADEX. You have no idea what that actually means though.\r<br/> <br/>There are other items in the chest.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

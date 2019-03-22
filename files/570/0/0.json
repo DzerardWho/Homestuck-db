@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 570,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/571"
+        }
+    ],
+    "media": [
+        {
+            "file": "00570_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00570_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You spot one of your BRO'S many WEBCAMS nearby, recording the incident.\r<br/> <br/>It seems you may have just been an unwitting accessory to some sort of grisly puppet snuff film. You're not totally sure how you feel about that.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

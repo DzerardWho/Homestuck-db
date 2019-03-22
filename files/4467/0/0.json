@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4467,
+    "commands": [
+        {
+            "command": "Examine room. ",
+            "link": "/story/4468"
+        }
+    ],
+    "media": [
+        {
+            "file": "04464.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Thanks, pony who is presumably a tiny Maplehoof for some reason.\r<br/> <br/>The final two diluvial symbols have been unearthed from countless crushing ounces of slumbering pony.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

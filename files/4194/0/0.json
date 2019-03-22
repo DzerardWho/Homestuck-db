@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4194,
+    "commands": [
+        {
+            "command": "Ok, I'm done here. Moving on. ",
+            "link": "/story/4195"
+        }
+    ],
+    "media": [
+        {
+            "file": "04191.swf",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make a careful motion with a tentative shoe toward the EGRESS CASE, when suddenly THAT DARNED WILD CHARACTER-SELECT SCREEN ACCOSTS YOU BENIGNLY WITHOUT NOTICE!!!\r<br/> <br/>You still can't pick a shadowy guy. But maybe you haven't been the other girl yet? Better click her.\r<br/> <br/>But if you've been her already, there's really no point to this thing anymore. Time to move on.</p>",
+    "pesterlog": null,
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

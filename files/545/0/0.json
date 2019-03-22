@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 545,
+    "commands": [
+        {
+            "command": "John: Look at the piece of paper taped to the wall. ",
+            "link": "/story/546"
+        }
+    ],
+    "media": [
+        {
+            "file": "00545.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "00545_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It seems he has been collecting scraps from the news over the years. These articles go back decades.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

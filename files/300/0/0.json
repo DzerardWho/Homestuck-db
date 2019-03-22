@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 300,
+    "commands": [
+        {
+            "command": "Rose: Knit plush cuddle-cthulhu to soothe nerves. ",
+            "link": "/story/301"
+        }
+    ],
+    "media": [
+        {
+            "file": "00300.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You lose the ROOT CARD in the process, severing the tree.\r<br/> <br/>Hey, careful with all that stuff!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

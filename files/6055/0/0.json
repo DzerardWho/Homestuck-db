@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6055,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/6056"
+        }
+    ],
+    "media": [
+        {
+            "file": "06052.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #008141\">KANAYA: ...</p>\n<p style=\"color: #008141\">KANAYA: ...</p>\n<p style=\"color: #008141\">KANAYA: ...</p>\n<p style=\"color: #008141\">KANAYA: ...</p>\n<p style=\"color: #008141\">KANAYA: ...</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

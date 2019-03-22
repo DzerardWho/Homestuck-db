@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 646,
+    "commands": [
+        {
+            "command": "Rose: Message John the Captcha code. ",
+            "link": "/story/647"
+        }
+    ],
+    "media": [
+        {
+            "file": "00646_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00646_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You eject the disk and captchalogue the SERVER CD.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1410,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1411"
+        }
+    ],
+    "media": [
+        {
+            "file": "01410.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The yellow bandaged fellow seems to have slogged off somewhere. But the tall mail carrier with the lovely white complexion would probably get a kick out of your big computer with the weird boy on it.\r<br/> <br/>You show her inside.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

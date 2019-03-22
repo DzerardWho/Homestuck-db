@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1201,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1202"
+        }
+    ],
+    "media": [
+        {
+            "file": "01201.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Whew. Your SWEDISH FISH are there. \r<br/> <br/>This is why it's a good idea to always store your candy in your BACKUP HAT rather than your usual one. Other members of your gang have learned this the hard way and they're finally starting to catch on.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

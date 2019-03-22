@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 317,
+    "commands": [
+        {
+            "command": "Dave: Check the blue box. ",
+            "link": "/story/318"
+        }
+    ],
+    "media": [
+        {
+            "file": "00317.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This is your closet. This is where you keep a lot of your crap.\r<br/> <br/>Like that BOX. And that bottle of... what is that? \r<br/> <br/>Is that...?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

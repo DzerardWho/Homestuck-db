@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2284,
+    "commands": [
+        {
+            "command": "Equius: Deliver present. ",
+            "link": "/story/2285"
+        }
+    ],
+    "media": [
+        {
+            "file": "02284.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

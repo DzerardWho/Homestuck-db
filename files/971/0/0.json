@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 971,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/972"
+        }
+    ],
+    "media": [
+        {
+            "file": "00971.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have a staunch policy of always saving the biggest present for last.\r<br/> <br/>ALWAYS.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

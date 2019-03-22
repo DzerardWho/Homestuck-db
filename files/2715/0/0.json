@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2715,
+    "commands": [
+        {
+            "command": "Kanaya: Have seventh conversation. ",
+            "link": "/story/2716"
+        }
+    ],
+    "media": [
+        {
+            "file": "02714.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You decide to <a class=\"postlink\" href=\"/story/1589\" target=\"_blank\">SEEK COUNSEL</a> from the Rose human's dark spectacled friend.\r<br/> <br/>You believe you understand how to proceed.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

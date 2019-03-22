@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2160,
+    "commands": [
+        {
+            "command": "Nepeta: Answer Karkat. ",
+            "link": "/story/2161"
+        }
+    ],
+    "media": [
+        {
+            "file": "02160.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You saunter over to your DRAWING TABLET COMPUTER. You use this to draw... on a computer!!! It would be cool if this could somehow be adapted to serve as a fetch modus as well. That would be so much more fun than the frustrating one you're using now.\r<br/> <br/>You wonder what this grumpy fellow wants? Probably something to do with that game. That seems to be all ANYBODY'S talking about lately!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

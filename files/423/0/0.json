@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 423,
+    "commands": [
+        {
+            "command": "ME?? ==> ",
+            "link": "/story/424"
+        }
+    ],
+    "media": [
+        {
+            "file": "00423.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #00d5f2\">NANNASPRITE: And as it so happens, at the center of this realm whose fate is in question, these very forces duel on a stage, stuck in eternal stalemate.</p>\n\n<p style=\"color: #00d5f2\">NANNASPRITE: Yes, they have dueled in this manner forever... that is, until you showed up!</p>",
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

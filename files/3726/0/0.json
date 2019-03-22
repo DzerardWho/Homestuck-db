@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3726,
+    "commands": [
+        {
+            "command": "Terezi: Examine cover. ",
+            "link": "/story/3727"
+        }
+    ],
+    "media": [
+        {
+            "file": "03723.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">No no, this vaudevillian cornball nonsense will not do at all. The mood is just not right for figuring out crimes.\r<br/> <br/>You put the record back in its sleeve.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

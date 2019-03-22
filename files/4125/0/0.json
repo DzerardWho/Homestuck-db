@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4125,
+    "commands": [
+        {
+            "command": "Jane: Inspect posters. ",
+            "link": "/story/4126"
+        }
+    ],
+    "media": [
+        {
+            "file": "04122_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04122_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You captchalogue your FAVORITE HAT, which is also your ONLY HAT. You spent basically your ENTIRE CHILDHOOD in this hat, pretending to be hard boiled detectives and whatnot. In public, you and your DAD made quite the pair. Everyone could tell by a glance that you were your father's daughter, sired from his loins directly and genetically, through what was undoubtedly a natural process of human procreation involving a man and a woman. People would definitely nod and say, \"Yep, that little lady sure did emerge from a womb on account of <span style=\"font-style: italic\">that</span> gentleman's awesome virility.\"\r<br/> <br/>As you can see, there are loads of ways to cook up a hat like this, involving many stupid combinations of random objects.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

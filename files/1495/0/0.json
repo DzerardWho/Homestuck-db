@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1495,
+    "commands": [
+        {
+            "command": "Enter. ",
+            "link": "/story/1496"
+        }
+    ],
+    "media": [
+        {
+            "file": "01495.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The mausoleum was destroyed by the explosion. The secret passage remains. \r<br/> <br/>You have no idea where it leads, but it sure isn't the lab anymore.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

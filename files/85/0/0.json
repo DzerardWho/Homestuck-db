@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 85,
+    "commands": [
+        {
+            "command": "John: Spy in the kitchen. ",
+            "link": "/story/86"
+        }
+    ],
+    "media": [
+        {
+            "file": "00085_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00085_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The door is locked and your DAD has the CAR KEYS. You peer in through the driver's side window.\r<br/> <br/>You don't see any mail, but you do see a GREEN PACKAGE. There is also something underneath it that looks like a slip of paper. \r<br/> <br/>Could these items have come in the mail? You don't see anything else that's usually in the mail, like bills and coupons. Maybe your DAD forgot to take this stuff inside.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

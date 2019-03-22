@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4278,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4279"
+        }
+    ],
+    "media": [
+        {
+            "file": "04275.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The jig is so totally up.\r<br/> <br/>Nothing left to do but scurry your little legs to that box, snatch the mail and scram!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 352,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/353"
+        }
+    ],
+    "media": [
+        {
+            "file": "00352.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You should probably go pester Egbert again. You wonder if he found the beta yet. You also might chat about your respective SYLLADICES and FETCH MODI, if the topic happens to come up. You wonder if he is anywhere near as smooth with his sylladex as you are. Probably not. It's probably not even humanly possi...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

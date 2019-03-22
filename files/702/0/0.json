@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 702,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/703"
+        }
+    ],
+    "media": [
+        {
+            "file": "00702.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Using most of your imagination and an entire piece of sky-blue chalk, you render a bright and cheerful sky full of clouds. \r<br/> <br/>You have decided that very closely orbiting your city is a LUMINOUS PLANET, about which orbits a single MOON.\r<br/> <br/>You switch to another shade of blue and continue rendering on the western wall.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

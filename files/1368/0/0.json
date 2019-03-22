@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1368,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1369"
+        }
+    ],
+    "media": [
+        {
+            "file": "01368.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You swap your modus to JENGA, ejecting your sylladex in the process.\r<br/> <br/>Looks like the TIME CAPSULE has reset itself. It is sprouting a new bud. Presumably something else will come out when it blooms again in about 400 years.\r<br/> <br/>Too bad you won't be around to find out what it is!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

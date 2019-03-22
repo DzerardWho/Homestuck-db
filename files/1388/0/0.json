@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1388,
+    "commands": [
+        {
+            "command": "Jade: Install Beta. ",
+            "link": "/story/1389"
+        }
+    ],
+    "media": [
+        {
+            "file": "01388.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are returned to your bedroom without the rest of your loot. You doubt you'll have time to go back and get it. You guess you have inadvertently left your own time capsule there for whatever party may find it in the future. Lucky bastards!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4,
+    "commands": [
+        {
+            "command": "John: Quickly retrieve arms from drawer. ",
+            "link": "/story/5"
+        }
+    ],
+    "media": [
+        {
+            "file": "00004.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your name is JOHN. As was previously mentioned it is your BIRTHDAY. A number of CAKES are scattered about your room. You have a variety of INTERESTS. You have a passion for REALLY TERRIBLE MOVIES. You like to program computers but you are NOT VERY GOOD AT IT. You have a fondness for PARANORMAL LORE, and are an aspiring AMATEUR MAGICIAN. You also like to play GAMES sometimes.\r<br/> <br/>What will you do?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

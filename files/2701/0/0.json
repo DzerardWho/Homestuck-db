@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2701,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/2702"
+        }
+    ],
+    "media": [
+        {
+            "file": "02700.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You need to put some distance between yourself and that egregious display.\r<br/> <br/>These look like simpler times. Probably better to mess with her earlier on the timeline rather than later.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3764,
+    "commands": [
+        {
+            "command": "[o] Let's have a look at this disc. ",
+            "link": "/story/3765"
+        }
+    ],
+    "media": [
+        {
+            "file": "03761.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Welcome to my apartment. I trust you'll find my voice is more palatable against this decor. I continue to be an excellent host.\r<br/> <br/>I'm expecting two more guests later. First one, and then another. \r<br/> <br/>Make yourself comfortable in the meantime. But don't touch the candy on the table. That is reserved for one of my guests.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

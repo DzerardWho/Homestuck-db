@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1761,
+    "commands": [
+        {
+            "command": "John: Investigate. ",
+            "link": "/story/1762"
+        }
+    ],
+    "media": [
+        {
+            "file": "01761.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You spy a boat on the shore of one of the islands below. You wonder who could be out here rowing in the middle of the ocean.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

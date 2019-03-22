@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2183,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2184"
+        }
+    ],
+    "media": [
+        {
+            "file": "02183.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You head back to your hive to get the blue team's session started. \r<br/> <br/>It's been a while.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

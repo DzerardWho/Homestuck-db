@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2505,
+    "commands": [
+        {
+            "command": "BOY. ",
+            "link": "/story/2506"
+        }
+    ],
+    "media": [
+        {
+            "file": "02504_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02504_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Most other players only get one extra.\r<br/> <br/>But you're kind of a special case.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4423,
+    "commands": [
+        {
+            "command": "Jane: Turn around. ",
+            "link": "/story/4424"
+        }
+    ],
+    "media": [
+        {
+            "file": "04420.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You suppose you should let dad know you're ok. But it's been so long since you've enjoyed such a massive PRANKSTER'S GAMBIT in an exchange with the old man. It's hard not to bask in it, if only for a few seconds.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

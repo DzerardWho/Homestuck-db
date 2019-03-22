@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 529,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/530"
+        }
+    ],
+    "media": [
+        {
+            "file": "00529.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Not quite through with your cowboy empiricism just yet, you mash at the KEYBOARD to generate a random code.\r<br/> <br/>You enter \"dskjhsdk\". The DESIGNIX stops you after eight characters, which appears to be the maximum length for a code. The green light goes on, signaling its readiness for a card.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

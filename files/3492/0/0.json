@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3492,
+    "commands": [
+        {
+            "command": "John: Prepare to leave castle. ",
+            "link": "/story/3493"
+        }
+    ],
+    "media": [
+        {
+            "file": "03489.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #a10000\">AA: i am very much alive</p>\n<p style=\"color: #a10000\">AA: and i intend to stay that way :)</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

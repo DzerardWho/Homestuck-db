@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1555,
+    "commands": [
+        {
+            "command": "Jack: Open it. ",
+            "link": "/story/1556"
+        }
+    ],
+    "media": [
+        {
+            "file": "01555.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The PARCEL MISTRESS departs with her mission of double agency. You wonder if she'll actually be so foolish as to attempt to uphold her end of the lopsided bargain. You make a policy of handing out a REGISWORD and a HITLIST to just about everyone who enters your office. But you never think anyone's actually going to GO THROUGH with it.\r<br/> <br/>You wish you could watch. She's a deadwoman.\r<br/> <br/>You wonder why she's so desperate to acquire this package. What could be inside?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

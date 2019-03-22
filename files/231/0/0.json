@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 231,
+    "commands": [
+        {
+            "command": "Rose: Sneak by. ",
+            "link": "/story/232"
+        }
+    ],
+    "media": [
+        {
+            "file": "00231.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

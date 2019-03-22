@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1120,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1121"
+        }
+    ],
+    "media": [
+        {
+            "file": "01120.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You reload and take aim.\r<br/> <br/>That fair carapace... how it sparkles in the desert light.\r<br/> <br/>No. You cannot afford to be distracted by such thoughts. You are busy being the law.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

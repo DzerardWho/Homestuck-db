@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1500,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1501"
+        }
+    ],
+    "media": [
+        {
+            "file": "01500.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You build a bigger and better town to preside over. All expatriates are welcome, no matter what happened in the past, regardless of professional persuasion or metallurgical affiliation. You cut the town's ribbon with an official JUDICIAL BAYONET, which is stuck inside a grenade but you are kind of nervous about removing it.\r<br/> <br/>This should catch the eye of the tall nice lady.\r<br/> <br/>The grumpy yellow guy thinks this is dumb.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

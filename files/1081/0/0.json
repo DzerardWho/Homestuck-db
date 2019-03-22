@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1081,
+    "commands": [
+        {
+            "command": "Dave: Mourn the loss of Cal. ",
+            "link": "/story/1082"
+        }
+    ],
+    "media": [
+        {
+            "file": "01081.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Architectural perfection.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

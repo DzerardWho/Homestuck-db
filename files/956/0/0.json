@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 956,
+    "commands": [
+        {
+            "command": "Jack: Call a minion. ",
+            "link": "/story/957"
+        }
+    ],
+    "media": [
+        {
+            "file": "00956.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This frivolous headdress turns your stomach. You'd sooner stick your head in a furnace than coax it into this monstrosity's loathsome colorful maw.\r<br/> <br/>It's bad enough that your EXALTED RULER ordered everyone to drape themselves in these hideous rags the moment the troublesome human with the pipe and his child showed up. \r<br/> <br/>But you draw the line at the hat.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

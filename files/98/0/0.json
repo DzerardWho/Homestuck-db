@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 98,
+    "commands": [
+        {
+            "command": "John: Take package. ",
+            "link": "/story/99"
+        }
+    ],
+    "media": [
+        {
+            "file": "00098.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You snag your DAD'S PDA. Maybe later you'll switch the background image to something hilarious as a prank. Besides, it may come in handy later.\r<br/> <br/>Your spare CAPTCHALOGUE CARD is forced out of the SYLLADEX, and consequently integrated with the deck. You now have five cards to work with.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

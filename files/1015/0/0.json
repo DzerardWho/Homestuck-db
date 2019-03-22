@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1015,
+    "commands": [
+        {
+            "command": "WV: Take obvious course of action. ",
+            "link": "/story/1016"
+        }
+    ],
+    "media": [
+        {
+            "file": "01015.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You set the time to the present, and appearify the JUMBLE OF CABLE. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

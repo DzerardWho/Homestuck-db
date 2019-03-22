@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 363,
+    "commands": [
+        {
+            "command": "Rose: Acquire umbrella for protection from elements. ",
+            "link": "/story/364"
+        }
+    ],
+    "media": [
+        {
+            "file": "00363.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's too big to captchalogue!\r<br/> <br/>Not that you would want to move it anyway. The PRETTY PRINCESS DOLL has been sitting there for months, ever since your mother got this abomination for your birthday as a totally PASSIVE-AGGRESSIVE gesture.\r<br/> <br/>You decided to make it much less abominable by knitting Her Majesty a new head and new arms. Now it brings a mischievous smile to your face whenever you walk by. Your mother hasn't removed the doll yet, and probably never will. She would never be the one to blink first.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

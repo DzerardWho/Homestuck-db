@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1449,
+    "commands": [
+        {
+            "command": "AR: Use gunpowder and empty crates to make a campfire. ",
+            "link": "/story/1450"
+        }
+    ],
+    "media": [
+        {
+            "file": "01449_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01449_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

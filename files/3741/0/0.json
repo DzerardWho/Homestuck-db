@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3741,
+    "commands": [
+        {
+            "command": "Terezi: Examine journal entry. ",
+            "link": "/story/3742"
+        }
+    ],
+    "media": [
+        {
+            "file": "03738.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Just as you thought. It is a message from Vriska summoning you to do battle. It is written in Gamzee's rich jelly-smelling blood, but it is her handwriting for sure. Her quirk is present, leaving the matter unde88a8le.\r<br/> <br/>But why the hell does she want you to bring this stupid puppet along? She's so weird.\r<br/> <br/>There is a journal entry on the back. It probably isn't the slightest bit relevant to the current situation, but you guess it couldn't hurt to read it anyway.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

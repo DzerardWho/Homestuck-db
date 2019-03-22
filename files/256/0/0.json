@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 256,
+    "commands": [
+        {
+            "command": "FIRST, TAKE THE FABRIC ITEM ON THE FLOOR THERE. ",
+            "link": "/story/257"
+        }
+    ],
+    "media": [
+        {
+            "file": "00256.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #b536da\">TT: John?</p>\n<p style=\"color: #b536da\">TT: Are you there?</p>\n-- tentacleTherapist <span style=\"color: #b536da\">[TT]</span> is now an idle chum! --\n<p style=\"color: #0715cd\">EB: hey, yeah i'm here!</p>\n<p style=\"color: #0715cd\">EB: and not dead i think.</p>\n<p style=\"color: #b536da\">TT: I know.</p>\n<p style=\"color: #b536da\">TT: I've been watching you scramble through the house like a lunatic.</p>\n<p style=\"color: #b536da\">TT: You should have answered me sooner.</p>\n<p style=\"color: #0715cd\">EB: oh man, sorry, i was looking around for my dad and i can't find him anywhere!</p>\n<p style=\"color: #0715cd\">EB: have you seen him?</p>\n<p style=\"color: #b536da\">TT: No. I'm sure he'll turn up.</p>\n<p style=\"color: #b536da\">TT: We have more important things to address right now.</p>\n<p style=\"color: #0715cd\">EB: yeah, like where am i??</p>\n<p style=\"color: #b536da\">TT: I don't know that either. But I've determined your neighborhood was destroyed by the meteor. Wherever you were transported, it saved you from the impact.</p>\n<p style=\"color: #b536da\">TT: I've been reading reports in the news. Over the last few days, there have been many smaller meteor collisions with people's homes around the world.</p>\n<p style=\"color: #b536da\">TT: And they seem to be getting bigger. Yours was the biggest they've identified so far.</p>\n<p style=\"color: #0715cd\">EB: wow, ok.</p>\n<p style=\"color: #0715cd\">EB: so then i guess if this is all the game's doing, then the point is for us to save the world?</p>\n<p style=\"color: #b536da\">TT: Perhaps.</p>\n<p style=\"color: #0715cd\">EB: then we'd better get moving and figure this game out!!!</p>\n<p style=\"color: #b536da\">TT: Yes, but wait.</p>\n<p style=\"color: #b536da\">TT: We should retrieve your PDA. Yet again.</p>\n<p style=\"color: #b536da\">TT: It will help to keep tabs on each other while you investigate.</p>\n<p style=\"color: #b536da\">TT: I think I can get you closer to it, if I can replenish our grist supply somewhat.</p>\n<p style=\"color: #b536da\">TT: There may be a way to recycle some that we already used.</p>\n<p style=\"color: #0715cd\">EB: ok.</p>\n<p style=\"color: #b536da\">TT: I'll meet you out on the balcony.</p>\n<p style=\"color: #0715cd\">EB: wait, rose! one thing...</p>\n<p style=\"color: #b536da\">TT: What?</p>\n<p style=\"color: #0715cd\">EB: you never even wished me a happy birthday!</p>\n<p style=\"color: #0715cd\">EB: um... hello?</p>\n<p style=\"color: #b536da\">TT: I was working on something to send you, but I was running late with it.</p>\n<p style=\"color: #b536da\">TT: I didn't want you to think I believed meager well wishes alone would suffice for the occasion.</p>\n<p style=\"color: #b536da\">TT: That said, happy birthday, John.</p>\n<p style=\"color: #0715cd\">EB: haha, oh jeez, that is silly!</p>\n<p style=\"color: #0715cd\">EB: anyway, thanks!</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

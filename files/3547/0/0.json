@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3547,
+    "commands": [
+        {
+            "command": "Jack: Take a prize from the lady. ",
+            "link": "/story/3548"
+        }
+    ],
+    "media": [
+        {
+            "file": "03544.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You begin claiming trophies to celebrate your magnificent triumph over the defenseless loving couple. The man's hat suits you perfectly. It is plain and serviceable. Yes, that looks so good. The only way the look could possibly be improved is if it was blacker. Or bloodier.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

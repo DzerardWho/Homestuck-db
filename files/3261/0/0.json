@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3261,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3262"
+        }
+    ],
+    "media": [
+        {
+            "file": "03258.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">A fifth exile, sleeping for centuries in the belly of the ruins, far beneath the desecrated idol once sharing its visage with the legendary SPEAKER OF THE VAST CROAK.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1472,
+    "commands": [
+        {
+            "command": "WV, PM, AR: Stargaze. ",
+            "link": "/story/1473"
+        }
+    ],
+    "media": [
+        {
+            "file": "01472.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You could have sworn that strange man was holding your copy of Colonel Sassacre's. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

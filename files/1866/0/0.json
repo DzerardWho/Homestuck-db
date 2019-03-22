@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1866,
+    "commands": [
+        {
+            "command": "John: Zoom in. ",
+            "link": "/story/1867"
+        }
+    ],
+    "media": [
+        {
+            "file": "01866.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The monitor displays a town on the west coast of the United States. It appears to be your old neighborhood. But there is a factory there you do not recognize. The date is December 1st, 1995, a few months before you were born.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

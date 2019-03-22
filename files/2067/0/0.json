@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2067,
+    "commands": [
+        {
+            "command": "And later still... ",
+            "link": "/story/2068"
+        }
+    ],
+    "media": [
+        {
+            "file": "02067.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Rubbish from the LAND DWELLERS. Makes you sick.\r<br/> <br/>Whoever you are.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

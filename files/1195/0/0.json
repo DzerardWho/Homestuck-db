@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1195,
+    "commands": [
+        {
+            "command": "[I] CD: Pick a card, any card. ",
+            "link": "/story/1196"
+        }
+    ],
+    "media": [
+        {
+            "file": "01195_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01195_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You pick up a bunch of cards and fling them <span style=\"color: #2ed73a\">Doze</span>-ward.\r<br/> <br/>Didn't accomplish a whole lot, other than put some of your private reading material on embarrassing public display.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

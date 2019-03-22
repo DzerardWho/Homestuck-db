@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1280,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1281"
+        }
+    ],
+    "media": [
+        {
+            "file": "01280_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01280_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You go back to your original timeline. \r<br/> <br/>But now, stuffed in your chest you've got a live <span style=\"color: #2ed73a\">Crowbar </span>from another timeline. Brought to the timeline where he's supposed to be dead... so you guess now he's alive in this timeline which is in part defined by his death? Ok, whatever. You should probably just kill him again anyway.\r<br/> <br/>Also <span style=\"color: #2ed73a\">Sawbuck </span>from another timeline is in there too. So you guess now there are two <span style=\"color: #2ed73a\">Sawbucks</span>? This is getting kind of dumb.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4324,
+    "commands": [
+        {
+            "command": "[A6I1] ==> ",
+            "link": "/story/4325"
+        }
+    ],
+    "media": [
+        {
+            "file": "04321_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04321_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><a class=\"postlink\" href=\"https://www.google.com/#hl=en&amp;q=morse+code+translator\" target=\"_blank\"><img border=\"0\" src=\"/images/storyfiles/hs2/scraps/HELPHIM.gif\"/></a></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

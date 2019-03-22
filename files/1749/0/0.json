@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1749,
+    "commands": [
+        {
+            "command": "John: Equip trusty rocket. ",
+            "link": "/story/1750"
+        }
+    ],
+    "media": [
+        {
+            "file": "01749.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You get dumped on by a bucket full of HELLACIOUS BLUE PHLEGM ANEURYSM GUSHERS as a thoughtful but mischievous thank you gesture from John.\r<br/> <br/>Your PRANKSTER'S GAMBIT plunges to an all time low. You cannot hope to defeat Egbert in a prank-off. He is simply the best there is.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

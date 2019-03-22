@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 811,
+    "commands": [
+        {
+            "command": "Ok, one more time. ",
+            "link": "/story/812"
+        }
+    ],
+    "media": [
+        {
+            "file": "00811_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00811_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Congratulations, you advance your matching skill to the new level: YUKON HERO: LEGACY OF THE FROSTBITE AMPUTEE.\r<br/> <br/>Jade is beginning to regret breaking the fourth wall for this ill advised escapade.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

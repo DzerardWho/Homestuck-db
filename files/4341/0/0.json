@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4341,
+    "commands": [
+        {
+            "command": "[A6I1] ==> ",
+            "link": "/story/4342"
+        }
+    ],
+    "media": [
+        {
+            "file": "04338.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">JOHN: i could stick it in a book i guess.</p>\n<p style=\"color: #0715cd\">JOHN: but i kind of don't want to part with any great reading material, especially since we're going on a long trip.</p>\n<p style=\"color: #4ac925\">JADE: john you have to hurry!</p>\n<p style=\"color: #0715cd\">JOHN: ok, ok, um...</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

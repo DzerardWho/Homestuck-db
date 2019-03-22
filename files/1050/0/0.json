@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1050,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1051"
+        }
+    ],
+    "media": [
+        {
+            "file": "01050.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Speaking of John, you wonder if he got the birthday present you sent him? Or for that matter, if you even remembered to send it?\r<br/> <br/>Darn! You get so confused sometimes. If only you had some system in place to help you remember things.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

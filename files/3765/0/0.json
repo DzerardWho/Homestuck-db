@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3765,
+    "commands": [
+        {
+            "command": "[o] But yes, I can fix it. ",
+            "link": "/story/3766"
+        }
+    ],
+    "media": [
+        {
+            "file": "03762.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">She really did a number on it, didn't she? It's virtually unplayable like this.\r<br/> <br/>What a shame. There are many moments trapped on this disc which you would have no doubt found to be quite exhilarating.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

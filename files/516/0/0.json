@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 516,
+    "commands": [
+        {
+            "command": "oh, but thank you ",
+            "link": "/story/517"
+        }
+    ],
+    "media": [
+        {
+            "file": "00516.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Thanks for the courtesy. \r<br/> <br/>It's not really necessary, but thanks anyway.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

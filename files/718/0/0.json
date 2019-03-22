@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 718,
+    "commands": [
+        {
+            "command": "WV: Be the mayor. ",
+            "link": "/story/719"
+        }
+    ],
+    "media": [
+        {
+            "file": "00718.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You can't! Nothing is working anymore. The timer seems to have disabled the keyboard.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

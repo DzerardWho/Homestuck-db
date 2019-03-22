@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 7635,
+    "commands": [
+        {
+            "command": "[A6A6I5] ====> ",
+            "link": "/story/7636"
+        }
+    ],
+    "media": [
+        {
+            "file": "echidna.swf",
+            "folder": "0"
+        },
+        {
+            "file": "07631.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

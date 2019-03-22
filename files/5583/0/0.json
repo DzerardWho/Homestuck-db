@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5583,
+    "commands": [
+        {
+            "command": "Roxy: Look out window. ",
+            "link": "/story/5584"
+        }
+    ],
+    "media": [
+        {
+            "file": "05580.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #ff6ff2\">TG: huh?</p>\n<p style=\"color: #ff6ff2\">TG: what was that</p>\n<p style=\"color: #ff6ff2\">TG: thought i heard somethin</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

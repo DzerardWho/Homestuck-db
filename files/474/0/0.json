@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 474,
+    "commands": [
+        {
+            "command": "John: Confront Pogo Ride to prepare yourself for Nanna. ",
+            "link": "/story/475"
+        }
+    ],
+    "media": [
+        {
+            "file": "00474.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are getting way better at this sort of thing.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

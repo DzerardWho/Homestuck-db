@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6251,
+    "commands": [
+        {
+            "command": "MALE: DO SOME STUFF. ",
+            "link": "/story/6252"
+        }
+    ],
+    "media": [
+        {
+            "file": "06249.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">YOU EXAMINE YOUR SHITTY ROOM.\r<br/> <br/>YOU ARE THE MALE. I'M CALLING HIM YOU FOR SOME REASON. THAT IS HOW THIS IDIOTIC ADVENTURE GOES USUALLY. THE GUY ON THE SCREEN. THAT'S YOU. \r<br/> <br/>CONFUSED YET?? HA HA. IT ONLY GOES DOWN HILL FROM HERE. PREPARE TO BE FRUSTRATED AND ANGRY. AS MORE THINGS HAPPEN.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

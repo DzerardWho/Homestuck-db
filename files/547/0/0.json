@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 547,
+    "commands": [
+        {
+            "command": "John: Examine back of captchalogue card on floor. ",
+            "link": "/story/548"
+        }
+    ],
+    "media": [
+        {
+            "file": "00547.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You guess this is the combination to the safe.\r<br/> <br/>This is completely useless.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

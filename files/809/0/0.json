@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 809,
+    "commands": [
+        {
+            "command": "Try again. ",
+            "link": "/story/810"
+        }
+    ],
+    "media": [
+        {
+            "file": "00809_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00809_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have selected the KEY LIME.\r<br/> <br/>Way to go.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

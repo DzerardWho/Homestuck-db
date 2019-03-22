@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1632,
+    "commands": [
+        {
+            "command": "John: Await further instruction. ",
+            "link": "/story/1633"
+        }
+    ],
+    "media": [
+        {
+            "file": "01632.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

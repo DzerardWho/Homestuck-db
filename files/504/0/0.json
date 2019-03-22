@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 504,
+    "commands": [
+        {
+            "command": "now my civil fellow, i have a well mannered query to ask ",
+            "link": "/story/505"
+        }
+    ],
+    "media": [
+        {
+            "file": "00504.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">For some reason you feel a sense of positive reinforcement. Wherever that feeling is coming from, it sure is a welcome change from your erratic moods earlier.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

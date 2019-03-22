@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3661,
+    "commands": [
+        {
+            "command": "John: Look inside. ",
+            "link": "/story/3662"
+        }
+    ],
+    "media": [
+        {
+            "file": "03658.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

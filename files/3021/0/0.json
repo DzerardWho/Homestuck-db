@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3021,
+    "commands": [
+        {
+            "command": "Jade: Go upstairs. ",
+            "link": "/story/3022"
+        }
+    ],
+    "media": [
+        {
+            "file": "03020.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #4ac925\">JADE: what happened in here?</p>\n<p style=\"color: #4ac925\">JADE: where is everything? all the globes and houseguests...</p>\n<p style=\"color: #4ac925\">JADE: and the cruxtruder???</p>\n<p style=\"color: #4ac925\">JADE: and grandpa???????????</p>\n<p style=\"color: #4ac925\">JADE: bec, what did you do!</p>\n<p style=\"color: #4ac925\">JADE: has someone been a bad dog??</p>\n<p style=\"color: #4ac925\">JADE: wait never mind, please dont answer that!!!!</p>\n<p style=\"color: #4ac925\">JADE: @_@</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

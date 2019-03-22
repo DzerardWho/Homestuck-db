@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 449,
+    "commands": [
+        {
+            "command": "Dave: Play a game on the Xbox. ",
+            "link": "/story/450"
+        }
+    ],
+    "media": [
+        {
+            "file": "00449.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">CAL's nowhere in sight. All you see is a bunch of your BRO's weird nude puppets strewn around haphazardly.\r<br/> <br/>You...\r<br/> <br/>You guess these things are kinda cool. \r<br/> <br/>Sort of...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

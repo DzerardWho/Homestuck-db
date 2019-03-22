@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1243,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1244"
+        }
+    ],
+    "media": [
+        {
+            "file": "01243.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You follow Droog's simple instructions. So simple even a forgetful nincompoop like you can remember.\r<br/> <br/>There's a BLOOD TRAIL on the floor that goes in a different direction than <span style=\"color: #2ed73a\">Trace</span> went. You decide to follow it, because that sounds like a really good idea to you.\r<br/> <br/>If there was something you were supposed to do after helping out Droog, you'll be damned if you remember what it was.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

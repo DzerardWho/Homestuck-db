@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2749,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/2750"
+        }
+    ],
+    "media": [
+        {
+            "file": "02748_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02748_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You suppose you'd better report this to your teammates. Perhaps a memo is in order. But today, there will be little reason for rumpus in your partytown. Today is a very sad day. You are all in bigger trouble than you suspected.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

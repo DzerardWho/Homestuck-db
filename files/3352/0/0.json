@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3352,
+    "commands": [
+        {
+            "command": "Karkat: Examine Kanaya's computer. ",
+            "link": "/story/3353"
+        }
+    ],
+    "media": [
+        {
+            "file": "03349.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">She is <span style=\"color: #77003c\">DEAD.</span> <br/> <br/>He is not going to take it well when he wakes up.\r<br/> <br/>You hope he just stays asleep for a while.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4909,
+    "commands": [
+        {
+            "command": "Jack: Welcome guest. ",
+            "link": "/story/4910"
+        }
+    ],
+    "media": [
+        {
+            "file": "04906.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The only remaining thing in the room worth noting is in the other corner of your cell. Just a transport pad prisoners are supposed to use as a waste receptacle. These were decommissioned in Derse prisons a long time ago. Too many prisoner suicides, and severed heads showing up in the waste bins. None of those auto-decapitations were authorized with the right paperwork, so privileges had to be suspended.\r<br/> <br/>You hear the door open and slam shut. Someone else is in your cell.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1431,
+    "commands": [
+        {
+            "command": "Have a look around, Rose. ",
+            "link": "/story/1432"
+        }
+    ],
+    "media": [
+        {
+            "file": "01431.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Apparently she can.\r<br/> <br/>Though usually she goes by Rose.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

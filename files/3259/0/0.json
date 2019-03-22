@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3259,
+    "commands": [
+        {
+            "command": "WQ: Advise Prospitian Monarch. ",
+            "link": "/story/3260"
+        }
+    ],
+    "media": [
+        {
+            "file": "03256.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have humored these antics long enough. It is time you slipped out the partially open door to seek help, since your beloved master has clearly gone stark raving mad.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

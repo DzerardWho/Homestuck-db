@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1182,
+    "commands": [
+        {
+            "command": "[I] CD: Play some solitaire. ",
+            "link": "/story/1183"
+        }
+    ],
+    "media": [
+        {
+            "file": "01182.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">War chest? What are you talking about. All you've got is this simple, unassuming DECK OF CARDS.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

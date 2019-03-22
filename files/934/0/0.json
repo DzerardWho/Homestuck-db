@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 934,
+    "commands": [
+        {
+            "command": "Rose: Have a flashback. ",
+            "link": "/story/935"
+        }
+    ],
+    "media": [
+        {
+            "file": "00934.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The device generates a fetal PARADOX CLONE of Jaspers.\r<br/> <br/>The wretched creature exhibits a number of unfortunate mutations though. The good news is that it will be mercifully UNESTABLISHED along with this facility shortly. This is also the bad news.\r<br/> <br/>Whoever was operating this machine in the past may have been making unsuccessful attempts to perfect the science of <span style=\"color: #0a9500\">ECTOBIOLOGY</span>.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

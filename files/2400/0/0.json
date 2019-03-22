@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2400,
+    "commands": [
+        {
+            "command": "Examine pale quadrant. ",
+            "link": "/story/2401"
+        }
+    ],
+    "media": [
+        {
+            "file": "02399.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">An auspistice can stabilize particularly turbulent relationships. If the auspistice fails to mediate properly, or has no interest in the role, or perhaps has different romantic intentions him/herself altogether, then the relationship often quickly deteriorates into one of an especially hostile and torrid nature. There are many outside factors and influences tugging and pulling these relationships in different directions, and unlike humans who have very orderly, simple, straightforward romantic relationships without exception, trolls exist in a state of almost perpetual confusion and generally have no idea what the hell is going on.\r<br/> <br/>Being confused by troll relationships is one thing we do have in common though.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

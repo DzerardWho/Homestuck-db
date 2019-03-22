@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 616,
+    "commands": [
+        {
+            "command": "John: Carve a totem of the punched pogo card. ",
+            "link": "/story/617"
+        }
+    ],
+    "media": [
+        {
+            "file": "00616.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

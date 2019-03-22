@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 2994,
+    "commands": [
+        {
+            "command": "Jade: Wake up again. ",
+            "link": "/story/2995"
+        }
+    ],
+    "media": [
+        {
+            "file": "02993.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "02993_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #77003c\">CC: Because, stupid.</p>\n<p style=\"color: #77003c\">CC: I'M D------EAD!</span> </p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

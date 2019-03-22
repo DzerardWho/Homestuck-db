@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1739,
+    "commands": [
+        {
+            "command": "John: Pester Davesprite. ",
+            "link": "/story/1740"
+        }
+    ],
+    "media": [
+        {
+            "file": "01739_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01739_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You use the alchemiter's scaling upgrade to reduce it to a more manageable and affordable size.\r<br/> <br/>You make a weapon called FEAR NO ANVIL.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

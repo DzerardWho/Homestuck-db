@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 8125,
+    "commands": [
+        {
+            "command": "====> ",
+            "link": "/story/8126"
+        }
+    ],
+    "media": [
+        {
+            "file": "08118johndad.png",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

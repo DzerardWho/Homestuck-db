@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 422,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "story/423"
+        }
+    ],
+    "media": [
+        {
+            "file": "00422.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #00d5f2\">NANNASPRITE: Above <span style=\"text-decoration: underline\">The Medium</span>, beyond <span style=\"text-decoration: underline\">The Seven Gates</span>, residing at the core of <span style=\"text-decoration: underline\">The Incipisphere</span> is a place known as <span style=\"text-decoration: underline\">Skaia</span>.</p><p style=\"color: #00d5f2\">NANNASPRITE: Legend holds that <span style=\"text-decoration: underline\">Skaia</span> exists as a dormant crucible of unlimited creative potential. What does this mean, you ask? I'm afraid my lips are sealed about that, dear! Hoo hoo!</p><p style=\"color: #00d5f2\">NANNASPRITE: But needless to say, where a realm of such profound importance is concerned, forces of light will forever be charged with its defense, while forces of darkness will just as persistently covet its destruction!</p>",
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

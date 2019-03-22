@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3863,
+    "commands": [
+        {
+            "command": "[o] BREAK. ",
+            "link": "/story/3864"
+        }
+    ],
+    "media": [
+        {
+            "file": "03860_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03860_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">But it is the desecration of a priceless timepiece where I must draw the line. I'm afraid I must now insist that you take your beating <span style=\"font-style: italic\">quite</span> personally.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

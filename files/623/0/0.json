@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 623,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/624"
+        }
+    ],
+    "media": [
+        {
+            "file": "00623.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You create a HAMMER at the expense of 2 units of BUILD GRIST.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

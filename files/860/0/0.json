@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 860,
+    "commands": [
+        {
+            "command": "Rose: Go to the center and do a goofy dance. ",
+            "link": "/story/861"
+        }
+    ],
+    "media": [
+        {
+            "file": "00860.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Looks like a mapping of each hub's index. \r<br/> <br/>It appears one of the hubs was recently unlocked. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

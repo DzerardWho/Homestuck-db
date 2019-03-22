@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 672,
+    "commands": [
+        {
+            "command": "WV: Attempt to open can with your weak pathetic digits. ",
+            "link": "/story/673"
+        }
+    ],
+    "media": [
+        {
+            "file": "00672.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your teeth are useless for the task! They are blunt like that of livestock, presumably suitable for mashing up plant matter, and not for puncturing metal.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 780,
+    "commands": [
+        {
+            "command": "Jade: Captchalogue something. ",
+            "link": "/story/781"
+        }
+    ],
+    "media": [
+        {
+            "file": "00780.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "00780_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make your way to the middle of the GARDEN ATRIUM, where a stairwell joins the four ATRIUM WINGS.\r<br/> <br/>Upstairs is your grandfather's LABORATORY as well as your BEDROOM.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

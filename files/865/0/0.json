@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 865,
+    "commands": [
+        {
+            "command": "Rose: Find the unlocked hub. ",
+            "link": "/story/866"
+        }
+    ],
+    "media": [
+        {
+            "file": "00865.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You gather up all your items again in an order that places your LAPTOP in a conveniently accessible leaf. You're not sure why you didn't do this a lot sooner.\r<br/> <br/>Kind of a funny looking tree now, but your concern for structural elegance is at an all time low.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

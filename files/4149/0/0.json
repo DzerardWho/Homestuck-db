@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 4149,
+    "commands": [
+        {
+            "command": "Jane: Check out gristwidget. ",
+            "link": "/story/4150"
+        }
+    ],
+    "media": [
+        {
+            "file": "04146_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04146_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04146_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have a COOKBOOK, which of course was made obsolete by your computerized talking bowlbuster. You wouldn't dare part with it though. Too many wonderful memories.\r<br/> <br/>There's Anderson's aforementioned book, WISE GUY. His (Caveney's) stories are gripping! In a way.\r<br/> <br/>And then there's a customized copy of PONY PALS, a gift to you on your 14th birthday from the slippery Mr. Strider. Each page contains lovingly hand-written commentary on the deeds of this intrepid young horse.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

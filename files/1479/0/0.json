@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1479,
+    "commands": [
+        {
+            "command": "PM?: Retrieve both parcels. ",
+            "link": "/story/1480"
+        }
+    ],
+    "media": [
+        {
+            "file": "01479.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You doff so furiously you are in danger of starting a HAT FIRE. \r<br/> <br/>Probably not the best idea around all this oil. Especially without any sort of <a class=\"postlink\" href=\"http://images.google.com/images?um=1&amp;hl=en&amp;tbs=isch%3A1&amp;sa=1&amp;q=barbasol&amp;aq=f&amp;aqi=g1&amp;aql=&amp;oq=&amp;start=0&amp;social=false\" target=\"_blank\">flame suppressant</a> handy.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

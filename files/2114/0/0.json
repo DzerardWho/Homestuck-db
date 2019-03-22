@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2114,
+    "commands": [
+        {
+            "command": "Tavros: Take lance. ",
+            "link": "/story/2115"
+        }
+    ],
+    "media": [
+        {
+            "file": "02114.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You can't fit all the way in because of your huge horns. It makes it hard to get any solid shuteye.\r<br/> <br/>Oh great, now you're covered in slime. Why did you do this? You're going to have to change your clothes. There goes another solid hour down the tubes.\r<br/> <br/>Aw damn and there goes your four wheel device down the ramp. That happens a lot.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3984,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/3985"
+        }
+    ],
+    "media": [
+        {
+            "file": "03981_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03981_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #4ac925\">?GG: later my grandpa made a robot for me to help me with my sleep walking</p>\n<p style=\"color: #4ac925\">?GG: it could do all the walking while i stayed safe in bed!</p>\n<p style=\"color: #4ac925\">?GG: it could also record my dreams</p>\n<p style=\"color: #4ac925\">?GG: i am sure he always knew my dreams were going to be special</p>\n<p style=\"color: #4ac925\">?GG: i suspect he knew it before i was even born</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

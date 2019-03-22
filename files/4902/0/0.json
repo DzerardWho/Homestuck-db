@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4902,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4903"
+        }
+    ],
+    "media": [
+        {
+            "file": "04899.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your clumsy fist accidentally flies through the bars, knocking out a passer-by. Keys from his key ring jangle on the floor.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

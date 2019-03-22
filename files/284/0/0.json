@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 284,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/285"
+        }
+    ],
+    "media": [
+        {
+            "file": "00284.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are about to head upstairs, but you thought you heard something behind you.\r<br/> <br/>It was faint, but you could swear it was a small, lighthearted chuckle. Along the lines of a spirited \"Hoo-hoo-hoo!\"</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

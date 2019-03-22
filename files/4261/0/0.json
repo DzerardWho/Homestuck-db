@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4261,
+    "commands": [
+        {
+            "command": "Jane: Read note. ",
+            "link": "/story/4262"
+        }
+    ],
+    "media": [
+        {
+            "file": "04258.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He finds a note taped underneath the fridge. It seems to be addressed to you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

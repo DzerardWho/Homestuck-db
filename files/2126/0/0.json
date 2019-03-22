@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2126,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2127"
+        }
+    ],
+    "media": [
+        {
+            "file": "02126_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02126_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The counterweight is the skull of an ancient mother grub, slain thousands of solar sweeps ago.\r<br/> <br/>The egg contains a rare species of dragon which remains blind until maturity, using its other senses to survive. It has balanced the skull here for millennia, waiting for the warmth of a meteor-sparked forest fire before hatching.\r<br/> <br/>In case it wasn't clear, dragons are real.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

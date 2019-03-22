@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3144,
+    "commands": [
+        {
+            "command": "Jade: Make earmuffs. ",
+            "link": "/story/3145"
+        }
+    ],
+    "media": [
+        {
+            "file": "03141.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have put a lot of thought into this and you have some great ideas.\r<br/> <br/>But first you would like to make something practical. Something to keep you warm in this chilly weather!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2057,
+    "commands": [
+        {
+            "command": "Terezi: Deal with Karkat. ",
+            "link": "/story/2058"
+        }
+    ],
+    "media": [
+        {
+            "file": "02057.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh no. Not Karkat. You were only going to ask him as a last resort. You wonder what he wants? You will try to avoid mentioning the game. Hopefully he hasn't caught wind of it yet.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

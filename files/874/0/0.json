@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 874,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/875"
+        }
+    ],
+    "media": [
+        {
+            "file": "00874.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It appears to be Skaianet's primary SESSION TERMINAL, monitoring a great number of SBURB SESSIONS in the northeastern United States and parts of Canada. Upon further investigation you draw some logical conclusions.\r<br/> <br/>It looks like each SESSION consists of an IP address and a physical location. The colored dots on the map appear to be METEOR IMPACT SITES. It seems each session corresponds with a meteor, but not all meteors have sessions.\r<br/> <br/>The color of the dot appears to indicate the status of the meteor's descent. The red dots indicate meteors that have already landed. Yellow dots are imminent collisions. Green will impact later, and blue will take the longest to touch down.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

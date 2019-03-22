@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 252,
+    "commands": [
+        {
+            "command": "[S] YOU THERE. BOY. ",
+            "link": "/story/253"
+        }
+    ],
+    "media": [
+        {
+            "file": "00252_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00252_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What is left of the SPRITE undergoes a mysterious transformation.\r<br/> <br/>For a moment you thought you heard someone say \"BOY\", as if whispered in the periphery of your awareness. \r<br/> <br/>It was probably just your imagination though.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

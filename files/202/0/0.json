@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 202,
+    "commands": [
+        {
+            "command": "John: Run to your room and contact TT through Pesterchum. ",
+            "link": "/story/203"
+        }
+    ],
+    "media": [
+        {
+            "file": "00202_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00202_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

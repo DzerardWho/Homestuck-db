@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3436,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3437"
+        }
+    ],
+    "media": [
+        {
+            "file": "03433.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Hmm...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

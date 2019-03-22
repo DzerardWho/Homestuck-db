@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 113,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/114"
+        }
+    ],
+    "media": [
+        {
+            "file": "00113.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You decide it's time for less meta, and more beta.\r<br/> <br/>You insert the CD and install the SBURB BETA.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

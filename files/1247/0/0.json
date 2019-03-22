@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1247,
+    "commands": [
+        {
+            "command": "[I] CD: Follow the red-blood road. ",
+            "link": "/story/1248"
+        }
+    ],
+    "media": [
+        {
+            "file": "01247.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><span style=\"color: #2ed73a\">Fin</span> makes his way through the mansion to get some help.\r<br/> <br/>He wonders where this little guy is going. Deuce's FUTURE TRAIL is headed in the same direction he's headed, by sheer coincidence. <span style=\"color: #2ed73a\">Fin </span>decides to follow him for a bit, keep an eye on him. For as long as Deuce's path matches his, that is. There's pretty much no chance he's headed to the same place, though. That would be statistically improbable.\r<br/> <br/>He's got no idea what these other goons are up to here. Funny, their FUTURE TRAILS end here. He's not gonna stick around long enough to find out why. He's a bit too woozy from the blood loss to sort out this mess anyway.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

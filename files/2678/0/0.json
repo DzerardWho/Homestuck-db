@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2678,
+    "commands": [
+        {
+            "command": "John: Assail rogue. ",
+            "link": "/story/2679"
+        }
+    ],
+    "media": [
+        {
+            "file": "02677.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh no, more embarrassing cleaning apparatus. You've got to hide it before Sekret Spinneret or whatever her name is sees it and gets upset.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1207,
+    "commands": [
+        {
+            "command": "[I] CD: Just lock Doze in the battledrobe. ",
+            "link": "/story/1208"
+        }
+    ],
+    "media": [
+        {
+            "file": "01207.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">After giving a quick 10-4 over the RADIO, you take another look at your prisoner. He lucked out. Looks like round two of your brutal interrogation will have to wait.\r<br/> <br/>You couldn't find any ROPE, so you tied him up with a STRETCH ARMSTRONG DOLL which you happened to have lying around. You don't remember how you got it.\r<br/> <br/>It looks sort of dumb, but it will have to do.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

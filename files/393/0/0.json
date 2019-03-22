@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 393,
+    "commands": [
+        {
+            "command": "Rose: Exit. ",
+            "link": "/story/394"
+        }
+    ],
+    "media": [
+        {
+            "file": "00393.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

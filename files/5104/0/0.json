@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5104,
+    "commands": [
+        {
+            "command": "Calliope: See what you've got captchalogued. ",
+            "link": "/story/5105"
+        }
+    ],
+    "media": [
+        {
+            "file": "05101.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It is a box of SPECIAL STARDUST. Cherubs love this stuff. They eat it like breakfast cereal every day. \r<br/> <br/>It doesn't even have any magical properties though. It's really just some useless sparkly powder they like to eat. It's basically inedible to any other kind of creature. However, it is potentially quite useful for various arts and crafts.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

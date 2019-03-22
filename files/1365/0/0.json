@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1365,
+    "commands": [
+        {
+            "command": "In the mystic ruins of an era pre-desecration... ",
+            "link": "/story/1366"
+        }
+    ],
+    "media": [
+        {
+            "file": "01365.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2810,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/2811"
+        }
+    ],
+    "media": [
+        {
+            "file": "02809.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You fail to randomly explode.\r<br/> <br/>Of course you were just venting about all that. Why would you blow yourself up on account of that silly conversation? What rational reason could you possibly have to blow yourself up, or explode from any cause for that matter, now or at any point in the near future?\r<br/> <br/>It just makes no sense.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3164,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3165"
+        }
+    ],
+    "media": [
+        {
+            "file": "03161_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03161_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It worked! The result is a huge kickass PROTON CANNON.\r<br/> <br/>Obviously you can only wield this weapon in your IRON LASS SUIT.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

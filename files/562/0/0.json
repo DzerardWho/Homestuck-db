@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 562,
+    "commands": [
+        {
+            "command": "Dave: Take expensive ninja sword. ",
+            "link": "/story/563"
+        }
+    ],
+    "media": [
+        {
+            "file": "00562.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You wander over to the place where your BRO keeps his sweet turntable gear. Man that setup is sweet. You feel pangs of jealousy whenever you walk by it. Really cool jealousy, though. Like the kind where instead of getting all worked up about it, you don't actually give a shit.\r<br/> <br/>One of your brother's rad and extremely expensive NINJA SWORDS is missing though. \r<br/> <br/>You know this drill all too well. Trouble's a brewin'.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

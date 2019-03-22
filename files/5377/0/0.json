@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5377,
+    "commands": [
+        {
+            "command": "[A6I3] ==> ",
+            "link": "/story/5378"
+        }
+    ],
+    "media": [
+        {
+            "file": "05374.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

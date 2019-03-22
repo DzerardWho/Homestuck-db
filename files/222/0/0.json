@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 222,
+    "commands": [
+        {
+            "command": "John: Tell Liv Tyler you love her before impact. ",
+            "link": "/story/223"
+        }
+    ],
+    "media": [
+        {
+            "file": "00222.swf",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You waste approximately 40 seconds playing the violin while your friend is in peril. \r<br/> <br/>Nice time management skills there, sweetheart!</p>",
+    "pesterlog": null,
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2542,
+    "commands": [
+        {
+            "command": "Equius: Read first memo. ",
+            "link": "/story/2543"
+        }
+    ],
+    "media": [
+        {
+            "file": "02541.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It does not appear to be a message from Karkat directed at you specifically.\r<br/> <br/>He has just updated one of the many memos on the transtimeline bulletin board he set up a while ago. You've since no longer bothered keeping up with the endless and mostly incomprehensible communique.\r<br/> <br/>But while checking the update, you can't help but skim through the first memo in the long sequence, which was written hours ago from your present perspective.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

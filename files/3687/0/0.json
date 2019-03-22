@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3687,
+    "commands": [
+        {
+            "command": "John: Bid farewell. ",
+            "link": "/story/3688"
+        }
+    ],
+    "media": [
+        {
+            "file": "03684.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And this guy...\r<br/> <br/>You guess this guy can go along and help out?\r<br/> <br/>Hey who even is this guy, anyway? You guess it doesn't matter. He seems nice enough.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

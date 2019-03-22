@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 46,
+    "commands": [
+        {
+            "command": "John: Leave room. ",
+            "link": "/story/47"
+        }
+    ],
+    "media": [
+        {
+            "file": "00046.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">John? Who is this \"John\" you speak of? You are quite certain there has never been, nor ever will be...\r<br/> <br/>Yeah, this is a really shitty disguise.\r<br/> <br/>While you are wearing the items, they remain on the card, but it is temporarily removed from the deck, thus freeing up the cards beneath it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

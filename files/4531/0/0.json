@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4531,
+    "commands": [
+        {
+            "command": "Dirk: Examine red microwave. ",
+            "link": "/story/4532"
+        }
+    ],
+    "media": [
+        {
+            "file": "04528.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">And that one is...\r<br/> <br/>Never mind what that one is. You can't stand around all day looking at movie stills and swole bunny men. There's still some other shit in your room to investigate.\r<br/> <br/>You switch back to your regular shirt. You weren't feeling the wifebeater. The tee shirt says \"I still got work to do\", while the other one says, \"which trailer's the party at?\" And Striders don't party til it's good and fuckin' time to party.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

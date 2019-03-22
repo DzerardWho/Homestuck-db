@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4272,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4273"
+        }
+    ],
+    "media": [
+        {
+            "file": "04269.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oh no, it's a hostile swarm of those little fairy bulls! They are probably pissed off about the one you killed earlier. They have come for revenge!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

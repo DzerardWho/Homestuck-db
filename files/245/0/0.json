@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 245,
+    "commands": [
+        {
+            "command": "[S] John: Take bite of apple. ",
+            "link": "/story/246"
+        }
+    ],
+    "media": [
+        {
+            "file": "00245.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

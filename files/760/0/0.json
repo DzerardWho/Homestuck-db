@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 760,
+    "commands": [
+        {
+            "command": "Enter name. ",
+            "link": "/story/761"
+        }
+    ],
+    "media": [
+        {
+            "file": "00760.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">A silly girl naps by her flowers. It is quite likely that she tired herself out with a variety of silly antics, as silly girls are often known to do. She may have a silly name too. Or maybe not. It is hard to say for sure without asking her.\r<br/> <br/>But since she's slumbering peacefully, it would be a shame to wake her up. You might as well just give her a name right now.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

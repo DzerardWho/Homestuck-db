@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4348,
+    "commands": [
+        {
+            "command": "[A6I1] ==> ",
+            "link": "/story/4349"
+        }
+    ],
+    "media": [
+        {
+            "file": "04345.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You both also get one of these. Now you can start flapping your traps with wild abandon at anyone you please.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

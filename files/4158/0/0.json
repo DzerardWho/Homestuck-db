@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4158,
+    "commands": [
+        {
+            "command": "Jane: Don clever disguise. ",
+            "link": "/story/4159"
+        }
+    ],
+    "media": [
+        {
+            "file": "04155.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You scamper over to the door, but pause a second to think. Is your dad still washing the car? Hopefully he's still preoccupied so you can sneak out.\r<br/> <br/>But it doesn't hurt to be prepared for an encounter. Luckily, that is exactly what you are.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

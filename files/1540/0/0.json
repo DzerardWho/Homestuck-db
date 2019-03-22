@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1540,
+    "commands": [
+        {
+            "command": "Rose: Sip martini thoughtfully. ",
+            "link": "/story/1541"
+        }
+    ],
+    "media": [
+        {
+            "file": "01540.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You return to a more typical mindset. You suddenly feel empowered to make important decisions on your own without supervision. Parental or otherwise.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

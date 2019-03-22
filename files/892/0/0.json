@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 892,
+    "commands": [
+        {
+            "command": "PM: Check mail. ",
+            "link": "/story/893"
+        }
+    ],
+    "media": [
+        {
+            "file": "00892.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The Peregrine Mendicant.\r<br/> <br/>You are flying westward in your peculiar mobile station. You have no sense of your bearings presently. The door is blocked by a metal column which extended through the entry shaft before liftoff.\r<br/> <br/>What will you do?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1912,
+    "commands": [
+        {
+            "command": "AR?: Search premises. ",
+            "link": "/story/1913"
+        }
+    ],
+    "media": [
+        {
+            "file": "01912_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01912_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Below there is a dark cavernous room. \r<br/> <br/>Near the platform is a TIME CAPSULE. It has deployed a SEED, and waits for something to be deposited, and for the clock to be set.\r<br/> <br/>It is all harmless enough. Still no sign of any perpetrators.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

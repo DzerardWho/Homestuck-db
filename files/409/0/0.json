@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 409,
+    "commands": [
+        {
+            "command": "NOW REPAIR THE HAMMER. ",
+            "link": "/story/410"
+        }
+    ],
+    "media": [
+        {
+            "file": "00409.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Oddly enough, it seems breaking the SLEDGEHAMMER altered the ABSTRATUS from HAMMERKIND to HANDLEKIND, even going as far as expelling the head of your smaller HAMMER from your deck to force compliance. You didn't even notice in the heat of the battle.\r<br/> <br/>You grab the SLEDGEHAMMER HANDLE, expelling the useless HARLEQUIN FIGURINE.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

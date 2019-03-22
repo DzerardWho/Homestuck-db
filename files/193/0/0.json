@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 193,
+    "commands": [
+        {
+            "command": "John: Switch modus and use telescope to inspect sky. ",
+            "link": "/story/194"
+        }
+    ],
+    "media": [
+        {
+            "file": "00193.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You set the ALCHEMITER to cast THREE (3) PERFECTLY GENERIC OBJECTS for some reason, expending a total of 6 units of BUILD GRIST.\r<br/> <br/>These things look completely useless. What a waste!\r<br/> <br/>Out of the corner of your eye, you notice there's something in the sky.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

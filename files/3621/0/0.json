@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3621,
+    "commands": [
+        {
+            "command": "o ",
+            "link": "/story/3622"
+        }
+    ],
+    "media": [
+        {
+            "file": "03618.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">[<span style=\"color: #ffffff\">Here.\r<br/> <br/>Jack, why don't you go help yourself to some candy over there on the table? There is something I need to take care of before we continue. I won't be long.</span>]</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

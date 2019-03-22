@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4548,
+    "commands": [
+        {
+            "command": "Dirk: Be waking self again. ",
+            "link": "/story/4549"
+        }
+    ],
+    "media": [
+        {
+            "file": "04545_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04545_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Just as you thought. Sleepwalking again.\r<br/> <br/>Where the hell does she think she's going??</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

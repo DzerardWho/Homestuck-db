@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1293,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1294"
+        }
+    ],
+    "media": [
+        {
+            "file": "01293.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It hasn't been destroyed yet.\r<br/> <br/>But it's about to be. It's ticking down to the time it's stuck on in the future.\r<br/> <br/>Maybe if you time it just right, you can end this whole mess in one fell slice.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

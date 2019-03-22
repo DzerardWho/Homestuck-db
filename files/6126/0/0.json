@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6126,
+    "commands": [
+        {
+            "command": "[A6I5] SS: Consult with brains of operation. ",
+            "link": "/story/6127"
+        }
+    ],
+    "media": [
+        {
+            "file": "06123.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You tell all these mugs to listen up. This gang is now under new management.\r<br/> <br/>The surly mob of puppet people look you up and down, glance at your CUESTAFF, and shrug. Yep, you're the new boss, they appear to tacitly confirm.\r<br/> <br/>Ms. Paint, you say. There's a vacancy in the gang's eight-spot. You got anything more suitable to wear?\r<br/> <br/>She claps her hands and says oh yes! She has just the dress for the occasion. She says brb.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

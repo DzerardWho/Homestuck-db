@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4723,
+    "commands": [
+        {
+            "command": "[A6I2] ==> ",
+            "link": "/story/4724"
+        }
+    ],
+    "media": [
+        {
+            "file": "04720.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #e00707\">DAVE: are you serious</p>\n<p style=\"color: #626262\">KARKAT: FFMUFFUFFIN</p>\n<p style=\"color: #e00707\">DAVE: dude unreal</p>\n<p style=\"color: #e00707\">DAVE: you are like a cape magnet</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

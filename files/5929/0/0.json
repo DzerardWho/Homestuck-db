@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5929,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/5930"
+        }
+    ],
+    "media": [
+        {
+            "file": "05926.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #626262\">KARKAT: THIS IS KARKAT.</p>\n<p style=\"color: #626262\">KARKAT: OVER.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

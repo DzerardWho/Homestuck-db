@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6005,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/6006"
+        }
+    ],
+    "media": [
+        {
+            "file": "06002.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #005682\">ARANEA: Upon destroying the eighth planet, his true land will reveal itself.</p>\n<p style=\"color: #005682\">ARANEA: The dead planet will come to life, and there he must prepare for 8attle with his denizen.</p>\n<p style=\"color: #005682\">ARANEA: He may sharpen his com8at skills, craft new weaponry, anything he can do to improve his chances against a very powerful endgame foe.</p>\n<p style=\"color: #005682\">ARANEA: Fortun8tely for him, he would not have to face the monster alone.</p>\n<p style=\"color: #005682\">ARANEA: 8y then he will have accumul8ted a party of loyal minions.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

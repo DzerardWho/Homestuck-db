@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2655,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/2656"
+        }
+    ],
+    "media": [
+        {
+            "file": "02654.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You got the server copy of the SBURB BETA!\r<br/> <br/><img border=\"0\" src=\"/images/storyfiles/hs2/scraps/yeah!!!!!!!!.gif\"/></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

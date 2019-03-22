@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1284,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1285"
+        }
+    ],
+    "media": [
+        {
+            "file": "01284.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ok you think you got one. \r<br/> <br/><span style=\"font-style: italic\">Time travel sure can be a... \r<br/> <br/>DOUBLE EDGED SWORD. </span> <br/> <br/><img border=\"0\" src=\"/images/storyfiles/hs2/scraps/pccool.gif\"/> <br/> <br/>Wait, that was awful. Really really bad. You're sure you can do better than that.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

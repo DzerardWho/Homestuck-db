@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 827,
+    "commands": [
+        {
+            "command": "Jade: See if Dave left you a sweet new rap. ",
+            "link": "/story/828"
+        }
+    ],
+    "media": [
+        {
+            "file": "00827.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You greet John but he does not respond. He is undoubtedly gallivanting around his house in a state of barely restrained birthday mirth. He may also be retrieving the two packages and the two envelopes which you are certain came in the mail for him earlier.\r<br/> <br/>You will wait a little while and see if he returns before you head out.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

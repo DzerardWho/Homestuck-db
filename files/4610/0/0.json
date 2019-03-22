@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4610,
+    "commands": [
+        {
+            "command": "Roxy: Wear the scarf. Be the Rider. ",
+            "link": "/story/4611"
+        }
+    ],
+    "media": [
+        {
+            "file": "04607.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You go just sort of pick it up and that works fine. Now about that totes baller scarf.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

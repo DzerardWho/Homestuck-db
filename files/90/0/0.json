@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 90,
+    "commands": [
+        {
+            "command": "John: Retrieve the package and flee to your room! ",
+            "link": "/story/91"
+        }
+    ],
+    "media": [
+        {
+            "file": "00090.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

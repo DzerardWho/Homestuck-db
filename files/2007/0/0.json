@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2007,
+    "commands": [
+        {
+            "command": "Karkat: Check out DVD. ",
+            "link": "/story/2008"
+        }
+    ],
+    "media": [
+        {
+            "file": "02007.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's the latest issue of GAME GRUB.\r<br/> <br/>This one appears to boast about \"exclusive leaks\". They all boast about that. You're not even really sure what it means.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

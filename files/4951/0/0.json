@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4951,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4952"
+        }
+    ],
+    "media": [
+        {
+            "file": "04948_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04948_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have been following a trail of clues on your quest to sleuth the whereabouts of your errant father. He seems to have left a variety of items behind, in hopes that you might notice and follow him. You have picked up each item along the way, until you reached this car. It is squeaky clean from today's earlier automotive ablutions, but obviously there is no way you can pick it up. It was probably the last thing he had to leave behind, which means your trail is about to go cold.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

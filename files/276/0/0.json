@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 276,
+    "commands": [
+        {
+            "command": "DO THE POTTED VEGETABLE INSTEAD. IT LOOKS DELICIOUS. ",
+            "link": "/story/277"
+        }
+    ],
+    "media": [
+        {
+            "file": "00276.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The SPRITE is playing hard to get! You guess that's what you get for originally prototyping it with something that engenders mischief and pranksterism!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

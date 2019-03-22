@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3006,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3007"
+        }
+    ],
+    "media": [
+        {
+            "file": "03005.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #4ac925\">JADE: thanks bec, good boy!</p>\n<p style=\"color: #4ac925\">JADE: soooooo...</p>\n<p style=\"color: #4ac925\">JADE: can you talk now?</p>\n<p style=\"color: #4ac925\">JADE: what do you have to say?</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 57,
+    "commands": [
+        {
+            "command": "John: Combine ashes with urn. ",
+            "link": "/story/58"
+        }
+    ],
+    "media": [
+        {
+            "file": "00057.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">First you prop the HARLEQUIN DOLL up on the couch. Having it in the middle of the floor sprawled out all akimbo like that struck you as unseemly.\r<br/> <br/>You captchalogue the ASHES to your available card.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

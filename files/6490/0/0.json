@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 6490,
+    "commands": [
+        {
+            "command": "ALPHA MALE: GO OUTSIDE. ",
+            "link": "/story/6491"
+        }
+    ],
+    "media": [
+        {
+            "file": "06487_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "06487_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">THE ALPHA MALE DOES THE REQUISITE THINGS WITH THE STUFF. HIS ADVENTURE IS NIGH.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

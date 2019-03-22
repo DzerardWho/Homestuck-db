@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1568,
+    "commands": [
+        {
+            "command": "Jade: Draw the jumper block. ",
+            "link": "/story/1569"
+        }
+    ],
+    "media": [
+        {
+            "file": "01568_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01568_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You captcha the lathe ghost image and apply the upgrade.\r<br/> <br/>Now the holopad projects a hologram of the totem that a punch card will create!\r<br/> <br/>This appears to turn the alchemiter into a one stop-shopping hub. You just punch a card, stick it in, and get your item. Nice!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

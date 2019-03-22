@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 645,
+    "commands": [
+        {
+            "command": "Rose: Captchalogue Sburb Server CD. ",
+            "link": "/story/646"
+        }
+    ],
+    "media": [
+        {
+            "file": "00645.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Looks like a sort of index documenting all the known results for punch card alchemy combinations.\r<br/> <br/>This could be a convenient resource as you start to stumble on more useful card combinations. But ever since John started punching cards, you've been contemplating other ways this item manufacturing system could be put to use. In particular, if you obtain the code for any item at your disposal, you think you could theoretically send the code to John and he could make it himself.\r<br/> <br/>That is, if you can think of anything that would be worth sending to him.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

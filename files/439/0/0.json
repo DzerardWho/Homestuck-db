@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 439,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/440"
+        }
+    ],
+    "media": [
+        {
+            "file": "00439.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">But really not enough to write home about.\r<br/> <br/><a class=\"postlink\" href=\"/story/waywardvagabond/anagitatedfinger/\" target=\"_blank\">An agitated finger slips mid-keystroke.</a></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

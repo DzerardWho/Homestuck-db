@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5000,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/5001"
+        }
+    ],
+    "media": [
+        {
+            "file": "04997.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #005682\">ARANEA: Meempha.</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

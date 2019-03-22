@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 406,
+    "commands": [
+        {
+            "command": "WHAT ABOUT THAT CARD. ",
+            "link": "/story/407"
+        }
+    ],
+    "media": [
+        {
+            "file": "00406.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">By expanding your CACHE LIMIT, you've made room for all that nice grist you just collected. You now have 32 fragments of BUILD GRIST, and 10 fragments of SHALE.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

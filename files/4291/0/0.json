@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4291,
+    "commands": [
+        {
+            "command": "John: Level up. ",
+            "link": "/story/4292"
+        }
+    ],
+    "media": [
+        {
+            "file": "04288.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Who am I kidding. Even using my super-fast robotic AUTHOR AVATAR, I barely have time to do anything. \r<br/> <br/>Maybe I'll just level up these kids before they go, and that's it. \r<br/> <br/>They've earned it after all, don't you think?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

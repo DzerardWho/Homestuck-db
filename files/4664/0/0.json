@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4664,
+    "commands": [
+        {
+            "command": "[S] Jane: Enter. ",
+            "link": "/story/4665"
+        }
+    ],
+    "media": [
+        {
+            "file": "04661.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have no idea what you're looking at here. What are you supposed to do with THIS?\r<br/> <br/>Oh well, might as well get started. It's not like there's anything left to do besides embarrass yourself over Pesterchum some more. You've already done enough of that today to last a lifetime.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

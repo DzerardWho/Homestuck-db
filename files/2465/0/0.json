@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2465,
+    "commands": [
+        {
+            "command": "Some time later... ",
+            "link": "/story/2466"
+        }
+    ],
+    "media": [
+        {
+            "file": "02464.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">In truth, it would be all too easy to solve the land dweller problem once and for all. You'd just need to lighten up on the feeding schedule for a while. Maybe you'd be a little too busy to bother with that hassle for once? Or maybe you could happen to be off your game for a spell? It happens, even to the best sometimes.\r<br/> <br/>But nah. It would make her upset.\r<br/> <br/>More emotions. More problems. That's all you need.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

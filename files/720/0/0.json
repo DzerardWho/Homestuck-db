@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 720,
+    "commands": [
+        {
+            "command": "[S] WV: Lead your men to victory! ",
+            "link": "/story/721"
+        }
+    ],
+    "media": [
+        {
+            "file": "00720_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00720_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You temporarily dismantle CITY HALL to free up all the canpower available to create a vigilant TOWN MILITIA. You divide them into two groups, marking them with distinct teams and ranks using the piece of white CHALK and the MOTOR OIL. You then organize them in phalanx across the countryside, preparing for a stiff training regimen. When you are through with them, your forces will be a well oiled machine. Chalk another one up to bold leadership!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

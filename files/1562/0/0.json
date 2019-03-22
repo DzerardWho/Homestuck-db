@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1562,
+    "commands": [
+        {
+            "command": "Jade: Send the code to Dave. ",
+            "link": "/story/1563"
+        }
+    ],
+    "media": [
+        {
+            "file": "01562_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01562_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The pad recognizes the drawing, but there is no designix around, and even if there was, it would obviously be way too big to captchalogue.\r<br/> <br/>Instead, the GHOST IMAGE of the designix is captcha'd, along with its captcha code on the back.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

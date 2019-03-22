@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5392,
+    "commands": [
+        {
+            "command": "[A6I3] ==> ",
+            "link": "/story/5393"
+        }
+    ],
+    "media": [
+        {
+            "file": "05389.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #005682\">VRISKA: John, come take a look at this.</p>\n<p style=\"color: #0715cd\">JOHN: those are all treasure maps?</p>\n<p style=\"color: #005682\">VRISKA: Sort of! Pro8a8ly not like any maps you've seen.</p>\n<p style=\"color: #005682\">VRISKA: Check it out. This ought to help you understand how frustr8ting this treasure hunt really is.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

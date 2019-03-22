@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1509,
+    "commands": [
+        {
+            "command": "Jade: Check unknown objects. ",
+            "link": "/story/1510"
+        }
+    ],
+    "media": [
+        {
+            "file": "01509_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01509_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You can't! You'll need some SHALE for that.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

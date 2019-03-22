@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1164,
+    "commands": [
+        {
+            "command": "[I] SS: Hide inside your war chest. ",
+            "link": "/story/1165"
+        }
+    ],
+    "media": [
+        {
+            "file": "01164_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01164_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">If there are any elaborate headdresses in here, you'll eat your haberdasher.\r<br/> <br/>But of course there is only a plain and serviceable BACKUP HAT, which naturally conceals two LICORICE SCOTTY DOGS. \r<br/> <br/>Which makes you think that maybe you are wearing your BACKUP HAT, and this is your usual one? Hell if you know. They are the same damn hat.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

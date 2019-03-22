@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 4726,
+    "commands": [
+        {
+            "command": "[A6I2] ==> ",
+            "link": "/story/4727"
+        }
+    ],
+    "media": [
+        {
+            "file": "04723.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "04723retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #e00707\">DAVE: BOOYEAH</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

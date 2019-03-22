@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 4603,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4604"
+        }
+    ],
+    "media": [
+        {
+            "file": "04600.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "04600retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You trudge through the fluffy morass in the direction of the mysterious device known as the TRANSMATERIALIZER.\r<br/> <br/>Need to send this dead cat back to mom and get this show on the road.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

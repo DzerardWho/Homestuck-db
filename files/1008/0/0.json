@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1008,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1009"
+        }
+    ],
+    "media": [
+        {
+            "file": "01008.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">That's such a dumb idea. Not as dumb as using your sash, but it comes close. That temple is way too big. You'd probably just end up appearifying a chunk of useless boring rock.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

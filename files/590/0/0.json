@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 590,
+    "commands": [
+        {
+            "command": "Dave: Think of a new word for powercord. ",
+            "link": "/story/591"
+        }
+    ],
+    "media": [
+        {
+            "file": "00590.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You take the <span style=\"color: blue\">P</span><span style=\"color: red\">O</span><span style=\"color: blue\">W</span><span style=\"color: red\">E</span><span style=\"color: blue\">R C</span><span style=\"color: red\">O</span><span style=\"color: blue\">RD</span> (5)... wait, no. Not going to work.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

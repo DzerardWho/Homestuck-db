@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3796,
+    "commands": [
+        {
+            "command": "[o] Let's find out. ",
+            "link": "/story/3797"
+        }
+    ],
+    "media": [
+        {
+            "file": "03793.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The other Hero of Light. Always bugging him.\r<br/> <br/>Bugging and fussing and meddling.\r<br/> <br/>What's her deal?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

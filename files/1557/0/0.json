@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1557,
+    "commands": [
+        {
+            "command": "Dave: Put a punched card in a shunt. ",
+            "link": "/story/1558"
+        }
+    ],
+    "media": [
+        {
+            "file": "01557.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You've leeched more than enough grist from John to afford a PUNCH DESIGNIX, which for some reason Jade put in the hallway making it kind of hard to walk through your apartment, but whatever. You also have plenty of grist for messing around with the ALCHEMITER to manufacture some new gear if you want. But you'd like to figure out what the JUMPER BLOCK does first.\r<br/> <br/>Jade keeps dropping a weird assortment of objects for you to captchalogue and punch. You've given up trying to identify any rhyme or reason to the thought process behind it.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

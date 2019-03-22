@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4342,
+    "commands": [
+        {
+            "command": "[A6I1] ==> ",
+            "link": "/story/4343"
+        }
+    ],
+    "media": [
+        {
+            "file": "04339.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #4ac925\">JADE: here, will this work?</p>\n<p style=\"color: #0715cd\">JOHN: oh, yeah. i guess that'll be fine.</p>\n<p style=\"color: #0715cd\">JOHN: now, uhhh, what to write...</p>\n<p style=\"color: #4ac925\">JADE: whatever you write just make it quick!</p>\n<p style=\"color: #4ac925\">JADE: and tell everyone i say hi!</p>\n<p style=\"color: #0715cd\">JOHN: ok, will do.</p>\n<p style=\"color: #4ac925\">JADE: ok, while you work on that, i think ill bring up some friends</p>\n<p style=\"color: #0715cd\">JOHN: huh?</p>\n<p style=\"color: #4ac925\">JADE: you know, let some of our travel companions get acquainted with the ship!</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

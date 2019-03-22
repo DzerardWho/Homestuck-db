@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 84,
+    "commands": [
+        {
+            "command": "John: See if your father left the mail in the car. ",
+            "link": "/story/85"
+        }
+    ],
+    "media": [
+        {
+            "file": "00084.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">N...\r<br/> <br/>No!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

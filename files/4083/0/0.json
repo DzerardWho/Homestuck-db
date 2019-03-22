@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4083,
+    "commands": [
+        {
+            "command": "Insert disc 2. ",
+            "link": "/story/4084"
+        }
+    ],
+    "media": [
+        {
+            "file": "04080.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

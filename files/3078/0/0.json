@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3078,
+    "commands": [
+        {
+            "command": "[S] John: Enter village. ",
+            "link": "/story/3079"
+        }
+    ],
+    "media": [
+        {
+            "file": "03076.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The clouds have returned. The fireflies are still trapped. The spell remains unbroken.\r<br/> <br/>There is commotion behind you. A nearby village, perhaps?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

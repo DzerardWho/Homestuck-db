@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5026,
+    "commands": [
+        {
+            "command": "[S] Terry: Fast forward to Liv. ",
+            "link": "/story/5027"
+        }
+    ],
+    "media": [
+        {
+            "file": "05023.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Terry's ready to go. You ask the bunny kindly to put himself back in the box. He happily complies, and there is no reason at all to ask rhetorically why he wouldn't put himself back in the box.\r<br/> <br/>You place him on the TRANSMATERIALIZER'S pedestal, and get ready to hit the SENDIFICATE button one last time. You can't believe this project is finally finished. No more fun letters between you and your grandma. You guess the next time you talk to her, it will be in person. Hard to believe! But then, for a guy like you, nothing is.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

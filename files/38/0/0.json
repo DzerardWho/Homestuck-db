@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 38,
+    "commands": [
+        {
+            "command": "John: Report progress to TG. ",
+            "link": "/story/39"
+        }
+    ],
+    "media": [
+        {
+            "file": "00038.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your STRIFE SPECIBUS has been ALLOCATED with the HAMMERKIND ABSTRATUS.\r<br/> <br/>The HAMMER has been moved from your CAPTCHALOGUE DECK to your STRIFE DECK.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

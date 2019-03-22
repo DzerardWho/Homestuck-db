@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1887,
+    "commands": [
+        {
+            "command": "John: There's one more button to push. ",
+            "link": "/story/1888"
+        }
+    ],
+    "media": [
+        {
+            "file": "01887.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Four young PARADOX CLONES are created.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

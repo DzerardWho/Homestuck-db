@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 682,
+    "commands": [
+        {
+            "command": "WV: Locate a nearby sharp object. ",
+            "link": "/story/683"
+        }
+    ],
+    "media": [
+        {
+            "file": "00682.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You have already looked all over the place for a CAN OPENER, even making a few electronic inquiries about one, to no avail.\r<br/> <br/>Nothing else inside the purple thing either.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

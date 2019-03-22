@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3803,
+    "commands": [
+        {
+            "command": "[o] Tock. ",
+            "link": "/story/3804"
+        }
+    ],
+    "media": [
+        {
+            "file": "03800.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

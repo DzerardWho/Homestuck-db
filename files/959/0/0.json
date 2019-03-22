@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 959,
+    "commands": [
+        {
+            "command": "Jack: Throw down hat in disgust. ",
+            "link": "/story/960"
+        }
+    ],
+    "media": [
+        {
+            "file": "00959.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">FINE. \r<br/> <br/>You begrudgingly don the COMICAL HAT.\r<br/> <br/>Stupid lousy WISE AND JUST LEADER. What a royal pain in the ass.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

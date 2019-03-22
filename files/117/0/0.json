@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 117,
+    "commands": [
+        {
+            "command": "John: Apply Fetch Modus to Sylladex. ",
+            "link": "/story/118"
+        }
+    ],
+    "media": [
+        {
+            "file": "00117.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You turn to the back inside cover, where a free FETCH MODUS is included in a plastic sleeve.\r<br/> <br/>This one is dictated by the logic of a QUEUE DATA STRUCTURE, operating on a \"First In, First Out\" method, rather than a \"First In, Last Out\" method of a STACK.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2675,
+    "commands": [
+        {
+            "command": "John: Exit to balcony. ",
+            "link": "/story/2676"
+        }
+    ],
+    "media": [
+        {
+            "file": "02674.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

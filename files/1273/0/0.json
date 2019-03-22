@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1273,
+    "commands": [
+        {
+            "command": "[I] Years in the past... ",
+            "link": "/story/1274"
+        }
+    ],
+    "media": [
+        {
+            "file": "01273.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\"><span style=\"color: #2ed73a\">Crowbar</span> deflects the KING OF SPADES into <span style=\"color: #2ed73a\">Sawbuck</span>'s unmissable carriage. You jump far into the past.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

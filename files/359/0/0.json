@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 359,
+    "commands": [
+        {
+            "command": "Rose: Psychoanalyze mother's love of wizards. ",
+            "link": "/story/360"
+        }
+    ],
+    "media": [
+        {
+            "file": "00359.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You find this grisly abomination utterly detestable.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4142,
+    "commands": [
+        {
+            "command": "Jane: Open chest. ",
+            "link": "/story/4143"
+        }
+    ],
+    "media": [
+        {
+            "file": "04139.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Nope, still nothing. You surely would have heard the truck pull up. You guess the empire wasn't able to coordinate the mail with its rebranding. Maybe the U.S. Postal Service is the one thing it doesn't have its gnarled claws in yet? (Another mental note: sink gnarled claws into post office when you take over.)</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

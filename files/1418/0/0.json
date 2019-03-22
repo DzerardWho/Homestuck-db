@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1418,
+    "commands": [
+        {
+            "command": "Ok, John. Let's explore this place! ",
+            "link": "/story/1419"
+        }
+    ],
+    "media": [
+        {
+            "file": "01418.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">John isn't directly cognizant of your greeting, but I'm sure he would feel likewise. </p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

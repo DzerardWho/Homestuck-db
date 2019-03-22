@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4721,
+    "commands": [
+        {
+            "command": "[A6I2] ==> ",
+            "link": "/story/4722"
+        }
+    ],
+    "media": [
+        {
+            "file": "04718.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #626262\">KARKAT: RAAARARRAAUUUAAAAUUAGHGHGGHGGGGHHGH!</p>\n<p style=\"color: #e00707\">DAVE: shit!</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

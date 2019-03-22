@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4193,
+    "commands": [
+        {
+            "command": "Jake: Exit. ",
+            "link": "/story/4194"
+        }
+    ],
+    "media": [
+        {
+            "file": "04190.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Ok if he wants happy hunting you will GIVE him happy hunting. HAPPILY.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

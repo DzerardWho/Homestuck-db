@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1202,
+    "commands": [
+        {
+            "command": "[I] ==> ",
+            "link": "/story/1203"
+        }
+    ],
+    "media": [
+        {
+            "file": "01202.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Suddenly you get coldcocked in the face from the future.\r<br/> <br/>You'd know the knuckles belonging to that suckerpunch anywhere.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

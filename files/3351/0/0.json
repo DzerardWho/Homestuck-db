@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3351,
+    "commands": [
+        {
+            "command": "Karkat: Examine Feferi. ",
+            "link": "/story/3352"
+        }
+    ],
+    "media": [
+        {
+            "file": "03348.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You are relieved to find Sollux is not <span style=\"color: #a1a100\">DEAD.</span> He is merely <span style=\"color: #a1a100\">KO'D.</span> <br/> <br/>You don't think you could handle it if this was ROUND TWO of watching your good bro get killed.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

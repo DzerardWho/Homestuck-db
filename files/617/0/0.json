@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 617,
+    "commands": [
+        {
+            "command": "John: Repeat process with other cards and dowels. ",
+            "link": "/story/618"
+        }
+    ],
+    "media": [
+        {
+            "file": "00617.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You put the punched card containing the POGO RIDE in the slot, and carve a TOTEM from one of the CRUXITE DOWELS.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

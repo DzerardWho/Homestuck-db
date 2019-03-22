@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 2108,
+    "commands": [
+        {
+            "command": "Tavros: Command faithful steed. ",
+            "link": "/story/2109"
+        }
+    ],
+    "media": [
+        {
+            "file": "02108.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "02108_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">HORSARONI, I CHOOSE YOU!!!!!!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

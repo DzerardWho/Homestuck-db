@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 6273,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/6274"
+        }
+    ],
+    "media": [
+        {
+            "file": "06271_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "06271_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">OH HELL NO.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

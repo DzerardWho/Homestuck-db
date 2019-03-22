@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 1071,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1072"
+        }
+    ],
+    "media": [
+        {
+            "file": "01071.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "01071_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "-- turntechGodhead <span style=\"color: #e00707\">[TG]</span> began pestering ectoBiologist <span style=\"color: #0715cd\">[EB]</span> --\n\n<p style=\"color: #e00707\">TG: bro just kicked my ass</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

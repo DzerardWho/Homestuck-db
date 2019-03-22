@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 298,
+    "commands": [
+        {
+            "command": "Rose: Allocate knitting needles to strife specibus. ",
+            "link": "/story/299"
+        }
+    ],
+    "media": [
+        {
+            "file": "00298.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You grab the KNITTING BAG and the GRIMOIRE, in that order. It's always a logistical puzzle with your TREE MODUS.\r<br/> <br/>The tree AUTO-BALANCES, leaving the KNITTING BAG accesible in the ROOT CARD.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

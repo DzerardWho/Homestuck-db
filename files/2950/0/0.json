@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2950,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/2951"
+        }
+    ],
+    "media": [
+        {
+            "file": "02949.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Egad, a thief approaches!!! This pajama'd rogue surely seeks to put his mitts on your newfound glowy treasure.\r<br/> <br/>He is definitely a thief. You have an eye for these types. He is either a master thief himself, or at the very least, an apprentice of one.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

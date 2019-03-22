@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 121,
+    "commands": [
+        {
+            "command": "John: Get other cake. ",
+            "link": "/story/122"
+        }
+    ],
+    "media": [
+        {
+            "file": "00121.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You captchalogue one of the CAKES.\r<br/> <br/>You've finally found a use for all these loitering pastries: DEAD WEIGHT.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1728,
+    "commands": [
+        {
+            "command": "John: First, be the hat. Second, find dad. ",
+            "link": "/story/1729"
+        }
+    ],
+    "media": [
+        {
+            "file": "01728.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

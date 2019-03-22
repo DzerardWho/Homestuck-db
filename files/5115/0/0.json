@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5115,
+    "commands": [
+        {
+            "command": "Calliope: Let's have a look inside. ",
+            "link": "/story/5116"
+        }
+    ],
+    "media": [
+        {
+            "file": "05112.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This is your JUJU CHEST.\r<br/> <br/>You keep your JUJU inside it, surprisingly enough.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

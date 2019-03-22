@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2017,
+    "commands": [
+        {
+            "command": "Gamzee: Take a juggling club. ",
+            "link": "/story/2018"
+        }
+    ],
+    "media": [
+        {
+            "file": "02017_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02017_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It is still piping hot but you can't help yourself. You sneak a taste of the SOPOR SLIME PIE.\r<br/> <br/>You aren't supposed to eat that slime. It does funny things to a troll's head.\r<br/> <br/>But you were never taught that on account of a lousy upbringing. Your custodian was always out to sea.\r<br/> <br/>That is where he is now. Maybe you will go outside and see if you can spot him.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

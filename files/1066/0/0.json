@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1066,
+    "commands": [
+        {
+            "command": "John: Combine Hammer and Problem Sleuth game. ",
+            "link": "/story/1067"
+        }
+    ],
+    "media": [
+        {
+            "file": "01066_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01066_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You make another ordinary FEDORA with FOUR PIECES OF CANDY CORN inside.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

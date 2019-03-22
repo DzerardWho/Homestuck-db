@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2962,
+    "commands": [
+        {
+            "command": "john, stop talking to the gray text not human immediately. ",
+            "link": "/story/2963"
+        }
+    ],
+    "media": [
+        {
+            "file": "02961.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He is not a human.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 79,
+    "commands": [
+        {
+            "command": "John: Exit. ",
+            "link": "/story/80"
+        }
+    ],
+    "media": [
+        {
+            "file": "00079_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00079_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "00079_1_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You go back into the LIVING ROOM and contemplate checking the mailbox outside. You think perhaps you should exhaust all possibilities before plunging headlong into a DAD encounter.\r<br/> <br/>Your TELEVISION is currently airing a COMMERCIAL.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

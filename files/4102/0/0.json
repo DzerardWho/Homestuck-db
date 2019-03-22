@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4102,
+    "commands": [
+        {
+            "command": "< = ",
+            "link": "/story/4103"
+        }
+    ],
+    "media": [
+        {
+            "file": "04099_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04099_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #4ac925\">GG: its hard to make out</p>\n<p style=\"color: #4ac925\">GG: but</p>\n<p style=\"color: #4ac925\">GG: i think</p>\n<p style=\"color: #4ac925\">GG: it might be...</p>\n<p style=\"color: #626262\">CG: WHAT.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

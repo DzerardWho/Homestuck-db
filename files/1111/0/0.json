@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1111,
+    "commands": [
+        {
+            "command": "Jade: Place present on monument. ",
+            "link": "/story/1112"
+        }
+    ],
+    "media": [
+        {
+            "file": "01111.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It appears to be a large stage serving as a kind of elevator. But it can't go down because there's something jammed in it. Looks like a peculiar musical instrument, probably centuries old.\r<br/> <br/>But yeah, the jury agrees. You've got to go blow up those trespassers.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

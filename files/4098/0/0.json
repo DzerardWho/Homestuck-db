@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 4098,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4099"
+        }
+    ],
+    "media": [
+        {
+            "file": "04095.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "04095_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

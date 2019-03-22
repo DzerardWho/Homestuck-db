@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1409,
+    "commands": [
+        {
+            "command": "WV: Introduce new friends to John. ",
+            "link": "/story/1410"
+        }
+    ],
+    "media": [
+        {
+            "file": "01409_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01409_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You excuse yourself for a moment and retrieve a few of your personal belongings. These should really impress your visitors.\r<br/> <br/>That musty old toy on the floor ought to make a nice peace offering for the feisty tall one too. You are quite certain that ladies like squishy useless things like that.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

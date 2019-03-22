@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 489,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/490"
+        }
+    ],
+    "media": [
+        {
+            "file": "00489.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It's a little cramped in here for any sort of proper reckless pogoing. You'll just grab it and hang on to it until the right moment presents itself.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

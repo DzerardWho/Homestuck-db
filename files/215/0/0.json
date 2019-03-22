@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 215,
+    "commands": [
+        {
+            "command": "One more time. ",
+            "link": "/story/216"
+        }
+    ],
+    "media": [
+        {
+            "file": "00215.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">No, that wasn't it!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

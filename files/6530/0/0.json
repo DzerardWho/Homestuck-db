@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6530,
+    "commands": [
+        {
+            "command": "ACT 6 ACT 6 INTERMISSION 2 ",
+            "link": "/story/6531"
+        }
+    ],
+    "media": [
+        {
+            "file": "06527.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">BE SURE TO CLICK THROUGH THE FOLLOWING PAGES AS FAST AS YOU CAN. TO GET RIGHT BACK HERE. TO THE GOOD STUFF. BYE.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

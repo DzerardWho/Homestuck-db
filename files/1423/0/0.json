@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1423,
+    "commands": [
+        {
+            "command": "Y ",
+            "link": "/story/1424"
+        }
+    ],
+    "media": [
+        {
+            "file": "01423.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">\"I am a secret wizard. Behold my robes.\"\r<br/> <br/>Behold robes?\r<br/> <br/>Y/N</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

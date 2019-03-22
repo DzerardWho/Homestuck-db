@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3229,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3230"
+        }
+    ],
+    "media": [
+        {
+            "file": "03226.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Why don't we cover this thing up. It would be a real shame to spoil their little moment with this nonsense.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

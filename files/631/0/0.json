@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 631,
+    "commands": [
+        {
+            "command": "John: Put both cards in totem lathe. ",
+            "link": "/story/632"
+        }
+    ],
+    "media": [
+        {
+            "file": "00631_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00631_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You overlap two of the punched cards. They mask each other's hole patterns.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

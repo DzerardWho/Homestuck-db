@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 307,
+    "commands": [
+        {
+            "command": "Rose: Confront mother in hall. ",
+            "link": "/story/308"
+        }
+    ],
+    "media": [
+        {
+            "file": "00307.swf",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You wonder if this rain will ever let up. It's driven since the month began, perhaps long enough to forget its purpose. It no longer even knows to assuage fire. Somewhere a zealous god threads these strings between the clouds and the earth, preparing for a symphony it fears impossible to play. And so it threads on, and on, delaying the raise of the conductor's baton.\r<br/> <br/>How you hate this season.\r<br/> <br/>\"April is the cruelest month, breeding lilacs out of the dead land, mixing memory and desire, stirring dull roots with spring rain.\" -American sports legend, Charles Barkley</p>",
+    "pesterlog": null,
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

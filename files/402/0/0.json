@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 402,
+    "commands": [
+        {
+            "command": "BACK IN ",
+            "link": "/story/403"
+        }
+    ],
+    "media": [
+        {
+            "file": "00402.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

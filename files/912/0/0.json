@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 912,
+    "commands": [
+        {
+            "command": "Jade: Arm yourself. ",
+            "link": "/story/913"
+        }
+    ],
+    "media": [
+        {
+            "file": "00912.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You scamper your heart out and bump into something. You don't know why he always insists on keeping it so dark in here.\r<br/> <br/>Oh look, it was one of his dumb GLOBES. These things make it awfully difficult to navigate the foyer. We get it, granddad. You like to travel around the world going on adventures and stuff! \r<br/> <br/>Lousy goddamn stupid globes.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

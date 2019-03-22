@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1318,
+    "commands": [
+        {
+            "command": "[I] CD: Put dynamite in oven. ",
+            "link": "/story/1319"
+        }
+    ],
+    "media": [
+        {
+            "file": "01318.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You deal the oven a wicked flogging but not much happens.\r<br/> <br/>The oven doesn't really have any magical time properties to be negated. It just travels into the future at a rate of one second per second, like everyone else.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

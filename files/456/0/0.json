@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 456,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/457"
+        }
+    ],
+    "media": [
+        {
+            "file": "00456.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Your BRO's computer is password protected of course to protect all the incredible top secret shit he's got on the burners.\r<br/> <br/>Of course you know what the password is, and he knows you know it, and you're both cool with that because the password is the most awesome thing it can be.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

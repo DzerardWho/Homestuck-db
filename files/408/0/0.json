@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 408,
+    "commands": [
+        {
+            "command": "GATHER THE SCATTERED BITS OF YOUR LARGE HAMMER. ",
+            "link": "/story/409"
+        }
+    ],
+    "media": [
+        {
+            "file": "00408_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00408_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You group the two SPECIBI in your STRIFE PORTFOLIO. \r<br/> <br/>No self-respecting strifer would be caught dead without one.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

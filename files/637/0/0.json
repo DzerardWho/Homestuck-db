@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 637,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/638"
+        }
+    ],
+    "media": [
+        {
+            "file": "00637.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You get a vicious rhythmic bouncing combo going and easily slay the imp in one blow.\r<br/> <br/>You and the POGO RIDE are catapulted sky-high in the process.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

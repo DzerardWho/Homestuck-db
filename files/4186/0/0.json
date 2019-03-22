@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4186,
+    "commands": [
+        {
+            "command": "Jake: Wear skulltop. ",
+            "link": "/story/4187"
+        }
+    ],
+    "media": [
+        {
+            "file": "04183.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He's just so infuriating sometimes! Or at least his responder is. Ok, the real Strider is too.\r<br/> <br/>There's barely any difference between them anyway. The responder just uses a few more generic response templates. And even those you suspect the AI is savvy enough to use on purpose for the sake of irony, or to get a rise out of you or whatever. That silicon bastard knows damn well what it's doing.\r<br/> <br/>You shed this ridiculous outfit because you look like an idiot. It's time to get serious here. No more fooling around. You need a more dignified looking computer. A thinking man's computer.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

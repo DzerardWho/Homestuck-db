@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 864,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/865"
+        }
+    ],
+    "media": [
+        {
+            "file": "00864.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Looks like you can choose between picking leaves, or awkwardly uprooting the whole tree, as you've been doing.\r<br/> <br/>You select LEAF. You also turn off AUTO-BALANCE, since its consequences can be a little mystifying sometimes.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

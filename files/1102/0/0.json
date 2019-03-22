@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 1102,
+    "commands": [
+        {
+            "command": "AR: Go search for more ammo. ",
+            "link": "/story/1103"
+        }
+    ],
+    "media": [
+        {
+            "file": "01102_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01102_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "01102_2_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The wall exhibits rows of ancient hieroglyphs depicting an array of amphibious and reptilian life forms.\r<br/> <br/>This is illegal pictography. It makes you angry.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

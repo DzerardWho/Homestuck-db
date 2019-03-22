@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4453,
+    "commands": [
+        {
+            "command": "Jane: Answer Di-Stri. ",
+            "link": "/story/4454"
+        }
+    ],
+    "media": [
+        {
+            "file": "04450.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">God you wish stuff would stop exploding.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

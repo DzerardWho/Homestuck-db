@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2905,
+    "commands": [
+        {
+            "command": "Jade: Carve totem. ",
+            "link": "/story/2906"
+        }
+    ],
+    "media": [
+        {
+            "file": "02904.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What the heck is this?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

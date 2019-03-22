@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 86,
+    "commands": [
+        {
+            "command": "John: Go back into the kitchen. ",
+            "link": "/story/87"
+        }
+    ],
+    "media": [
+        {
+            "file": "00086.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You try to get a gander through the KITCHEN WINDOW, but you can't see a whole lot! It seems your DAD has been doing so much baking, the glass has steamed up.\r<br/> <br/>God he is so weird.\r<br/> <br/>But you can see what's on the table just beside the window. It looks like the mail is there! Included among it is a RED PACKAGE, some BILLS, your DAD'S PDA, and an envelope that appears to be suspiciously labeled with the SBURB LOGO. Could it be???\r<br/> <br/>Unfortunately, the window is locked.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 927,
+    "commands": [
+        {
+            "command": "Rose: Let's play a game. ",
+            "link": "/story/928"
+        }
+    ],
+    "media": [
+        {
+            "file": "00927.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This weird arcade gizmo adapted to this setup obviously doesn't take coins anymore, assuming it ever did.\r<br/> <br/>Besides, you left all your coins on the fridge, remember?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

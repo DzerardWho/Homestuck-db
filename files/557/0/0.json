@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 557,
+    "commands": [
+        {
+            "command": "Safe: Level up for slaying the imp. ",
+            "link": "/story/558"
+        }
+    ],
+    "media": [
+        {
+            "file": "00557.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The BATHTUB surges heroically and surpasses the rung: ARCHIMEDES' AQUACRADLE, proceeding directly to vaunted rung: TAFT-JAMMER. The tub makes off with a cool 490 BOONDOLLARS.\r<br/> <br/>The tub's BASIN CAPACITY remains unaffected.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

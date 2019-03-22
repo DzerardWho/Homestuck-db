@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 4958,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4959"
+        }
+    ],
+    "media": [
+        {
+            "file": "04955.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "04955retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You put the card in the widget and holy smokes! That thing was worth a fortune in all kinds of weird looking grist denominations. Seb springs into action and scoops it all up for you in a jiffy with his busy little legs.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

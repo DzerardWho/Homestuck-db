@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5296,
+    "commands": [
+        {
+            "command": "[A6I3] ==> ",
+            "link": "/story/5297"
+        }
+    ],
+    "media": [
+        {
+            "file": "05293.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">JOHN: what?</p>\n<p style=\"color: #4ac925\">JADE: under your hood...</p>\n<p style=\"color: #4ac925\">JADE: looks like a piece of paper stuck to your back?</p>\n<p style=\"color: #0715cd\">JOHN: huh?</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

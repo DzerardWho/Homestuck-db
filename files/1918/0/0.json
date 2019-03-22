@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1918,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1919"
+        }
+    ],
+    "media": [
+        {
+            "file": "01918.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">People would think reports of the man's death were greatly exaggerated.\r<br/> <br/>But they weren't.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

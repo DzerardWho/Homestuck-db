@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 995,
+    "commands": [
+        {
+            "command": "Jade: Realize you can fly! ",
+            "link": "/story/996"
+        }
+    ],
+    "media": [
+        {
+            "file": "00995_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00995_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You climb into bed and try to get comfortable. But some sort of invisible force is pressing down on you, a strange feeling of cold heavy metal.\r<br/> <br/>This happens every time you try to get into bed! No wonder you can never get any sleep.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 39,
+    "commands": [
+        {
+            "command": "John: Captchalogue Colonel's big book. ",
+            "link": "/story/40"
+        }
+    ],
+    "media": [
+        {
+            "file": "00039.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">EB: ok, i did it.</p>\n<p style=\"color: #e00707\">TG: hammerkind?</p>\n<p style=\"color: #0715cd\">EB: yeah.</p>\n<p style=\"color: #e00707\">TG: ok that will be the permanent allocation for your specibus</p>\n<p style=\"color: #e00707\">TG: i guess i should have mentioned that</p>\n<p style=\"color: #0715cd\">EB: uh...</p>\n<p style=\"color: #e00707\">TG: hope you like hammers dude!</p>\n<p style=\"color: #0715cd\">EB: yeah, that's fine i guess. i can't imagine it's going to be all that relevant.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

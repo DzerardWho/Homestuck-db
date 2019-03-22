@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2299,
+    "commands": [
+        {
+            "command": "Jack: Look at knife. ",
+            "link": "/story/2300"
+        }
+    ],
+    "media": [
+        {
+            "file": "02299.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He still won't shut up. He doesn't seem to care about the wound. He's just going on and on about the freakish color of his blood. He doesn't want you to look at it. Just look away, he says. \r<br/> <br/>You've got to admit. Now you're curious.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

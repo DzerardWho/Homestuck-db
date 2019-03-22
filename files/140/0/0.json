@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 140,
+    "commands": [
+        {
+            "command": "TT: Drop chest. ",
+            "link": "/story/141"
+        }
+    ],
+    "media": [
+        {
+            "file": "00140.swf",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": true,
+    "javascript": true,
+    "author": "THE HUSS",
+    "commited": true
+}

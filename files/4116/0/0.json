@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4116,
+    "commands": [
+        {
+            "command": "Examine room. ",
+            "link": "/story/4117"
+        }
+    ],
+    "media": [
+        {
+            "file": "04113.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You cannot enter her name!!! It was already engraved in her HONORARY PLACRONYM on her 13th birthday, which was about two and a half years ago, and has been sitting here neatly on the bookshelf ever since. Attempting to engrave it with another name after completing this sacred rite of passage is practically unheard of, and is a gesture nearly as offensive as it would be if you tried to name her something dumb like Barnstench Fartface. Luckily she is not the sort to hold a grudge, and she will let it slide this time. As long as you hurry up and get her big day started!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

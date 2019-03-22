@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 1198,
+    "commands": [
+        {
+            "command": "[I] DD: Wear backup hat. ",
+            "link": "/story/1199"
+        }
+    ],
+    "media": [
+        {
+            "file": "01198.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "01198retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You suddenly remember you are Diamonds Droog.\r<br/> <br/>Whoever took your hat is about to discover he's the unluckiest man on earth. He better hope you find him dead. What you're gonna do to him will be much less painful that way.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

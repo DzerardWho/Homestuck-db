@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5633,
+    "commands": [
+        {
+            "command": "CD: Do happy umbrella dance. ",
+            "link": "/story/5634"
+        }
+    ],
+    "media": [
+        {
+            "file": "05630.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">It appears to be some gentleman's plain and serviceable computing device. Along with a courteous you're welcome note. And...\r<br/> <br/>A ring?\r<br/> <br/>Who could have left you such nice presents?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

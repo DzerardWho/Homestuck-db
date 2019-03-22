@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 695,
+    "commands": [
+        {
+            "command": "WV: Use the chalk to draw some roads. ",
+            "link": "/story/696"
+        }
+    ],
+    "media": [
+        {
+            "file": "00695.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Democracy.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5412,
+    "commands": [
+        {
+            "command": "[A6I3] ==> ",
+            "link": "/story/5413"
+        }
+    ],
+    "media": [
+        {
+            "file": "05409.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #b536da\">ROSE: Can you kep a secret?</p>\n<p style=\"color: #008141\">KANAYA: Yes</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

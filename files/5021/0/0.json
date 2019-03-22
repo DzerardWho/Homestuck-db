@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5021,
+    "commands": [
+        {
+            "command": "Jake: Watch capsule bloom. ",
+            "link": "/story/5022"
+        }
+    ],
+    "media": [
+        {
+            "file": "05018.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Works like a charm, as expected.\r<br/> <br/>Whoops, there it goes, down the rabbit hole. You'll need to fish it out of there. Supposedly one of your grandma's thingamajigs inside the globe is pretty important? \r<br/> <br/>You'll go get it in a few minutes though. The capsule flower is about to bloom!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

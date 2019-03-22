@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 3608,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3609"
+        }
+    ],
+    "media": [
+        {
+            "file": "03605_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03605_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03605_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #000056\">AA: i believed the fragment was gibberish from a lunatic</p>\n<p style=\"color: #000056\">AA: after completing his rampage through our session</p>\n<p style=\"color: #000056\">AA: since it was not part of the scripted chronology i was oblivious until it was too late to stop it</p>\n<p style=\"color: #000056\">AA: not that it would matter if i did the timeline had already gone astray</p>\n<p style=\"color: #000056\">AA: i pieced together what had happened by sleuthing the various scenes</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1560,
+    "commands": [
+        {
+            "command": "Jade: Draw the punch designix. ",
+            "link": "/story/1561"
+        }
+    ],
+    "media": [
+        {
+            "file": "01560_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01560_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The ALCHEMITER is upgraded with a huge metal bust of this awesome bro.\r<br/> <br/>The device has been reduced to an utterly useless heap of shit.\r<br/> <br/>Time to yank out all the shunts and start over.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

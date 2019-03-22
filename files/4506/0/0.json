@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4506,
+    "commands": [
+        {
+            "command": "Roxy: Break some glass. ",
+            "link": "/story/4507"
+        }
+    ],
+    "media": [
+        {
+            "file": "04503_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04503_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Need to get this bullshit out of the way. You can't work like this with everything jammed down there in the corner. It's bad enough you're hammered.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

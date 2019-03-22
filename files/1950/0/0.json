@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1950,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1951"
+        }
+    ],
+    "media": [
+        {
+            "file": "01950_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01950_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The slayer is summoned. The collateral, presented.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

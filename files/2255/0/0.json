@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2255,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2256"
+        }
+    ],
+    "media": [
+        {
+            "file": "02255.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">What's this? It appears someone is contacting him. More bothersome uncertainty. How is it this youngster is able to relay an unsolicited message? He doesn't even have an account name.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

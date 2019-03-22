@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2252,
+    "commands": [
+        {
+            "command": "Be the white text guy. ",
+            "link": "/story/2253"
+        }
+    ],
+    "media": [
+        {
+            "file": "02252_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02252_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

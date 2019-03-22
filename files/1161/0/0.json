@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1161,
+    "commands": [
+        {
+            "command": "[I] SS: Open war chest. ",
+            "link": "/story/1162"
+        }
+    ],
+    "media": [
+        {
+            "file": "01161.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You would need a DECK OF CARDS to play that infernal game. \r<br/> <br/>Fortunately all you have is your WAR CHEST, which you deploy on the floor.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

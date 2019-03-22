@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 405,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/406"
+        }
+    ],
+    "media": [
+        {
+            "file": "00405_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00405_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">The amazing victory allows you to scale the first two ACHIEVEMENT RUNGS on your ECHELADDER. You are now a PLUCKY TOT, with a new feather in your cap to show for it.\r<br/> <br/>The ECHELADDER rewards your bold ascent with 125 BOONDOLLARS. You waste little time in storing them in your CERAMIC PORKHOLLOW.\r<br/> <br/>Additionally, climbing the rungs has boosted your GEL VISCOSITY and CACHE LIMIT.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

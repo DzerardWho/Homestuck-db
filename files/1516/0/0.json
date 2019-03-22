@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1516,
+    "commands": [
+        {
+            "command": "Dave: Insert card with the CD on the slot. ",
+            "link": "/story/1517"
+        }
+    ],
+    "media": [
+        {
+            "file": "01516.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Again, the name of the thing was right there in plain sight. \r<br/> <br/>You deploy the PUNCH CARD SHUNT for peanuts.\r<br/> <br/>Looks like a captchalogue card is supposed to fit in the slot.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

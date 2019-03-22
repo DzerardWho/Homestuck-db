@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2610,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2611"
+        }
+    ],
+    "media": [
+        {
+            "file": "02609.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #a10000\">CAA: banished fr0m the <img border=\"0\" src=\"/images/storyfiles/hs2/scraps/universeblue.gif\"/> we left behind</span></p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

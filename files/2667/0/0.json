@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2667,
+    "commands": [
+        {
+            "command": "John: Examine room. ",
+            "link": "/story/2668"
+        }
+    ],
+    "media": [
+        {
+            "file": "02666.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">That is IT. \r<br/> <br/><span style=\"font-style: italic\">EVERYBODY OUT.</span> <br/> <br/>You are <span style=\"font-style: italic\">DEAD SERIOUS.</span></p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

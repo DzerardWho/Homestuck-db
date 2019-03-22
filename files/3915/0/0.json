@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3915,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/3916"
+        }
+    ],
+    "media": [
+        {
+            "file": "03912.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">GT: holy shit, look at these glittering space riches!</p>\n<p style=\"color: #005682\">AG: Yeah. I was really into treasure hunting for a while.</p>\n<p style=\"color: #0715cd\">GT: What's with the broken eight balls?</p>\n<p style=\"color: #005682\">AG: Never mind those!</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2450,
+    "commands": [
+        {
+            "command": "Eridan: Open it. ",
+            "link": "/story/2451"
+        }
+    ],
+    "media": [
+        {
+            "file": "02449.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You pay a visit to what the common land dwellers refer to as a THERMAL HULL, instead of the more aristocratic and especially esoteric and alien sounding term, a REFRIGERATOR.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

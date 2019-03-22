@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 99,
+    "commands": [
+        {
+            "command": "John: Take envelope. ",
+            "link": "/story/100"
+        }
+    ],
+    "media": [
+        {
+            "file": "00099.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">This RED PACKAGE is addressed to you.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

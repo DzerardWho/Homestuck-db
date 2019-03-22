@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4624,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/4625"
+        }
+    ],
+    "media": [
+        {
+            "file": "04621.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Maybe he's in one of his arbitrarily helpful moods? \r<br/> <br/>What do you say there, friend? Little help?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

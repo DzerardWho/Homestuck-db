@@ -1,0 +1,28 @@
+{
+    "version": 0,
+    "page": 3231,
+    "commands": [
+        {
+            "command": "AH: Greet Ms. Paint. ",
+            "link": "/story/3232"
+        }
+    ],
+    "media": [
+        {
+            "file": "03228.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "03228_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">I retire to my heavily processed photograph of Andrew Carnegie's study, painstakingly retrieved from a google image search.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 4911,
+    "commands": [
+        {
+            "command": "Jack: Stop being that guy. ",
+            "link": "/story/4912"
+        }
+    ],
+    "media": [
+        {
+            "file": "04908_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "04908_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You attempt to be this guy down here but you can't be this guy down here because he's dead. \r<br/> <br/>But it does serve as a convenient cutaway for the vicious beating that is currently taking place in your cell. We don't need to be watching that kind of prison brutality. We take our sweet time looking at this dead body while terrible noises can be heard from your prison window.\r<br/> <br/>Ok that should be long enough. You can stop being this guy now.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1156,
+    "commands": [
+        {
+            "command": "[I] SS: Captchalogue carriage clock. ",
+            "link": "/story/1157"
+        }
+    ],
+    "media": [
+        {
+            "file": "01156.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Stupid gang and their lousy obsession with clocks. The sooner all these idiots stop being alive the better.\r<br/> <br/>You wonder where they are. It's awfully quiet in the mansion, sans all the dreadful ticking.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

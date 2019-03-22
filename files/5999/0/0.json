@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 5999,
+    "commands": [
+        {
+            "command": "[A6I5] ==> ",
+            "link": "/story/6000"
+        }
+    ],
+    "media": [
+        {
+            "file": "05996.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #005682\">ARANEA: Soon it would 8ecome a very massive solid sphere. It would 8egin to gener8 heat within due to rising density.</p>\n<p style=\"color: #005682\">ARANEA: The surface would 8egin to crack.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 742,
+    "commands": [
+        {
+            "command": "WV: Fiddle with the dials. ",
+            "link": "/story/743"
+        }
+    ],
+    "media": [
+        {
+            "file": "00742.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You push the button. All of the numbers change.\r<br/> <br/>Perhaps these are the coordinates for the location of the center of this facility, along with the local date and time? If this is the case, it would make a useful reference point for your current bearings.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

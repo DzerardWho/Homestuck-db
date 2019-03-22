@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2109,
+    "commands": [
+        {
+            "command": "Tavros: Horsaroni: Spawntech -> Slumberbuddies. ",
+            "link": "/story/2110"
+        }
+    ],
+    "media": [
+        {
+            "file": "02109.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">With a brooding whinny, Horsaroni shuffles his mighty hooves and makes short work of the fidusucker, boosting his vitals!\r<br/> <br/>Horsaroni is now primed and raring for battle. Look out Tinkerbull!!!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

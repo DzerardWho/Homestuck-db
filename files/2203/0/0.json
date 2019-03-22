@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2203,
+    "commands": [
+        {
+            "command": "Vriska: Endure meddling. ",
+            "link": "/story/2204"
+        }
+    ],
+    "media": [
+        {
+            "file": "02203_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02203_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">More hollow comebacks. As hollow and wishywashy as the inside of one of these dumb black globes. What use is all that attitude against a guy who's never wrong? It's so depressing, you can't even work up the energy to smash this stupid thing. \r<br/> <br/>Maybe you could stand to have some camaraderie wasted on you, even if it comes from a meddley meddler meddlefriend.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

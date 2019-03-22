@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1480,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1481"
+        }
+    ],
+    "media": [
+        {
+            "file": "01480.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He cannot give them to you. They are ILLEGAL CONTRABAND, and if you wish to petition for their release, you must consult with his superiors.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 205,
+    "commands": [
+        {
+            "command": "John: Take cruxite to totem lathe. ",
+            "link": "/story/206"
+        }
+    ],
+    "media": [
+        {
+            "file": "00205.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You slip the PRE-PUNCHED CARD into a slot on the TOTEM LATHE. Above, the TOOL ARM deploys a configuration of chisels.\r<br/> <br/>Now you just need something to lathe.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "page": 539,
+    "commands": [
+        {
+            "command": "Rose: Move punched cards to John's room. ",
+            "link": "/story/540"
+        }
+    ],
+    "media": [
+        {
+            "file": "00539_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "00539_2.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "00539_2_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #0715cd\">EB: so why didn't you just build a way up through that hole into my dad's room?</p>\n<p style=\"color: #b536da\">TT: Have you ever been in there?</p>\n<p style=\"color: #0715cd\">EB: no.</p>\n<p style=\"color: #b536da\">TT: Exactly.</p>\n<p style=\"color: #0715cd\">EB: huh?</p>\n<p style=\"color: #b536da\">TT: I'd rather not get sidetracked.</p>\n<p style=\"color: #b536da\">TT: I'm more interested in further exploring the mechanics of the game than watching you discover what sort outlandish harlequin decor your father keeps in his room.</p>\n<p style=\"color: #0715cd\">EB: oh come on. what's the big deal, i'll just climb up and go right through!</p>\n<p style=\"color: #b536da\">TT: Will you?</p>\n<p style=\"color: #0715cd\">EB: yeah, why not?</p>\n<p style=\"color: #b536da\">TT: Are you saying you've never wondered what's in there? Or why it's been kept a secret from you?</p>\n<p style=\"color: #0715cd\">EB: well, i mean yeah...</p>\n<p style=\"color: #b536da\">TT: Then trust me. You won't be going \"right on through.\"</p>\n<p style=\"color: #0715cd\">EB: wait, are you saying there's something, like...</p>\n<p style=\"color: #0715cd\">EB: troubling in there?</p>\n<p style=\"color: #b536da\">TT: I don't know.</p>\n<p style=\"color: #0715cd\">EB: what do you mean? what do you see in there?</p>\n<p style=\"color: #b536da\">TT: I can't see in there.</p>\n<p style=\"color: #0715cd\">EB: oh.</p>\n<p style=\"color: #b536da\">TT: But I don't have a very good feeling about it.</p>\n<p style=\"color: #0715cd\">EB: pfff...</p>\n<p style=\"color: #0715cd\">EB: whatever!</p>\n<p style=\"color: #0715cd\">EB: i think i can handle a few more stupid clown paintings.</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

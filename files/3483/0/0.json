@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3483,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3484"
+        }
+    ],
+    "media": [
+        {
+            "file": "03480.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #e00707\">TG: oh sup</p>\n<p style=\"color: #e00707\">TG: looks like youre a fairy</p>\n<p style=\"color: #a10000\">AA: yeah</p>\n<p style=\"color: #e00707\">TG: thats cool</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3015,
+    "commands": [
+        {
+            "command": "WQ: Approach queen. ",
+            "link": "/story/3016"
+        }
+    ],
+    "media": [
+        {
+            "file": "03014.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">THIS IS STUPID.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

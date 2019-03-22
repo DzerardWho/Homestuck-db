@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 2312,
+    "commands": [
+        {
+            "command": "======> ",
+            "link": "/story/2313"
+        }
+    ],
+    "media": [
+        {
+            "file": "02312_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "02312_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">But at the onset, you would know nothing of the queen's aversion to an amphibious likeness, or about her orbs twelvefold, or any such details. You were informed of her disadvantage, and would act accordingly. You and your red teammates would work to dethrone the queen in your session, while the blue team members would take on the entirely separate set of royal adversaries in their own session. This was to be a competition, after all.\r<br/> <br/>Or so you thought.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

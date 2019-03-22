@@ -1,0 +1,36 @@
+{
+    "version": 0,
+    "page": 1874,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1875"
+        }
+    ],
+    "media": [
+        {
+            "file": "01874_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01874_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01874_3.gif",
+            "folder": "0"
+        }
+    ],
+    "retconShit": [
+        {
+            "file": "01874_2_retcon.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">A renowned billionaire explorer approaches on his yacht. An old factory lost two days prior, but a new shipmate gained. Together they settle the island and plunder its secrets.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

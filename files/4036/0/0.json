@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4036,
+    "commands": [
+        {
+            "command": "[o] ==> ",
+            "link": "/story/4037"
+        }
+    ],
+    "media": [
+        {
+            "file": "04033.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Or will I have to suspend your furniture privileges again?</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "page": 1428,
+    "commands": [
+        {
+            "command": "A good place to keep lookout? ",
+            "link": "/story/1429"
+        }
+    ],
+    "media": [
+        {
+            "file": "01428_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01428_2.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01428_3.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">He has renamed himself <span style=\"text-decoration: underline\">Crumplehat</span>. He has dishonored his ancestors beyond comprehension with this frivolous accessory.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

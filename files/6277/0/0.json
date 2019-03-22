@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6277,
+    "commands": [
+        {
+            "command": "[S] ACT 6 ACT 6 INTERMISSION 1 ",
+            "link": "/story/6278"
+        }
+    ],
+    "media": [
+        {
+            "file": "06275.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">YES. PERFECT. \"THE SHOW MUST GO ON.\" SO AS TO QUOTE. ANOTHER FAMOUS CHERUB. THOUGH I'M NOT SURE WHICH ONE. PROBABLY A SPORTS LEGEND, I WOULD GUESS.\r<br/> <br/>WHILE I PAUSE TO GATHER MY THOUGHTS. FOR MY ACT 2 TIRADE. PLEASE ENJOY THIS INTERMISSION CARTRIDGE, OR WHATEVER IT IS. WITH ITS \"EXCITING NEW GAMEPLAY FEATURES\".\r<br/> <br/>I HOPE IT DOESN'T HAVE ANY PROBLEMS OR ANYTHING!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

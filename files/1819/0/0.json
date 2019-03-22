@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1819,
+    "commands": [
+        {
+            "command": "Dave: Wake up and jam. ",
+            "link": "/story/1820"
+        }
+    ],
+    "media": [
+        {
+            "file": "01819.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Speaking of naps, you have been asleep for some time yourself. You suppose you'd better wake up soon. \r<br/> <br/>But then, your neighbor in the other tower is supposed to be waking up soon too, and it sure would be a shame if you weren't around to greet him!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

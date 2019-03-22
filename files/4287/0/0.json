@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 4287,
+    "commands": [
+        {
+            "command": "So, uh... what about all those other kids? ",
+            "link": "/story/4288"
+        }
+    ],
+    "media": [
+        {
+            "file": "04284.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">I hope I don't run out of green curtain cloth. Shit is expensive.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 1385,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1386"
+        }
+    ],
+    "media": [
+        {
+            "file": "01385_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "01385_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">No, that's just a ghost image of an ordinary bass. That's not right.\r<br/> <br/>You try again, focusing on getting all the mechanical details just right.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

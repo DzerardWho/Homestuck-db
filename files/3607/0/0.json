@@ -1,0 +1,26 @@
+{
+    "version": 0,
+    "page": 3607,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/3608"
+        }
+    ],
+    "media": [
+        {
+            "file": "03604_1.gif",
+            "folder": "0"
+        },
+        {
+            "file": "03604_2.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": "<p style=\"color: #000056\">AA: it came from a timeline not meant to happen</p>\n<p style=\"color: #000056\">AA: the one i came from to ensure it wouldnt</p>\n<p style=\"color: #000056\">AA: thus sealing my fate</p>",
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

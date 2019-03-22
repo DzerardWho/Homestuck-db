@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 2524,
+    "commands": [
+        {
+            "command": "It is time. ",
+            "link": "/story/2525"
+        }
+    ],
+    "media": [
+        {
+            "file": "02523.gif",
+            "folder": "0"
+        }
+    ],
+    "text": null,
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

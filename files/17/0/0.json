@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 17,
+    "commands": [
+        {
+            "command": "John: Use hammer/nails on poster. ",
+            "link": "/story/18"
+        }
+    ],
+    "media": [
+        {
+            "file": "00017.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You MERGE the top two cards. \r<br/> <br/>The HAMMER and NAILS are now captchalogued on the same card and can be used together.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

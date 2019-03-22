@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1112,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1113"
+        }
+    ],
+    "media": [
+        {
+            "file": "01112.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You put John's present down in just the right spot, along with a letter you prepared a little while ago after a particularly interesting series of dreams.\r<br/> <br/>Should be any minute now...</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

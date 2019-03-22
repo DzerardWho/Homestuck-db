@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 1731,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/1732"
+        }
+    ],
+    "media": [
+        {
+            "file": "01731.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You settle in front of a man in sore need of a fresh hat. \r<br/> <br/>He gathers the clean hat, along with a shoe he found through similarly serendipitous means to replace one he lost.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

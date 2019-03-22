@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 244,
+    "commands": [
+        {
+            "command": "==> ",
+            "link": "/story/245"
+        }
+    ],
+    "media": [
+        {
+            "file": "00244.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You store the PERFECTLY GENERIC OBJECTS in your PHERNALIA REGISTRY, potentially to be deployed at a later time.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

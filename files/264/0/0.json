@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 264,
+    "commands": [
+        {
+            "command": "FINE. PROCEED AS YOUR LEVEL OF COMFORT DICTATES. ",
+            "link": "/story/265"
+        }
+    ],
+    "media": [
+        {
+            "file": "00264.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">John is very nervous about the idea, and the strident tone of your commands is starting to make him a little upset!</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}

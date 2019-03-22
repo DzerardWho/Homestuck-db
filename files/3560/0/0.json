@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 3560,
+    "commands": [
+        {
+            "command": "CD?: Listen to DD?. ",
+            "link": "/story/3561"
+        }
+    ],
+    "media": [
+        {
+            "file": "03557.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">You hit up the droll. The slayer was right, this guy is clearly incompetent. Still, the only real objective here is to get him to stop breathing down your neck with his awful dog breath.\r<br/> <br/>Looks like the droll's on the battlefield. He says he is still looking for the queen's ring. He says he made a new friend to help him with his search. But it is terribly breezy on this planet, and his new friend keeps blowing around making the search more difficult! He says thank goodness he is not wearing one of his finer hats. It would be just dreadful trying to keep it on his head in such weather!\r<br/> <br/>You say you don't care about any of that stuff, and tell him to shut up.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}
